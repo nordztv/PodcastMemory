@@ -1,6 +1,6 @@
 # Morning Briefing
 
-Scott's personal daily podcast. A scheduled Claude run builds a new episode every morning at 2:45am Sydney time and delivers it before 6am. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
+Scott's personal daily podcast. A scheduled Claude run builds a new episode every weekday morning (Monday to Friday) at 2:45am Sydney time and delivers it before 6am. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
 
 ## Where things live
 

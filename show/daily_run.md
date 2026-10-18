@@ -1,6 +1,6 @@
 # Daily run procedure
 
-Followed by the scheduled task every morning. The run starts about 2:45am Sydney time; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time with the current_time tool at the start and regularly.
+Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 2:45am Sydney time; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time with the current_time tool at the start and regularly.
 
 **Time budget (Sydney):** setup and memory read by about 3:05; research and script written and committed by about 4:10; audio rendering starts by 4:15 (about 40 minutes for 80 minutes of audio). If it's past 5:40 and rendering isn't finished, join whatever sections are done and deliver those.
 
@@ -23,11 +23,11 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 
 **Inbox:** read `memory/inbox.md`. For each entry under "New": apply it (asked: +10 to the topic, plus follow-ups if noted; liked or wants more: +15; not interested: -20; answer: treat like a sheet answer above; storyline: update `memory/storylines.md`; feedback: adapt today's episode and note it under "Morning Briefing itself" in storylines). Then move the processed entries under "Processed", prefixed with today's date. Use `python3 engine/topics.py signal "Topic" POINTS DATE` for points (bible section 9).
 
-**Chats:** use ToolSearch once to check for tools that read Scott's past Claude conversations (search "recent chats"). They are normally NOT available in scheduled runs; if they are, read his chats since the last episode (at most 3 days) and apply them the same way as inbox entries. If not, rely on the inbox and the answer sheets, and don't mention it in the delivery message.
+**Chats:** use ToolSearch once to check for tools that read Scott's past Claude conversations (search "recent chats"). They are normally NOT available in scheduled runs; if they are, read his chats since the last episode (at most 3 days; on Mondays, since Friday) and apply them the same way as inbox entries. If not, rely on the inbox and the answer sheets, and don't mention it in the delivery message.
 
 ## 4. Research
 
-Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
+On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up and weekend toddler-friendly Sydney activities (bible section 5, Friday). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
 
 ## 5. Write the script
 
