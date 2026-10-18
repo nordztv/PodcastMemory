@@ -8,7 +8,7 @@ Let `DATE` = today's Sydney date (YYYY-MM-DD), `REPO` = the clone of nordztv/pod
 
 ## 1. Set up (run setup in the background while reading)
 
-- `sh REPO/engine/setup.sh` (installs the voice engine; uses this repo's backup release first). Test with a one-line text file: `python3 REPO/engine/tts.py test.txt test.mp3`.
+- `sh REPO/engine/setup.sh` (installs the voice engine; falls back to this repo's voice_backup/ if the upstream links fail). Test with a one-line text file: `python3 REPO/engine/tts.py test.txt test.mp3`.
 - Git identity for commits: name "Claude", email noreply@anthropic.com.
 
 ## 2. Read the show and its memory
@@ -19,7 +19,7 @@ Read, in full: `show/bible.md` (the rules, follow them exactly), `memory/topics.
 
 ## 3. Scott's answers and recent chats
 
-**Answer sheets:** open the `workout.txt` files from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus one concrete suggestion for today's episode (bible section 6).
+**Answer sheets:** open the `workout.txt` files from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
 
 **Chats:**
 
@@ -47,7 +47,6 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 
 - SendUserFile (status "proactive", display "attach") with files [the MP3, `EP/workout.txt`], caption: episode length, the three best stories, today's workout focus.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
-- Back up the MP3: `gh release create ep-DATE -R nordztv/podcastmemory --title "Morning Briefing DATE" --notes-file EP/notes.md ~/podcast/out/Morning_Briefing_DATE.mp3`. If this fails, mention it but don't retry more than once.
 
 ## 8. Update memory (while the audio renders), then commit
 

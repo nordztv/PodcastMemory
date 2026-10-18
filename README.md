@@ -10,7 +10,7 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 | `engine/` | Voice engine setup, text-to-speech, episode builder, topic scoring tool | Claude |
 | `memory/` | What the show remembers: topic scores, storylines, questions, deep dives covered, recent episodes, monthly and yearly summaries | The daily run (Scott can edit anytime) |
 | `archive/` | Every episode's script, workout and notes, by date | The daily run |
-| Releases | `ep-YYYY-MM-DD`: each episode's MP3. `voice-engine-v1`: backup copy of the voice model files | The daily run |
+| `voice_backup/` | Backup copy of the voice model files (split into parts), used if the original download links ever disappear | Claude |
 
 ## How memory works over years
 
@@ -18,7 +18,7 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 - **Monthly:** on the first run of each month, last month is condensed into `memory/monthly/YYYY-MM.md`.
 - **Yearly:** on the first run of each year, last year becomes a three-page "story so far" in `memory/yearly/YYYY.md`.
 - **Always on:** `memory/storylines.md` (Scott's long-running arcs) and `memory/topics.md` (scored interests) carry across everything.
-- Full detail is never lost: every script stays in `archive/`.
+- Full detail is never lost: every script stays in `archive/`. MP3s aren't stored here (too big for a repository), but the voice is fixed, so any episode can be re-recorded identically from its script with `sh engine/build_episode.sh YYYY-MM-DD`.
 
 ## Changing the show
 
