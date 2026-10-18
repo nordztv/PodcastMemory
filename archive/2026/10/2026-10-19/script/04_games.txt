@@ -1,0 +1,33 @@
+Games now, and this one's big, at least for you. Final Fantasy Resonance arrives on Thursday on Switch two and Switch, and the first review is in. Famitsu in Japan has given it nine, nine, nine and nine, for a total of thirty six out of forty. That's a very healthy score from Famitsu. Reports out of Japan suggest the main story takes around twenty to thirty hours, and about seventy hours to see everything, though those numbers aren't confirmed by Square Enix yet. There's also a demo out now, and your save carries over to the full game. So you can start on the train this morning, Scott. I know, I know, you've already got opinions about this one. I expect a full report.
+
+Call of Duty Modern Warfare four launches on Friday on Xbox, PlayStation five, P C and, yes, Switch two. Campaign early access started on Friday for digital pre orders, and the reviews are good. I G N gave it eight out of ten, and GameSpot gave it seven and called it the best campaign since Modern Warfare in twenty nineteen. Nintendo Life says the Switch two version does its best and has two different upscaling options. And an Activision executive said Modern Warfare four and G T A six are the two biggest games of the year, no offence to Zelda. Bold words. Somewhere, a small boy in a green tunic is quietly sharpening his sword.
+
+Speaking of which, Zelda Ocarina of Time on Switch two arrives on the fifth of November, and the pre order bonuses are getting nostalgic. A retailer in France is offering a replica of the old European Nintendo sixty four box, and EB Games in Canada has an N sixty four style slipcover. The price is sixty nine ninety nine US dollars physical, fifty nine ninety nine digital. And a new ad gives us our first look at Dark Link. Remember him? The shadow version of you that copies every move you make, standing in a room full of water that isn't really there. That one gave a generation of kids a very specific kind of anxiety.
+
+Capcom. Monster Hunter Wilds is coming to Switch two, and a free prologue demo arrives today, with digital pre orders opening at the same time. The full game launches on the fourth of December. Dragon's Dogma two on Switch two is still waiting on an update, which Capcom says is in development. And Digital Foundry has published its technical review of Resident Evil four on Switch two, which is worth a look if you want to see how the console handles the R E engine.
+
+Over at CD Projekt Red, the team working on Cyberpunk two in Boston has grown from eight people to more than one hundred and eighty, led by Gabe Amatangelo, who worked on Phantom Liberty. Cyberpunk twenty seventy seven has now sold more than forty million copies. The studio's main focus is still The Witcher four, targeting twenty twenty eight, and The Witcher three got a patch on Xbox Series S to fix image clarity.
+
+World of Warcraft. Midnight's patch twelve point one point five is live, with a new single boss raid, The Unbinding of Kith'ix, which has a flexible fifteen to twenty five player Mythic mode. There's also the Labyrinth of Kindo'jan, a nine chamber, delve style challenge with a solo mode, the conclusion of the Quel'Thalas and Zul'Aman story, and outdoor Aqir invasion events. The Aqir, for the record, are giant insects that live underground and serve an old god. A whole civilisation of bugs, clicking in the dark, waiting for you to finish your Mythic plus run. Sleep well.
+
+Xbox. The R O G Xbox Ally X twenty handheld launched last week at one thousand two hundred and ninety nine US dollars with a bigger O L E D screen. It's got the same chip, memory and battery as the Ally X, which costs three hundred dollars less, and nearly every reviewer says the price is too high. Xbox's twenty fifth anniversary is coming up, and a Game Pass announcement is expected on Tuesday.
+
+And something for you specifically. GO-DOT four point eight beta one is out. Features are now frozen and final testing has begun, so a stable release shouldn't be too far away. If you're feeling brave, it's worth trying your project in the beta on a copy, never on the original. Back up first, Scott. A man with ninety six terabytes of storage has no excuse.
+
+A few quick ones. Zero Parades, the follow up to Disco Elysium, is confirmed for Switch two. Cult of the Lamb is getting a Switch two version with a free upgrade. Aspyr is remastering Shrek two, which is a sentence I didn't expect to say. And a Kingdom Hearts collection topped the charts in Japan.
+
+Okay. It's Monday, which means it's time for our very first Retro Game of the Week.
+
+This week, I want you to play The Legend of Zelda, A Link to the Past, on the Super Nintendo.
+
+Here's why I picked it. You're building a two D top down action R P G in GO-DOT, inspired by Secret of Mana, which came out just a year or so after this game. A Link to the Past is the blueprint for that whole style. The top down camera, the way the world is built from screens that flow into each other, the sword swing that feels just right, the dungeons that teach you a new item and then make you use it in clever ways. Almost every top down action game since has borrowed from it, including the ones that inspired you. So think of this as homework that happens to be fun.
+
+It came out in Japan in late nineteen ninety one. You explore Hyrule, then discover there's a second version of the world, the Dark World, where everything is twisted and strange. Going back and forth between the two to solve puzzles is the big idea, and it still feels clever today.
+
+As for how long it'll take, most people finish it in somewhere around fifteen to twenty hours, so it fits nicely into a week of evenings if you're keen.
+
+What to look out for, with your developer hat on. Watch how the game tells you where to go without a single tutorial screen. Notice how Link's sprite overlaps walls, pots and trees, and how layers are used so you can walk behind things. That's exactly what we're covering in the game tech deep dive later. And pay attention to how forgiving the hit boxes feel. That's game feel, and it's worth stealing.
+
+The easiest legal way to play it should be the Super Nintendo library on Nintendo Switch Online, though please check it's there in your region. It also came out on the Game Boy Advance, if you've got one lying around.
+
+And with Ocarina of Time coming back in a few weeks, it's a nice way to warm up for Hyrule. On Wednesday I'll tell you how it was made and the tricks behind it, and I'll want to know what you think.

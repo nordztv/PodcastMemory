@@ -1,0 +1,17 @@
+Okay, let's wander a bit before I let you go.
+
+I've been thinking about the top down view this morning, because it's been running through the whole show. A Link to the Past, Secret of Mana, your own game, Y sorting. And the funny thing about the top down view is that it's a lie. A lovely, useful lie. Look closely at almost any of those games and you'll see the front of every building and the top of its roof at the same time, which no real camera could ever do. Artists call it a three quarter view. It's a cheat, and it works because your brain is happy to go along with it.
+
+But think about it from the villagers' point of view. They've only ever been seen from above, at an angle. They've never had a proper close up. They spend their whole lives standing next to the same well, saying the same line, looking up into a sky that, from their side, is just a giant hand holding a controller. And every evening when the console switches off, the screen goes dark, and the villagers stay right where they are, still smiling, in the black, waiting for morning. Their smiles never, ever move.
+
+Sorry. It's Monday. That's how I cope.
+
+And here's one last question for you. You've already built a working music video channel on the Pi, with idents, a now playing bar and a clock. But every real channel needs a name and a station ident. So, if your Pi channel had a proper station name, what would it be, and what happens in the ident?
+
+My answer: Channel Pi, with a little animated slice of pie spinning on the screen. And at the end of the ident, a fork comes down from the top of the frame. Nobody knows who's holding the fork. Nobody asks. Your answer space is on the workout sheet, or tell me in a chat sometime.
+
+Now, your workout. Yesterday was upper body, so today is a full body session, about twenty five minutes with your seven and a half kilo dumbbells. A short warm up, then three rounds of goblet squats, dumbbell rows, reverse lunges, floor press, Romanian deadlifts and a plank, with a gentle optional finisher. Everything's apartment friendly, no jumping. The full routine is saved as a text file with today's episode, so you can follow along on your phone. You've got this, Scott. Every session counts, and starting the week strong feels good.
+
+The week ahead. Tuesday, the women's T twenty against New Zealand at North Sydney Oval, Netflix earnings, and a Game Pass announcement. Wednesday in the US, so Thursday morning for us, it's Tesla, Meta and Lam Research with their results. Thursday is the big one for you: Final Fantasy Resonance launches. Friday brings Call of Duty Modern Warfare four, the iPhone Duo, and Clayface in cinemas. And the week after, Israel's election on the twenty seventh, Intel's results on the twenty ninth, and possibly new Macs. And don't forget, you've got A Link to the Past to play this week. I'll be asking.
+
+That's it from me. Have a lovely walk in, enjoy the gardens, maybe grab that perfectly symmetrical shot in Hyde Park, and keep half an eye on the sky this afternoon. I'll be back tomorrow morning with more. Have a great day at work, Scott.

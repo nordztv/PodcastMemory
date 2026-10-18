@@ -2,7 +2,7 @@
 
 The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
-Last daily update: never
+Last daily update: 2026-10-19
 
 ## Main topics (top 25)
 

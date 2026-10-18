@@ -1,0 +1,17 @@
+Workshop time. One practical tip for the week, and today it's for Final Cut Pro and colour grading, because you said you want to really understand colour, not just push sliders until it looks nice.
+
+So here's the tip: stop trusting your eyes, and start trusting your scopes.
+
+Your eyes are wonderful, but they adapt. Look at a slightly blue image for a minute and your brain quietly corrects it, so it stops looking blue. Your screen brightness changes how dark things look. So colourists use scopes, which are graphs that show you exactly what's in the image.
+
+In Final Cut Pro, go to the View menu in the viewer and choose Video Scopes, or press Command and seven. You'll get the waveform by default. Here's how to read it. Left to right, it matches your image, left to right. Up and down is brightness. Zero at the bottom is pure black, one hundred at the top is pure white. So if a big chunk of the graph is squashed flat against the top, that part of your picture is blown out, and there's no detail there to save. If it's crushed against the bottom, your shadows are just black.
+
+Start every grade with exposure. Get the brightest parts sitting just under one hundred, and the darkest parts just above zero, unless you want a moody look on purpose. Then you can play.
+
+Next, the vectorscope, which you can switch to in the same scopes panel. It's a circle, and it shows colour. The further the dots go from the middle, the more saturated the colour. The direction tells you which colour it is. Here's the magic trick. There's a line on the vectorscope called the skin tone line. Human skin, whatever its colour, tends to fall along that line. So if you've filmed a person, and their face is drifting off towards green or magenta, you'll see it on the scope before your eye notices it. Nudge it back towards the line and they'll look natural.
+
+A good little exercise. Take a clip you shot, maybe on the D J I Pocket, and grade it with the scopes on and your eyes half closed. Get exposure right on the waveform, then check any faces on the vectorscope. Then open your eyes and see if you like it. You'll be surprised how often the scopes were right.
+
+And here's a question for you, while we're on colour. If you could steal the colour grade from any film, to use on your travel videos with the X M five, which film would you steal it from, and why?
+
+My answer: The Matrix. Everything green. Your holiday footage, but every beach and every café looks like a computer simulation that is slightly unwell. Your answer space is on the workout sheet.
