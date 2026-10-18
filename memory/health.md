@@ -1,0 +1,6 @@
+Scheduled run access test: passed (2026-10-18T12:21:48Z UTC)
+add_repo tool: no (ToolSearch "add repo" / "+add_repo" found no add_repo tool; repo nordztv/podcastmemory was already in session scope, so clone and push proceeded without it)
+Chat-history tools: no (searches "recent chats" and "conversation search" returned only WebSearch and GitHub search tools)
+Claude Docs tools: yes (mcp__Claude_Docs__read, create, delete, export, query, batch, update, guide)
+SendUserFile: yes (SendUserFile)
+SendUserMessage: yes (SendUserMessage)
