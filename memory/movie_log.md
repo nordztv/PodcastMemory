@@ -6,8 +6,6 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
-| James Cameron | Terminator 2: Judgment Day (1991) | Linda Hamilton (on the Actress of the Month shortlist) | 2026-10-19 |
 | 2026-10-19 | The Shining (1980) | Stanley Kubrick | Shelley Duvall, Jack Nicholson | Horror, UK/USA | Director deep dive (Steadicam) | | | |
 | 2026-10-19 | Terminator 2: Judgment Day (1991) | James Cameron | Linda Hamilton, Robert Patrick, Arnold Schwarzenegger | Sci-fi action, USA | Effects deep dive (T-1000) | | | |
 | 2026-10-18 | Halloween (1978) | John Carpenter | Jamie Lee Curtis, Donald Pleasence | Horror, USA | Director deep dive | | | |
@@ -18,6 +16,8 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
+| James Cameron | Terminator 2: Judgment Day (1991) | Linda Hamilton (on the Actress of the Month shortlist) | 2026-10-19 |
 | John Carpenter | Halloween (1978) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured) | 2026-10-18 |
 | Christopher Nolan | Inception (2010) | | 2026-10-18 |
 | Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |
