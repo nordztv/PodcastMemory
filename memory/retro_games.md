@@ -4,6 +4,7 @@ Super Nintendo and Mega Drive picks. Monday: the recommendation. Tuesday: a remi
 
 | Week of | Game | Console | Why it was picked | Played? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-19 | The Legend of Zelda: A Link to the Past | SNES | Blueprint for top-down action RPGs like Secret of Mana and his Godot game; warm-up for the Ocarina remake | | | |
 
 ## Already known
 

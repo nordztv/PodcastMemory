@@ -2,6 +2,19 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-19 (Monday)
+
+- **Length:** 70 min (run started late, about 6:26am; delivered after 6am).
+- **World:** France cost-of-living riots, 1,800 arrests; Russian strikes on 15+ Ukrainian energy sites and Starlink row; Trump pauses Russia sanctions, diesel deal; Israel election 27 Oct (Trump endorses Netanyahu); Brent ~US$105 (Fri); CFB Wainwright fire.
+- **Australia and NSW:** ATO credit card ban backdown (Mulino concedes July knowledge); Labor mid-term blues; private health rebate bill reintroduced; trusts tax fix bill; Coalition split on EU deal (decision now next year); Steele-John allegations; Canterbury Hospital unread referrals; Wentworth Park parkland; new rail timetable 15 Nov; women's T20 win v NZ; 2nd Test v SA.
+- **Tech:** Asus Arc Pro B70 32GB; RTX 5090 shortage; Samsung using TSMC 3nm for Nvidia custom HBM base die; Taiwan AI export controls; earnings week; iPhone Duo; Pi 4 price rise.
+- **Games:** FF Resonance Famitsu 36/40; CoD MW4 reviews; Ocarina pre-order bonuses, Dark Link; MH Wilds Switch 2 demo; Cyberpunk 2 team 180+; WoW 12.1.5; ROG Xbox Ally X20; Godot 4.8 beta 1. Retro pick: A Link to the Past.
+- **Movies:** Street Fighter wins US weekend ($31M); You Can See Everything $15M; Whalefall soft; Clayface reactions; Exorcist Martyrs trailer; Godzilla Minus Zero 6 Nov; Criterion January; Eureka Martyrs 4K and Ghouls Gone Wild.
+- **Deep dives:** FF7 and Midgar; Y-sorting in Godot 4; T2's T-1000; Kubrick's The Shining Steadicam. Workshop: FCP scopes.
+- **Workout:** full body.
+- **Questions:** signature item in his game; film colour grade to steal; Pi channel name and ident.
+- **Follow up:** Canterbury Hospital review; ATO cards; Tesla/Meta/Lam results (Thu AEDT); FF Resonance launch 22 Oct; MW4 and iPhone Duo 23 Oct; Clayface 23 Oct; Israel election 27 Oct; Intel 29 Oct; US midterms 3 Nov; Ocarina 5 Nov; new rail timetable 15 Nov; GTA VI 19 Nov.
+
 ## 2026-10-18 (Sunday, sample episode)
 
 - **Length:** 85 min (made in the afternoon as a sample, not at 6am).
