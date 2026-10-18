@@ -123,7 +123,11 @@ One 20 to 30 minute apartment workout per day using a pair of fixed 7.5 kg dumbb
 
 Saved as plain text (no markdown, no emojis), easy to follow on a phone: title with date and focus, equipment, total time, WARM-UP, MAIN WORKOUT (numbered), FINISHER (optional), COOL-DOWN, one encouraging closing line.
 
-Then, after a line of dashes, a section headed TODAY'S QUESTIONS FROM THE SHOW: each of the day's open questions numbered, followed on the next line by "Your answer:" with nothing after it, and a blank line. End with one line: "Fill these in on GitHub (archive/YYYY/MM/DATE/workout.txt) or tell me in a chat, and I'll have a suggestion for you tomorrow."
+Then, after a line of dashes, a section headed RATE TODAY'S EPISODE with three lines, each followed by nothing: "Score (1 to 5):", "Best segment:", "Worst segment:", and a blank line.
+
+Then, after another line of dashes, a section headed TODAY'S QUESTIONS FROM THE SHOW: each of the day's open questions numbered, followed on the next line by "Your answer:" with nothing after it, and a blank line. End with one line: "Fill these in on GitHub (archive/YYYY/MM/DATE/workout.txt) or tell me in a chat, and I'll have a suggestion for you tomorrow."
+
+**Episode ratings:** when Scott fills in a rating, record it in `memory/ratings.md`. A best segment: +5 to that segment's main topic and a little more airtime there for a while; a worst segment: trim it slightly and try a different angle. A score of 1 or 2: look at what was different that day and avoid it; a 5: note what worked. Low scores never change the hard rules (sources, tone limits). The host doesn't mention ratings on air, except a brief, cheeky thank-you for a 5 (in the closing moment, before the goodbye) or a light "noted, I'll do better" for a low score.
 
 ## 9. Topic scoring rules
 

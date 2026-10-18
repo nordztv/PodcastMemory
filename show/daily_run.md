@@ -13,13 +13,15 @@ Let `DATE` = today's Sydney date (YYYY-MM-DD), `REPO` = the clone of nordztv/pod
 
 ## 2. Read the show and its memory
 
-Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
+Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md`, `memory/ratings.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
 
 **Rollover:** if `recent_episodes.md` has no entry from the current month yet and this is a new month, do the monthly rollover from bible section 10 now (and the yearly one if it's a new year). Then run `python3 engine/topics.py daily DATE`.
 
 ## 3. Scott's answers and recent chats
 
 **Answer sheets:** open the `workout.txt` files from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
+
+**Ratings:** in the same sheets, check RATE TODAY'S EPISODE. For each newly filled rating not yet in `memory/ratings.md`, add it there and apply it (bible section 8, Episode ratings).
 
 **Inbox:** read `memory/inbox.md`. For each entry under "New": apply it (asked: +10 to the topic, plus follow-ups if noted; liked or wants more: +15; not interested: -20; answer: treat like a sheet answer above; storyline: update `memory/storylines.md`; feedback: adapt today's episode and note it under "Morning Briefing itself" in storylines). Then move the processed entries under "Processed", prefixed with today's date. Use `python3 engine/topics.py signal "Topic" POINTS DATE` for points (bible section 9).
 
@@ -44,6 +46,8 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3`.
 
 ## 7. Deliver
+
+- **Reminder due 2026-11-18:** on the first episode on or after 2026-11-18, add one line to the delivery message asking whether Scott would now like episodes in a podcast app such as Pocket Casts or Overcast (a private feed), instead of as files in the Claude app. Then delete this reminder line from this file in the memory commit.
 
 - SendUserFile (status "proactive", display "attach") with files [the MP3, `EP/workout.txt`], caption: episode length, the three best stories, today's workout focus.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
