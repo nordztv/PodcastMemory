@@ -13,7 +13,7 @@ Let `DATE` = today's Sydney date (YYYY-MM-DD), `REPO` = the clone of nordztv/pod
 
 ## 2. Read the show and its memory
 
-Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/retro_games.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
+Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
 
 **Rollover:** if `recent_episodes.md` has no entry from the current month yet and this is a new month, do the monthly rollover from bible section 10 now (and the yearly one if it's a new year). Then run `python3 engine/topics.py daily DATE`.
 
@@ -54,7 +54,8 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 - `memory/deep_dives_covered.md`: add today's lore, game tech, effects and director topics, plus workshop and chat topics, at the top of the table.
 - `memory/questions.md`: add today's questions (Answer: Not yet, Handled: no); for older ones Scott answered, fill in his answer ("DATE: a few words") and set Handled to the date the episode responded.
 - `memory/retro_games.md`: on Mondays add the new pick (status Recommended); on Wednesdays mark the retrospective done. When Scott says (sheet, inbox or chat) whether he played and enjoyed a game, fill in Played, Verdict (Liked, Disliked or Mixed) and a short comment in his words, then pick the next Monday's game with that in mind.
-- `memory/actress_of_the_month.md`: on Tuesdays and Thursdays, record the film covered (Tuesday recommendation or Thursday retrospective); on a new month, add the new actress at the top.
+- `memory/actress_of_the_month.md`: on a new month, add the new actress at the top.
+- `memory/movie_log.md`: add a row for every film featured or recommended today (Actress of the Month, effects or director deep dive, any specific recommendation), with director, cast, genre and country, and where it was featured. Update the Directors table (new director, or add the film and linked actresses to an existing one). When Scott says (sheet, inbox or chat) he watched a film, fill in Watched, Verdict (Liked, Disliked or Mixed) and his comment.
 - `memory/storylines.md`: update any storyline with new developments from Scott's chats (status and last update date); add a new storyline when one of his projects or plans clearly becomes a long-running arc.
 - Never log personal or sensitive matters. Respect anything Scott edited by hand.
 - Commit and push ("Episode DATE: memory"). If a push is rejected because the remote changed (Scott edited on GitHub), `git pull --rebase` and push again; keep his changes.

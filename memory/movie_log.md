@@ -1,0 +1,19 @@
+# Movie log
+
+Every film the show has recommended or featured (Actress of the Month, effects and director deep dives, and any film the host specifically recommends), plus the directors behind them. Used to pick future actresses, directors and films with real connections, and to make sure no film is covered twice. Newest first. Scott can fill in Watched, Verdict and comments anytime (or tell any Claude chat).
+
+## Films
+
+| Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-18 | Halloween (1978) | John Carpenter | Jamie Lee Curtis, Donald Pleasence | Horror, USA | Director deep dive | | | |
+| 2026-10-18 | Inception (2010) | Christopher Nolan | Joseph Gordon-Levitt, Leonardo DiCaprio | Sci-fi, USA/UK | Effects deep dive (rotating hallway) | | | |
+| 2026-10-18 | Jurassic Park (1993) | Steven Spielberg | Laura Dern, Sam Neill | Sci-fi adventure, USA | Effects deep dive (T. rex) | | | |
+
+## Directors
+
+| Director | Films featured | Actresses or actors linked | Last featured |
+| --- | --- | --- | --- |
+| John Carpenter | Halloween (1978) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured) | 2026-10-18 |
+| Christopher Nolan | Inception (2010) | | 2026-10-18 |
+| Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |

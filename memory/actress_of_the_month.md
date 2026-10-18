@@ -11,5 +11,4 @@ Tuesdays: a film of hers to watch. Thursdays: how that film was made, or a retro
 
 ## Films covered
 
-| Date | Day | Actress | Film | Segment |
-| --- | --- | --- | --- | --- |
+Recorded in `memory/movie_log.md` (Featured in: "Actress of the Month, Tuesday" or "Thursday").
