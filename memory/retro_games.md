@@ -7,4 +7,4 @@ Super Nintendo and Mega Drive picks. Monday: the recommendation. Tuesday: a remi
 
 ## Already known
 
-Games Scott has mentioned loving before the show started (don't recommend these; use them as taste signals): Secret of Mana (SNES), Final Fantasy VI (SNES, covered in the 18 Oct deep dive).
+Taste signals from before the show started (don't recommend these): Secret of Mana (SNES), the inspiration for his own Godot game; Final Fantasy VI (SNES), covered in the 18 Oct deep dive. Scott can confirm or correct these.
