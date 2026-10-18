@@ -21,9 +21,9 @@ Read, in full: `show/bible.md` (the rules, follow them exactly), `memory/topics.
 
 **Answer sheets:** open the `workout.txt` files from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
 
-**Chats:**
+**Inbox:** read `memory/inbox.md`. For each entry under "New": apply it (asked: +10 to the topic, plus follow-ups if noted; liked or wants more: +15; not interested: -20; answer: treat like a sheet answer above; storyline: update `memory/storylines.md`; feedback: adapt today's episode and note it under "Morning Briefing itself" in storylines). Then move the processed entries under "Processed", prefixed with today's date. Use `python3 engine/topics.py signal "Topic" POINTS DATE` for points (bible section 9).
 
-Use ToolSearch to check for tools that read Scott's past Claude conversations (search "recent chats" and "conversation search"). If available, read his chats since the last episode (at most 3 days) and note: topics asked about and follow-up counts; anything he likes, wants more of, or isn't interested in; answers to open questions in `memory/questions.md`; progress on storylines. Apply points with `python3 engine/topics.py signal "Topic" POINTS DATE` (bible section 9). If chat history isn't available, say so in the delivery message and carry on.
+**Chats:** use ToolSearch once to check for tools that read Scott's past Claude conversations (search "recent chats"). They are normally NOT available in scheduled runs; if they are, read his chats since the last episode (at most 3 days) and apply them the same way as inbox entries. If not, rely on the inbox and the answer sheets, and don't mention it in the delivery message.
 
 ## 4. Research
 
