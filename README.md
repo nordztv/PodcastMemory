@@ -16,10 +16,14 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 
 - **Recent:** `memory/recent_episodes.md` keeps the last 30 days in detail.
 - **Monthly:** on the first run of each month, last month is condensed into `memory/monthly/YYYY-MM.md`.
-- **Yearly:** on the first run of each year, last year is condensed into `memory/yearly/YYYY.md`.
+- **Yearly:** on the first run of each year, last year becomes a three-page "story so far" in `memory/yearly/YYYY.md`.
 - **Always on:** `memory/storylines.md` (Scott's long-running arcs) and `memory/topics.md` (scored interests) carry across everything.
 - Full detail is never lost: every script stays in `archive/`.
 
 ## Changing the show
 
 Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled task only says "read the bible and follow it", so changes take effect the next morning.
+
+## Answering the host's questions
+
+Each day's `archive/YYYY/MM/DATE/workout.txt` ends with the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.

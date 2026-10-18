@@ -1,0 +1,35 @@
+Our first deep dive. Final Fantasy Six.
+
+Close your eyes for a second, if you're not driving, and picture the opening. Snow falling in the dark. Three soldiers in clunky steam powered walking machines, Magitek armour, marching across a frozen plain toward the mining town of Narshe. The music is slow and heavy, and the credits roll over the scene like a film. One of those three soldiers is a young woman with green hair and a crown on her head that is controlling her mind. Her name is Terra.
+
+Final Fantasy Six came out in Japan on the second of April, nineteen ninety four, on the Super Famicom. In North America, it came out that October, but it was called Final Fantasy Three, because America had missed two of the earlier games. So for a whole generation of Western players, Final Fantasy Three meant this game. That confusion lasted for years.
+
+Let's talk about how it was made, because this game sits at a turning point for Square.
+
+Hironobu Sakaguchi, the creator of the series, had directed the earlier games. For Six, he stepped back into the producer role. Direction was split between two people. Yoshinori Kitase, who handled the story and the event scenes, and Hiroyuki Ito, who handled the battle system. Kitase would later direct Final Fantasy Seven, and you can see the line from one to the other very clearly. The cinematic scenes, the sense of a world run by a cold industrial power, and the idea that a game could make you feel something the way a film does.
+
+One of the most interesting decisions was how the characters were created. Rather than one writer building every hero, the team asked staff to contribute characters and their stories. Different people pitched different heroes. A young graphic designer on the team, a guy named Tetsuya Nomura, is credited with contributing Shadow, the mysterious ninja, and Setzer, the gambler with the airship. Yes, that Nomura, who would go on to design Cloud and create Kingdom Hearts. This is a big part of why Final Fantasy Six has no single main character. There are fourteen playable characters, and almost every one of them gets their own story arc. Terra is the centre of the first half. Celes, arguably, of the second.
+
+The look of the game came from two directions. The beautiful, dreamy concept art was by Yoshitaka Amano, all flowing lines and watercolour. But Amano's art doesn't translate directly into tiny sprites. That job fell to the pixel artists, especially Kazuko Shibuya, who had drawn the characters on Square's games since the very first Final Fantasy. The sprites in Six are a little bigger and more expressive than in earlier games. Characters nod, laugh, collapse, throw their arms up. It was storytelling through pixels, and it's a direct ancestor of the HD two D style we talked about earlier.
+
+Then there's the music, and this is where Final Fantasy Six becomes legend. Nobuo Uematsu gave almost every character a theme of their own. Terra's theme is also the world map theme for the first half, so it becomes the sound of the whole adventure. Then there's the opera.
+
+Midway through the game, Celes has to stand in for an opera singer named Maria, to lure a gambler and his airship. What follows is a full opera scene. Maria and Draco. Text appears on screen as lyrics, and you have to remember the right words. But the Super Nintendo's sound chip couldn't play back real singing. It had tiny amounts of memory for sound samples. So Uematsu and the sound team used synthesised sounds shaped to imitate a voice, an "ahh" that rises and falls with the melody. In nineteen ninety four, sitting in front of a television, it felt like the game was singing to you. That piece is called Aria di Mezzo Carattere, and decades later it's been performed by real orchestras and real opera singers all over the world.
+
+Now, the story and the lore. The world of Final Fantasy Six once had magic. A thousand years earlier, there was a terrible conflict called the War of the Magi, fought over three godlike statues called the Warring Triad. Humans were turned into weapons with magic drawn from creatures called Espers. After that war, the Espers sealed themselves away, and magic vanished from the human world.
+
+When the game begins, the Gestahlian Empire has rediscovered how to drain power from Espers and put it into machines and people. That's what Magitek is. Terra is special because she was born with magic. She's half human, half Esper. Her father was an Esper named Maduin, and her mother was a human woman named Madeline, who wandered into the Esper world. Their story is one of the saddest flashbacks in the game.
+
+And then there's Kefka.
+
+Kefka Palazzo was the Empire's court mage, the first test subject for the process of infusing a human with Esper magic. The process was incomplete, and it broke his mind. He's a clown. He has a high, cackling laugh that fans can still hear in their heads thirty years later. And for the first part of the game, he seems like a nasty, petty villain. Then comes the castle of Doma. Kefka poisons the river that feeds the castle, killing almost everyone inside, including the wife and son of the knight Cyan. That's the moment you realise this clown is something much darker.
+
+And then he does something villains almost never do. He wins.
+
+Halfway through the game, on the floating continent where the Warring Triad statues rest, Kefka moves the statues out of balance. The world is torn apart. The game cuts forward a year, and you wake up as Celes on a small island, in what's called the World of Ruin. The sky is a sickly colour. The towns are broken. Your friends are scattered and you have no idea if they're alive. Kefka has made himself a god, and he sits on top of a tower made of debris, striking down anyone who defies him with a beam of light.
+
+The second half of the game is quietly radical. You can go straight to Kefka with only a few characters. Or you can search the world and find your friends, one by one, each with their own reason to keep going. It's less a quest to save the world than a quest to find out if anything is still worth saving. And that's the real theme of Final Fantasy Six. In a world where hope has been destroyed, what makes people keep living? Love, family, friendship, children, a simple purpose. When you finally face Kefka, he asks why people bother to live when everything ends anyway, and each character answers in their own way.
+
+The ending runs over twenty minutes, with music that weaves together almost every character theme in the game, and each character gets their moment. It's one of the great endings in games.
+
+So, if you play Final Fantasy Resonance this week and Terra appears, you'll know who she is. The girl in the snow, in a mind control crown, who turned out to be the bridge between two worlds.

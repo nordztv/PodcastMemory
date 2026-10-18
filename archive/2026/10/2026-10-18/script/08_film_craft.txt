@@ -1,0 +1,27 @@
+Deep dive number three. The movies. Two famous scenes today. One that everybody assumes is computer generated, but isn't. And one that changed computer effects forever, but used far less of it than you'd think.
+
+First, the hallway fight in Inception, from twenty ten.
+
+You know the scene. Joseph Gordon-Levitt, as Arthur, fighting a security guard in a hotel corridor while the dream world around him tilts. The two men run up the walls, tumble across the ceiling, and keep fighting as the whole corridor rolls around them like the inside of a washing machine. Most people assume the corridor is digital, or that they're hanging on wires in front of a green screen.
+
+It's real. Christopher Nolan's special effects supervisor, Chris Corbould, and his team built the corridor as a giant physical set, around a hundred feet long, inside a huge old airship hangar at Cardington, in England. The whole corridor sat inside a set of enormous rings, like a hamster wheel, and powerful motors could rotate it a full three hundred and sixty degrees. When the set turned, the actors really did fall from the floor onto the wall, then onto the ceiling.
+
+Here's the clever part. The camera was mounted to the set itself, so it rotated with the corridor. From the camera's point of view, the hallway never moves. The floor stays at the bottom of the frame. What you see instead is gravity changing direction. The actors fall sideways, and the scene feels like a dream breaking the laws of physics, because the camera is locked to the room, not to the Earth.
+
+Joseph Gordon-Levitt trained for weeks to do most of the fight himself, with stunt coordinators planning every move around the rotation speed. If the timing was off, you'd fall the wrong way. Later in the film, when the dream has no gravity at all and Arthur floats bodies down the corridor, the team stood a section of the set up on its end, like a vertical tunnel, and filmed looking up, with performers on wires above. Hidden wires, real bodies, real light. The digital work in those scenes is mostly about painting out the rigs.
+
+There's a lesson in that for any filmmaker, including you with a camera in your hand. If your camera is fixed to the subject, the world moves. If your camera is fixed to the world, the subject moves. Simply choosing what the camera is attached to changes how a moment feels.
+
+Now, the opposite. Jurassic Park, nineteen ninety three.
+
+When Steven Spielberg started the film, the plan was not computer graphics. The plan was the best of the old craft. The great stop motion animator Phil Tippett was going to bring the dinosaurs to life using a technique called go motion, an advanced form of stop motion where the puppet moves slightly while each frame is shot, to create a little natural motion blur. And for close ups, Stan Winston's studio would build full size animatronic dinosaurs.
+
+But at Industrial Light and Magic, a couple of young animators, Steve Williams and Mark Dippé, had been experimenting. They built a computer animated Tyrannosaurus skeleton walking, then a fully skinned version, mostly on their own initiative. When Spielberg and the effects supervisor Dennis Muren saw it, the decision was made. The wide shots of dinosaurs running and moving would be digital.
+
+Here's what people forget. Tippett's team didn't disappear. They became the dinosaur supervisors. They built a device that looked like a stop motion puppet armature, but with sensors in every joint, so the animators could pose a physical model and the computer dinosaur would follow. The animation of those digital dinosaurs was guided by people who'd spent their lives making puppets breathe.
+
+And the T rex you remember from the night attack in the rain? Mostly real. Stan Winston's team built a full sized animatronic T rex, weighing several tonnes, on a hydraulic platform. One problem they hadn't expected. Its foam latex skin soaked up the rain like a sponge, became heavy, and started to make the creature shudder and wobble. Between takes, the crew had to dry it out with heaters.
+
+There's actually only a few minutes of digital dinosaurs in the whole film. The reason Jurassic Park still holds up better than many films made twenty years later is that mix. Real creatures you could light and touch, digital ones only where nothing else could work, and both lit and framed as if they were real animals being filmed by a nature documentary crew.
+
+And my favourite little detail. The famous shot of the water rippling in the cup on the dashboard, as the T rex approaches. It's not a digital effect. The effects team got it by plucking a guitar string fixed underneath the dashboard, right below the cup. The simplest possible solution, and one of the most iconic images in film.
