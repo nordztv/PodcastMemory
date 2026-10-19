@@ -12,8 +12,11 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 HOME = os.path.expanduser("~")
 GEN = f"{HOME}/MorningBriefing/mlx/bin/mlx_audio.tts.generate"
 MODEL = os.environ.get("VOX_MODEL", "mlx-community/VoxCPM2-8bit")
-REF = f"{REPO}/engine/mac/heart_reference.wav"
-REF_TEXT = open(f"{REPO}/engine/mac/heart_reference.txt").read().strip()
+# The voice is set by engine/mac/voice.json: which reference clip VoxCPM2 copies, and whether to add the soft finish.
+CFG = json.load(open(f"{REPO}/engine/mac/voice.json"))
+REF = f"{REPO}/engine/mac/{CFG['ref']}.wav"
+REF_TEXT = open(f"{REPO}/engine/mac/{CFG['ref_text']}.txt").read().strip()
+SOFT = "lowshelf=f=220:g=1.5,equalizer=f=3500:t=q:w=1.2:g=-3,highshelf=f=7000:g=-4,deesser,acompressor=threshold=-22dB:ratio=2.5:attack=15:release=200"
 CHUNK_WORDS = 120          # small chunks keep a cloned voice steady over a long episode
 PARA_GAP, SECTION_GAP = 0.6, 1.8
 PRONOUNCE = json.load(open(f"{REPO}/show/pronunciations.json"))
@@ -75,7 +78,7 @@ def main():
         lst.writelines(f"file '{p}'\n" for p in order)
     mp3 = f"{out}/Morning_Briefing_{d}.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt",
-                    "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
+                    *(["-af", SOFT] if CFG.get("soft_finish") else []), "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
     print(f"Done: {mp3} ({failed} chunks failed), {int(time.time() - start)}s")
     sys.exit(1 if failed > 3 else 0)
 
