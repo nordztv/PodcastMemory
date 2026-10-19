@@ -6,7 +6,7 @@ few paragraphs, voices each chunk with mlx-audio (VoxCPM2), then joins everythin
 paragraphs and longer ones between sections. Output: ~/podcast/out/Morning_Briefing_DATE.mp3 (128 kbps).
 Already-made chunks are kept, so a rerun after an interruption carries on where it stopped.
 """
-import glob, json, os, re, shutil, subprocess, sys, time
+import glob, json, os, re, shutil, subprocess, sys, time, wave
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 HOME = os.path.expanduser("~")
@@ -77,11 +77,19 @@ def main():
             order += [dest, f"{work}/pgap.wav"]
         order[-1:] = [f"{work}/sgap.wav"]
         print(f"{sec} done, {int(time.time() - start)}s so far", flush=True)
+    # Pace: VoxCPM2 talks quickly (about 180 words a minute), so slow the whole episode to the pace in voice.json,
+    # keeping her pitch (ffmpeg atempo). The factor is measured from the speech itself, so it adapts to each episode.
+    words = sum(len(t.split()) for f in files for t in chunks(open(f).read()))
+    speech = sum(wave.open(p).getnframes() / 24000 for p in order if not p.endswith("gap.wav"))
+    target = CFG.get("words_per_minute")
+    tempo = max(0.8, min(1.0, target / (words / speech * 60))) if target and speech else 1.0
+    print(f"Pace: {words / speech * 60:.0f} words a minute, slowed by {tempo:.2f} to about {target}", flush=True)
+    filters = ([f"atempo={tempo:.3f}"] if tempo < 0.99 else []) + ([SOFT] if CFG.get("soft_finish") else [])
     with open(f"{work}/list.txt", "w") as lst:
         lst.writelines(f"file '{p}'\n" for p in order)
     mp3 = f"{out}/Morning_Briefing_{d}.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt",
-                    *(["-af", SOFT] if CFG.get("soft_finish") else []), "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
+                    *(["-af", ",".join(filters)] if filters else []), "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
     took = time.time() - start
     print(f"Done: {mp3} ({failed} chunks failed), {int(took)}s")
     if os.environ.get("VOX_TEST"):
