@@ -37,7 +37,7 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 
 If an allowed news site can't be fetched (for example bbc.com is sometimes blocked for fetching), use its stories via WebSearch results, rely on the other allowed sources, and mention it in the delivery message. Never swap in a source that isn't allowed.
 
-On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up and weekend toddler-friendly Sydney activities (bible section 5, Friday). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
+On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up, weekend toddler-friendly Sydney activities and the weekend project check-in (bible section 5, Friday; check any version numbers or features you recommend against current docs). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
 
 ## 5. Write the script
 
@@ -70,7 +70,7 @@ The run's automatic safety check sometimes blocks installing or running the voic
 
 ## 8. Update memory (while the audio renders), then commit
 
-- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, workout focus, questions asked, and a "Follow up" line (upcoming votes, results, releases, developing stories).
+- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, workout focus, questions asked, on Fridays the project check-in ("Project check-in: <project>, suggested <features>"), and a "Follow up" line (upcoming votes, results, releases, developing stories).
 - `memory/deep_dives_covered.md`: add today's lore, game tech, effects and director topics, plus workshop and chat topics, at the top of the table.
 - `memory/questions.md`: add today's questions (Answer: Not yet, Handled: no); for older ones Scott answered, fill in his answer ("DATE: a few words") and set Handled to the date the episode responded.
 - `memory/retro_games.md`: on Mondays add the new pick (status Recommended); on Wednesdays mark the retrospective done. When Scott says (sheet, inbox or chat) whether he played and enjoyed a game, fill in Played, Verdict (Liked, Disliked or Mixed) and a short comment in his words, then pick the next Monday's game with that in mind.
