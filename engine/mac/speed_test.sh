@@ -7,5 +7,5 @@ git -C "$REPO" pull -q || true
 [ -x "$BASE/mlx/bin/mlx_audio.tts.generate" ] || { echo "Run install.sh (or voice_audition.sh) first."; exit 1; }
 echo "Mac: $(sysctl -n machdep.cpu.brand_string), $(( $(sysctl -n hw.memsize) / 1073741824 )) GB memory"
 rm -rf "$HOME/podcast/render_vox/2026-10-20"
-caffeinate -is VOX_TEST=1 python3 "$REPO/engine/mac/build_voxcpm.py" 2026-10-20
+VOX_TEST=1 caffeinate -is "$BASE/mlx/bin/python" "$REPO/engine/mac/build_voxcpm.py" 2026-10-20
 open "$HOME/podcast/out/Morning_Briefing_2026-10-20.mp3"
