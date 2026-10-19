@@ -39,13 +39,18 @@ try() { # try <name> <model> [extra args...]
   fi
 }
 
+clone() { # clone <name> <model>: with the reference transcript, and without it if that flag isn't supported
+  try "$1" "$2" --ref_audio "$REF" --ref_text "$REF_TEXT"
+  tail -1 "$OUT/timings.txt" | grep -q FAILED && try "$1" "$2" --ref_audio "$REF"
+}
+
 # Baseline: today's voice engine model (Kokoro), on the Mac's GPU
 try 1_kokoro_heart mlx-community/Kokoro-82M-bf16 --voice af_heart --speed 0.92
 # Expressive models, cloning the Heart clip
-try 2_chatterbox mlx-community/chatterbox-fp16 --ref_audio "$REF" --ref_text "$REF_TEXT"
-try 3_voxcpm2 mlx-community/VoxCPM2-8bit --ref_audio "$REF" --ref_text "$REF_TEXT"
-try 4_higgs_v2 mlx-community/higgs-audio-v2-3B-mlx-q8 --ref_audio "$REF" --ref_text "$REF_TEXT"
-try 5_csm mlx-community/csm-1b --ref_audio "$REF" --ref_text "$REF_TEXT"
+clone 2_chatterbox mlx-community/chatterbox-fp16
+clone 3_voxcpm2 mlx-community/VoxCPM2-8bit
+clone 4_higgs_v2 mlx-community/higgs-audio-v2-3B-mlx-q8
+clone 5_csm mlx-community/csm-1b
 # Expressive preset voice (no cloning)
 try 6_qwen3_vivian mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit --voice Vivian --lang_code English
 
