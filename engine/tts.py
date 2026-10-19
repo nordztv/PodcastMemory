@@ -1,7 +1,7 @@
 """Morning Briefing text-to-speech: one plain-text script file -> one MP3.
 
 Usage: python3 engine/tts.py script.txt out.mp3 [voice] [speed]
-Defaults to the show voice "Sweet 1" (af_heart:0.5+af_nicole:0.3+af_bella:0.2) at speed 0.88.
+Defaults to the show voice "Happy 1" (af_heart:0.5+af_bella:0.3+af_nicole:0.2) at speed 0.92.
 Pronunciation fixes live in show/pronunciations.json (regex -> how to say it).
 Voice files are installed by engine/setup.sh.
 """
@@ -18,8 +18,8 @@ VOCAB = json.load(open(f"{REPO}/engine/kokoro_config.json"))["vocab"]
 PRONOUNCE = json.load(open(f"{REPO}/show/pronunciations.json"))
 SR = 24000
 PUNCT = ",.!?;:—"
-SHOW_VOICE = "af_heart:0.5+af_nicole:0.3+af_bella:0.2"  # "Sweet 1", chosen 19 Oct 2026
-SHOW_SPEED = 0.88
+SHOW_VOICE = "af_heart:0.5+af_bella:0.3+af_nicole:0.2"  # "Happy 1", chosen 19 Oct 2026
+SHOW_SPEED = 0.92
 
 
 SYSTEM_ESPEAK = os.environ.get("ESPEAK_NG")  # e.g. Homebrew's espeak-ng on a Mac; default is the bundled Linux copy
