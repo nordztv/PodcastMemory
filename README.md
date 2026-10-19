@@ -32,6 +32,6 @@ Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled tas
 
 Each day's `archive/YYYY/MM/DATE/workout.txt` ends with the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.
 
-## Home recording (MacBook Pro backup)
+## Home recording (MacBook Pro, VoxCPM2 voice)
 
-If the cloud run can't record the audio some morning, Scott's MacBook Pro records it instead at about 5am (weekdays) and saves it to iCloud Drive > Morning Briefing. Setup and how it works: `engine/mac/README.md`.
+The show's chosen voice (VoxCPM2) runs on Scott's MacBook Pro. Each weekday the Mac waits for the cloud's script, records it, and saves it to iCloud Drive > Morning Briefing; the cloud's own recording still arrives in the Claude app as a backup. Details: `engine/mac/README.md`.

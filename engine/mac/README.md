@@ -1,25 +1,26 @@
-# Home recording on the MacBook Pro
+# Recording on the MacBook Pro (VoxCPM2 voice)
 
-A backup for mornings when the cloud run can't record the audio. At 5:00am on weekdays the Mac wakes, checks GitHub, and:
-- does nothing if the cloud delivered the episode;
-- records it if the cloud left the script but no audio (or nothing was delivered by 5:45am);
-- saves the MP3 and workout sheet to iCloud Drive > Morning Briefing, then shows a notification.
+Scott chose VoxCPM2 (cloned from the show's Heart clip, `heart_reference.wav`) as the show's voice. It runs on the Mac's Apple silicon, so the Mac is the main recorder:
 
-The Mac needs to be plugged in (it can wake from sleep with the lid closed only on power). Recording takes about 10 to 20 minutes.
+- The cloud run (1:45am) writes the script and saves it to GitHub, and still sends its own Kokoro recording in the Claude app as a backup.
+- At 3:25am on weekdays the Mac wakes; at 3:30 it waits for the script, records it with VoxCPM2 (`build_voxcpm.py`), and saves the MP3 and workout sheet to iCloud Drive > Morning Briefing, with a notification.
+- If VoxCPM2 fails, it records with the Kokoro voice instead (unless the cloud already delivered).
 
-## One-time setup (about 15 minutes)
+The Mac needs to be plugged in overnight (it can wake with the lid closed only on power).
 
-1. Install Homebrew if you don't have it: https://brew.sh (paste the one line it shows into Terminal).
-2. In Terminal:
+## One-time setup
+
+1. Install Homebrew if you don't have it: https://brew.sh
+2. In Terminal (skip the first two lines if already done):
    ```
    brew install gh && gh auth login
    mkdir -p ~/MorningBriefing && gh repo clone nordztv/PodcastMemory ~/MorningBriefing/podcastmemory
    bash ~/MorningBriefing/podcastmemory/engine/mac/install.sh
    ```
-   `gh auth login`: choose GitHub.com, HTTPS, and log in with a browser. The install asks for your Mac password once (to schedule the 4:58am wake-up) and plays a short voice test when it's done.
 
-## Checking on it
+## Handy commands
 
+- Record any day by hand: `~/MorningBriefing/venv/bin/python ~/MorningBriefing/podcastmemory/engine/mac/build_voxcpm.py 2026-10-20` (MP3 lands in `~/podcast/out/`)
 - Log: `~/MorningBriefing/record.log`
-- Record a day by hand: `ESPEAK_NG=$(brew --prefix)/bin/espeak-ng PATH=~/MorningBriefing/venv/bin:$PATH sh ~/MorningBriefing/podcastmemory/engine/build_episode.sh 2026-10-20`
+- Voice auditions: `voice_audition.sh`, `soft_audition.sh`
 - Turn it off: `launchctl unload ~/Library/LaunchAgents/com.scott.morningbriefing.plist` and `sudo pmset repeat cancel`
