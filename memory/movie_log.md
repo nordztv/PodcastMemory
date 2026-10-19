@@ -6,6 +6,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-20 | Aliens (1986) | James Cameron | Sigourney Weaver, Carrie Henn, Michael Biehn | Sci-fi action horror, USA/UK | Actress of the Month, Tuesday | | | |
+| 2026-10-20 | Alien (1979) | Ridley Scott | Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright | Sci-fi horror, UK/USA | Director deep dive | | | |
+| 2026-10-20 | The Thing (1982) | John Carpenter | Kurt Russell, Keith David | Sci-fi horror, USA | Effects deep dive (Rob Bottin creature effects) | | | |
 | 2026-10-19 | The Shining (1980) | Stanley Kubrick | Shelley Duvall, Jack Nicholson | Horror, UK/USA | Director deep dive (Steadicam) | | | |
 | 2026-10-19 | Terminator 2: Judgment Day (1991) | James Cameron | Linda Hamilton, Robert Patrick, Arnold Schwarzenegger | Sci-fi action, USA | Effects deep dive (T-1000) | | | |
 | 2026-10-18 | Halloween (1978) | John Carpenter | Jamie Lee Curtis, Donald Pleasence | Horror, USA | Director deep dive | | | |
@@ -16,8 +19,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Ridley Scott | Alien (1979) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
-| James Cameron | Terminator 2: Judgment Day (1991) | Linda Hamilton (on the Actress of the Month shortlist) | 2026-10-19 |
-| John Carpenter | Halloween (1978) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured) | 2026-10-18 |
+| James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
+| John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
 | Christopher Nolan | Inception (2010) | | 2026-10-18 |
 | Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |

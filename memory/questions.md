@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. T
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-10-20 | If a card with 32 GB of VRAM landed on your desk tonight, what's the first job you'd hand to a local AI model? | GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards) | Not yet | no |
+| 2026-10-20 | Which classic Final Fantasy party member would you drop into Resonance as a guest, and what would they do? | Final Fantasy (series, lore, new releases) | Not yet | no |
+| 2026-10-20 | What's the first monster in your game, and how will the player know at a glance whether to fight or run? | Godot and Scott's 2D game | Not yet | no |
 | 2026-10-19 | What's the signature item in your game, and what does it let the player do? | Godot and Scott's 2D game | Not yet | no |
 | 2026-10-19 | Which film's colour grade would you steal for your X-M5 travel videos, and why? | Colour grading and Final Cut Pro | Not yet | no |
 | 2026-10-19 | If your Pi channel had a proper station name and ident, what would it be? | Raspberry Pi projects (music TV channel, multicast streaming) | Not yet | no |

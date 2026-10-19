@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-20 | Lore | Warcraft III and the fall of Arthas |
+| 2026-10-20 | Game tech | Ray tracing explained (Godot 2D lights and occluders tip) |
+| 2026-10-20 | Effects | The Thing (1982) creature effects |
+| 2026-10-20 | Director | Ridley Scott's Alien |
+| 2026-10-20 | Workshop | Upgrading to Jellyfin 12 safely on TrueNAS |
+| 2026-10-20 | Chat | What makes a monster readable in a top-down game |
+| 2026-10-20 | Workout | Upper pull and core: rows, single-arm row, reverse fly, pullover, dead bug, side plank |
 | 2026-10-19 | Lore | Final Fantasy VII (1997): making-of and Midgar |
 | 2026-10-19 | Game tech | Y-sorting and draw order in top-down 2D (Godot) |
 | 2026-10-19 | Effects | Terminator 2's liquid metal T-1000 |

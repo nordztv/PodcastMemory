@@ -2,6 +2,19 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-20 (Tuesday)
+
+- **Length:** not rendered yet (script about 12,100 words, roughly 85 to 90 min). Written Monday evening at Scott's request; audio blocked because the voice engine couldn't be installed in that session.
+- **World:** France unrest, nearly 2,400 arrests, Macron address; Trump attacks Zelenskyy; WFP cuts Gaza food aid for 500,000; CFB Wainwright fire (Carney); Ebola in Kenya and Congo.
+- **Australia and NSW:** Helen Haines critically injured in alleged deliberate attack in Wangaratta (no charge reported Mon night); Greens Steele-John row; EU deal stalled; Ghost Shark armed; Grattan GST 15%; One Nation migration costings; ANSTO spyware targeting; Whyalla; Vanuatu. NSW: Mount Pleasant mine bill; peptide warning; LECC Town Hall hearings; preschool funding; pink slips. Sport: 2nd Test rain, Boland; women's T20 tonight.
+- **Tech:** chip sell-off (Nvidia -$365B, CoreWeave financing stress); SK Hynix worst week since 2008; Intel LLM-Scaler PV 1.5; $35 mining rig; Linux 7.3; Gurman's four Fridays and iPhone Duo pre-orders; earnings week; Godot 4.8 beta 1.
+- **Games:** FF Resonance length/preload; Switch Sports Resort; Ocarina display modes; ID@Xbox showcase, Shrek 2 remaster leak; MW4 Zampella tribute; WoW Forever stress test; Dino Crisis 2; Konami on AI. Retro reminder: A Link to the Past.
+- **Movies:** AU box office (Street Fighter #1); Sitges winners; 4K day (Planet of the Vampires, Kubrick set). Actress of the Month: Sigourney Weaver; Tuesday pick Aliens (1986).
+- **Deep dives:** Warcraft III and Arthas; ray tracing; The Thing creature effects; Ridley Scott's Alien. Workshop: Jellyfin 12 upgrade on TrueNAS.
+- **Workout:** upper body pull and core.
+- **Questions:** first job for a local AI with a 32 GB card; classic FF guest in Resonance; first monster in his game.
+- **Follow up:** Helen Haines condition and any charges; Netflix and SpaceX results (Wed AEDT); Tesla and Meta (Thu AEDT); FF Resonance reviews and launch 22 Oct; WoW Forever stress test Thu AEDT; Aliens making-of on Thursday; MW4, iPhone Duo, Clayface 23 Oct; weekend Central-Wynyard closure; SK Hynix 28 Oct; Apple Mac event ~27/28 Oct; Intel 29 Oct; WoW Forever 4/5 Nov; Ocarina 5 Nov.
+
 ## 2026-10-19 (Monday)
 
 - **Length:** 70 min (run started late, about 6:26am; delivered after 6am).

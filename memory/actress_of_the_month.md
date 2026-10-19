@@ -8,6 +8,7 @@ Tuesdays: a film of hers to watch. Thursdays: how that film was made, or a retro
 
 | Month | Actress | Why her |
 | --- | --- | --- |
+| 2026-10 | Sigourney Weaver | Defined the sci-fi horror heroine as Ripley; links to Ridley Scott's Alien (director deep dive 20 Oct) and James Cameron (T2 effects deep dive 19 Oct, Aliens pick) |
 
 ## Films covered
 
