@@ -1,6 +1,6 @@
 # Daily run procedure
 
-Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 2:45am Sydney time; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time with the current_time tool at the start and regularly.
+Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 2:45am Sydney time; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
 
 **Time budget (Sydney):** setup and memory read by about 3:05; research and script written and committed by about 4:10; audio rendering starts by 4:15 (about 40 minutes for 80 minutes of audio). If it's past 5:40 and rendering isn't finished, join whatever sections are done and deliver those.
 
@@ -8,7 +8,7 @@ Let `DATE` = today's Sydney date (YYYY-MM-DD), `REPO` = the clone of nordztv/pod
 
 ## 1. Set up (run setup in the background while reading)
 
-- `sh REPO/engine/setup.sh` (installs the voice engine; falls back to this repo's voice_backup/ if the upstream links fail). Test with a one-line text file: `python3 REPO/engine/tts.py test.txt test.mp3`.
+- `sh REPO/engine/setup.sh` (installs the voice engine from this repo's own voice_backup/ folder, checked against its checksums; it only uses the original upstream links as a last resort). Test with a one-line text file: `python3 REPO/engine/tts.py test.txt test.mp3`.
 - Git identity for commits: name "Claude", email noreply@anthropic.com.
 
 ## 2. Read the show and its memory
@@ -28,6 +28,8 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 **Chats:** use ToolSearch once to check for tools that read Scott's past Claude conversations (search "recent chats"). They are normally NOT available in scheduled runs; if they are, read his chats since the last episode (at most 3 days; on Mondays, since Friday) and apply them the same way as inbox entries. If not, rely on the inbox and the answer sheets, and don't mention it in the delivery message.
 
 ## 4. Research
+
+If an allowed news site can't be fetched (for example bbc.com is sometimes blocked for fetching), use its stories via WebSearch results, rely on the other allowed sources, and mention it in the delivery message. Never swap in a source that isn't allowed.
 
 On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up and weekend toddler-friendly Sydney activities (bible section 5, Friday). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
 

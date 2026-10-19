@@ -1,7 +1,7 @@
 #!/bin/sh
 # Installs the Morning Briefing voice engine into ~/tts and ~/dl/piper.
-# Tries the original upstream links first (fast); if they fail, rebuilds the files from this repo's
-# voice_backup/ folder (split into parts) and checks them against voice_backup/SHA256SUMS.
+# Rebuilds the files from this repo's own voice_backup/ folder (split into parts) and checks them against
+# voice_backup/SHA256SUMS, so nothing is downloaded from outside sites. Upstream links are only a last resort.
 # Needs: python3 with numpy + onnxruntime, ffmpeg (normally preinstalled). PyPI is usually blocked; GitHub works.
 set -e
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
@@ -13,9 +13,9 @@ from_backup() { # from_backup <file> <dest dir>
   (cd "$2" && grep " $1\$" "$REPO/voice_backup/SHA256SUMS" | sha256sum -c -)
 }
 
-fetch() { # fetch <file> <upstream url> <dest dir>
+fetch() { # fetch <file> <upstream url> <dest dir>: this repo's own backup first (no outside downloads), upstream only if that fails
   [ -s "$3/$1" ] && return 0
-  curl -sSL --fail -o "$3/$1" "$2" || { echo "upstream failed for $1, using repo backup"; from_backup "$1" "$3"; }
+  from_backup "$1" "$3" || { echo "repo backup failed for $1, trying upstream"; curl -sSL --fail -o "$3/$1" "$2"; }
 }
 
 fetch kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx "$HOME/tts"
