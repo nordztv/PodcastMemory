@@ -19,6 +19,8 @@ If `EP/delivered.txt` exists, today's episode was already made and delivered ahe
 
 Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md`, `memory/ratings.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
 
+**Previous scripts:** read the scripts of the last 5 episodes in `archive/` (sections 01 to 05 and `notes.md`) and keep a list of every story already covered and what was said. While researching and writing, follow bible section 4's "Don't repeat what's already been said" rule against that list.
+
 **Rollover:** if `recent_episodes.md` has no entry from the current month yet and this is a new month, do the monthly rollover from bible section 10 now (and the yearly one if it's a new year). Then run `python3 engine/topics.py daily DATE`.
 
 ## 3. Scott's answers and recent chats
@@ -39,7 +41,7 @@ On Mondays, cover news since Friday's episode. On Fridays, also research the wee
 
 ## 5. Write the script
 
-Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6. Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
+Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
 
 Also write:
 - `EP/workout.txt`: today's workout (bible section 8).

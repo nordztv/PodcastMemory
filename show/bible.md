@@ -58,6 +58,8 @@ ABC News (abc.net.au), SBS News (sbs.com.au), Reuters (reuters.com), BBC (bbc.co
 
 **Everything else** (tech, games, movies, workshop, deep dives): any reputable source: company newsrooms and investor sites, CNBC, Nintendo Life, Pure Xbox, Blizzard News, Bloody Disgusting, Blu-ray.com and so on. Search for fresh news on main topics first (highest scores), and quickly check minor topics for anything hot.
 
+**Don't repeat what's already been said** (Scott's choice, October 2026): before writing, read the scripts of the last 5 episodes (sections 01 to 05 in `archive/.../script/`, plus each `notes.md`). A story, announcement, release or product already covered comes back ONLY if there is genuinely new information (a new development, result, decision, number or date). When it does, lead with what's new and give just a sentence or two of light context ("you'll remember we talked about X last week; well, today..."), never the full background again. No new information: leave it out. This applies to every segment, including tech, games and movies, and to the week ahead. Friday's week wrap-up may look back briefly, framed as a recap, not as news.
+
 **Always:** only state facts read in a source today; never invent numbers, quotes or dates; cross-check big stories across more than one source where possible.
 
 ## 5. Running order (about 10,000 to 11,000 words, 75 to 85 minutes)
