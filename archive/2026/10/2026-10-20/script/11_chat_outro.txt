@@ -1,0 +1,15 @@
+Alright, let's wind down with a little wander.
+
+With all the creatures today, The Thing, the xenomorph, Ripley and the queen, I got thinking about what makes a monster work in a game, which is very relevant to you and your little Godot world.
+
+The best creature designs tend to tell you one thing instantly. The xenomorph says "you can't fight this". The Thing says "you can't trust anyone". The slimes in Secret of Mana say "hit me, I'm harmless, and I'll drop a little treat". In a top-down game, you've only got a few pixels and a couple of frames of animation to say that. So the silhouette and the movement do all the work. A creature that hops is friendly. A creature that slides, without bobbing at all, is wrong somehow. And a creature that stops moving the moment you look at it? Terrifying.
+
+Which reminds me of the cosy farming game villager who never blinks. Every morning, same spot by the fountain, same smile, same "lovely weather we're having". You check the save file and there's no entry for him at all. He was never coded. He's just always been there. Smiling. Sorry, Scott. That one's got real MeatCanyon energy.
+
+So here's my last question for today. What's the first monster or enemy in your game going to be, and how will the player know at a glance whether to fight it or run? My answer: a cheerful little turnip with legs, who's harmless until you water it, and then it grows teeth and remembers every single time you stepped on its cousins. Your answer space is on the sheet.
+
+Now, today's workout. Yesterday was full body, so today's focus is upper body pull and core. A quick warm-up, then three rounds of bent-over rows, single arm rows, reverse flys, dumbbell pullovers, a dead bug and a side plank. It takes about twenty five minutes, and the back work is lovely for your posture after a day at the desk. The full routine is saved as a text file with today's episode.
+
+The week ahead. Netflix and SpaceX report tonight US time, so their results land tomorrow morning our time. Tesla and Meta report on Wednesday US time. Final Fantasy Resonance, Nintendo Switch Sports Resort and Cult of the Lamb on Switch two all arrive on Thursday, and the World of Warcraft Forever stress test is Thursday morning our time. Call of Duty Modern Warfare Four and the iPhone Duo land on Friday, and so does Clayface in American cinemas. And on Thursday, I'll be back with the story of how Aliens was made. Then this weekend, remember there are no trains between Central and Wynyard.
+
+That's it for today, Scott. The sun's out, it's a lovely morning for the walk, and the Botanic Garden should be looking its best. Have a great day at work, and I'll see you tomorrow.

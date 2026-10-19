@@ -1,0 +1,19 @@
+Workshop time. Today it's one for the home server, because I promised you a Jellyfin tip.
+
+Jellyfin twelve was the big release back in September, and the point releases since then have been bug fixes. If your T three thirty is still on an older version, the move to twelve isn't a click-and-forget update, so here's how to do it safely.
+
+The key thing to know is that Jellyfin twelve migrates its database. Once that migration runs, there's no rolling back to the old version unless you restore a backup. So step one is a proper backup, before you touch anything.
+
+On TrueNAS, the neatest way is a snapshot. Find the dataset that holds Jellyfin's configuration, the one with the database, metadata and settings, not your films, and take a manual snapshot of it. Give it a name you'll recognise, something like "before Jellyfin twelve". Snapshots are almost instant and cost almost nothing in space, and if the upgrade goes sideways, you can roll that dataset back in a minute.
+
+Step two: plugins. The advice in the release notes is to remove third party plugins before upgrading, because older ones can stop the server from starting after the migration. Make a quick note of which ones you use, remove them, upgrade, and then add back the versions built for twelve.
+
+Step three: check your other apps. Twelve removed some old legacy connection routes, the ones that date back to Jellyfin's Emby roots, so if you've got an older app or a script on the Pi channel talking to the server, make sure it still connects. And the new modern web interface is now the default, so things will look a bit different when you log in.
+
+Step four: be patient on the first start. On a big library, the migration can take a while, and it's tempting to think it's frozen. Watch the logs, have a cup of tea, and don't restart it halfway through.
+
+And the bonus tip: once you're happy, keep that snapshot for a week or so before deleting it. Problems sometimes only show up when you go to play something specific, like a Dolby Vision file. Version twelve point two actually fixed something there.
+
+As always, check the official release notes on jellyfin dot org before you start, because they'll have the latest details.
+
+Ninety six terabytes, protected by one sensible snapshot. Very responsible, Scott.
