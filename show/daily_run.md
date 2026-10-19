@@ -55,7 +55,7 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
 - Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (section headings, then each section's text), and commit it.
-- In step 7, send that file and `EP/workout.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that saying "record today's Morning Briefing" in any Claude chat will record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
+- In step 7, send that file and `EP/workout.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that Scott's MacBook Pro will record it at home by about 6am (it appears in iCloud Drive > Morning Briefing, if the Mac was plugged in and awake), and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
 - Carry on with everything else (memory updates and commits) as normal.
 

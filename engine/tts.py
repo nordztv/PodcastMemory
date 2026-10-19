@@ -22,9 +22,15 @@ SHOW_VOICE = "af_heart:0.7+af_nicole:0.3"
 SHOW_SPEED = 0.92
 
 
+SYSTEM_ESPEAK = os.environ.get("ESPEAK_NG")  # e.g. Homebrew's espeak-ng on a Mac; default is the bundled Linux copy
+
+
 def espeak(text):
-    out = subprocess.run([f"{PIPER}/espeak-ng", f"--path={PIPER}", "-q", "--ipa=3", "-v", "en-us", text],
-                         capture_output=True, text=True, env={"LD_LIBRARY_PATH": PIPER}).stdout
+    if SYSTEM_ESPEAK:
+        cmd, env = [SYSTEM_ESPEAK, "-q", "--ipa=3", "-v", "en-us", text], None
+    else:
+        cmd, env = [f"{PIPER}/espeak-ng", f"--path={PIPER}", "-q", "--ipa=3", "-v", "en-us", text], {"LD_LIBRARY_PATH": PIPER}
+    out = subprocess.run(cmd, capture_output=True, text=True, env=env).stdout
     return " ".join(out.split())
 
 

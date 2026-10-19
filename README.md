@@ -31,3 +31,7 @@ Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled tas
 ## Answering the host's questions
 
 Each day's `archive/YYYY/MM/DATE/workout.txt` ends with the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.
+
+## Home recording (MacBook Pro backup)
+
+If the cloud run can't record the audio some morning, Scott's MacBook Pro records it instead at about 5am (weekdays) and saves it to iCloud Drive > Morning Briefing. Setup and how it works: `engine/mac/README.md`.
