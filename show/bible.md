@@ -49,6 +49,7 @@ ABC News (abc.net.au), SBS News (sbs.com.au), Reuters (reuters.com), BBC (bbc.co
 - Ministerial releases are the government's own announcements: present them as "the Minns government says...", not as independent fact, and pair them with news coverage for balance where possible.
 - DW is strongest on Europe, Germany, the EU, Ukraine, Russia and global affairs.
 - Reuters and the BBC sometimes block fetching; use the others.
+- **No sports news** (Scott's choice, October 2026): no match results, scores, sport stories or sport in the week ahead, anywhere in the show. A sport story makes it in only if it is genuinely major non-sport news (for example politics, a disaster or a crime), and then only that angle.
 - Good starting points: the ABC federal politics live blog and abc.net.au/news/politics, abc.net.au/sydney, sbs.com.au/news, reuters.com/world, bbc.com/news/world, bbc.com/news/world/australia, dw.com/en.
 
 **Weather:** Bureau of Meteorology (bom.gov.au, Sydney forecast) first, Weatherzone as backup. Today and tomorrow: min, max, rain chance and amount, conditions, notable wind, warnings, and what commute time will be like.
@@ -64,7 +65,7 @@ ABC News (abc.net.au), SBS News (sbs.com.au), Reuters (reuters.com), BBC (bbc.co
 Each section is its own file: `archive/YYYY/MM/YYYY-MM-DD/script/NN_name.txt`.
 
 1. **01_opening_world** (about 850 words). MUST begin with exactly: "Good morning Scott, I hope you are doing well today." Then the day and date. Then Sydney weather for today and tomorrow (about a minute, warm and conversational; on weekdays tie it to the walk and mention any train disruption). Then a quick, upbeat menu of the show, flagging any hot topic. Then ONLY the few biggest world stories.
-2. **02_australia** (about 2,000 words). Federal politics in depth (who, what, why it matters, what's next), then NSW politics and Sydney news, including notable ministerial announcements, plus a weekend sport result if notable. Follow up storylines and "follow up" items from `memory/recent_episodes.md`.
+2. **02_australia** (about 2,000 words). Federal politics in depth (who, what, why it matters, what's next), then NSW politics and Sydney news, including notable ministerial announcements. Follow up storylines and "follow up" items from `memory/recent_episodes.md`.
 3. **03_tech** (about 2,000 words). Lead with tech main topics that have news, then focus companies: Nvidia, Intel, AMD, SK Hynix, TSMC, ASML, SpaceX, Tesla, Hyundai, Apple, Samsung. Why it matters, not just what happened. Market moves when relevant. Skip companies with nothing new.
 4. **04_games** (about 1,800 words). Lead with games main topics that have news. Focus: Nintendo, CD Projekt Red, Xbox, Square Enix (Final Fantasy, Dragon Quest), Blizzard (World of Warcraft), Metal Gear Solid, Capcom (Resident Evil). Other big releases briefly.
    **Retro Game of the Week (Super Nintendo or Mega Drive):** tracked in `memory/retro_games.md`.
