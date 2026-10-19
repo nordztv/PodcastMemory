@@ -65,7 +65,10 @@ def main():
     for name, secs in (("pgap", PARA_GAP), ("sgap", SECTION_GAP)):
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", str(secs), f"{work}/{name}.wav"], check=True)
     order, start, failed = [], time.time(), 0
-    for f in sorted(glob.glob(f"{src}/*.txt")):
+    files = sorted(glob.glob(f"{src}/*.txt"))
+    if os.environ.get("VOX_TEST"):  # speed test: just the opening section, then estimate the full episode
+        files = files[:1]
+    for f in files:
         sec = os.path.basename(f)[:-4]
         for i, text in enumerate(chunks(open(f).read())):
             dest = f"{work}/{sec}_{i:03d}.wav"
@@ -79,7 +82,14 @@ def main():
     mp3 = f"{out}/Morning_Briefing_{d}.mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt",
                     *(["-af", SOFT] if CFG.get("soft_finish") else []), "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
-    print(f"Done: {mp3} ({failed} chunks failed), {int(time.time() - start)}s")
+    took = time.time() - start
+    print(f"Done: {mp3} ({failed} chunks failed), {int(took)}s")
+    if os.environ.get("VOX_TEST"):
+        all_words = sum(len(open(f).read().split()) for f in sorted(glob.glob(f"{src}/*.txt")))
+        test_words = len(open(files[0]).read().split())
+        est = took * all_words / test_words / 60
+        print(f"SPEED TEST: {test_words} words took {took/60:.1f} min. A full episode ({all_words} words) "
+              f"would take about {est:.0f} min. The Mac has about 150 min (3:30 to 6:00).")
     sys.exit(1 if failed > 3 else 0)
 
 
