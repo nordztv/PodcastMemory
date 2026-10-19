@@ -2,7 +2,7 @@
 # Builds one episode MP3 from its script sections.
 # Usage: sh engine/build_episode.sh YYYY-MM-DD
 # Reads archive/YYYY/MM/YYYY-MM-DD/script/NN_*.txt in order, renders two sections at a time,
-# joins them with 1.8 s gaps and writes ~/podcast/out/Morning_Briefing_YYYY-MM-DD.mp3 (64 kbps mono).
+# joins them with 1.8 s gaps and writes ~/podcast/out/Morning_Briefing_YYYY-MM-DD.mp3 (96 kbps mono, warm "Sweet 1" EQ).
 set -e
 D="$1"; [ -n "$D" ] || { echo "usage: build_episode.sh YYYY-MM-DD"; exit 1; }
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
@@ -20,6 +20,6 @@ for f in $(ls "$SRC"/*.txt); do
   echo "file '$WORK/$(basename "$f" .txt).mp3'" >> "$WORK/list.txt"
   echo "file '$WORK/gap.mp3'" >> "$WORK/list.txt"
 done
-ffmpeg -loglevel error -y -f concat -safe 0 -i "$WORK/list.txt" -ar 24000 -ac 1 -b:a 64k \
+ffmpeg -loglevel error -y -f concat -safe 0 -i "$WORK/list.txt" -af "lowshelf=f=220:g=1.5,equalizer=f=3500:t=q:w=1.2:g=-3,highshelf=f=7000:g=-4,deesser" -ar 24000 -ac 1 -b:a 96k \
   -metadata title="Morning Briefing - $D" -metadata artist="Morning Briefing" "$OUT/Morning_Briefing_$D.mp3"
 ffprobe -v error -show_entries format=duration -of default=nw=1:nk=1 "$OUT/Morning_Briefing_$D.mp3"
