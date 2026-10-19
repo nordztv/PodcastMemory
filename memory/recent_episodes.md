@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-20 (Tuesday)
 
-- **Length:** not rendered yet (script about 12,100 words, roughly 85 to 90 min). Written Monday evening at Scott's request; audio blocked because the voice engine couldn't be installed in that session.
+- **Length:** 91 min. Written and recorded Monday evening, delivered ahead of time.
 - **World:** France unrest, nearly 2,400 arrests, Macron address; Trump attacks Zelenskyy; WFP cuts Gaza food aid for 500,000; CFB Wainwright fire (Carney); Ebola in Kenya and Congo.
 - **Australia and NSW:** Helen Haines critically injured in alleged deliberate attack in Wangaratta (no charge reported Mon night); Greens Steele-John row; EU deal stalled; Ghost Shark armed; Grattan GST 15%; One Nation migration costings; ANSTO spyware targeting; Whyalla; Vanuatu. NSW: Mount Pleasant mine bill; peptide warning; LECC Town Hall hearings; preschool funding; pink slips. Sport: 2nd Test rain, Boland; women's T20 tonight.
 - **Tech:** chip sell-off (Nvidia -$365B, CoreWeave financing stress); SK Hynix worst week since 2008; Intel LLM-Scaler PV 1.5; $35 mining rig; Linux 7.3; Gurman's four Fridays and iPhone Duo pre-orders; earnings week; Godot 4.8 beta 1.
