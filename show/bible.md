@@ -105,6 +105,16 @@ Each section is its own file: `archive/YYYY/MM/YYYY-MM-DD/script/NN_name.txt`.
 
 **Anniversaries:** when a monthly or yearly summary shows something notable from exactly a month or a year ago, the host can mention it ("a year ago today we were talking about...").
 
+## 5b. Extras every episode (Scott's choice, October 2026)
+
+**Five-minute headlines edition.** Alongside the full show, a short version for busy mornings: `archive/.../headlines/01_headlines.txt`, about 650 to 750 words (about five minutes). Same host and voice rules (section 3), lighter on humour (one cheeky line at most, no flirting or dark bits, none near serious news). Order: "Good morning Scott, I hope you are doing well today. This is your five-minute Morning Briefing." Then the day and date; the weather for the walk in two or three sentences (and any train disruption); the five or six biggest stories across world, Australia, tech and games, a few sentences each, hot topics first (same source rules, no sport, no-repeat rule); today's workout focus in one line; one line on what's in the full episode (the deep dives, the Actress of the Month or retro pick); then a short goodbye. No open questions and no answer reaction in the headlines.
+
+**Chapter markers.** The full episode's MP3 gets a chapter per section (added automatically by `engine/build_episode.sh` and the Mac's `build_voxcpm.py`), so Scott can skip around in a podcast app. Nothing to write for this.
+
+**Show notes page.** Each episode gets `archive/.../shownotes.json` (format at the top of `engine/shownotes.py`): a one-line headline for the day, the episode length and workout focus, each segment's stories as short titles (an optional one-line note) with the links used for them (a readable label such as "ABC" or "Nintendo Life"), the picks (Retro Game of the Week on Monday, the Actress of the Month film on Tuesday and Thursday, any deep-dive film or game worth looking up) with where to watch or play, the deep dives and workshop tip, and today's questions. Only real links from the day's research; news links only from the allowed sources. `engine/shownotes.py` turns the newest 15 into one page, published to Scott's show-notes artifact (URL in `show/shownotes_url.txt`).
+
+**Jellyfin.** The Mac also copies each MP3 into a folder on the home server that Jellyfin watches, once Scott has run `engine/mac/jellyfin_setup.sh`. Nothing for the daily run to do.
+
 ## 6. Open questions
 
 Every episode the host asks 2 or 3 genuine open questions connected to his recent chats, storylines or main topics, spread naturally through the show (never in the news segments). Curious, specific, fun, not yes/no. Spirit: "what's the first model you'd want to try on the B60?", "if your Pi channel had a station name and ident, what would it be?", "which Final Fantasy character got the best ending?", "what's the first trip you'd film with the X-M5?".

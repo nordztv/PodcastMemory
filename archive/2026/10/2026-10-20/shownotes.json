@@ -1,0 +1,396 @@
+{
+ "date": "2026-10-20",
+ "weekday": "Tuesday",
+ "length": "91 min",
+ "workout": "Upper pull and core",
+ "headline": "Chip stocks tumble, Final Fantasy Resonance nears launch, and Sigourney Weaver is Actress of the Month",
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "The Legend of Zelda: A Link to the Past (SNES)",
+   "note": "Grab the Pegasus Boots early.",
+   "links": []
+  },
+  {
+   "kind": "Actress of the Month",
+   "title": "Sigourney Weaver: Aliens (1986)",
+   "note": "Tuesday's film pick. Making-of on Thursday.",
+   "links": [
+    {
+     "label": "Where to watch",
+     "url": "https://www.justwatch.com/au/movie/aliens"
+    },
+    {
+     "label": "4K disc review",
+     "url": "https://digitalbits.com/reviews/item/aliens-2024-uhd"
+    }
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "name": "World",
+   "items": [
+    {
+     "title": "France unrest: nearly 2,400 arrests, Macron addresses the nation",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/almost-2400-arrested-macron-france-unrest/l51gcezko"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/france-reels-from-protest-violence-thousands-arrested/107281138"
+      }
+     ]
+    },
+    {
+     "title": "Trump criticises Zelenskyy as US-Ukraine ties strain",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/zelenskyy-ukraine-russia-trump-criticism/uq610r8yy"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/ukraine-relationship-with-us-and-trump-strained-amid-war/107273416"
+      }
+     ]
+    },
+    {
+     "title": "World Food Programme cuts Gaza food aid",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322"
+      }
+     ]
+    },
+    {
+     "title": "Ebola spreads in Kenya and Congo",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/kenya-ebola-outbreak-hits-eight-continues-spread-in-congo/107282278"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia, NSW and Sydney",
+   "items": [
+    {
+     "title": "Independent MP Helen Haines critically injured in Wangaratta",
+     "links": [
+      {
+       "label": "ABC live",
+       "url": "https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/helen-haines-injured-outside-wangaratta-office/8jahoxo1k"
+      }
+     ]
+    },
+    {
+     "title": "Greens row over Senator Steele-John",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442"
+      }
+     ]
+    },
+    {
+     "title": "Ghost Shark drones armed; EU trade deal stalls",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/government-unveils-new-aukus-capabilities-as-eu-trade-deal-languishes/mr517cg6r"
+      }
+     ]
+    },
+    {
+     "title": "Nuclear agency ANSTO targeted by spyware",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/nuclear-agency-targeted-in-cyber-attack-infecting-devices/107283804"
+      }
+     ]
+    },
+    {
+     "title": "NSW: Mount Pleasant mine bill to protect Hunter jobs",
+     "links": [
+      {
+       "label": "Minns government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-steps-to-protect-400-hunter-jobs-ahead-of-christmas"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-19/mount-pleasant-mine-nsw-government-legislation-jobs/107282908"
+      }
+     ]
+    },
+    {
+     "title": "NSW Health warns on peptide use",
+     "links": [
+      {
+       "label": "Minns government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/nsw-health-warns-of-surge-hospital-presentations-linked-to-peptide-use"
+      }
+     ]
+    },
+    {
+     "title": "Weekend trackwork: Central to Wynyard closed 23 to 25 October",
+     "links": [
+      {
+       "label": "Transport NSW",
+       "url": "https://transportnsw.info/news/2026/planned-trackwork-from-friday-23-to-sunday-25-october"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Chip sell-off: Nvidia loses US$365 billion in a week",
+     "links": [
+      {
+       "label": "Invezz",
+       "url": "https://invezz.com/news/2026/10/19/nvidia-stock-loses-365-billion-in-a-week-could-the-ai-boom-be-running-out-of-money/"
+      },
+      {
+       "label": "Saxo",
+       "url": "https://home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026"
+      }
+     ]
+    },
+    {
+     "title": "SK Hynix has its worst week since 2008",
+     "links": [
+      {
+       "label": "Invezz",
+       "url": "https://invezz.com/news/2026/10/19/sk-hynix-stock-falls-another-3-after-brutal-24-rout-when-will-the-selling-stop/"
+      }
+     ]
+    },
+    {
+     "title": "RTX 5090 shortages push prices to US$8,500",
+     "links": [
+      {
+       "label": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon"
+      }
+     ]
+    },
+    {
+     "title": "Intel LLM-Scaler vLLM PV 1.5 for Arc Pro cards",
+     "links": [
+      {
+       "label": "Phoronix",
+       "url": "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5"
+      }
+     ]
+    },
+    {
+     "title": "A US$35 mining rig with 54 GB of VRAM runs a 35B model",
+     "links": [
+      {
+       "label": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/pc-components/gpus/reddit-user-pays-usd35-for-a-crypto-mining-rig-left-in-a-garage-and-gets-54gb-of-vram-at-65-cents-per-gb-the-first-test-for-2017-era-gpus-a-35b-parameter-ai-model-running-locally-at-over-30-tokens-per-second"
+      }
+     ]
+    },
+    {
+     "title": "Linux 7.3 released",
+     "links": [
+      {
+       "label": "Phoronix",
+       "url": "https://www.phoronix.com/news/Linux-7.3-Released"
+      }
+     ]
+    },
+    {
+     "title": "Apple's next four Fridays, and the iPhone Duo pre-order debate",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+      },
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/"
+      }
+     ]
+    },
+    {
+     "title": "Godot 4.8 beta 1",
+     "links": [
+      {
+       "label": "Godot",
+       "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-1/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Final Fantasy Resonance: campaign length and preload",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed"
+      },
+      {
+       "label": "Sizes and preload",
+       "url": "https://www.gamerfuzion.com/final-fantasy-resonance-download-size-preload-date-ps5-xbox-switch-pc/"
+      }
+     ]
+    },
+    {
+     "title": "Switch Sports Resort previews",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina of Time remake display modes",
+     "links": [
+      {
+       "label": "Nintendo Everything",
+       "url": "https://nintendoeverything.com/zelda-ocarina-of-time-remake-reveals-new-display-modes-other-settings/"
+      }
+     ]
+    },
+    {
+     "title": "Aspyr is remastering a Shrek game",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game"
+      }
+     ]
+    },
+    {
+     "title": "Modern Warfare 4 pays tribute to Vince Zampella",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever free stress test",
+     "links": [
+      {
+       "label": "GameSpot",
+       "url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/"
+      }
+     ]
+    },
+    {
+     "title": "Dino Crisis 2 comes to PS Plus",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week"
+      }
+     ]
+    },
+    {
+     "title": "Konami's boss on AI and game making",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Street Fighter tops the Australian box office",
+     "links": [
+      {
+       "label": "Variety Australia",
+       "url": "https://au.variety.com/2026/film/news/australian-box-office-october-19th-street-fighter-41501/"
+      }
+     ]
+    },
+    {
+     "title": "Alex Garland's next sci-fi film at A24, with Zendaya",
+     "links": [
+      {
+       "label": "Film Stories",
+       "url": "https://filmstories.co.uk/news/alex-garland-to-make-a-new-sci-fi-film-at-a24-zendaya-to-star/"
+      }
+     ]
+    },
+    {
+     "title": "October 4K releases: Planet of the Vampires, a Kubrick set, A Chinese Ghost Story",
+     "links": [
+      {
+       "label": "HD Report",
+       "url": "https://hd-report.com/2026/10/18/4k-blu-ray-releases-oct-2026/"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39202"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deep dives and workshop",
+   "items": [
+    {
+     "title": "Lore: Warcraft III and the fall of Arthas"
+    },
+    {
+     "title": "Game tech: ray tracing explained",
+     "note": "Godot tip: PointLight2D, LightOccluder2D and CanvasModulate."
+    },
+    {
+     "title": "Effects: The Thing (1982) creature effects"
+    },
+    {
+     "title": "Director: Ridley Scott's Alien (1979)"
+    },
+    {
+     "title": "Workshop: upgrading to Jellyfin 12 safely on TrueNAS",
+     "note": "Snapshot first, remove old plugins, check older clients.",
+     "links": [
+      {
+       "label": "TrueNAS 27 RC",
+       "url": "https://phoronix.com/news/TrueNAS-27-RC.1-Release"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "What's the first job you'd give a local AI model with a 32 GB card?",
+  "Which classic Final Fantasy party member would you drop into Resonance as a guest?",
+  "What's the first monster in your game, and how will the player know whether to fight or run?"
+ ]
+}

@@ -20,6 +20,14 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 - **Always on:** `memory/storylines.md` (Scott's long-running arcs) and `memory/topics.md` (scored interests) carry across everything.
 - Full detail is never lost: every script stays in `archive/`. MP3s aren't stored here (too big for a repository), but the voice is fixed, so any episode can be re-recorded identically from its script with `sh engine/build_episode.sh YYYY-MM-DD`.
 
+## Each episode
+
+- **Full episode** (about 75 to 85 minutes), with chapter markers so you can jump between segments.
+- **Five-minute headlines edition** for busy mornings.
+- **Workout sheet** with the day's questions.
+- **Show notes page**: links, picks and questions for the last 15 episodes, one page updated each morning (link in `show/shownotes_url.txt`).
+- **Jellyfin** (optional): the Mac can drop every MP3 into a Jellyfin folder on the home server. See `engine/mac/README.md`.
+
 ## Changing the show
 
 Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled task only says "read the bible and follow it", so changes take effect the next morning.

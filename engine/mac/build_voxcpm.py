@@ -1,9 +1,11 @@
 """Morning Briefing on the Mac with VoxCPM2 (Scott's chosen voice, cloned from the show's Heart clip).
 
-Usage: python3 engine/mac/build_voxcpm.py YYYY-MM-DD
+Usage: python3 engine/mac/build_voxcpm.py YYYY-MM-DD [headlines]
 Reads archive/YYYY/MM/DATE/script/*.txt, applies show/pronunciations.json, splits the text into chunks of a
 few paragraphs, voices each chunk with mlx-audio (VoxCPM2), then joins everything with short pauses between
-paragraphs and longer ones between sections. Output: ~/podcast/out/Morning_Briefing_DATE.mp3 (128 kbps).
+paragraphs and longer ones between sections. Output: ~/podcast/out/Morning_Briefing_DATE.mp3 (128 kbps), with a
+chapter marker per section (engine/chapters.py). "headlines" builds the five-minute edition from archive/.../headlines/
+into Morning_Briefing_DATE_headlines.mp3 instead.
 Already-made chunks are kept, so a rerun after an interruption carries on where it stopped.
 """
 import glob, json, os, re, shutil, subprocess, sys, time, wave
@@ -59,23 +61,27 @@ def voice(text, dest, work):
 
 def main():
     d = sys.argv[1]
-    src = f"{REPO}/archive/{d[:4]}/{d[5:7]}/{d}/script"
-    work = f"{HOME}/podcast/render_vox/{d}"; out = f"{HOME}/podcast/out"
+    headlines = len(sys.argv) > 2 and sys.argv[2] == "headlines"
+    src = f"{REPO}/archive/{d[:4]}/{d[5:7]}/{d}/" + ("headlines" if headlines else "script")
+    work = f"{HOME}/podcast/render_vox/{d}" + ("_headlines" if headlines else ""); out = f"{HOME}/podcast/out"
     os.makedirs(work, exist_ok=True); os.makedirs(out, exist_ok=True)
     for name, secs in (("pgap", PARA_GAP), ("sgap", SECTION_GAP)):
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", str(secs), f"{work}/{name}.wav"], check=True)
-    order, start, failed = [], time.time(), 0
+    order, start, failed, timings = [], time.time(), 0, []
     files = sorted(glob.glob(f"{src}/*.txt"))
     if os.environ.get("VOX_TEST"):  # speed test: just the opening section, then estimate the full episode
         files = files[:1]
     for f in files:
         sec = os.path.basename(f)[:-4]
+        first = len(order)
         for i, text in enumerate(chunks(open(f).read())):
             dest = f"{work}/{sec}_{i:03d}.wav"
             if not os.path.exists(dest) and not voice(text, dest, work):
                 print(f"FAILED: {sec} chunk {i}", flush=True); failed += 1; continue
             order += [dest, f"{work}/pgap.wav"]
-        order[-1:] = [f"{work}/sgap.wav"]
+        if len(order) > first:
+            order[-1:] = [f"{work}/sgap.wav"]
+            timings.append((sec, sum(wave.open(p).getnframes() / 24000 for p in order[first:])))
         print(f"{sec} done, {int(time.time() - start)}s so far", flush=True)
     # Pace: VoxCPM2 talks quickly (about 180 words a minute), so slow the whole episode to the pace in voice.json,
     # keeping her pitch (ffmpeg atempo). The factor is measured from the speech itself, so it adapts to each episode.
@@ -87,9 +93,13 @@ def main():
     filters = ([f"atempo={tempo:.3f}"] if tempo < 0.99 else []) + ([SOFT] if CFG.get("soft_finish") else [])
     with open(f"{work}/list.txt", "w") as lst:
         lst.writelines(f"file '{p}'\n" for p in order)
-    mp3 = f"{out}/Morning_Briefing_{d}.mp3"
+    mp3 = f"{out}/Morning_Briefing_{d}" + ("_headlines" if headlines else "") + ".mp3"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt",
                     *(["-af", ",".join(filters)] if filters else []), "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}", "-metadata", "artist=Morning Briefing", mp3], check=True)
+    with open(f"{work}/timings.txt", "w") as t:
+        t.writelines(f"{sec}\t{secs}\n" for sec, secs in timings)
+    if subprocess.run([sys.executable, f"{REPO}/engine/chapters.py", mp3, f"{work}/timings.txt", d] + (["headlines"] if headlines else [])).returncode:
+        print("chapters skipped (episode is fine without them)", flush=True)
     took = time.time() - start
     print(f"Done: {mp3} ({failed} chunks failed), {int(took)}s")
     if os.environ.get("VOX_TEST"):

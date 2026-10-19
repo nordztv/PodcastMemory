@@ -45,18 +45,20 @@ Write the 11 sections from bible section 5 as plain text files in `EP/script/` (
 
 Also write:
 - `EP/workout.txt`: today's workout (bible section 8).
+- `EP/headlines/01_headlines.txt`: the five-minute headlines edition (bible section 5b).
+- `EP/shownotes.json`: the show notes (bible section 5b; leave "length" as "" until the audio is built, then fill it in).
 - `EP/notes.md`: running order, deep-dive topics, today's questions (with the host's joke answers), topics hot today, and a Sources list (every link used; news links only from the six allowed sources).
 
 Commit and push now (message "Episode DATE: script"), so the work is safe even if rendering fails.
 
 ## 6. Build the audio
 
-`nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3`.
+First the headlines edition (a couple of minutes): `sh REPO/engine/build_episode.sh DATE headlines` -> `~/podcast/out/Morning_Briefing_DATE_headlines.mp3`. Then the full episode: `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3` (with chapter markers; if the log says "chapters skipped", the episode is still fine, just mention it).
 
 ## 6b. If the voice engine is blocked
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
-- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (section headings, then each section's text), and commit it.
+- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text), and commit it.
 - In step 7, send that file and `EP/workout.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that Scott's MacBook Pro will record it at home by about 6am (it appears in iCloud Drive > Morning Briefing, if the Mac was plugged in and awake), and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
 - Carry on with everything else (memory updates and commits) as normal.
@@ -65,7 +67,8 @@ The run's automatic safety check sometimes blocks installing or running the voic
 
 - **Reminder due 2026-11-18:** on the first episode on or after 2026-11-18, add one line to the delivery message asking whether Scott would now like episodes in a podcast app such as Pocket Casts or Overcast (a private feed), instead of as files in the Claude app. Then delete this reminder line from this file in the memory commit.
 
-- SendUserFile (status "proactive", display "attach") with files [the MP3, `EP/workout.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories, today's workout focus.
+- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/workout.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories, today's workout focus.
+- **Show notes:** fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` (writes `~/podcast/out/shownotes.html`), then with the Artifact tool: `read` the URL in `show/shownotes_url.txt`, and `publish` that file with that `url` (no icon). If publishing fails, send `shownotes.html` with SendUserFile instead and mention it.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
 
 ## 8. Update memory (while the audio renders), then commit
