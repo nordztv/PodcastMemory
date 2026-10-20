@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-21 (Wednesday)
 
-- **Length:** audio not recorded (voice engine blocked). Script-only delivery.
+- **Length:** 87 min (headlines 4 min). Script delivered at 2am; audio recorded later on request in the same session.
 - **World:** French curfews, unrest in six countries, 2,500+ detained; Kyiv barrage, "no early warning"; West Bank settler arrests; Alberta 77% stay; Kenya cult verdict.
 - **Australia and NSW:** Helen Haines: Brendan Nugent charged, lost a leg, critical; MP safety debate; Hanson apology over Lambie cartoon; aged care vs migration cuts; NAB 2,500 jobs; ADF PNG recruitment; McClelland to NACC. NSW: Teralba train factory; workplace protection orders; Bays West shortlist; incinerator moratorium inquiry; Town Hall protest subpoenas.
 - **Tech:** chip bounce then Korea slide (Elice IPO); Micron Taiwan strike 22 Oct; China orders 3M+ RTX Pro 5500 ($35B); XeSS for Proton; AMD GAIA 0.25; Nvidia custom HBM; Apple "Pro and Tell" 28 Oct; iPhone Duo two-per-customer; Tesla AGM 3 Dec.
