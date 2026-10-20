@@ -1,0 +1,45 @@
+[happy] Okay. Games. And this one's big today. The Final Fantasy Resonance reviews are out, and they're good. Really good.
+
+The review embargo lifted on Tuesday, ahead of tomorrow's launch. On Metacritic, early reports have the P S five version at eighty five, the P C version at eighty eight, and Switch two at eighty two. Those are early numbers and they'll move as more reviews arrive, but it's a strong start. Game Informer gave it nine out of ten. COGconnected, nine and a half. PlayStation LifeStyle, nine. I G N, Nintendo Life, Push Square and Destructoid all gave it eight. Windows Central, four and a half stars. The one outlier is V G C, with three out of five.
+
+Nintendo Wire's review sums up the mood. It calls it "a love letter to the franchise's past that manages to stand on its own as a genuinely fantastic R P G", and says of the turn-based battles, "Not just well put together, but legitimately fun." The main complaint is the Visions system, the way you unlock its summon-style characters, which the same review calls "repetitive" and lacking depth. Remember, this game was built out of the mobile game Brave Exvius, with all the gacha bits ripped out, so it's interesting that the one part people grumble about is the part that most feels like its mobile roots. There's also a free demo, so you can try the battle system before you commit.
+
+So that's it. Tomorrow's the day. [happy] I'd tell you to pace yourself, but I've met you. I know exactly what tomorrow night looks like. Lights off, controller in hand, "just one more chapter", and suddenly the birds are singing and you're wondering why you agreed to have a job.
+
+One more Square Enix item, and it's a practical one. If you play Final Fantasy fourteen, Square Enix has warned about unauthorised access to accounts, and it blames people reusing passwords across services. It's sending password reset emails, possibly to everyone, and it recommends turning on one-time passwords or the software authenticator, since the physical security token is sold out. Worth doing if you still have an account sitting there.
+
+There's also an unconfirmed rumour, from a leaker on X, that NieR Automata and NieR Replicant are coming to Switch two, and that a new NieR is in development. Pinch of salt. And the mobile version of Final Fantasy Tactics, The War of the Lions, has had a lovely update, with controller support, fast forward, sixty frames a second, and a much more readable font. Still the best version of Ivalice politics you can carry in your pocket.
+
+Nintendo. Switch Sports Resort reviews are in too, and they're the best the series has had. It's on seventy nine on Metacritic, against seventy two for the original. Nintendo Life gave it nine out of ten and said it "just might be the Nintendo Sports series at its best". G I put it nicely: "there's not a loser in the bunch."
+
+The Ocarina of Time remake, coming on the fifth of November, has a leaked download size of about twenty seven gigabytes, according to a Japanese eShop listing. That's the biggest mainline Zelda download so far. Twenty seven gigs for a game where, let's be honest, a lot of the runtime is a small boy standing very still in a field while the sun goes down, and a large owl talks at him for far too long. [dark] The owl knows things. The owl has always known things. Watch his eyes in the remake. They don't blink. [punch] They never did.
+
+And Nintendo says it underestimated how popular the Zelda fortieth anniversary Switch two would be. A Nintendo vice president apologised, said restocks are coming, and asked fans to "please be patient".
+
+Xbox. The I D at Xbox showcase started at four o'clock this morning our time, so the full list of announcements wasn't out when I checked. What we do know: The Wolf Among Us Remastered gets a digital release on the twenty ninth of October, on P C, P S five and Xbox One, playable on Series X through backwards compatibility. And the Shrek two remaster leak from yesterday, from Aspyr, was expected to be revealed properly. I'll round up the rest tomorrow. In other Xbox news, a translucent green twenty fifth anniversary controller is out now, the studio behind Samson, Liquid Swords, is closing, and on the thirty first, a few games leave Game Pass, including LEGO Star Wars: The Skywalker Saga and Deep Rock Galactic.
+
+Call of Duty: Modern Warfare four. The D M Z mode opened in early access at four o'clock this morning our time, for anyone with a digital pre-order, including on Switch two, ahead of Friday's launch. And worth knowing: Activision confirmed the game won't be on Game Pass until the end of next year.
+
+Blizzard. The World of Warcraft Forever stress test is tomorrow morning at eight our time. Anyone can join, no subscription needed, and everything is wiped afterwards. New this week: name reservations open on the twenty seventh, with early reservations for people who bought certain packs. If you've got a name you care about, that's your window.
+
+The Witcher three Remastered got update five point oh one, and it's the kind of patch notes that tell a story. It fixes boats steering uncontrollably, blade oils applying themselves, and stamina draining while sprinting. On Switch two, it improves sharpness and resolution, plus fixes a crash. Which is a nice coincidence, because The Witcher three is today's lore deep dive. Hold that thought.
+
+[serious] And some sad news from R G G Studio's world. The Japanese voice actor Hiroshi Tsuchida, who voiced Kazuki in the Yakuza series since twenty oh five, has died of heart failure at fifty four. He also voiced Tron in Kingdom Hearts two, and Lightning McQueen in the Japanese dub of Cars. R G G Studio expressed its condolences on behalf of everyone at the studio.
+
+And for Fallout fans, this is Fallout Day week. No big broadcast this year, so don't expect a Fallout five reveal, but tomorrow brings a first look at a Fallout seventy six update with pets, and Friday is Fallout Day itself.
+
+[happy] Now, it's Wednesday, and that means it's time for the story behind this week's retro game: The Legend of Zelda: A Link to the Past.
+
+It came out in Japan in November nineteen ninety one, in North America in April ninety two, and in Europe that September. It was made by Nintendo's E A D team, directed by Takashi Tezuka, produced by Shigeru Miyamoto, with music by Koji Kondo. And it shipped on an eight megabit cartridge. That's one megabyte. Your phone takes photos bigger than the entire game. At the time, though, that was a big cart. Most Super Nintendo games of the era were half that size.
+
+What's clever is how much they squeezed out of that megabyte. The headline trick is the Dark World. Almost every place in the Light World has a twisted twin in the Dark World, with a similar layout but different, corrupted art, enemies and secrets. Link moves between them with the Magic Mirror. That design is beautiful on its own, because once you learn one map, the other becomes a puzzle: where does this cliff lead on the other side? But it's also efficient. Two worlds sharing one structure is a brilliant way to double your game without doubling your cartridge.
+
+Then there's how the Super Nintendo draws it. The S N E S builds its pictures out of layers: background layers made of tiles, which are little eight by eight pixel squares, and sprites, the moving objects like Link and the enemies, drawn on top. A Link to the Past uses those layers for depth. That's how you get bridges you can walk under, upper floors in dungeons, and the way some rooms let you drop down a level. It's all layers stacked like sheets of glass, each one scrolling and drawing on its own. The world map, the one that zooms and tilts, is widely credited to the console's famous Mode seven scaling trick.
+
+Then there's Koji Kondo's music, made for the Super Nintendo's Sony-designed sound chip, which plays back short recorded samples of instruments rather than pure electronic tones. That's why the Hyrule Castle theme and the Dark World music sound so orchestral for the time. It's still one of the best soundtracks of the era.
+
+And the legacy is enormous. It sold over four and a half million copies on the Super Nintendo. It set the template for nearly every top-down Zelda that followed, and for a whole genre of top-down action adventures. The item-gated world, the dungeon that teaches you its own tool, the overworld that opens up as you collect things. You'll see its fingerprints on Secret of Mana, on countless indies, and, yes, on your own game. If you want to keep playing, it's in the Nintendo Switch Online Super Nintendo library.
+
+So, the question. Which pair of places, Light World and Dark World, is your favourite, and how did you get on with the game this week? My answer: the Lost Woods, because in the Dark World it becomes the Skull Woods, and honestly that's just the Lost Woods being more honest about its intentions. Your answer space is on today's sheet, or the answer page.
+
+That's games. Now, movies.

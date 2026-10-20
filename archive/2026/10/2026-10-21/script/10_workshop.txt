@@ -1,0 +1,17 @@
+[happy] Workshop time. Today's tip is for Final Cut Pro, and it's one you can practise with footage from your own walk this morning.
+
+The jacarandas are starting to turn the city purple, and that purple is surprisingly hard to get right on camera. Phones and cameras tend to push it towards blue. So here's a little exercise: grab ten seconds of a jacaranda on your phone today, and later, grade it in Final Cut to build your own reusable look.
+
+Here's how.
+
+Step one: correct first, then style. Drop the clip on the timeline, and add a Color Wheels effect. Open your scopes, the waveform we talked about on Monday, and get your exposure sensible first: shadows near the bottom without crushing, highlights below the top. Then use the Global wheel or the Highlights wheel to nudge out any colour cast, so whites look white. That's the correction.
+
+Step two: the look. Now add a second colour effect on top. Use the Hue and Saturation Curves effect, and its Hue versus Hue curve, which lets you pick a single colour and shift only that. Use the eyedropper on the jacaranda flowers, and gently pull their hue back from blue towards purple. Then, if you like, use the Hue versus Saturation curve on the greens of the leaves and pull them down slightly, so the purple pops. Don't overdo it. A little goes a long way. If the sky starts looking like a nineteen eighties music video, you've gone too far. [punch] Although, actually, that might suit the Pi channel.
+
+Step three: save it. Once you like it, select that look effect in the inspector and save it as an effect preset. Give it a name, something like "Sydney Spring". Now it shows up in your Effects browser, and you can drop it on any clip in one click. And the best part: because you kept the correction separate from the look, you can fix each new clip's exposure first, and then apply the same preset on top, and they'll all match.
+
+That separation, correction first, look second, is the most useful habit in colour grading. It's how professional colourists work, and it'll save you a lot of pain when you're grading a whole travel video shot in different light.
+
+Bonus tip: before you grade, turn on the comparison viewer, so you can see your before and after side by side. It keeps you honest.
+
+So: one jacaranda, two layers, one preset. Ten minutes tonight, and you'll have built your first personal look. Which is very professional of you, for a man who doesn't own the camera yet.

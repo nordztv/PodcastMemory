@@ -2,33 +2,33 @@
 
 The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
-Last daily update: 2026-10-19
+Last daily update: 2026-10-21
 
 ## Main topics (top 25)
 
 | Topic | Score | Last signal | Hot until |
 | --- | --- | --- | --- |
-| Final Fantasy (series, lore, new releases) | 70 | 2026-10-18 |  |
-| GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards) | 70 | 2026-10-18 |  |
+| Final Fantasy (series, lore, new releases) | 80 | 2026-10-21 | 2026-10-24 |
+| GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards) | 80 | 2026-10-21 |  |
 | Home server: Dell T330, TrueNAS, Jellyfin | 70 | 2026-10-17 |  |
 | Australian federal politics | 65 | 2026-10-18 |  |
+| Godot and Scott's 2D game | 65 | 2026-10-21 |  |
 | NSW politics and Sydney news | 65 | 2026-10-18 |  |
 | 4K Blu-ray, physical media and restorations | 60 | 2026-10-11 |  |
 | Raspberry Pi projects (music TV channel, multicast streaming) | 60 | 2026-10-17 |  |
-| Godot and Scott's 2D game | 55 | 2026-10-18 |  |
 | Horror films | 55 | 2026-10-18 |  |
 | Nvidia | 55 | 2026-10-18 |  |
 | Chipmakers: TSMC, ASML, SK Hynix, Samsung | 50 | 2026-10-18 |  |
 | Colour grading and Final Cut Pro | 50 | 2026-10-18 |  |
 | Fujifilm X-M5, lenses and camera gear | 50 | 2026-10-16 |  |
 | Major world news | 50 | 2026-10-18 |  |
+| Warcraft and Blizzard | 50 | 2026-10-21 |  |
 | Directors and filming techniques | 45 | 2026-10-18 |  |
 | Game tech explained (DLSS, rendering, parallax) | 45 | 2026-10-18 |  |
 | Intel and AMD | 45 | 2026-10-18 |  |
 | Practical effects and CGI history | 45 | 2026-10-18 |  |
 | Sci-fi and action films | 45 | 2026-10-18 |  |
 | The Witcher and CD Projekt Red | 45 | 2026-10-18 |  |
-| Warcraft and Blizzard | 45 | 2026-10-18 |  |
 | Capcom and Resident Evil | 40 | 2026-10-18 |  |
 | Hong Kong and Chinese crime films | 40 | 2026-10-20 |  |
 | Japanese horror | 40 | 2026-10-20 |  |

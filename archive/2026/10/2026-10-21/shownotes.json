@@ -1,0 +1,468 @@
+{
+ "date": "2026-10-21",
+ "weekday": "Wednesday",
+ "length": "audio not recorded (script only)",
+ "headline": "Final Fantasy Resonance reviews land, a man is charged over the Helen Haines attack, and China snaps up Nvidia's workstation cards",
+ "challenge": "Forty bodyweight squats and twenty push-ups, in as many sets as you like (first challenge, no rate yet)",
+ "segments": [
+  {
+   "name": "World",
+   "items": [
+    {
+     "title": "France imposes curfews as unrest spreads across six countries",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/france-to-impose-new-curfews-as-authorities-seek-to-restore-order-after-riots/4pkni8mrz"
+      },
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-20/europe-protests-explained-as-demonstrations-grow/107285508"
+      }
+     ]
+    },
+    {
+     "title": "Kyiv barrage and the 'no early warning' row",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/ukraine-russia-early-warning-us-intelligence/107285706"
+      }
+     ]
+    },
+    {
+     "title": "Ten arrested over West Bank settler attacks",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/israel-arrests-10-settler-attacks-us-photographer-french-mayor/3pje0wupk"
+      }
+     ]
+    },
+    {
+     "title": "Alberta votes 77% to stay in Canada",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/alberta-says-yes-to-canada-rejects-separation-drive/w3aj8y3aj"
+      }
+     ]
+    },
+    {
+     "title": "Kenya cult leader guilty of 191 murders",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/kenyan-starvation-cult-leader-paul-mackenzie-guilty/107286796"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Helen Haines: man charged; MP critical",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-20/wangaratta-helen-haines-loses-leg-mp-attack/107286420"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/helen-haines-still-in-hospital-as-attack-suspect-named-what-we-know-so-far/d3li4b1b6"
+      }
+     ]
+    },
+    {
+     "title": "MP safety and the political temperature",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/kim-leadbeater-helen-haines-attack-plibersek-reacts/107236274"
+      }
+     ]
+    },
+    {
+     "title": "Hanson apologises over Lambie cartoon",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/hanson-apologises-for-one-nation-cartoon-mocking-lambie/107288602"
+      }
+     ]
+    },
+    {
+     "title": "Aged care and the migration cuts",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/aged-care-migrant-workers-visa-safeguards/107261502"
+      }
+     ]
+    },
+    {
+     "title": "NAB to cut up to 2,500 jobs",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316"
+      }
+     ]
+    },
+    {
+     "title": "ADF recruitment opens to PNG",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/adf-opens-recruitment-to-papua-new-guineans-after-treaty/107288996"
+      }
+     ]
+    },
+    {
+     "title": "NSW: Teralba train factory",
+     "links": [
+      {
+       "label": "NSW Gov",
+       "url": "https://www.nsw.gov.au/ministerial-releases/teralba-identified-as-preferred-hunter-site-to-build-nsws-next-train-fleet"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/coalmine-site-chosen-for-train-manufacturing-facility/107283046"
+      }
+     ]
+    },
+    {
+     "title": "NSW: workplace protection orders",
+     "links": [
+      {
+       "label": "NSW Gov",
+       "url": "https://www.nsw.gov.au/ministerial-releases/new-scheme-to-better-protect-workers-from-abuse-violence"
+      }
+     ]
+    },
+    {
+     "title": "NSW: Bays West design shortlist",
+     "links": [
+      {
+       "label": "NSW Gov",
+       "url": "https://www.nsw.gov.au/ministerial-releases/global-and-local-design-leaders-shortlisted-to-shape-future-of-bays-west"
+      }
+     ]
+    },
+    {
+     "title": "NSW: inquiry urges incinerator moratorium",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646"
+      }
+     ]
+    },
+    {
+     "title": "NSW: Town Hall protest case subpoenas",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Chip stocks bounce, then Korea slides",
+     "links": [
+      {
+       "label": "Korea JoongAng Daily",
+       "url": "https://www.koreajoongangdaily.com/business/kospi-slides-nearly-4-on-ai-jitters-unrest-in-france/12930159"
+      },
+      {
+       "label": "TipRanks",
+       "url": "https://www.tipranks.com/news/why-are-ai-memory-stocks-micron-sandisk-and-sk-hynix-falling-in-premarket-today-october-20"
+      }
+     ]
+    },
+    {
+     "title": "China orders 3M+ RTX Pro 5500 cards",
+     "links": [
+      {
+       "label": "Yahoo/Reuters",
+       "url": "https://au.finance.yahoo.com/news/bytedance-alibaba-tencent-order-35-095413201.html"
+      }
+     ]
+    },
+    {
+     "title": "Intel XeSS heading to Proton",
+     "links": [
+      {
+       "label": "Phoronix",
+       "url": "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton"
+      }
+     ]
+    },
+    {
+     "title": "AMD GAIA 0.25 local AI agent",
+     "links": [
+      {
+       "label": "Phoronix",
+       "url": "https://www.phoronix.com/news/AMD-GAIA-0.25-Released"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia custom HBM",
+     "links": [
+      {
+       "label": "Seoul Economic Daily",
+       "url": "https://en.sedaily.com/finance/2026/10/19/nvidia-co-designs-custom-hbm-with-samsung-tsmc-to-widen"
+      }
+     ]
+    },
+    {
+     "title": "Earnings: Netflix, SpaceX, Tesla, Meta",
+     "links": [
+      {
+       "label": "KeepTrack",
+       "url": "https://keeptrack.space/x-report/spacex-brief-2026-10-19"
+      },
+      {
+       "label": "Not a Tesla App",
+       "url": "https://notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3"
+      }
+     ]
+    },
+    {
+     "title": "Apple 'Pro and Tell' event, 28 Oct",
+     "links": [
+      {
+       "label": "9to5Mac",
+       "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
+      }
+     ]
+    },
+    {
+     "title": "iPhone Duo limited to two per customer",
+     "links": [
+      {
+       "label": "9to5Mac",
+       "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Final Fantasy Resonance reviews",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/final-fantasy-resonance-is-launching-on-xbox-to-extremely-impressive-reviews"
+      },
+      {
+       "label": "Nintendo Wire",
+       "url": "https://nintendowire.com/news/2026/10/20/review-final-fantasy-resonance/"
+      }
+     ]
+    },
+    {
+     "title": "FFXIV account access warning",
+     "links": [
+      {
+       "label": "Siliconera",
+       "url": "https://www.siliconera.com/square-enix-warns-about-unauthorized-ffxiv-account-access/"
+      }
+     ]
+    },
+    {
+     "title": "Switch Sports Resort reviews",
+     "links": [
+      {
+       "label": "The Shortcut",
+       "url": "https://www.theshortcut.com/p/nintendo-switch-sports-resort-review-roundup"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina remake is about 27GB",
+     "links": [
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Ocarina-of-Time-remake-download-size-leaks-making-it-largest-Switch-2-Zelda-game.1428156.0.html"
+      }
+     ]
+    },
+    {
+     "title": "MW4 DMZ early access; no Game Pass until late 2027",
+     "links": [
+      {
+       "label": "Call of Duty",
+       "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-intel-modern-warfare-4-launch-xbox-game-pass"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever stress test and name reservations",
+     "links": [
+      {
+       "label": "Wowhead",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/us/updated-oct-16-join-the-world-of-warcraft-forever-stress-test-world-of-warcraft-24302072"
+      }
+     ]
+    },
+    {
+     "title": "Witcher 3 Remastered update 5.01",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
+      }
+     ]
+    },
+    {
+     "title": "Yakuza voice actor Hiroshi Tsuchida dies",
+     "links": [
+      {
+       "label": "Insider Gaming",
+       "url": "https://insider-gaming.com/yakuza-voice-actor-hiroshi-tsuchida-passes-away-at-age-54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Slayground teaser (Saulnier, A24)",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/slayground-teaser-a24/"
+      }
+     ]
+    },
+    {
+     "title": "Hope wins three Korean critics' awards",
+     "links": [
+      {
+       "label": "Asian Movie Pulse",
+       "url": "https://asianmoviepulse.com/2026/10/possible-love-and-hope-lead-46th-korean-association-of-film-critics-awards/"
+      }
+     ]
+    },
+    {
+     "title": "Tokyo International Film Festival opens 26 Oct",
+     "links": [
+      {
+       "label": "TIFF",
+       "url": "https://2026.tiff-jp.net/en/"
+      }
+     ]
+    },
+    {
+     "title": "Street Fighter stalls in Japan",
+     "links": [
+      {
+       "label": "Patrick Frater",
+       "url": "https://patrickfrater.substack.com/p/japan-australia-india-weekend-box-office"
+      }
+     ]
+    },
+    {
+     "title": "Criterion's The Blade",
+     "links": [
+      {
+       "label": "Moviejawn",
+       "url": "https://www.moviejawn.com/home/2026/10/20/disc-dispatch-the-blade"
+      }
+     ]
+    },
+    {
+     "title": "Die Hard 2 and 3 in 4K; Rambo 4K",
+     "links": [
+      {
+       "label": "Film Stories",
+       "url": "https://filmstories.co.uk/news/die-hard-2-and-die-hard-with-a-vengeance-head-to-4k-ultra-hd-blu-ray-for-the-first-time/"
+      }
+     ]
+    },
+    {
+     "title": "Kick On wins at Brooklyn Horror",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/brooklyn-horror-film-festival-2026-jury-winners/"
+      }
+     ]
+    },
+    {
+     "title": "Jennifer's Body 2 'imminent'",
+     "links": [
+      {
+       "label": "Film Stories",
+       "url": "https://filmstories.co.uk/news/diablo-cody-says-jennifers-body-2-is-happening-imminently/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deep dives",
+   "items": [
+    {
+     "title": "Lore: The Witcher 3: making-of"
+    },
+    {
+     "title": "Game tech: Tilemaps and autotiling in Godot 4"
+    },
+    {
+     "title": "Effects: Mad Max: Fury Road's practical stunts"
+    },
+    {
+     "title": "Director: Park Chan-wook's Oldboy corridor fight"
+    },
+    {
+     "title": "Workshop: FCP correction then look, and saving a preset"
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "The Legend of Zelda: A Link to the Past (SNES)",
+   "note": "Wednesday: how it was made. On Nintendo Switch Online's SNES library.",
+   "links": [
+    {
+     "label": "Zelda Dungeon",
+     "url": "https://www.zeldadungeon.net/wiki/ALttP"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Oldboy (2003)",
+   "note": "Park Chan-wook; check streaming or a disc release.",
+   "links": []
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Mad Max: Fury Road (2015)",
+   "note": "George Miller.",
+   "links": []
+  }
+ ],
+ "questions": [
+  "Which pair of places in A Link to the Past, Light World and Dark World, is your favourite, and how did you get on with the game this week?",
+  "If your game had a Dark World, what would your farm turn into on the other side?",
+  "If you could add one physical-media style extra to a film in your Jellyfin library, what would it be, and for which film?"
+ ]
+}

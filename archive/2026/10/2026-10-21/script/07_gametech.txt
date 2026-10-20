@@ -1,0 +1,27 @@
+[happy] Game tech, and today I'm keeping it hands-on, because this one goes straight into your project. Tilemaps, and how Godot can paint your grass, paths and cliffs for you.
+
+Here's the idea in one sentence. Instead of drawing a whole level as one big picture, you cut your art into small squares called tiles, then build the world on a grid. Remember A Link to the Past from earlier? That's exactly how the Super Nintendo drew it: eight by eight pixel tiles, laid out on layers. Your game will work the same way, just with a lot more memory to play with.
+
+So let's go straight to the practical bit. In Godot four, the node you want is TileMapLayer. If you've seen older tutorials using a single TileMap node with layers inside it, that's the old way. Now each layer is its own node, so you might have one for the ground, one for paths and water, and one for things like fences, stacked on top of each other.
+
+Step one: make a TileSet. In the TileMapLayer's inspector, create a new TileSet, set the tile size, say sixteen by sixteen pixels, and drag your tile sheet in. Godot will offer to slice it into tiles for you. Say yes.
+
+Step two: terrains. This is the magic bit. Without terrains, when you paint a patch of grass next to dirt, you have to pick the right edge tile and the right corner tile by hand, every single time. With terrains, you tell Godot what each tile looks like at its edges, and it picks the right one for you as you paint. That's called autotiling.
+
+You set it up in the TileSet panel. Add a terrain set, and choose its mode. There are three: match corners and sides, match corners, or match sides. Then add a terrain inside it, say, "Grass". Then in the Paint tab, you select each tile and click on the little edge and corner zones, called peering bits, to mark which parts of that tile are grass. It's fiddly the first time, maybe half an hour for a set, but you only do it once.
+
+Which mode? "Match corners and sides" is the most complete, but it needs a big set, up to forty seven tiles for every possible combination. "Match corners" can get away with about sixteen tiles and is much easier to draw. If you're drawing your own pixel art, start with corners. Your future self will thank you.
+
+Step three: paint. In the TileMap panel at the bottom, switch to the Terrains tab, pick Grass, and draw. Godot works out the edges and corners as you go. It's very satisfying.
+
+Now, the two features that make this really useful for a farming game.
+
+First, physics. In your TileSet, add a physics layer, and then draw collision shapes on the tiles that should block the player: water, cliffs, fences. Now the level is solid without you placing a single collision shape by hand.
+
+Second, custom data. In the TileSet, you can add custom data layers, which are just labels on tiles. Add a boolean called "can_till", and tick it on your dirt and grass tiles. Now in code, when the player uses the hoe, you can ask the map: what tile is under me, and can I dig it? You turn the player's position into grid coordinates with local_to_map, look up the tile data with get_cell_tile_data, and read the "can_till" value.
+
+And here's my favourite trick. When the player tills a square, don't set a single tile. Use set_cells_terrain_connect, and give it the cell and your "Tilled soil" terrain. Godot will paint that square as tilled soil and update the neighbours, so a row of tilled squares joins up into one neat, connected patch of farmland, edges and all. That's the Stardew feeling, for about five lines of code.
+
+[dark] One warning about tilemaps, though. Once you build a world on a grid, everything in it is on the grid. The trees are on the grid. The houses are on the grid. The villagers' little lives fit neatly into sixteen pixel squares. And sometimes, late at night, if you look closely at a farming game, you'll notice a villager standing perfectly still. [beat] Exactly in the centre of a tile. Facing the wall. [punch] They know where the grid is. They've always known.
+
+So, to sum up. TileMapLayer nodes, one per layer. A TileSet with a terrain, using the corners mode to keep your drawing manageable. Physics on the tiles that block. A "can_till" custom data label. And set_cells_terrain_connect when the hoe hits the ground. If you get just the terrain part working this weekend, painting a field will go from an afternoon's work to about thirty seconds. Which leaves more time for the important things. Like naming the turnips.

@@ -4,3 +4,4 @@ One fitness challenge per episode (bible section 8). Scott reports Done on the d
 
 | Date | Challenge | Done |
 | --- | --- | --- |
+| 2026-10-21 | Forty bodyweight squats and twenty push-ups, in as many sets as you like, across the day | Not yet |

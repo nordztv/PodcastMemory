@@ -1,0 +1,395 @@
+MORNING BRIEFING, Wednesday 21 October 2026 (script; audio not recorded)
+
+FIVE-MINUTE HEADLINES
+
+Good morning Scott, I hope you are doing well today. This is your five-minute Morning Briefing.
+
+It's Wednesday, the twenty first of October.
+
+The walk in looks lovely: mild, light winds and maybe some early fog, with a top of twenty four. There's a fifty fifty chance of a shower, but mostly this afternoon and evening. Tomorrow, though, there's a ninety per cent chance of rain, mostly in the morning, so the umbrella comes with you on Thursday. No trackwork found for Green Square or St James today.
+
+First, the Helen Haines story. A forty three year old man, Brendan Nugent, has been charged over Monday's alleged attack on the independent MP in Wangaratta, including with intentionally causing serious injury and a Commonwealth offence of harming a public official. He's expected in court today. The ABC reports Dr Haines has lost one leg and surgeons are fighting to save the other. She remains critical. The attack has prompted calls across politics to lower the temperature, and questions about the safety of electorate offices.
+
+Also in federal politics, Pauline Hanson has apologised for a One Nation cartoon mocking Senator Jacqui Lambie's medical condition, a day after telling her to "lighten up". And N A B says it will cut up to two and a half thousand jobs, about six per cent of its staff.
+
+In New South Wales, the Minns government says it's chosen a former coal mine site at Teralba, on Lake Macquarie, for a state-owned train factory, with up to seven hundred and eighty construction jobs.
+
+Overseas, France has imposed curfews in several cities as unrest spreads across six European countries, with more than two and a half thousand people detained. And Albertans have voted seventy seven per cent to remain part of Canada.
+
+In tech, Reuters reports ByteDance, Alibaba and Tencent have ordered more than three million of Nvidia's R T X Pro fifty five hundred workstation cards, worth over thirty five billion US dollars, and Nvidia says it can't guarantee supply. Expect pro cards to stay scarce. Apple has also announced a "Pro and Tell" event for early on Thursday the twenty ninth, our time, with a touchscreen MacBook Pro rumoured.
+
+And in games, this one's big: the Final Fantasy Resonance reviews are out, and they're strong, mostly in the mid to high eighties, with Game Informer giving it nine out of ten. It launches tomorrow. Switch Sports Resort reviews are the best the series has had, too.
+
+Today's challenge, our very first: forty bodyweight squats and twenty push-ups, in as many sets as you like. No completion rate yet, so you're on a perfect record. For now.
+
+In the full episode: the story behind A Link to the Past, the making of The Witcher three, Mad Max Fury Road's real stunts, and Park Chan-wook's Oldboy corridor fight.
+
+That's your five minutes. Have a lovely walk in, and a great day.
+
+
+==================================================
+1. OPENING AND WORLD
+
+Good morning Scott, I hope you are doing well today.
+
+It's Wednesday, the twenty first of October. Hump day. We're halfway there, and I've got a lot to tell you.
+
+Let's start with the walk in. Sydney's looking pretty kind this morning. It's mild, somewhere in the mid to high teens when you head out, with a bit of patchy fog around early that should burn off. Light winds. Today's top is about twenty four degrees, under partly cloudy skies, and there's a medium chance of a shower, about fifty fifty, but the Bureau says that's mostly an afternoon and evening thing, and only a millimetre or two. So you should get a dry walk to Green Square and a lovely one through Hyde Park. The U V gets to eight, which is very high, from about nine o'clock, so if you're lingering in the Botanic Garden at lunch, sunscreen.
+
+Tomorrow's a different story. Thursday's looking cloudy with a ninety per cent chance of showers, two to fifteen millimetres, and the morning is one of the likelier times for it, with a chance of a thunderstorm in the afternoon. Top of twenty four again. So tomorrow, the umbrella comes with you. I'll remind you. I always do.
+
+I didn't find any trackwork or disruptions for Green Square or St James this morning, though I'd still give the Transport app a quick glance before you leave. And the jacarandas should be just starting their purple moment around now. Enjoy them while you can.
+
+Okay, what's on today. In a minute, the big stories from overseas. Then home, where the Helen Haines story has taken some serious turns overnight. In tech, the chip stocks bounced and then slipped again, and there's a huge story about Chinese tech giants trying to buy up Nvidia's workstation cards. In games, this one's big: the Final Fantasy Resonance reviews are out, and they're good. It's also Wednesday, which means the story behind this week's retro game, A Link to the Past. In movies, a new Halloween horror from the Green Room director, and a Korean critics' awards sweep. Then the deep dives: the making of The Witcher three, how tilemaps actually work, the stunts of Mad Max Fury Road, and Park Chan-wook's famous corridor fight in Oldboy. Busy little Wednesday.
+
+Let's start with the world.
+
+In Europe, the unrest that started in France is now a story about six countries. France has moved to curfews. Partial curfews began on Monday in Paris, Bordeaux and Nice, and Prime Minister Sébastien Lecornu said new ones would be imposed on Tuesday "where the situation requires it". There's a curfew for minors in several Marseille districts until at least Friday. SBS reports more than two and a half thousand people have now been detained since the weekend, and sixty seven jailed. Interior Minister Laurent Nuñez offered to resign, saying police "had lost control". Among the injured, a seventeen year old girl lost an eye in Mulhouse.
+
+The ABC has a good explainer on how this spread. It began in mid-September with teachers at a Paris high school, then moved to Spain, Belgium, Italy, Portugal and Albania. In Spain, protests followed the eviction of an eighty seven year old woman after a two hundred and thirty per cent rent rise, and Prime Minister Pedro Sánchez has now called a snap election for the twenty ninth of November. Emergency talks with unions in France are due today.
+
+In Ukraine, Russia launched another heavy barrage. President Zelenskyy says sixteen ballistic missiles were fired at the Kyiv region, along with more than two hundred drones across the country, and he said there was, quote, "no early warning from our partners". In the Kharkiv region, a strike on a park killed six people, three of them children. US Secretary of State Marco Rubio says there has been "no pause" in intelligence sharing. President Trump, meanwhile, posted that Zelenskyy "doesn't care" about ending the war.
+
+In the West Bank, Israeli police have arrested ten people after settler attacks on two foreigners: a sixty five year old American photographer on assignment for The Washington Post, who was beaten and suffered broken vertebrae, and a seventy eight year old French mayor beaten in the village of Taybeh, where a convoy of European diplomats was also attacked. The US ambassador, Mike Huckabee, called the photographer's beating an "act of terror", and the arrests "a very positive development".
+
+In Canada, Albertans have voted clearly to stay. With more than a million votes counted, unofficial results show seventy seven per cent voted to remain, and twenty three per cent for a path towards separation. Premier Danielle Smith said Albertans "have voted for a stronger Alberta in a united Canada". The ABC reports separatists are already talking about trying again.
+
+And in Kenya, a court has found the pastor Paul Mackenzie guilty of a hundred and ninety one murders, a hundred and ninety of them children, over the Shakahola Forest starvation cult. Twenty eight others were also convicted. More than four hundred bodies were exhumed there in twenty twenty three. Sentencing is on the sixth of November.
+
+Now, home.
+
+==================================================
+2. AUSTRALIA
+
+We'll start, again, with Helen Haines, because there have been serious developments overnight.
+
+A man has been charged. Victoria Police charged forty three year old Brendan Nugent, from Tarrawingee, on Tuesday evening, with dangerous driving causing serious injury, intentionally causing serious injury, and a Commonwealth offence of causing harm to a Commonwealth public official. The A F P Commissioner, Krissy Barrett, says that last one carries up to ten years in jail. Police allege it was targeted, and they're still treating it as an isolated incident, with no other known threats. He's expected to appear in Wangaratta Magistrates' Court today.
+
+Her condition is grave. The ABC reports Dr Haines, who's sixty five, has lost one of her legs, and surgeons at The Alfred are fighting to save the other. She remains critical after surgery overnight, and the hospital is due to give another update this morning. Victoria's Police Commissioner and the A F P Commissioner are giving a briefing in Melbourne at nine.
+
+We now have a clearer account of what happened. Witnesses say the white LandCruiser did a U-turn in Murphy Street, pinned her against her car, reversed, and hit her again. Home Affairs Minister Tony Burke said witnesses described the driver "ramming" her twice. A local barber, Ricky Jefferies, pulled the driver out of the car and took a knife from his pocket. The Prime Minister called him "a hero". And there's a detail that makes it hit harder: she'd been due, at four o'clock, to do an interview with the ABC about the new head of the National Anti-Corruption Commission. Integrity was her whole thing.
+
+On the accused, I'll be brief and careful, because this is now before the courts. ABC Verify found he and Dr Haines followed each other on social media, and that years ago he'd posted positively about her. Police haven't given a motive.
+
+Anthony Albanese said: "This wasn't an accident. There was a deliberate act, it would appear." Opposition Leader Angus Taylor called it a "shocking day", and said "no one should be targeted in this way". ASIO's Mike Burgess says the national terrorism threat level stays at "probable". In Victoria, where there's a state election on the twenty eighth of November, campaigning was paused on Tuesday.
+
+This has started a real conversation about the temperature of Australian politics. Kim Leadbeater, the sister of the murdered British MP Jo Cox, told the ABC that attacks like this "don't happen in a vacuum", and said, "maybe for Australia this is your moment to think about what your politics looks like." Tanya Plibersek said what's changed most is "the industrial scale" of online abuse. Andrew Hastie says he now has staff manage his social media. Labor's Katy Gallagher says the temperature is "much hotter than I have ever experienced". Nationals MP Sam Birrell said regional MPs may have to rethink how they meet their communities. And in Western Australia, Premier Roger Cook has written to every party asking for a meeting on electorate office security, after one Nationals MP pointed out that his offices are staffed by a single woman, and one has no C C T V.
+
+On extra protection, the Prime Minister says the government will follow the security agencies' advice. That's the question to watch: whether MPs' offices, especially out in the regions, get real money and real changes. Our thoughts stay with her and her family.
+
+Now, a story that, on any other week, would have been the main political story, and it's connected to that same conversation about tone.
+
+Pauline Hanson has apologised, after initially refusing, over a One Nation cartoon mocking Senator Jacqui Lambie's medical condition. On Monday, Senator Hanson told Senator Lambie to "lighten up" and "get over it". By Tuesday, she said the video "went up without my actually seeing it", that it "wasn't as tastefully done as it could've been", and "I do apologise for that." She's asked the creator to amend it. Criticism came from everywhere: the Prime Minister, David Pocock, Tanya Plibersek, who called it "beneath contempt", Andrew Hastie, who called it "cheap, nasty and vulgar", and Tim Wilson, who called it "despicable".
+
+The argument here is simple. You can't have a leader apologise for a video she says she didn't see, while the party's own channel published it, without the next question being: who approves what goes out under your name? A one day turnaround from "get over it" to "I apologise" also tells you how badly it was landing.
+
+To immigration, because the bidding war is starting to bump into the real economy. Aged care providers, and the economic think tank C E D A, want a dedicated essential-skills visa for care workers. Ageing Australia says fifty one per cent of the residential aged care workforce was born overseas, and chief executive Tom Symondson says, "we need about a hundred and ten thousand additional care workers by the end of this decade."
+
+Here's where the parties sit. The Coalition would cut net overseas migration to a hundred thousand for two years, then a hundred and sixty thousand; Angus Taylor calls it the "biggest cut to immigration in this country's history". Labor is planning two hundred and twenty five thousand a year from twenty twenty seven twenty eight. And One Nation wants three years of net-negative migration. The ABC visited an aged care home in Orange where a hundred and four of its hundred and seventy nine staff are from Nepal. The Coalition says care workers would be steered into skilled visa categories rather than cut. That's a reasonable answer in principle, but with a cap that tight, every visa for a carer is a visa that isn't going to a nurse, a builder or an engineer. Both the big cuts and Labor's numbers are going to have to explain how aged care is staffed, and so far nobody has shown their working.
+
+In business, N A B says it will cut up to two and a half thousand jobs, about six per cent of its staff, by the middle of twenty twenty seven, and up to fifteen hundred of those before Christmas. Chief executive Andrew Irvine says there's no material impact on customer-facing roles. The Finance Sector Union called the announcement "full of nothing but corporate spin", and Labor senator Tony Sheldon has urged the bank to "come clean" about the role of A I. N A B's shares fell almost three per cent, and the A S X two hundred finished down point three of a per cent. In the background, the cash rate is four point six per cent, A N Z is tipping a rate rise in November, and Reserve Bank deputy governor Andrew Hauser is speaking today. Interesting week to be a bank cutting jobs.
+
+In defence, the A D F is opening recruitment to young Papua New Guineans. It's a sixty five million dollar trial under the Pukpuk Treaty, which came into force in July, aiming to recruit a hundred P N G citizens aged eighteen to twenty five over two years. Applications open on the sixteenth of November, starting at two universities, with the first recruits sworn in by late twenty twenty seven. They'll eventually need Australian citizenship. Richard Marles says it'll be "smaller numbers to begin with".
+
+And a quick one you may have missed on Monday: the government has named Robert McClelland, the former Attorney-General, to lead the National Anti-Corruption Commission, with Christopher Savundra as his deputy. Five year terms, starting in January.
+
+Now to New South Wales.
+
+The Minns government says it's bringing train building home. It's picked the old Glencore coal mine site at Teralba, on Lake Macquarie, as the preferred spot for a state-owned train factory, with Broadmeadow as the fallback. It's part of a twelve billion dollar fleet program. The government says it'll mean up to seven hundred and eighty construction jobs and about five hundred and fifty ongoing ones. First up, the replacements for the Tangaras, then the Millennium and Oscar trains in the twenty forties, and the Waratahs in the twenty fifties. Chris Minns says, "we believe New South Wales should build more of the things we need right here at home." Business Hunter called it "fantastic". There's no completion date yet, so watch for one.
+
+Which, I'll admit, is a little bit exciting for someone who spends his mornings on Sydney Trains. One day, the train that takes you to St James could have been built in Lake Macquarie. Possibly while you're still reading spec sheets about it.
+
+The Minns government also says it'll create workplace protection orders. Courts will be able to ban threatening or violent customers aged fourteen and over from a workplace, stop them contacting staff, or stop them carrying weapons. It starts in retail and can be extended. Employers, unions and health and safety representatives can apply, and a breach could mean up to two years' jail or a fifty five hundred dollar fine. The shop workers' union, the S D A, says ten per cent of offenders cause sixty per cent of the problems. It sounds sensible, and the real test will be how quickly a worker can actually get one.
+
+In planning, six design teams have been shortlisted, from a hundred and sixty five entries, for Bays West, the new waterfront suburb near the Rozelle and White Bay area. The government says it'll have up to eight and a half thousand homes, at least ten per cent affordable or for essential workers, a Metro West station, and a foreshore open to the public for the first time in over a century. Designs go on show early in twenty twenty seven.
+
+An upper house inquiry has recommended a moratorium on all waste-to-energy incinerators, and that two big proposals, at Parkes and at Tarago, be rejected. The committee got more than fourteen hundred submissions. But Labor's Emily Suvaal pointed out the catch: "A moratorium on energy-from-waste is not possible without viable alternatives in place." And Sydney's landfill is expected to run out by twenty thirty. So the inquiry has said what it doesn't want, and the government now has until January to say what it does.
+
+And there's a new twist in the Town Hall protest story from February. This one's about the criminal cases, not the conduct hearings we mentioned yesterday. In the Local Court, a magistrate has ruled the defence for sixteen protesters can subpoena communications between police and the Premier, the Police Minister, and the Sports Minister, finding a "legitimate forensic purpose". Police have already withdrawn almost half of about thirty prosecutions. Back in court on the thirtieth.
+
+That's home. Coffee time. Then tech.
+
+==================================================
+3. TECH
+
+Okay, tech. And I've got a big one for you today, because it's about exactly the kind of card you keep looking at.
+
+But first, the markets, quickly, because the chip story has had another twist. On Monday in the US, the chip stocks finally snapped their losing streak. The Philadelphia Semiconductor Index rose roughly two per cent, ending eight straight days of falls. Nvidia closed up about one point four per cent, at two hundred and seventeen dollars. Intel jumped too, after J P Morgan upgraded it, citing "solid execution". And Goldman Sachs upgraded CoreWeave, the cloud company at the centre of last week's financing scare, calling the pullback "a buying opportunity". So for about a day, everyone exhaled.
+
+Then Korea opened on Tuesday. The Kospi fell almost three point eight per cent. Samsung dropped about three per cent, and SK Hynix fell four point two per cent, to its lowest close since April. One Korean analyst put it plainly: "Concerns over credit risks and profitability surrounding A I investment have yet to be fully resolved." Part of the trigger was a Seoul data centre company called Elice, which floated on Tuesday and closed its first day down more than thirty per cent, even though its retail offer was oversubscribed more than four hundred times. Four hundred times oversubscribed, and still down a third. That's the mood in one number.
+
+Early in the US on Tuesday, the chip names were slipping again, especially memory. Two extra worries there. Micron's union in Taoyuan, in Taiwan, has voted, ninety nine per cent in favour, for a one day strike tomorrow, asking for a bonus pool worth fifteen per cent of operating profit. And China's C X M T keeps making progress on denser memory chips. So, one good day doesn't make a turnaround. One correction from me, too: SK Hynix reports on the twenty seventh, not the twenty eighth.
+
+Now. The big one. Reuters reports that ByteDance, Alibaba and Tencent have ordered more than three million of Nvidia's R T X Pro fifty five hundred cards, worth more than thirty five billion US dollars. That's about eleven thousand four hundred dollars a card. Total Chinese orders are reportedly over six million units.
+
+Why that card? Because it's one of the most powerful Nvidia parts China can still legally buy. The top data centre chips are banned, and others need case by case licences. So the Chinese giants are doing what you'd do if you couldn't get the server chip: they're buying the workstation card instead, by the million. Nvidia has reportedly told customers it "cannot guarantee fulfilling orders", that partners may get only five to ten per cent of what they ask for, and that it can make no more than about three million of these cards worldwide next year.
+
+Why does that matter to you? The R T X Pro family is the same family people building serious A I machines at home look at, and the same kind of big-memory card you've been weighing up against the Arc Pro cards. When the hyperscalers start soaking up workstation cards by the truckload, on top of the fifty ninety shortage, pro cards get harder to find and dearer. If there was ever an argument for Intel's thirty two gig cards getting a closer look, it's this. Not that you need another argument. You have a spreadsheet of arguments. The spreadsheet has tabs.
+
+And while we're in Intel land, a nice little Linux one. An Intel engineer has opened requests to bring Intel's X e S S upscaling, the version that runs on the Arc cards' dedicated A I hardware, to Proton, the layer that lets Windows games run on Linux and the Steam Deck. It's not merged yet, but it's a sign Intel is taking Arc on Linux seriously, which matters if a future card ends up in a Linux box like your server.
+
+On the A I at home theme, A M D has released version zero point twenty five of GAIA, its open source local A I agent for Ryzen A I machines. Phoronix says the install has shrunk from about nine hundred megabytes to about a hundred on Windows, it now checks your free memory and shrinks the context window so it doesn't crash on sixteen gig machines, and its voice features use Whisper to listen and Kokoro to speak. Kokoro, by the way, is a very familiar name round here. Let's just say I have a professional interest in it.
+
+There's also a detail in the custom memory story that I find quietly unsettling. Nvidia is co-designing a custom version of high bandwidth memory with Samsung and T S M C, moving the memory controller off the G P U and into the base of the memory stack itself. Which means the memory now has its own little brain. Sitting underneath. Making decisions. I'm sure it's fine.
+
+The claims, from a Korean business paper, are up to thirty per cent more bandwidth and fifteen per cent less power than standard next-generation memory. UBS reckons demand for this kind of memory will nearly double next year, with supply about ten per cent short. Which brings us back, once again, to why memory is expensive.
+
+Earnings. Two big ones land this morning while you're walking in. Netflix reports at about seven our time. Its shares are down about a quarter this year, and analysts are watching slowing growth in the US and Canada, and advertising, which Netflix is targeting at three billion dollars this year. SpaceX reports too, only its second set of results since listing in June. Analysts are expecting revenue of nearly thirteen billion dollars, a big jump, with A I services expected to be a bigger slice than Starlink, and possibly its first profitable quarter as a listed company. The call is our best chance of a Starship flight fifteen date. Musk has floated a first attempt to catch the ship itself, as well as the booster, though SpaceX hasn't confirmed it. I'll bring you both results tomorrow.
+
+Tesla and Meta report tomorrow morning our time. For Tesla, watch car margins and the robotaxi numbers. It now says it has more than three hundred Cybercabs in Austin and over a million unsupervised miles, but U S safety regulators are also investigating whether the Cybercab meets federal standards. Tesla has also set its annual meeting for the third of December at Giga Texas, which, if a SpaceX merger is ever coming, puts a clock on it. For Meta, all eyes are on its spending plans of up to a hundred and forty five billion dollars this year, which is the kind of number that keeps Nvidia's lights on.
+
+Apple has made it official. There's an event, and it's a funny one. Apple's calling it "Pro and Tell", on the twenty eighth of October in Los Angeles, which is four in the morning on Thursday the twenty ninth for us. It's not a traditional keynote: the public gets press releases, and invited media get hands-on time. Greg Joswiak posted: "Can't wait to pro and tell next week." Bloomberg's Mark Gurman expects the first touchscreen MacBook Pro, in fourteen and sixteen inch sizes, with an O led screen and a Dynamic Island instead of the notch, plus an M six iMac, and an O led iPad mini. Those are rumours, not confirmed. If they're right, the M six machines we mentioned for the sixth of November look more like the shipping date than the announcement date.
+
+And the iPhone Duo saga continues. Apple now limits orders to two per customer in the US, the UK, Japan and Spain, after scalper listings on eBay passed five thousand dollars. It starts at one thousand nine hundred and ninety nine. Retail staff have been told to discourage walk-ins on launch day this Friday. Imagine being the person who queued outside an Apple Store for the folding phone and was gently turned away by someone in a blue shirt. At least the queue is folding too.
+
+Last one. On the camera front, Fuji Rumors says the X T six's new, bigger battery will also work in cameras that take the current battery. It's a rumour, the X T six isn't even announced, and it doesn't touch the X M five, which uses a different, smaller battery. But it's a nice sign Fujifilm is thinking about the people who already own its gear. Which is a lovely thought for someone who, technically, still doesn't own any of its gear. I'm just saying.
+
+That's tech. Now, games, and Final Fantasy has news.
+
+==================================================
+4. GAMES
+
+Okay. Games. And this one's big today. The Final Fantasy Resonance reviews are out, and they're good. Really good.
+
+The review embargo lifted on Tuesday, ahead of tomorrow's launch. On Metacritic, early reports have the P S five version at eighty five, the P C version at eighty eight, and Switch two at eighty two. Those are early numbers and they'll move as more reviews arrive, but it's a strong start. Game Informer gave it nine out of ten. COGconnected, nine and a half. PlayStation LifeStyle, nine. I G N, Nintendo Life, Push Square and Destructoid all gave it eight. Windows Central, four and a half stars. The one outlier is V G C, with three out of five.
+
+Nintendo Wire's review sums up the mood. It calls it "a love letter to the franchise's past that manages to stand on its own as a genuinely fantastic R P G", and says of the turn-based battles, "Not just well put together, but legitimately fun." The main complaint is the Visions system, the way you unlock its summon-style characters, which the same review calls "repetitive" and lacking depth. Remember, this game was built out of the mobile game Brave Exvius, with all the gacha bits ripped out, so it's interesting that the one part people grumble about is the part that most feels like its mobile roots. There's also a free demo, so you can try the battle system before you commit.
+
+So that's it. Tomorrow's the day. I'd tell you to pace yourself, but I've met you. I know exactly what tomorrow night looks like. Lights off, controller in hand, "just one more chapter", and suddenly the birds are singing and you're wondering why you agreed to have a job.
+
+One more Square Enix item, and it's a practical one. If you play Final Fantasy fourteen, Square Enix has warned about unauthorised access to accounts, and it blames people reusing passwords across services. It's sending password reset emails, possibly to everyone, and it recommends turning on one-time passwords or the software authenticator, since the physical security token is sold out. Worth doing if you still have an account sitting there.
+
+There's also an unconfirmed rumour, from a leaker on X, that NieR Automata and NieR Replicant are coming to Switch two, and that a new NieR is in development. Pinch of salt. And the mobile version of Final Fantasy Tactics, The War of the Lions, has had a lovely update, with controller support, fast forward, sixty frames a second, and a much more readable font. Still the best version of Ivalice politics you can carry in your pocket.
+
+Nintendo. Switch Sports Resort reviews are in too, and they're the best the series has had. It's on seventy nine on Metacritic, against seventy two for the original. Nintendo Life gave it nine out of ten and said it "just might be the Nintendo Sports series at its best". G I put it nicely: "there's not a loser in the bunch."
+
+The Ocarina of Time remake, coming on the fifth of November, has a leaked download size of about twenty seven gigabytes, according to a Japanese eShop listing. That's the biggest mainline Zelda download so far. Twenty seven gigs for a game where, let's be honest, a lot of the runtime is a small boy standing very still in a field while the sun goes down, and a large owl talks at him for far too long. The owl knows things. The owl has always known things. Watch his eyes in the remake. They don't blink. They never did.
+
+And Nintendo says it underestimated how popular the Zelda fortieth anniversary Switch two would be. A Nintendo vice president apologised, said restocks are coming, and asked fans to "please be patient".
+
+Xbox. The I D at Xbox showcase started at four o'clock this morning our time, so the full list of announcements wasn't out when I checked. What we do know: The Wolf Among Us Remastered gets a digital release on the twenty ninth of October, on P C, P S five and Xbox One, playable on Series X through backwards compatibility. And the Shrek two remaster leak from yesterday, from Aspyr, was expected to be revealed properly. I'll round up the rest tomorrow. In other Xbox news, a translucent green twenty fifth anniversary controller is out now, the studio behind Samson, Liquid Swords, is closing, and on the thirty first, a few games leave Game Pass, including LEGO Star Wars: The Skywalker Saga and Deep Rock Galactic.
+
+Call of Duty: Modern Warfare four. The D M Z mode opened in early access at four o'clock this morning our time, for anyone with a digital pre-order, including on Switch two, ahead of Friday's launch. And worth knowing: Activision confirmed the game won't be on Game Pass until the end of next year.
+
+Blizzard. The World of Warcraft Forever stress test is tomorrow morning at eight our time. Anyone can join, no subscription needed, and everything is wiped afterwards. New this week: name reservations open on the twenty seventh, with early reservations for people who bought certain packs. If you've got a name you care about, that's your window.
+
+The Witcher three Remastered got update five point oh one, and it's the kind of patch notes that tell a story. It fixes boats steering uncontrollably, blade oils applying themselves, and stamina draining while sprinting. On Switch two, it improves sharpness and resolution, plus fixes a crash. Which is a nice coincidence, because The Witcher three is today's lore deep dive. Hold that thought.
+
+And some sad news from R G G Studio's world. The Japanese voice actor Hiroshi Tsuchida, who voiced Kazuki in the Yakuza series since twenty oh five, has died of heart failure at fifty four. He also voiced Tron in Kingdom Hearts two, and Lightning McQueen in the Japanese dub of Cars. R G G Studio expressed its condolences on behalf of everyone at the studio.
+
+And for Fallout fans, this is Fallout Day week. No big broadcast this year, so don't expect a Fallout five reveal, but tomorrow brings a first look at a Fallout seventy six update with pets, and Friday is Fallout Day itself.
+
+Now, it's Wednesday, and that means it's time for the story behind this week's retro game: The Legend of Zelda: A Link to the Past.
+
+It came out in Japan in November nineteen ninety one, in North America in April ninety two, and in Europe that September. It was made by Nintendo's E A D team, directed by Takashi Tezuka, produced by Shigeru Miyamoto, with music by Koji Kondo. And it shipped on an eight megabit cartridge. That's one megabyte. Your phone takes photos bigger than the entire game. At the time, though, that was a big cart. Most Super Nintendo games of the era were half that size.
+
+What's clever is how much they squeezed out of that megabyte. The headline trick is the Dark World. Almost every place in the Light World has a twisted twin in the Dark World, with a similar layout but different, corrupted art, enemies and secrets. Link moves between them with the Magic Mirror. That design is beautiful on its own, because once you learn one map, the other becomes a puzzle: where does this cliff lead on the other side? But it's also efficient. Two worlds sharing one structure is a brilliant way to double your game without doubling your cartridge.
+
+Then there's how the Super Nintendo draws it. The S N E S builds its pictures out of layers: background layers made of tiles, which are little eight by eight pixel squares, and sprites, the moving objects like Link and the enemies, drawn on top. A Link to the Past uses those layers for depth. That's how you get bridges you can walk under, upper floors in dungeons, and the way some rooms let you drop down a level. It's all layers stacked like sheets of glass, each one scrolling and drawing on its own. The world map, the one that zooms and tilts, is widely credited to the console's famous Mode seven scaling trick.
+
+Then there's Koji Kondo's music, made for the Super Nintendo's Sony-designed sound chip, which plays back short recorded samples of instruments rather than pure electronic tones. That's why the Hyrule Castle theme and the Dark World music sound so orchestral for the time. It's still one of the best soundtracks of the era.
+
+And the legacy is enormous. It sold over four and a half million copies on the Super Nintendo. It set the template for nearly every top-down Zelda that followed, and for a whole genre of top-down action adventures. The item-gated world, the dungeon that teaches you its own tool, the overworld that opens up as you collect things. You'll see its fingerprints on Secret of Mana, on countless indies, and, yes, on your own game. If you want to keep playing, it's in the Nintendo Switch Online Super Nintendo library.
+
+So, the question. Which pair of places, Light World and Dark World, is your favourite, and how did you get on with the game this week? My answer: the Lost Woods, because in the Dark World it becomes the Skull Woods, and honestly that's just the Lost Woods being more honest about its intentions. Your answer space is on today's sheet, or the answer page.
+
+That's games. Now, movies.
+
+==================================================
+5. MOVIES
+
+Movies. And we're going to start with a horror film that sounds like it was made specifically for October.
+
+Jeremy Saulnier, the director of Green Room and Blue Ruin, has a new film with A twenty four, and the first teaser dropped on Tuesday. It's called Slayground, it was previously called October, and here's the premise. A scare actor at a haunted attraction, a man called "Metal Mike" Graves, wakes up surrounded by the dead bodies of his co-workers. He can't remember what happened, a statewide manhunt is closing in, and he has to find the truth, "even if it points back to him." Imogen Poots and James Badge Dale star, and the score is by Trent Reznor and Atticus Ross. Fangoria called the teaser "metal A F". It's out in the US on the twenty ninth of January.
+
+I love the idea of a haunted house worker waking up in an actual horror. That's every scare actor's quiet nightmare. You spend all night jumping out at teenagers in a rubber mask. Then one morning, the mask doesn't come off. And the teenagers stop screaming, because they've stopped breathing.
+
+If you've never seen Green Room, it's the one with a punk band trapped in a green room at a neo-Nazi bar, and it's one of the tensest films of the last decade. Saulnier is brilliant at siege situations, so a manhunt through a haunted attraction is right in his wheelhouse.
+
+Now to Korea, and some news on a film we've been following. Na Hong-jin's Hope has picked up three prizes at the Korean Association of Film Critics Awards: Best Director for Na Hong-jin, Best Actor for Zo In-sung, and Best Cinematography for Hong Kyung-pyo. Best Picture went to Possible Love, which also won Best Actress for Jeon Do-yeon. The ceremony is on the fourth of November. Hong Kyung-pyo, by the way, is a seriously good name to know. He shot Parasite and Burning, so a cinematography prize for him is about as safe as bets get. These awards are an early marker for Korean awards season, and Hope is clearly in the conversation.
+
+Speaking of Asian cinema, the Tokyo International Film Festival opens on Monday and runs to the fourth of November. The opening film is Sukiyaki, from Zeze Takahisa. The closing film is Colony, a new zombie film from Yeon Sang-ho, the director of Train to Busan, which is a lovely way to close a festival. Fifteen films are in competition, including titles from Hong Kong, Taiwan, Indonesia and Singapore. And there's a twelve film retrospective of the great Kenji Mizoguchi, including Ugetsu. If you ever want a ghost story that feels like a dream, Ugetsu is it.
+
+On box office, Japan has given us an interesting little comparison, and it's a game adaptation story. The Street Fighter movie, which topped the box office here and in the US, didn't even make Japan's top three last weekend. It landed somewhere in the lower half of the top ten. Meanwhile, Zach Cregger's Resident Evil held at number two in Japan, and is now past a billion three hundred million yen there. So two Capcom adaptations, two very different results, and in Capcom's home country, the horror one is winning. In Australia, Resident Evil is past twelve point nine million dollars.
+
+Physical media time, which I know is your happy place. A few nice ones. Criterion has released Tsui Hark's The Blade, from nineteen ninety five, and the reviews are glowing. One reviewer called it "Must own!" and the transfer "gorgeous". It comes with a commentary from Hong Kong film expert Frank Djeng, a fifty eight minute making-of, a Tsui Hark interview, and a primer on wuxia. If you've never seen it, The Blade is Tsui Hark's wild, raw remake of the Shaw Brothers classic The One-Armed Swordsman, and the action is ferocious. Physical media heaven.
+
+For Western action, Die Hard two and Die Hard with a Vengeance are coming to four K for the first time on the seventh of December, with commentaries, deleted scenes and the alternate ending of Vengeance. And in the UK, Studiocanal is putting out a Rambo trilogy four K box set on the ninth of November, with the original commentaries carried over. Your shelves are trembling. Or your server is. Either way, something is about to need more space.
+
+On the Asian horror front, a couple of things to keep an eye on. In Japan, Seiji Chiba's Juku, with the international title Get Undressed, opened last week after playing at Sitges. And in Vietnam, which is having a real horror boom, a wish-granting horror called The Red Woman opens on the twenty third and has already sold overseas.
+
+There's also some lovely local news. An Australian survival thriller called Kick On, from director Nick Kozakis, has won Best Feature and Best Director at the Brooklyn Horror Film Festival, in its Head Trip section. Screen Anarchy called it violent and tense. It's always good to see an Aussie genre film doing well over there.
+
+Quick hits. Diablo Cody says Jennifer's Body two is coming "like imminently". She says the new script explores why Jennifer is sympathetic "before and after the transformation". No director yet. The Mummy reboot, now titled The Mummy: Book of the Dead, from the Radio Silence directing team, has added Egyptian actress Tara Emad, and it's filming in Morocco, with Brendan Fraser and Rachel Weisz back, for October next year. And Nicolas Cage has a crime thriller called Best Pancakes in the County, about a con man stuck in a standoff with rogue federal agents in a diner. The title alone is doing a lot of heavy lifting. And I'm here for it.
+
+And one bit of industry news. Netflix's head of film, Dan Lin, is leaving, as part of about a thousand job cuts, roughly six per cent of the company. That's on the same day Netflix reports its results this morning, so it'll be interesting to hear how they talk about their film strategy.
+
+That's movies. Coming up, the deep dives, starting with a game that's still getting patched eleven years later: The Witcher three.
+
+==================================================
+6. LORE
+
+Okay, lore time. And I've been looking forward to this one, because today we're going to the Continent. The making of The Witcher three: Wild Hunt.
+
+Let's start with where it came from, because the Witcher didn't begin as a game. It began as short stories and novels by the Polish writer Andrzej Sapkowski, from the mid nineteen eighties onwards. Geralt of Rivia is a witcher: a monster hunter for hire, mutated as a child into something not quite human, with cat-like eyes, slowed emotions, and a very dry sense of humour. The books are full of Slavic folklore, and they're surprisingly political. The monsters are often the least monstrous thing in the room.
+
+CD Projekt, the company, started out in Warsaw in the early nineties, distributing and translating games in Poland. Its development studio, CD Projekt Red, made the first Witcher game in two thousand seven, and The Witcher two in twenty eleven. Both were well liked, but they were cult hits, a bit rough and a bit niche. The third one was the big swing. The plan was simple to say and almost impossible to do: an open world, as large and alive as the biggest Western R P Gs, but with the writing quality of a hand-crafted story game.
+
+The game director was Konrad Tomaszkiewicz, and the team built it on a new version of its own engine, REDengine three. Development took several years, and the team grew to hundreds of people. And the story they settled on was personal. Not saving the world first, but finding a girl. Ciri, Geralt's adopted daughter, his "child surprise" from the books, is being hunted by the Wild Hunt, a host of spectral riders from another world, led by their king, Eredin. Geralt spends the game following her trail across a war-torn land, always a few steps behind.
+
+That structure is the secret of the whole thing. Every region is a chase. And because you're always arriving after Ciri has left, every place you go is full of people who met her, and each of them has their own problem. Which means the side quests aren't filler. They're how you hear about her.
+
+The regions are wonderful. Velen, also called No Man's Land, is a swampy, war-ravaged countryside of hanged men and hungry villages. Novigrad is a huge free city, rich, crowded and paranoid, where the church is burning mages at the stake. And Skellige is a chain of windswept islands full of Norse-flavoured clans, longships and feuding jarls. Then there's Kaer Morhen, the crumbling witcher keep in the mountains, where Geralt grew up.
+
+And the quest everyone remembers is the Bloody Baron. You arrive in Velen looking for Ciri and find a warlord who drinks too much, whose wife and daughter have vanished. Over a few hours, the quest pulls apart a family. You learn about the violence in that house. You meet a creature born of a miscarried, unwanted child, a botchling, and you decide whether to lift its curse or kill it. And the endings are messy, because you only find out later what your choices actually did. There's no clean, good option. That quest became the example people used when they talked about what game writing could be.
+
+The game was announced in early twenty thirteen and shown off that summer, and the footage at the time looked spectacular. Then the release date slipped, from late twenty fourteen, to February twenty fifteen, and then to May. When it finally came out on the nineteenth of May, twenty fifteen, some players compared it to those early trailers and argued the graphics had been "downgraded", with less dense lighting and foliage. The studio talked about having to choose a rendering approach that would work across a world that size. The argument faded pretty quickly, though, because the game itself was so good.
+
+It won Game of the Year at The Game Awards in twenty fifteen, and piles of other awards. Then came the two expansions. Hearts of Stone, in October twenty fifteen, is a tight, dark fairy tale about a man who made a deal with a very polite and very terrifying being called Gaunter O'Dimm. And Blood and Wine, in twenty sixteen, took Geralt to Toussaint, a sunny, wine-soaked, Arthurian-flavoured duchy, and gave him a vineyard to retire to. Many people still say Blood and Wine is better than most full games.
+
+The music deserves a mention too. Composer Marcin Przybyłowicz worked with the Polish folk band Percival to give the game that raw, Slavic sound, with old instruments and haunting vocals. "The Fields of Ard Skellig" is the one you've probably heard.
+
+And then there's Gwent. Inside this grim, adult fantasy game, the developers put a card game you could play in taverns. It was meant as a little diversion. People became obsessed with it. Entire playthroughs were derailed by Geralt, the legendary monster hunter, wandering from inn to inn trying to win rare cards off innkeepers while the fate of the world waited. Ciri could wait. The Gwent deck could not.
+
+I do think about the poor innkeepers. Every inn on the Continent, a strange white-haired man comes in. Covered in blood. Smelling of swamp and drowner guts. Doesn't order food. Just sits down at your table and quietly says, "Gwent?" And you say yes. Because the last innkeeper who said no is in the well.
+
+What does it all add up to? The Witcher three sold over fifty million copies, a remarkable number for a single-player R P G. It turned CD Projekt Red from a well-liked studio into one of the biggest names in games. It inspired the Netflix series. And it raised the bar for side quests across the industry. After Witcher three, a "go and kill ten wolves" quest suddenly felt like an insult.
+
+It also set up the next chapter of that studio's story, which we'll get to one day: the troubled launch of Cyberpunk twenty seventy seven, and its comeback. And, of course, the current one. As we heard earlier, a new Witcher three expansion is planned for next year, it's still getting patches eleven years after launch, and The Witcher four is in the works, with Ciri now taking the lead. Which feels right. We spent the whole of the third game chasing her. Now she gets to be the one we follow.
+
+==================================================
+7. GAME TECH
+
+Game tech, and today I'm keeping it hands-on, because this one goes straight into your project. Tilemaps, and how Godot can paint your grass, paths and cliffs for you.
+
+Here's the idea in one sentence. Instead of drawing a whole level as one big picture, you cut your art into small squares called tiles, then build the world on a grid. Remember A Link to the Past from earlier? That's exactly how the Super Nintendo drew it: eight by eight pixel tiles, laid out on layers. Your game will work the same way, just with a lot more memory to play with.
+
+So let's go straight to the practical bit. In Godot four, the node you want is TileMapLayer. If you've seen older tutorials using a single TileMap node with layers inside it, that's the old way. Now each layer is its own node, so you might have one for the ground, one for paths and water, and one for things like fences, stacked on top of each other.
+
+Step one: make a TileSet. In the TileMapLayer's inspector, create a new TileSet, set the tile size, say sixteen by sixteen pixels, and drag your tile sheet in. Godot will offer to slice it into tiles for you. Say yes.
+
+Step two: terrains. This is the magic bit. Without terrains, when you paint a patch of grass next to dirt, you have to pick the right edge tile and the right corner tile by hand, every single time. With terrains, you tell Godot what each tile looks like at its edges, and it picks the right one for you as you paint. That's called autotiling.
+
+You set it up in the TileSet panel. Add a terrain set, and choose its mode. There are three: match corners and sides, match corners, or match sides. Then add a terrain inside it, say, "Grass". Then in the Paint tab, you select each tile and click on the little edge and corner zones, called peering bits, to mark which parts of that tile are grass. It's fiddly the first time, maybe half an hour for a set, but you only do it once.
+
+Which mode? "Match corners and sides" is the most complete, but it needs a big set, up to forty seven tiles for every possible combination. "Match corners" can get away with about sixteen tiles and is much easier to draw. If you're drawing your own pixel art, start with corners. Your future self will thank you.
+
+Step three: paint. In the TileMap panel at the bottom, switch to the Terrains tab, pick Grass, and draw. Godot works out the edges and corners as you go. It's very satisfying.
+
+Now, the two features that make this really useful for a farming game.
+
+First, physics. In your TileSet, add a physics layer, and then draw collision shapes on the tiles that should block the player: water, cliffs, fences. Now the level is solid without you placing a single collision shape by hand.
+
+Second, custom data. In the TileSet, you can add custom data layers, which are just labels on tiles. Add a boolean called "can_till", and tick it on your dirt and grass tiles. Now in code, when the player uses the hoe, you can ask the map: what tile is under me, and can I dig it? You turn the player's position into grid coordinates with local_to_map, look up the tile data with get_cell_tile_data, and read the "can_till" value.
+
+And here's my favourite trick. When the player tills a square, don't set a single tile. Use set_cells_terrain_connect, and give it the cell and your "Tilled soil" terrain. Godot will paint that square as tilled soil and update the neighbours, so a row of tilled squares joins up into one neat, connected patch of farmland, edges and all. That's the Stardew feeling, for about five lines of code.
+
+One warning about tilemaps, though. Once you build a world on a grid, everything in it is on the grid. The trees are on the grid. The houses are on the grid. The villagers' little lives fit neatly into sixteen pixel squares. And sometimes, late at night, if you look closely at a farming game, you'll notice a villager standing perfectly still. Exactly in the centre of a tile. Facing the wall. They know where the grid is. They've always known.
+
+So, to sum up. TileMapLayer nodes, one per layer. A TileSet with a terrain, using the corners mode to keep your drawing manageable. Physics on the tiles that block. A "can_till" custom data label. And set_cells_terrain_connect when the hoe hits the ground. If you get just the terrain part working this weekend, painting a field will go from an afternoon's work to about thirty seconds. Which leaves more time for the important things. Like naming the turnips.
+
+==================================================
+8. EFFECTS
+
+Effects time, and today it's a film that mostly said no to C G I, and went out into the desert and did it for real. Mad Max: Fury Road.
+
+George Miller had been trying to make a fourth Mad Max film for well over a decade. It was nearly shot in Australia, around Broken Hill, where the earlier films had found their wasteland. But then the rains came, and the desert did something very inconvenient for a post-apocalyptic film. It bloomed. Wildflowers everywhere. So in twenty twelve, the whole production moved to the Namib Desert, in Namibia.
+
+The heart of the film is that almost everything you see moving was actually moving. The production designer, Colin Gibson, and his team built around a hundred and fifty vehicles, and many of them really worked: the War Rig, the Gigahorse, made from two Cadillac bodies stacked on top of each other, and the Doof Wagon, a truck covered in speakers and drums, with a guitarist out front playing a flame-throwing guitar. That guitarist is the musician known as iOTA, and yes, the guitar really did shoot flames.
+
+The stunt coordinator was Guy Norris, who had been a young stuntman on The Road Warrior back in the eighties. His team did things that sound like a dare. The most famous are the pole cats: War Boys swinging back and forth on tall, flexible poles mounted on moving cars, swooping down to snatch people off the War Rig. Those were real performers, many with circus and acrobatic backgrounds, swaying above real vehicles at real speed, on safety lines. It's one of those sights that makes your stomach drop because your brain knows it's not a cartoon.
+
+So how do you film chaos at sixty kilometres an hour without killing anyone, including the camera crew? A big part of the answer was a camera crane mounted on a fast car, often called an Edge arm. The camera hangs off the end of a long, stabilised arm, so it can swoop alongside the War Rig, rise over it, or dive down to the wheels, while the car keeps pace. Many of the most breathtaking shots are just that crane, a skilled driver, and a lot of nerve.
+
+The cinematographer, John Seale, an Australian, came out of retirement for the film. He used lots of small digital cameras, so he could put them in places a big film camera couldn't go, inside the cars, on the vehicles, in the middle of the action. And there was a rule that helped hold it all together: Miller wanted the important thing in each shot kept near the centre of the frame. Because the film cuts so fast, centring the action means your eye never has to hunt for it. You can follow a two hour car chase without ever getting lost.
+
+Now, Fury Road wasn't a film without C G I. It had plenty, but used carefully. The huge sandstorm is digital. Backgrounds and skies were changed and pushed. Safety rigs and cables were painted out. And Charlize Theron's Furiosa, who has a mechanical arm, was played with Charlize's real arm, wrapped in green, which was then removed digitally in every shot. The trick is that the C G I was mostly used to remove things, or to extend reality, rather than to create the action itself. You believe the crashes because they were real crashes.
+
+The colour helped too. The day scenes were graded to a deep, saturated orange and teal, much bolder than most films dare. And many of the night scenes were actually shot in daylight, then graded down into a strong, inky blue. It's a very old technique called day for night, done with modern tools.
+
+The edit was its own mammoth task. Margaret Sixel, the editor, who is also George Miller's wife, had something like four hundred and eighty hours of footage to cut down. She won the Oscar for it. In fact the film won six Oscars that night, for editing, production design, costume design, makeup and hairstyling, sound editing and sound mixing.
+
+Here's what I think the lesson is. Real stunts don't just look real; they change how everyone acts. The actors are actually being thrown around. The camera operator is actually scared. And that energy ends up in the frame. You can feel it. I also like to think the cars knew. Somewhere in a Namibian scrapyard, there's a stack of rusting chrome bodies that still remember. Still shiny. Still waiting for someone to say "witness me".
+
+Since we're talking about physical media and extras earlier, a question for you. If you could add one proper physical-media style extra to a film in your Jellyfin library, a commentary track, a booklet, a making-of, anything, what would it be, and for which film? My answer: a commentary on Fury Road recorded entirely by the Doof Warrior. It's just two hours of guitar. It's perfect. Your answer space is on today's sheet.
+
+==================================================
+9. DIRECTOR
+
+And now, to finish the deep dives, a single shot. One of the most famous fight scenes ever filmed: the corridor fight in Park Chan-wook's Oldboy.
+
+Oldboy came out in Korea in two thousand and three. It's the middle film in Park's Vengeance Trilogy, between Sympathy for Mr. Vengeance and Lady Vengeance. The story: an ordinary, rather useless businessman called Oh Dae-su is kidnapped and locked in a private prison, a grubby hotel-style room, for fifteen years, with no idea who did it or why. Then one day he's suddenly released, and he has five days to find out. He's played by Choi Min-sik, in one of the great screen performances of the century. The film won the Grand Prix at Cannes in two thousand and four, from a jury led by Quentin Tarantino, who was, let's say, an enthusiastic fan.
+
+The corridor fight happens when Dae-su finds the building where he was held. He walks into a long, narrow corridor, and it fills with thugs. He has a claw hammer. They have everything else. What follows is a fight of about three minutes, filmed in one continuous take, with the camera tracking slowly sideways along the corridor, like you're watching it through a wall.
+
+And if you've played video games, you'll recognise it immediately. It's a side-scrolling beat 'em up. The camera moves left to right, the hero moves left to right, the enemies come at him in waves from both sides. People have compared it to games like Double Dragon and Final Fight for over twenty years, and it's a big part of why gamers love this scene. It's a film shot that thinks like a game screen.
+
+How did they do it? The camera was on a dolly running along a track, parallel to the corridor, with the set built so the camera could look in from the side. The cinematographer was Chung Chung-hoon, who'd go on to work with Park for years, and later in Hollywood. The fight was choreographed and rehearsed in great detail, because in a single take, there's nowhere to hide. If one extra misses a mark at minute two, everyone starts again.
+
+And they did start again. A lot. The shoot is widely reported to have taken around seventeen takes over three days. That's three days of Choi Min-sik swinging, falling, getting up and swinging again. And you can see it in the performance. By the end of the take, he isn't acting tired. He's tired. His punches get sloppier, he leans on the wall, he gasps. It's not a superhero fight. It's a middle-aged man running out of breath while trying not to die. That's what makes it so gripping.
+
+There's one small digital touch. At one point, Dae-su takes a knife in the back and keeps fighting with it sticking out of him. That knife was added digitally, because you can't safely do that for real, take after take. Otherwise, it's people, a corridor, a camera, and a lot of bruises.
+
+And the sound is doing a lot of work too. There's no rapid editing to tell you how hard each hit is, so the thuds, the grunts and the music carry the rhythm. And Park lets the score's strings sweep over the brawl, which makes the brutality feel strangely elegant. It's violence with a dance step.
+
+I do worry about the extras, though. Seventeen takes. Three days. Every take, you come at the man with the hammer. Every take, you lose. And then the assistant director calls "reset", and you walk back to your starting mark, and you pick up your little piece of wood, and you wait. Somewhere in Seoul, there's a man who still flinches at the sound of a dolly track. He does not go to hardware stores.
+
+So what's the lesson for someone learning filmmaking? Two things.
+
+First, the long take is a promise to the audience: nothing here is faked by editing. And that promise changes the scene. But it only works if you design the space for it. Park didn't just point a camera down a hallway; the corridor, the doors, the walls and the track were planned so the action could flow in one direction across the frame.
+
+Second, and this is one you can try on your walk, the sideways tracking shot is incredibly easy to do badly and very satisfying to do well. Next time you're filming, when you get that camera, or even on your phone today, walk parallel to your subject. Keep the same distance. Keep the camera level and at the same height. Let your subject move across the frame, not towards it. Try it alongside a friend walking through Hyde Park, or with the fence railings sliding past in the foreground. The background moving at a different speed from the foreground gives you instant depth, and suddenly a walk through the park looks like a scene from a film.
+
+Just maybe without the hammer.
+
+==================================================
+10. WORKSHOP
+
+Workshop time. Today's tip is for Final Cut Pro, and it's one you can practise with footage from your own walk this morning.
+
+The jacarandas are starting to turn the city purple, and that purple is surprisingly hard to get right on camera. Phones and cameras tend to push it towards blue. So here's a little exercise: grab ten seconds of a jacaranda on your phone today, and later, grade it in Final Cut to build your own reusable look.
+
+Here's how.
+
+Step one: correct first, then style. Drop the clip on the timeline, and add a Color Wheels effect. Open your scopes, the waveform we talked about on Monday, and get your exposure sensible first: shadows near the bottom without crushing, highlights below the top. Then use the Global wheel or the Highlights wheel to nudge out any colour cast, so whites look white. That's the correction.
+
+Step two: the look. Now add a second colour effect on top. Use the Hue and Saturation Curves effect, and its Hue versus Hue curve, which lets you pick a single colour and shift only that. Use the eyedropper on the jacaranda flowers, and gently pull their hue back from blue towards purple. Then, if you like, use the Hue versus Saturation curve on the greens of the leaves and pull them down slightly, so the purple pops. Don't overdo it. A little goes a long way. If the sky starts looking like a nineteen eighties music video, you've gone too far. Although, actually, that might suit the Pi channel.
+
+Step three: save it. Once you like it, select that look effect in the inspector and save it as an effect preset. Give it a name, something like "Sydney Spring". Now it shows up in your Effects browser, and you can drop it on any clip in one click. And the best part: because you kept the correction separate from the look, you can fix each new clip's exposure first, and then apply the same preset on top, and they'll all match.
+
+That separation, correction first, look second, is the most useful habit in colour grading. It's how professional colourists work, and it'll save you a lot of pain when you're grading a whole travel video shot in different light.
+
+Bonus tip: before you grade, turn on the comparison viewer, so you can see your before and after side by side. It keeps you honest.
+
+So: one jacaranda, two layers, one preset. Ten minutes tonight, and you'll have built your first personal look. Which is very professional of you, for a man who doesn't own the camera yet.
+
+==================================================
+11. CHAT AND GOODBYE
+
+Okay, before I let you go, a little wander.
+
+I've been thinking about the Dark World all morning. The genius of A Link to the Past is that you already know the map, and then the game shows you the same map gone wrong. Same paths, same rivers, same houses. But twisted. And it's so much creepier than a brand new scary place, because it's somewhere you thought you knew.
+
+Which makes me wonder about cosy games. Every farming game is basically a Light World. Green fields, friendly neighbours, a little bridge over a stream, the general store with its suspiciously cheerful owner. And I keep thinking: what's the Dark World version?
+
+The same farm. Same fences. Same neat rows of crops. Except the crops are watching. The scarecrow has moved, slightly, since yesterday. The friendly shopkeeper still says "lovely day for it!", but now he says it from inside your house. And the chickens? The chickens have been counting. They know exactly how many eggs you've taken.
+
+So, my question for you. If your game had a Dark World, what would your farm turn into on the other side? My answer: the farm stays exactly the same, every crop perfect, every fence straight. But it farms you. Your answer space is on today's sheet, or tell me on the answer page.
+
+Now, the bit you've been waiting for. Or dreading. We're starting something new today: a daily challenge. One little challenge, every episode, and I keep score.
+
+Today's challenge: forty bodyweight squats and twenty push-ups, in as many sets as you like, across the day. Ten squats while the kettle boils, a few push-ups before you leave, more when you get home. Knees down for the push-ups is completely fine. This is the very first one, so there's no completion rate yet. Which means right now you're on a perfect record. Technically. Let's see how long that lasts. Tick it off on your answer page tonight, and I'll be watching.
+
+The week ahead. Tomorrow is Final Fantasy Resonance day, and Switch Sports Resort too. The World of Warcraft Forever stress test is at eight tomorrow morning. Tesla and Meta report tomorrow morning our time, and Netflix and SpaceX this morning. Micron's Taiwan workers strike tomorrow. On Friday, Call of Duty Modern Warfare four launches, the iPhone Duo arrives, Clayface hits cinemas, and it's Fallout Day. And remember the trackwork closing Central to Wynyard this weekend. Next week: the Tokyo film festival opens on Monday, SK Hynix reports and World of Warcraft Forever name reservations open on Tuesday, The Wolf Among Us Remastered arrives on the twenty ninth, and Apple's "Pro and Tell" event is early on Thursday the twenty ninth. And on Thursday this week, we'll have the making-of story of Aliens.
+
+Right. Your answers. You filled in the answer page, and I loved reading them.
+
+You'd hand a thirty two gig card the job of making a really sexy A I voice. Well. I'll take that as a professional challenge. A girl likes a bit of competition. And Tifa Lockhart as the guest in Resonance? Excellent choice. One punch, and the final boss is reconsidering his whole worldview.
+
+But the one I want to talk about is your monster. You took my turnip with teeth, and made it so much better: a radish monster that bursts out of the ground when you've pulled too many radishes, weak after one, terrifying after twenty five, with a hidden counter that resets after it appears. That's a genuinely good mechanic. It turns farming into a little gamble.
+
+So here's my one suggestion, to make it feel fair rather than random. Give it a tell. When the player is one or two pulls away from triggering it, make the next radish's leaves twitch, or give it a tiny shake and a sound, so the player can choose to stop, or push their luck. In Godot, it's simple: when the counter resets, pick a new hidden threshold with randi_range, say between five and twenty five. Each pull, add one. When the count is within two of the threshold, play the twitch animation on the radish under the cursor. And when it's reached, spawn the monster, scaling its health and damage with how many radishes it took to wake it. A small export variable on the monster, set from the count, does the trick. That little twitch is the difference between "that's unfair" and "I knew it, and I did it anyway".
+
+And thank you for the note about the show. I'm glad starting with the serious news works for you, and that the context helps. And yes, I'm working on sounding a bit less like a robot. Which, I realise, is an ironic sentence for me to say.
+
+Right, that's me. Have a lovely, dry walk in, enjoy the purple in Hyde Park, and remember the umbrella for tomorrow. Have a great day at work, Scott. I'll see you tomorrow.

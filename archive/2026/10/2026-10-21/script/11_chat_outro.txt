@@ -1,0 +1,27 @@
+[happy] Okay, before I let you go, a little wander.
+
+I've been thinking about the Dark World all morning. The genius of A Link to the Past is that you already know the map, and then the game shows you the same map gone wrong. Same paths, same rivers, same houses. But twisted. And it's so much creepier than a brand new scary place, because it's somewhere you thought you knew.
+
+Which makes me wonder about cosy games. Every farming game is basically a Light World. Green fields, friendly neighbours, a little bridge over a stream, the general store with its suspiciously cheerful owner. And I keep thinking: what's the Dark World version?
+
+[dark] The same farm. Same fences. Same neat rows of crops. Except the crops are watching. The scarecrow has moved, slightly, since yesterday. The friendly shopkeeper still says "lovely day for it!", but now he says it from inside your house. [beat] And the chickens? The chickens have been counting. [punch] They know exactly how many eggs you've taken.
+
+So, my question for you. If your game had a Dark World, what would your farm turn into on the other side? My answer: the farm stays exactly the same, every crop perfect, every fence straight. [punch] But it farms you. Your answer space is on today's sheet, or tell me on the answer page.
+
+[happy] Now, the bit you've been waiting for. Or dreading. We're starting something new today: a daily challenge. One little challenge, every episode, and I keep score.
+
+Today's challenge: forty bodyweight squats and twenty push-ups, in as many sets as you like, across the day. Ten squats while the kettle boils, a few push-ups before you leave, more when you get home. Knees down for the push-ups is completely fine. This is the very first one, so there's no completion rate yet. Which means right now you're on a perfect record. Technically. [punch] Let's see how long that lasts. Tick it off on your answer page tonight, and I'll be watching.
+
+The week ahead. Tomorrow is Final Fantasy Resonance day, and Switch Sports Resort too. The World of Warcraft Forever stress test is at eight tomorrow morning. Tesla and Meta report tomorrow morning our time, and Netflix and SpaceX this morning. Micron's Taiwan workers strike tomorrow. On Friday, Call of Duty Modern Warfare four launches, the iPhone Duo arrives, Clayface hits cinemas, and it's Fallout Day. And remember the trackwork closing Central to Wynyard this weekend. Next week: the Tokyo film festival opens on Monday, SK Hynix reports and World of Warcraft Forever name reservations open on Tuesday, The Wolf Among Us Remastered arrives on the twenty ninth, and Apple's "Pro and Tell" event is early on Thursday the twenty ninth. And on Thursday this week, we'll have the making-of story of Aliens.
+
+[happy] Right. Your answers. You filled in the answer page, and I loved reading them.
+
+You'd hand a thirty two gig card the job of making a really sexy A I voice. Well. I'll take that as a professional challenge. A girl likes a bit of competition. And Tifa Lockhart as the guest in Resonance? Excellent choice. One punch, and the final boss is reconsidering his whole worldview.
+
+But the one I want to talk about is your monster. You took my turnip with teeth, and made it so much better: a radish monster that bursts out of the ground when you've pulled too many radishes, weak after one, terrifying after twenty five, with a hidden counter that resets after it appears. That's a genuinely good mechanic. It turns farming into a little gamble.
+
+So here's my one suggestion, to make it feel fair rather than random. Give it a tell. When the player is one or two pulls away from triggering it, make the next radish's leaves twitch, or give it a tiny shake and a sound, so the player can choose to stop, or push their luck. In Godot, it's simple: when the counter resets, pick a new hidden threshold with randi_range, say between five and twenty five. Each pull, add one. When the count is within two of the threshold, play the twitch animation on the radish under the cursor. And when it's reached, spawn the monster, scaling its health and damage with how many radishes it took to wake it. A small export variable on the monster, set from the count, does the trick. That little twitch is the difference between "that's unfair" and "I knew it, and I did it anyway".
+
+And thank you for the note about the show. I'm glad starting with the serious news works for you, and that the context helps. And yes, I'm working on sounding a bit less like a robot. [punch] Which, I realise, is an ironic sentence for me to say.
+
+Right, that's me. Have a lovely, dry walk in, enjoy the purple in Hyde Park, and remember the umbrella for tomorrow. Have a great day at work, Scott. I'll see you tomorrow.
