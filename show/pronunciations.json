@@ -116,7 +116,7 @@
  "\\bMacron\\b": "Mah kron",
  "\\bMiyamoto\\b": "Mee yah moh toh",
  "\\bGhibli\\b": "Jib lee",
- "\\bGul'dan\\b": "Gool dahn",
+ "\\bGul'dan\\b": "Ghoul dan",
  "\\bJaina\\b": "Jay nah",
  "\\bNASA\\b": "Nasa",
  "\\bNATO\\b": "Nato",
@@ -169,5 +169,6 @@
  "\\bCAPCOM\\b": "Capcom",
  "\\bASUS\\b": "Ay sus",
  "\\bAsus\\b": "Ay sus",
- "\\bNERF\\b": "Nerf"
+ "\\bNERF\\b": "Nerf",
+ "\\bGuldan\\b": "Ghoul dan"
 }
