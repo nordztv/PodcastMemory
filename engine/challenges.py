@@ -5,6 +5,7 @@ Commands (dates are YYYY-MM-DD, Sydney time):
   python3 engine/challenges.py add DATE "Challenge text"   # record today's challenge (Done: Not yet)
   python3 engine/challenges.py done DATE yes|no            # record whether he did it
   python3 engine/challenges.py rate [DATE]                 # completion rate over every challenge before DATE
+  python3 engine/challenges.py misses DATE                 # how many challenges in a row he missed just before DATE
   python3 engine/challenges.py show                        # print the table
 Rate = challenges done / challenges set, counting every challenge before DATE (so not today's). "Not yet" counts
 as not done; it rises again as soon as he reports one as done, even late.
@@ -58,6 +59,14 @@ def main():
             sys.exit(f"No challenge on {d}")
         hit[0][2] = "Yes" if ans.startswith("y") else "No"
         save(rows); print(f"{d}: {hit[0][2]}")
+    elif cmd == "misses":
+        past = sorted((r for r in rows if r[0] < sys.argv[2]), key=lambda r: r[0], reverse=True)
+        n = 0
+        for r in past:
+            if r[2].lower().startswith("y"):
+                break
+            n += 1
+        print(f"{n} missed in a row")
     elif cmd == "rate":
         done, total = rate(rows, sys.argv[2] if len(sys.argv) > 2 else None)
         print(f"{done} of {total}, {round(100 * done / total)}%" if total else "No challenges yet")

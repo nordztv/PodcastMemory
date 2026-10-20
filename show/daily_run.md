@@ -46,7 +46,7 @@ On Mondays, cover news since Friday's episode. On Fridays, also research the wee
 Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
 
 Also write:
-- Today's challenge (bible section 8): pick it, run `python3 engine/challenges.py rate DATE` for the completion rate (use exactly what it prints, in the outro, the headlines and the sheet), then `python3 engine/challenges.py add DATE "challenge"`.
+- Today's challenge (bible section 8): run `python3 engine/challenges.py misses DATE` (2 or more in a row: make it a little harder, per the bible), pick it, run `python3 engine/challenges.py rate DATE` for the completion rate (use exactly what it prints, in the outro, the headlines and the sheet), then `python3 engine/challenges.py add DATE "challenge"`.
 - `EP/sheet.txt`: the daily sheet with today's challenge and completion rate, the rating lines and today's questions (bible section 8).
 - `EP/headlines/01_headlines.txt`: the five-minute headlines edition (bible section 5b).
 - `EP/shownotes.json`: the show notes (bible section 5b; leave "length" as "" until the audio is built, then fill it in).
