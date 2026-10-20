@@ -39,7 +39,7 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 
 If an allowed news site can't be fetched (for example bbc.com is sometimes blocked for fetching), use its stories via WebSearch results, rely on the other allowed sources, and mention it in the delivery message. Never swap in a source that isn't allowed.
 
-On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up, weekend toddler-friendly Sydney activities and the weekend project check-in (bible section 5, Friday; check any version numbers or features you recommend against current docs). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
+On Mondays, cover news since Friday's episode. On Fridays, also research the week wrap-up, weekend toddler-friendly Sydney activities and the weekend project check-in (bible section 5, Friday; check any version numbers or features you recommend against current docs). Follow bible section 4 exactly (strict source rule for news; weather; weekday commute check; main topics first; minor topics checked for anything hot). For horror film news, check https://www.fangoria.com (Scott's choice) alongside the other film sources. Mark hot topics with `python3 engine/topics.py hot "Topic" UNTIL` (today plus 3 days).
 
 ## 5. Write the script
 
