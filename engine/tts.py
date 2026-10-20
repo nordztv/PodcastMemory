@@ -53,10 +53,11 @@ MOODS = {
     "normal":  dict(voice=None, speed=None, pitch=1.00, gain=1.00, gap=0.18),
     "happy":   dict(voice="af_heart:0.4+af_bella:0.5+af_nicole:0.1", speed=1.00, pitch=1.035, gain=1.06, gap=0.15),
     "dark":    dict(voice="af_heart:0.45+af_nicole:0.55", speed=0.82, pitch=1.00, gain=0.88, gap=0.40),
+    "cheeky":  dict(voice="af_heart:0.5+af_bella:0.4+af_nicole:0.1", speed=0.90, pitch=1.015, gain=1.02, gap=0.30),
     "serious": dict(voice="af_heart:0.7+af_nicole:0.3", speed=0.87, pitch=0.98, gain=0.95, gap=0.28),
 }
 BEAT, PUNCH_BEAT, PUNCH_SLOW, PUNCH_GAIN, PARA_GAP = 0.7, 0.55, 0.9, 1.15, 0.55
-TAG = re.compile(r"\[(happy|dark|serious|normal|beat|punch)\]", re.I)
+TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 
 
 def sentences(text):
