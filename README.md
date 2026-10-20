@@ -24,7 +24,8 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 
 - **Full episode** (about 75 to 85 minutes), with chapter markers so you can jump between segments.
 - **Five-minute headlines edition** for busy mornings.
-- **Answer sheet** with the day's questions and a quick rating.
+- **Daily challenge** (like 30 push-ups or a 5 km walk) with your completion rate, tallied in `memory/challenges.md`.
+- **Answer sheet** with the challenge's "Done" line, the day's questions and a quick rating.
 - **Show notes page**: links, picks and questions for the last 15 episodes, one page updated each morning (link in `show/shownotes_url.txt`).
 
 ## Changing the show

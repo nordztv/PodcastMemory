@@ -8,6 +8,7 @@ the Artifact tool adds that skeleton when it publishes.
 shownotes.json:
 {
   "date": "2026-10-21", "weekday": "Wednesday", "length": "78 min", "headline": "one line on the day",
+  "challenge": "30 push-ups today (completion rate so far: 2 of 3, 67%)",
   "segments": [ {"name": "Tech", "items": [ {"title": "Short story title", "note": "one line, optional",
                                             "links": [ {"label": "Reuters", "url": "https://..."} ] } ] } ],
   "picks": [ {"kind": "Retro Game of the Week", "title": "...", "note": "...", "links": [...]} ],
@@ -51,7 +52,7 @@ def item(it):
 def episode(ep, latest):
     d = ep["date"]
     eid = "e" + d.replace("-", "")
-    meta = esc(ep.get("length", ""))
+    meta = " · ".join(esc(x) for x in (ep.get("length"), ep.get("challenge") and f'Challenge: {ep["challenge"]}') if x)
     segs = []
     for i, s in enumerate(ep.get("segments", []), 1):
         items = "".join(item(it) for it in s.get("items", []))

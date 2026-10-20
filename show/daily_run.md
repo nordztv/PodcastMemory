@@ -17,7 +17,7 @@ If `EP/delivered.txt` exists, today's episode was already made and delivered ahe
 
 ## 2. Read the show and its memory
 
-Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md`, `memory/ratings.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
+Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_log.md`, `memory/retro_games.md`, `memory/ratings.md` (the rules, follow them exactly), `memory/topics.md`, `memory/storylines.md`, `memory/questions.md`, `memory/deep_dives_covered.md`, `memory/challenges.md`, `memory/recent_episodes.md`, and the newest file in `memory/monthly/` (plus the yearly file if one exists). Also check `memory/monthly/` and `memory/yearly/` for an entry from exactly one month or one year ago, for anniversary mentions.
 
 **Previous scripts:** read the scripts of the last 5 episodes in `archive/` (sections 01 to 05 and `notes.md`) and keep a list of every story already covered and what was said. While researching and writing, follow bible section 4's "Don't repeat what's already been said" rule against that list.
 
@@ -26,6 +26,8 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 ## 3. Scott's answers and recent chats
 
 **Answer sheets:** open the `sheet.txt` files (older episodes: `workout.txt`) from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
+
+**Challenges:** in the same sheets, check TODAY'S CHALLENGE for a filled-in "Done" line, and record each new one with `python3 engine/challenges.py done DATE yes|no` (the sheet's own date). Also apply any challenge results from the inbox or chats.
 
 **Ratings:** in the same sheets, check RATE TODAY'S EPISODE. For each newly filled rating not yet in `memory/ratings.md`, add it there and apply it (bible section 8, Episode ratings).
 
@@ -44,7 +46,8 @@ On Mondays, cover news since Friday's episode. On Fridays, also research the wee
 Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
 
 Also write:
-- `EP/sheet.txt`: the daily sheet with the rating lines and today's questions (bible section 8). No workout.
+- Today's challenge (bible section 8): pick it, run `python3 engine/challenges.py rate DATE` for the completion rate (use exactly what it prints, in the outro, the headlines and the sheet), then `python3 engine/challenges.py add DATE "challenge"`.
+- `EP/sheet.txt`: the daily sheet with today's challenge and completion rate, the rating lines and today's questions (bible section 8).
 - `EP/headlines/01_headlines.txt`: the five-minute headlines edition (bible section 5b).
 - `EP/shownotes.json`: the show notes (bible section 5b; leave "length" as "" until the audio is built, then fill it in).
 - `EP/notes.md`: running order, deep-dive topics, today's questions (with the host's joke answers), topics hot today, and a Sources list (every link used; news links only from the six allowed sources).
@@ -67,13 +70,13 @@ The run's automatic safety check sometimes blocks installing or running the voic
 
 - **Reminder due 2026-11-18:** on the first episode on or after 2026-11-18, add one line to the delivery message asking whether Scott would now like episodes in a podcast app such as Pocket Casts or Overcast (a private feed), instead of as files in the Claude app. Then delete this reminder line from this file in the memory commit.
 
-- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/sheet.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length and the three best stories.
+- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/sheet.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories and today's challenge.
 - **Show notes:** fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` (writes `~/podcast/out/shownotes.html`), then with the Artifact tool: `read` the URL in `show/shownotes_url.txt`, and `publish` that file with that `url` (no icon). If publishing fails, send `shownotes.html` with SendUserFile instead and mention it.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
 
 ## 8. Update memory (while the audio renders), then commit
 
-- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, questions asked, on Fridays the project check-in ("Project check-in: <project>, suggested <features>"), and a "Follow up" line (upcoming votes, results, releases, developing stories).
+- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, today's challenge, questions asked, on Fridays the project check-in ("Project check-in: <project>, suggested <features>"), and a "Follow up" line (upcoming votes, results, releases, developing stories).
 - `memory/deep_dives_covered.md`: add today's lore, game tech, effects and director topics, plus workshop and chat topics, at the top of the table.
 - `memory/questions.md`: add today's questions (Answer: Not yet, Handled: no); for older ones Scott answered, fill in his answer ("DATE: a few words") and set Handled to the date the episode responded.
 - `memory/retro_games.md`: on Mondays add the new pick (status Recommended); on Wednesdays mark the retrospective done. When Scott says (sheet, inbox or chat) whether he played and enjoyed a game, fill in Played, Verdict (Liked, Disliked or Mixed) and a short comment in his words, then pick the next Monday's game with that in mind.
