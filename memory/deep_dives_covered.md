@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-21 | Lore | The Witcher 3: making-of |
+| 2026-10-21 | Game tech | Tilemaps and autotiling (Godot terrains) |
+| 2026-10-21 | Effects | Mad Max: Fury Road's practical stunts |
+| 2026-10-21 | Director | Park Chan-wook's Oldboy corridor fight |
+| 2026-10-21 | Workshop | FCP: correction then look, Hue vs Hue on jacarandas, save an effect preset |
+| 2026-10-21 | Chat | The Dark World of cosy farming games |
+| 2026-10-21 | Retro | A Link to the Past: making-of and SNES tech |
 | 2026-10-20 | Lore | Warcraft III and the fall of Arthas |
 | 2026-10-20 | Game tech | Ray tracing explained (Godot 2D lights and occluders tip) |
 | 2026-10-20 | Effects | The Thing (1982) creature effects |

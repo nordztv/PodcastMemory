@@ -5,7 +5,17 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Films
 
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| Park Chan-wook | Oldboy (2003) | Choi Min-sik | 2026-10-21 |
+| George Miller | Mad Max: Fury Road (2015) | Charlize Theron | 2026-10-21 |
+| Tsui Hark | The Blade (1995) | | 2026-10-21 |
+| Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
+| Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-10-21 | Oldboy (2003) | Park Chan-wook | Choi Min-sik, Yoo Ji-tae, Kang Hye-jung | Thriller, South Korea | Director deep dive (corridor fight) | | | |
+| 2026-10-21 | Mad Max: Fury Road (2015) | George Miller | Charlize Theron, Tom Hardy | Action, Australia/USA | Effects deep dive (practical stunts) | | | |
+| 2026-10-21 | The Blade (1995) | Tsui Hark | Vincent Zhao | Wuxia, Hong Kong | Movies segment recommendation (Criterion release) | | | |
+| 2026-10-21 | Green Room (2015) | Jeremy Saulnier | Anton Yelchin, Imogen Poots | Horror thriller, USA | Movies segment recommendation (with Slayground news) | | | |
+| 2026-10-21 | Ugetsu (1953) | Kenji Mizoguchi | Machiko Kyō, Kinuyo Tanaka | Ghost story, Japan | Movies segment mention (Tokyo IFF retrospective) | | | |
 | 2026-10-20 | Aliens (1986) | James Cameron | Sigourney Weaver, Carrie Henn, Michael Biehn | Sci-fi action horror, USA/UK | Actress of the Month, Tuesday | | | |
 | 2026-10-20 | Alien (1979) | Ridley Scott | Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright | Sci-fi horror, UK/USA | Director deep dive | | | |
 | 2026-10-20 | The Thing (1982) | John Carpenter | Kurt Russell, Keith David | Sci-fi horror, USA | Effects deep dive (Rob Bottin creature effects) | | | |

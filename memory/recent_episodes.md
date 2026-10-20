@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-21 (Wednesday)
+
+- **Length:** audio not recorded (voice engine blocked). Script-only delivery.
+- **World:** French curfews, unrest in six countries, 2,500+ detained; Kyiv barrage, "no early warning"; West Bank settler arrests; Alberta 77% stay; Kenya cult verdict.
+- **Australia and NSW:** Helen Haines: Brendan Nugent charged, lost a leg, critical; MP safety debate; Hanson apology over Lambie cartoon; aged care vs migration cuts; NAB 2,500 jobs; ADF PNG recruitment; McClelland to NACC. NSW: Teralba train factory; workplace protection orders; Bays West shortlist; incinerator moratorium inquiry; Town Hall protest subpoenas.
+- **Tech:** chip bounce then Korea slide (Elice IPO); Micron Taiwan strike 22 Oct; China orders 3M+ RTX Pro 5500 ($35B); XeSS for Proton; AMD GAIA 0.25; Nvidia custom HBM; Apple "Pro and Tell" 28 Oct; iPhone Duo two-per-customer; Tesla AGM 3 Dec.
+- **Games:** FF Resonance reviews (Metacritic ~85 PS5); FFXIV account warning; Switch Sports Resort 79; Ocarina 27GB; MW4 DMZ, no Game Pass till late 2027; WoW Forever name reservations 27 Oct; Witcher 3 Remastered 5.01; Hiroshi Tsuchida died. Retro: A Link to the Past retrospective.
+- **Movies:** Slayground teaser; Korean critics awards (Hope x3); Tokyo IFF preview; Street Fighter stalls in Japan; Criterion The Blade; Die Hard 4K; Kick On; Jennifer's Body 2; Mummy: Book of the Dead; Netflix's Dan Lin out.
+- **Deep dives:** The Witcher 3 making-of; tilemaps and autotiling in Godot; Fury Road stunts; Oldboy corridor fight. Workshop: FCP correction then look, saved preset.
+- **Challenge:** Forty bodyweight squats and twenty push-ups (first challenge).
+- **Questions:** favourite Light/Dark World pair in A Link to the Past and how it went; his farm's Dark World; a physical-media extra for a Jellyfin film.
+- **Answer reaction:** 20 Oct answers (AI voice, Tifa, radish monster); suggestion: a tell before the radish monster spawns.
+- **Follow up:** ID@Xbox announcements (aired 4am Wed); Netflix and SpaceX results (Wed morning), Starship Flight 15 date; Tesla and Meta (Thu AEDT); Helen Haines condition and court case; FF Resonance and Switch Sports Resort launch 22 Oct; WoW Forever stress test Thu 8am; Micron strike 22 Oct; MW4, iPhone Duo, Clayface, Fallout Day 23 Oct; Tokyo IFF 26 Oct; SK Hynix 27 Oct; WoW Forever names 27 Oct; Apple event 29 Oct AEDT; Wolf Among Us 29 Oct; Intel 29 Oct; AMD 3 Nov; Korean critics ceremony 4 Nov; Ocarina 5 Nov; Kenya sentencing 6 Nov; Aliens making-of Thursday.
+
 ## 2026-10-20 (Tuesday)
 
 - **Length:** 91 min. Written and recorded Monday evening, delivered ahead of time.
