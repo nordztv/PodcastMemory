@@ -2,7 +2,7 @@
 
 Usage: python3 engine/chapters.py EPISODE.mp3 TIMINGS.txt DATE [headlines]
 TIMINGS.txt has one line per section, in order: "<section file name><TAB><seconds incl. the gap after it>".
-Starts are scaled to the MP3's real length, so slowing the audio down (VoxCPM2 pace) or encoder padding
+Starts are scaled to the MP3's real length, so encoder padding
 never pushes the chapters out of line. The MP3 is rewritten in place (audio copied, not re-encoded).
 """
 import os, subprocess, sys
@@ -18,7 +18,7 @@ TITLES = {
     "08_effects": "Effects deep dive",
     "09_director": "Director deep dive",
     "10_workshop": "Workshop",
-    "11_chat_outro": "Chat, workout and goodbye",
+    "11_chat_outro": "Chat and goodbye",
 }
 
 

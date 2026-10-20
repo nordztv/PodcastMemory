@@ -25,7 +25,7 @@ Read, in full: `show/bible.md`, `memory/actress_of_the_month.md`, `memory/movie_
 
 ## 3. Scott's answers and recent chats
 
-**Answer sheets:** open the `workout.txt` files from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
+**Answer sheets:** open the `sheet.txt` files (older episodes: `workout.txt`) from the last 7 days in `archive/` and look under TODAY'S QUESTIONS FROM THE SHOW for any "Your answer:" lines Scott has filled in. For each new answer (not yet marked handled in `memory/questions.md`): record it there, add +10 to that question's topic with `engine/topics.py signal`, and plan the host's reaction plus the single suggestion that goes at the very end of today's episode, just before the goodbye (bible section 6). Only ONE suggestion per episode.
 
 **Ratings:** in the same sheets, check RATE TODAY'S EPISODE. For each newly filled rating not yet in `memory/ratings.md`, add it there and apply it (bible section 8, Episode ratings).
 
@@ -44,7 +44,7 @@ On Mondays, cover news since Friday's episode. On Fridays, also research the wee
 Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
 
 Also write:
-- `EP/workout.txt`: today's workout (bible section 8).
+- `EP/sheet.txt`: the daily sheet with the rating lines and today's questions (bible section 8). No workout.
 - `EP/headlines/01_headlines.txt`: the five-minute headlines edition (bible section 5b).
 - `EP/shownotes.json`: the show notes (bible section 5b; leave "length" as "" until the audio is built, then fill it in).
 - `EP/notes.md`: running order, deep-dive topics, today's questions (with the host's joke answers), topics hot today, and a Sources list (every link used; news links only from the six allowed sources).
@@ -59,7 +59,7 @@ First the headlines edition (a couple of minutes): `sh REPO/engine/build_episode
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
 - Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text), and commit it.
-- In step 7, send that file and `EP/workout.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that Scott's MacBook Pro will record it at home by about 6am (it appears in iCloud Drive > Morning Briefing, if the Mac was plugged in and awake), and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
+- In step 7, send that file and `EP/sheet.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
 - Carry on with everything else (memory updates and commits) as normal.
 
@@ -67,13 +67,13 @@ The run's automatic safety check sometimes blocks installing or running the voic
 
 - **Reminder due 2026-11-18:** on the first episode on or after 2026-11-18, add one line to the delivery message asking whether Scott would now like episodes in a podcast app such as Pocket Casts or Overcast (a private feed), instead of as files in the Claude app. Then delete this reminder line from this file in the memory commit.
 
-- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/workout.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories, today's workout focus.
+- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/sheet.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length and the three best stories.
 - **Show notes:** fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` (writes `~/podcast/out/shownotes.html`), then with the Artifact tool: `read` the URL in `show/shownotes_url.txt`, and `publish` that file with that `url` (no icon). If publishing fails, send `shownotes.html` with SendUserFile instead and mention it.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
 
 ## 8. Update memory (while the audio renders), then commit
 
-- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, workout focus, questions asked, on Fridays the project check-in ("Project check-in: <project>, suggested <features>"), and a "Follow up" line (upcoming votes, results, releases, developing stories).
+- `memory/recent_episodes.md`: add today's entry at the top: `## DATE (weekday)`, length (fill in once known), main stories (10 to 15, compact), deep dives, questions asked, on Fridays the project check-in ("Project check-in: <project>, suggested <features>"), and a "Follow up" line (upcoming votes, results, releases, developing stories).
 - `memory/deep_dives_covered.md`: add today's lore, game tech, effects and director topics, plus workshop and chat topics, at the top of the table.
 - `memory/questions.md`: add today's questions (Answer: Not yet, Handled: no); for older ones Scott answered, fill in his answer ("DATE: a few words") and set Handled to the date the episode responded.
 - `memory/retro_games.md`: on Mondays add the new pick (status Recommended); on Wednesdays mark the retrospective done. When Scott says (sheet, inbox or chat) whether he played and enjoyed a game, fill in Played, Verdict (Liked, Disliked or Mixed) and a short comment in his words, then pick the next Monday's game with that in mind.

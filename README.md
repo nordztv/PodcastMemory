@@ -9,7 +9,7 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 | `show/` | The show bible (host personality, segments, news sources, rules), pronunciations, deep-dive topic pools | Scott or Claude, on request |
 | `engine/` | Voice engine setup, text-to-speech, episode builder, topic scoring tool | Claude |
 | `memory/` | What the show remembers: topic scores, storylines, questions, deep dives covered, recent episodes, monthly and yearly summaries | The daily run (Scott can edit anytime) |
-| `archive/` | Every episode's script, workout and notes, by date | The daily run |
+| `archive/` | Every episode's script, answer sheet and notes, by date | The daily run |
 | `voice_backup/` | Backup copy of the voice model files (split into parts), used if the original download links ever disappear | Claude |
 
 ## How memory works over years
@@ -24,9 +24,8 @@ Scott's personal daily podcast. A scheduled Claude run builds a new episode ever
 
 - **Full episode** (about 75 to 85 minutes), with chapter markers so you can jump between segments.
 - **Five-minute headlines edition** for busy mornings.
-- **Workout sheet** with the day's questions.
+- **Answer sheet** with the day's questions and a quick rating.
 - **Show notes page**: links, picks and questions for the last 15 episodes, one page updated each morning (link in `show/shownotes_url.txt`).
-- **Jellyfin** (optional): the Mac can drop every MP3 into a Jellyfin folder on the home server. See `engine/mac/README.md`.
 
 ## Changing the show
 
@@ -38,8 +37,4 @@ Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled tas
 
 ## Answering the host's questions
 
-Each day's `archive/YYYY/MM/DATE/workout.txt` ends with the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.
-
-## Home recording (MacBook Pro, VoxCPM2 voice)
-
-The show's chosen voice (VoxCPM2) runs on Scott's MacBook Pro. Each weekday the Mac waits for the cloud's script, records it, and saves it to iCloud Drive > Morning Briefing; the cloud's own recording still arrives in the Claude app as a backup. Details: `engine/mac/README.md`.
+Each day's `archive/YYYY/MM/DATE/sheet.txt` (`workout.txt` before 21 October 2026) has the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.
