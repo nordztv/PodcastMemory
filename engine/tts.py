@@ -16,6 +16,30 @@ MODEL = f"{HOME}/tts/kokoro-v1.0.onnx"
 VOICES = f"{HOME}/tts/voices-v1.0.bin"
 VOCAB = json.load(open(f"{REPO}/engine/kokoro_config.json"))["vocab"]
 PRONOUNCE = json.load(open(f"{REPO}/show/pronunciations.json"))
+HETERONYMS = [(re.compile(p), r) for p, r in json.load(open(f"{REPO}/show/heteronyms.json")) if p != "_comment"]
+# Letter names as phonemes, so capitals are always spelled out the same way (AMD -> A M D, never "uh M D").
+LETTERS = {"A": "ˈeɪ", "B": "bˈiː", "C": "sˈiː", "D": "dˈiː", "E": "ˈiː", "F": "ˈɛf", "G": "dʒˈiː", "H": "ˈeɪtʃ",
+           "I": "ˈaɪ", "J": "dʒˈeɪ", "K": "kˈeɪ", "L": "ˈɛl", "M": "ˈɛm", "N": "ˈɛn", "O": "ˈoʊ", "P": "pˈiː",
+           "Q": "kjˈuː", "R": "ˈɑːɹ", "S": "ˈɛs", "T": "tˈiː", "U": "jˈuː", "V": "vˈiː", "W": "dˈʌbəljuː",
+           "X": "ˈɛks", "Y": "wˈaɪ", "Z": "zˈɛd"}
+ROMAN = {"II": "two", "III": "three", "IV": "four", "VI": "six", "VII": "seven", "VIII": "eight", "IX": "nine",
+         "XI": "eleven", "XII": "twelve", "XIII": "thirteen", "XIV": "fourteen", "XV": "fifteen", "XVI": "sixteen"}
+
+
+def spell(letters, plural=""):
+    """Phonemes for a run of capital letters, wrapped in «» so phonemize passes them straight through."""
+    ph = " ".join(LETTERS[c] for c in letters)
+    return f"«{ph}{'z' if plural else ''}»"
+
+
+def say_capitals(text):
+    """Capitalised words are said as letters: AMD, A S M L, GPUs. Words like NASA are listed in pronunciations.json."""
+    def spaced(m):
+        t = m.group(0)
+        return spell(re.sub(r"'?s$", "", t).replace(" ", ""), "s" if re.search(r"'?s$", t) else "")
+    text = re.sub(r"\b(?:[A-Z] ){1,7}[A-Z](?:'?s)?\b", spaced, text)
+    text = re.sub(r"\b(II|III|IV|VI|VII|VIII|IX|XI|XII|XIII|XIV|XV|XVI)\b", lambda m: ROMAN[m.group(1)], text)
+    return re.sub(r"\b([A-Z]{2,6})('?s)?\b", lambda m: spell(m.group(1), m.group(2)), text)
 SR = 24000
 PUNCT = ",.!?;:—"
 SHOW_VOICE = "af_heart:0.5+af_bella:0.3+af_nicole:0.2"  # "Happy 1", chosen 19 Oct 2026
@@ -35,6 +59,16 @@ def espeak(text):
 
 
 def phonemize(sentence):
+    ph = ""
+    for i, chunk in enumerate(re.split(r"«([^»]*)»", sentence)):
+        if i % 2:  # already phonemes (spelled-out letters)
+            ph += chunk + " "
+            continue
+        ph += phonemize_text(chunk) + " "
+    return "".join(c for c in " ".join(ph.split()) if c in VOCAB)
+
+
+def phonemize_text(sentence):
     ph = ""
     for p in re.split(r"([,.!?;:—])", sentence):
         if not p.strip():
@@ -66,6 +100,9 @@ TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 def sentences(text):
     """Yields (kind, value, mood, punch): kind is "say" (value = sentence), "pause" (value = seconds) or "para"."""
     text = text.replace("\u2019", "'").replace("\u201c", '"').replace("\u201d", '"')
+    text = re.sub(r"\{[^{}|]*\|([^{}]*)\}", r"\1", text)  # {word|how to say it}, written into the script
+    for pat, say in HETERONYMS:
+        text = pat.sub(say, text)
     for pat, say in PRONOUNCE.items():
         text = re.sub(pat, say, text, flags=re.I)
     for para in [p.strip() for p in text.split("\n") if p.strip()]:
@@ -79,7 +116,7 @@ def sentences(text):
             elif low == "punch":
                 punch = True
             else:
-                for s in re.split(r"(?<=[.!?])\s+", part.strip()):
+                for s in re.split(r"(?<=[.!?])\s+", say_capitals(part.strip())):
                     if s.strip():
                         if punch:
                             yield "pause", PUNCH_BEAT, mood, False

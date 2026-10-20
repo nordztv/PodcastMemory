@@ -37,7 +37,8 @@ One calm, warm female host speaking directly to Scott ("you"). No co-host.
 
 - Plain spoken text only: no markdown, headings, bullets, URLs or emojis.
 - Numbers and symbols the way they're said ("forty six point seven billion dollars", "twenty per cent", "fourteen forty p", "a top of twenty four degrees").
-- Acronyms read letter by letter are written with spaces ("H B M", "E U V", "A S M L", "A M D", "T S M C", "D W"). Scott asked for ASML as A-S-M-L and AMD as A-M-D.
+- **Capitals are said as letters** (Scott's choice): the engine spells out any word in capitals, written either way (AMD or A M D, ASML, GPUs, NSW, RTX), and reads Roman numerals in titles as numbers (Final Fantasy VII = seven). Acronyms said as a word (NASA, AUKUS, NATO, RAM, OLED, TAFE) are listed in `show/pronunciations.json`; add any new one there. Never write ordinary words in capitals for emphasis.
+- **Same spelling, different sound** (live/live, read/read, close/close, wind/wind, row/row, lead/lead, tear/tear, used to): `show/heteronyms.json` settles the common cases from context. Before committing, run `python3 engine/check_script.py DATE`: it lists every such word the rules didn't settle and what the engine will say by default. Where that's wrong, write `{word|respelling}` in the script, for example `{live|lyve}`, `{read|red}`, `{wind|wined}`, `{close|kloze}`, `{row|rau}`, `{tear|tair}`. Readable copies show just the word.
 - Godot is said "GO-DOT".
 - Short, clear sentences. Blank lines between paragraphs. Australian/British spelling.
 - **Delivery cues** (Scott's choice, October 2026): the voice engine reads square-bracket tags and changes how she sounds. Use them so the tone matches the words:
@@ -49,7 +50,7 @@ One calm, warm female host speaking directly to Scott ("you"). No co-host.
   - A tag lasts until the end of its paragraph; the next paragraph goes back to her normal voice. Untagged is her normal warm voice, which suits most news and explanation.
   - Use them generously but naturally: most jokes get a `[punch]`, every dark bit gets `[dark]`, sad news gets `[serious]`, and the host's excited moments get `[happy]`. Never `[happy]` next to sad news. Exclamation marks, short sentences and ellipses also shape her tone.
   - The tags are only for the voice: leave them out of `notes.md`, `shownotes.json` and the sheet, and strip them from any readable script file sent to Scott.
-- New tricky name? Add it to `show/pronunciations.json` (regex to how it sounds). Never remove entries.
+- **Names:** for any name that isn't plain English (game and film characters, Japanese, Korean, French or Ukrainian names, places, companies, new products), look up how it's said before writing: the official pronunciation where there is one (developer or studio videos, interviews, the person saying it themselves), otherwise Wikipedia's IPA or a pronunciation site, and check how fans and the voice cast say fictional names. Add it to `show/pronunciations.json` (regex to a respelling, for example Arthas = "Arthuss", Kojima = "Koh jee mah"). Respell so the engine can't misread it: "thuss" not "thus" (which it says with a soft th), and keep stressed syllables clear. Never remove entries; fix wrong ones.
 
 ## 4. Sources
 

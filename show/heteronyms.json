@@ -1,0 +1,114 @@
+[
+ [
+  "_comment",
+  "Words spelled the same but said differently (live/live, read/read). Each rule: [regex, replacement]. Applied in order, before pronunciations.json, case-sensitive unless the pattern says (?i). Replacements are respellings the voice engine says correctly (lyve = rhymes with five). Anything these rules miss: write {word|respelling} in the script, e.g. {live|lyve}."
+ ],
+ [
+  "(?i)\\b(is|are|was|were|be|been|being|go|goes|going|went|gone|now|still|it's|that's|they're|we're|you're|already|officially|currently) live\\b",
+  "\\1 lyve"
+ ],
+ [
+  "(?i)\\blive(?=[ -](stream|streams|streamed|streaming|blog|event|events|music|show|shows|coverage|broadcast|broadcasts|action|service|services|demo|demos|update|updates|chat|audio|video|TV|television|feed|feeds|performance|performances|album|albums|version|versions|game|games|ops|footage|ammunition|ammo|rounds|fire|wire|recording|recordings|gig|gigs|concert|concerts|crowd|audience|audiences|test|tests|trial|trials|translation|captions|reading|vote|count|results|score|scores|odds|data|preview|reveal|presentation|Q and A|session|sessions|cattle|animal|animals|bait|wires|electricity|power|server|servers|build|environment|testing|patch|weekly)\\b)",
+  "lyve"
+ ],
+ [
+  "\\b(Xbox|Ableton|Facebook|Instagram|YouTube|Twitch|Saturday Night|Triple J|Absolutely) Live\\b",
+  "\\1 Lyve"
+ ],
+ [
+  "\\bLive (Aid|Nation|Action)\\b",
+  "Lyve \\1"
+ ],
+ [
+  "(?i)\\blive (on air|on stage|on television|on TV|from|at the|in concert|in front of)\\b",
+  "lyve \\1"
+ ],
+ [
+  "(?i)\\b(he|she|it|who|that|which|still|also|now|currently|family|mother|father|son|daughter|wife|husband|partner|friend) lives\\b(?= (in|with|on|at|near|alone|together|there|here|nearby|next door|abroad|overseas|interstate|locally))",
+  "\\1 livs"
+ ],
+ [
+  "\\b([A-Z][a-z]+) lives (?=(in|with|at|near|alone|together|there|here|nearby|abroad|overseas|interstate)\\b)",
+  "\\1 livs "
+ ],
+ [
+  "(?i)\\b(have|has|had|I've|you've|we've|they've|he's|she's|already|was|were|been|being|widely|well|just|once|never|recently|previously|first) read\\b(?= (it|that|this|the|a|an|about|through|his|her|their|my|your|our|every|all|each|out|aloud|them|him|me|us|yesterday|last|earlier|before|in|on|online|somewhere)\\b)",
+  "\\1 red"
+ ],
+ [
+  "(?i)\\bread\\b(?= (yesterday|last (night|week|month|year)|earlier (today|this week)))",
+  "red"
+ ],
+ [
+  "(?i)\\blead(?=[ -](poisoning|paint|pipe|pipes|contamination|exposure|acid|bullets|shot|levels in|smelter|smelting|mine|mines|mining|batteries|battery|free|lined|based|weights|sheet|roof|flashing)\\b)",
+  "led"
+ ],
+ [
+  "(?i)\\b(wind|winds)\\b(?= (down|up|back|the clock|it up|things up|its way|their way|his way|her way|through|around)\\b)",
+  "wined"
+ ],
+ [
+  "(?i)\\bwound (up|down|back|its way|their way|his way|her way|around|round|through)\\b",
+  "wownd \\1"
+ ],
+ [
+  "(?i)\\b(to|will|would|could|should|must|may|might|can|cannot|can't|did|didn't|won't|wouldn't|and|or|then|please|they|we|you|I|markets|shares|stocks|doors|polls|schools|stores|shops) close\\b(?= (the|its|their|his|her|our|your|my|a|an|down|off|out|ranks|in on|at|early|late|today|tonight|tomorrow|for|on|this|that|those|these|it|them|him|deals?|the gap|higher|lower|flat|up|over|before|after)\\b)",
+  "\\1 kloze"
+ ],
+ [
+  "(?i)\\bclose (down|off|ranks|in on)\\b",
+  "kloze \\1"
+ ],
+ [
+  "(?i)\\btear\\b(?= (up|down|apart|through|into|off|open|out|it|them|the)\\b)",
+  "tair"
+ ],
+ [
+  "(?i)\\btears\\b(?= (up|down|apart|through|into|off|open|out|it|them)\\b)",
+  "tairs"
+ ],
+ [
+  "(?i)\\bwear and tear\\b",
+  "wear and tair"
+ ],
+ [
+  "(?i)\\b(I|you|we|they|he|she|it|who|that|there|things|people|this|what|which|get|got|getting|gets|become|became|be|been|was|were|am|are|is|it's|he's|she's|I'm|you're|we're|they're|never) used to\\b",
+  "\\1 yoost to"
+ ],
+ [
+  "(?i)\\b(public|political|diplomatic|bitter|growing|ongoing|internal|leadership|funding|expenses|party|legal|pay|trade|tax|budget|union|Greens|Labor|Coalition|Liberal|Liberals|Nationals|One Nation|government|council|family|royal|blazing|fresh|new|latest|simmering|escalating) (row|rows)\\b(?! of)",
+  "\\1 rau"
+ ],
+ [
+  "(?i)\\b(row|rows)\\b(?= (over|between|erupts|erupted|erupting|deepens|deepened|escalates|escalated|intensifies|intensified|reignites|with the|with his|with her|with their))",
+  "rau"
+ ],
+ [
+  "(?i)\\b(a|the) row\\b(?= (over|between|that|which|has|had|is|was)\\b)",
+  "\\1 rau"
+ ],
+ [
+  "(?i)\\b(to|will|would|could|should|must|may|might|can|and|who|which|that|they|we|I|you) present\\b(?= (the|a|an|his|her|their|its|our|your|my|it|them|this|that|these|those|evidence|findings|results|awards?)\\b)",
+  "\\1 prih zent"
+ ],
+ [
+  "(?i)\\b(feel|feels|felt|be|is|was|were|seem|seems|seemed|quite|perfectly|more than|less than|not|stay|stayed|remain|remained) content\\b",
+  "\\1 kun tent"
+ ],
+ [
+  "(?i)\\bcontent (with|to)\\b(?! (creators?|moderation|warnings?))",
+  "kun tent \\1"
+ ],
+ [
+  "(?i)\\b(fresh|local|farm|seasonal|organic|Australian) produce\\b",
+  "\\1 proh dooce"
+ ],
+ [
+  "(?i)\\brecord(?=[ -](high|highs|low|lows|profit|profits|revenue|revenues|sales|year|years|quarter|numbers|number|crowd|crowds|heat|temperatures|temperature|levels|level|breaking|label|labels|store|stores|player|players|collection|deal|time|times|attendance|turnout|rainfall|demand|prices|price|amount|amounts|growth|losses|loss|haul|opening|openings|weekend|debut|debuts)\\b)",
+  "rekkerd"
+ ],
+ [
+  "(?i)\\bminute\\b(?= (detail|details|amount|amounts|change|changes|traces?|differences?|fraction)\\b)",
+  "my newt"
+ ]
+]
