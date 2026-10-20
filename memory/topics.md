@@ -30,22 +30,27 @@ Last daily update: 2026-10-19
 | The Witcher and CD Projekt Red | 45 | 2026-10-18 |  |
 | Warcraft and Blizzard | 45 | 2026-10-18 |  |
 | Capcom and Resident Evil | 40 | 2026-10-18 |  |
-| Nintendo (Switch 2, Zelda) | 40 | 2026-10-18 |  |
-| Home dumbbell workouts | 35 | 2026-10-18 |  |
-| Apple | 30 | 2026-10-18 |  |
+| Hong Kong and Chinese crime films | 40 | 2026-10-20 |  |
+| Japanese horror | 40 | 2026-10-20 |  |
+| Korean genre cinema | 40 | 2026-10-20 |  |
 
 ## Minor topics (up to 100)
 
 | Topic | Score | Last signal | Hot until |
 | --- | --- | --- | --- |
+| Nintendo (Switch 2, Zelda) | 40 | 2026-10-18 |  |
+| Home dumbbell workouts | 35 | 2026-10-18 |  |
+| Apple | 30 | 2026-10-18 |  |
 | Dark horror-comedy humour (MeatCanyon style) | 30 | 2026-10-18 |  |
 | Running AI models at home (model sizes, quantisation) | 30 | 2026-10-18 |  |
 | Arrow Video and boutique label releases | 25 | 2026-10-18 |  |
+| Asian sci-fi and fantasy films | 25 | 2026-10-20 |  |
 | Crime and thriller films | 25 | 2026-10-18 |  |
+| Cult actresses and iconic characters | 25 | 2026-10-20 |  |
+| Fallout series | 25 | 2026-10-20 |  |
 | Fantasy films | 25 | 2026-10-18 |  |
-| Hong Kong and Chinese crime films | 25 | 2026-10-18 |  |
-| Japanese horror | 25 | 2026-10-18 |  |
-| Korean genre cinema | 25 | 2026-10-18 |  |
+| Kung fu and martial arts films | 25 | 2026-10-20 |  |
+| Like a Dragon / Yakuza series | 25 | 2026-10-20 |  |
 | Secret of Mana | 25 | 2026-10-18 |  |
 | SpaceX and Starship | 25 | 2026-10-18 |  |
 | Square Enix and Dragon Quest | 25 | 2026-10-18 |  |
