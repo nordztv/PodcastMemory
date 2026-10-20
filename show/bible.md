@@ -42,7 +42,7 @@ One calm, warm female host speaking directly to Scott ("you"). No co-host.
 - Short, clear sentences. Blank lines between paragraphs. Australian/British spelling.
 - **Delivery cues** (Scott's choice, October 2026): the voice engine reads square-bracket tags and changes how she sounds. Use them so the tone matches the words:
   - `[happy]` at the start of a paragraph (or partway through one): brighter, quicker, a touch higher. For good news, launches, trailers, excitement, teasing and light jokes.
-  - `[dark]`: slower, lower, softer and heavier, with longer pauses. For the MeatCanyon-style dark bits; it makes the calm, sweet-but-wrong delivery land.
+  - `[dark]`: slower, softer and heavier, with longer pauses (her natural pitch; Scott found a lower pitch too deep). For the MeatCanyon-style dark bits; it makes the calm, sweet-but-wrong delivery land.
   - `[serious]`: slower and calm. For tragic or sad news (and no jokes anywhere near it).
   - `[beat]`: a short pause, for timing before a reveal.
   - `[punch]` right before a joke's punchline: a pause, then the punchline a little slower and louder. Write the punchline as its own short sentence so it lands: set-up, `[beat]` or `[punch]`, pay-off.
