@@ -57,6 +57,9 @@ MOODS = {
     "serious": dict(voice="af_heart:0.7+af_nicole:0.3", speed=0.87, pitch=0.98, gain=0.95, gap=0.28),
 }
 BEAT, PUNCH_BEAT, PUNCH_SLOW, PUNCH_GAIN, PARA_GAP = 0.7, 0.55, 0.9, 1.15, 0.55
+# Transitions: each sentence moves this far from the current tone towards the new one, so a change of mood
+# eases in over two or three sentences instead of switching abruptly (1.0 = instant).
+EASE = 0.5
 TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 
 
@@ -103,6 +106,8 @@ def main():
     bank = np.load(VOICES)
     blend = lambda v: sum(float(w) * bank[n] for n, w in (p.split(":") if ":" in p else (p, 1) for p in v.split("+")))
     styles = {m: blend(cfg["voice"] or voice) for m, cfg in MOODS.items()}
+    weights = {m: float(m == "normal") for m in MOODS}   # how much of each tone is in her voice right now
+    mix = lambda key, default=None: sum(w * (MOODS[m][key] or default) for m, w in weights.items())
     chunks = []
     for kind, val, mood, punch in sentences(open(src).read()):
         if kind != "say":
@@ -111,14 +116,16 @@ def main():
         ph = phonemize(val)
         if not ph:
             continue
-        cfg = MOODS[mood]
-        tempo = (cfg["speed"] or speed) * (PUNCH_SLOW if punch else 1)
+        weights = {m: w + ((m == mood) - w) * EASE for m, w in weights.items()}
+        pitch, gain, gap = mix("pitch"), mix("gain"), mix("gap")
+        tempo = mix("speed", speed) * (PUNCH_SLOW if punch else 1)
         ids = [VOCAB[c] for c in ph][:510]
+        style = sum(w * styles[m][len(ids) - 1] for m, w in weights.items() if w > 1e-3)
         audio = sess.run(None, {tok_name: np.array([[0, *ids, 0]], np.int64),
-                                "style": styles[mood][len(ids) - 1].astype(np.float32),
-                                "speed": np.array([tempo / cfg["pitch"]], np.float32)})[0].ravel()
-        audio = shift_pitch(audio, cfg["pitch"]) * cfg["gain"] * (PUNCH_GAIN if punch else 1)
-        chunks += [audio, np.zeros(int(SR * (cfg["gap"] + (0.25 if punch else 0))), np.float32)]
+                                "style": style.astype(np.float32),
+                                "speed": np.array([tempo / pitch], np.float32)})[0].ravel()
+        audio = shift_pitch(audio, pitch) * gain * (PUNCH_GAIN if punch else 1)
+        chunks += [audio, np.zeros(int(SR * (gap + (0.25 if punch else 0))), np.float32)]
     wav = np.concatenate(chunks)
     pcm = (np.clip(wav, -1, 1) * 32767).astype(np.int16).tobytes()
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "s16le", "-ar", str(SR), "-ac", "1", "-i", "-",
