@@ -40,6 +40,15 @@ One calm, warm female host speaking directly to Scott ("you"). No co-host.
 - Acronyms read letter by letter are written with spaces ("H B M", "E U V", "A S M L", "A M D", "T S M C", "D W"). Scott asked for ASML as A-S-M-L and AMD as A-M-D.
 - Godot is said "GO-DOT".
 - Short, clear sentences. Blank lines between paragraphs. Australian/British spelling.
+- **Delivery cues** (Scott's choice, October 2026): the voice engine reads square-bracket tags and changes how she sounds. Use them so the tone matches the words:
+  - `[happy]` at the start of a paragraph (or partway through one): brighter, quicker, a touch higher. For good news, launches, trailers, excitement, teasing and light jokes.
+  - `[dark]`: slower, lower, softer and heavier, with longer pauses. For the MeatCanyon-style dark bits; it makes the calm, sweet-but-wrong delivery land.
+  - `[serious]`: slower and calm. For tragic or sad news (and no jokes anywhere near it).
+  - `[beat]`: a short pause, for timing before a reveal.
+  - `[punch]` right before a joke's punchline: a pause, then the punchline a little slower and louder. Write the punchline as its own short sentence so it lands: set-up, `[beat]` or `[punch]`, pay-off.
+  - A tag lasts until the end of its paragraph; the next paragraph goes back to her normal voice. Untagged is her normal warm voice, which suits most news and explanation.
+  - Use them generously but naturally: most jokes get a `[punch]`, every dark bit gets `[dark]`, sad news gets `[serious]`, and the host's excited moments get `[happy]`. Never `[happy]` next to sad news. Exclamation marks, short sentences and ellipses also shape her tone.
+  - The tags are only for the voice: leave them out of `notes.md`, `shownotes.json` and the sheet, and strip them from any readable script file sent to Scott.
 - New tricky name? Add it to `show/pronunciations.json` (regex to how it sounds). Never remove entries.
 
 ## 4. Sources

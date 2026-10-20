@@ -43,7 +43,7 @@ On Mondays, cover news since Friday's episode. On Fridays, also research the wee
 
 ## 5. Write the script
 
-Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, the "you, not his name" rule in bible section 2 (count the uses of "Scott" and trim), and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
+Write the 11 sections from bible section 5 as plain text files in `EP/script/` (`01_opening_world.txt` ... `11_chat_outro.txt`), following the host, humour, tone, writing and question rules in bible sections 2, 3 and 6, the delivery cues in bible section 3 ([happy], [dark], [serious], [beat], [punch]), the "you, not his name" rule in bible section 2 (count the uses of "Scott" and trim), and the no-repeat rule in bible section 4 (check every story against the previous scripts: only new information, with light context). Choose deep dives per bible section 7 (refill a pool if it's running low). Add any new tricky names to `show/pronunciations.json`.
 
 Also write:
 - Today's challenge (bible section 8): run `python3 engine/challenges.py misses DATE` (2 or more in a row: make it a little harder, per the bible), pick it, run `python3 engine/challenges.py rate DATE` for the completion rate (use exactly what it prints, in the outro, the headlines and the sheet), then `python3 engine/challenges.py add DATE "challenge"`.
@@ -61,7 +61,7 @@ First the headlines edition (a couple of minutes): `sh REPO/engine/build_episode
 ## 6b. If the voice engine is blocked
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
-- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text), and commit it.
+- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text, with the [tags] removed), and commit it.
 - In step 7, send that file and `EP/sheet.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
 - Carry on with everything else (memory updates and commits) as normal.
