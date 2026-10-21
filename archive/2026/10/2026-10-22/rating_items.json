@@ -137,7 +137,7 @@
    },
    {
     "id": "tech-7",
-    "title": "RTX 5090 not discontinued; 24GB 5080 rumour",
+    "title": "24GB RTX 5080 rumour",
     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
    },
    {
@@ -147,16 +147,11 @@
    },
    {
     "id": "tech-9",
-    "title": "TrueNAS 27 release candidate",
-    "topic": "Home server: Dell T330, TrueNAS, Jellyfin"
-   },
-   {
-    "id": "tech-10",
     "title": "iPhone Duo reviews",
     "topic": "Apple"
    },
    {
-    "id": "tech-11",
+    "id": "tech-10",
     "title": "Fujifilm expands Instax film",
     "topic": "Fujifilm X-M5, lenses and camera gear"
    }

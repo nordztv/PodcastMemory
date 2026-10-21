@@ -5,7 +5,7 @@ Scheduled run, started about 1:46am Sydney. Audio NOT recorded: the voice engine
 ## Running order
 1. Opening and world: rainy Thursday (BOM 95%, 3-15 mm, storms possible, NE winds), weekend City Circle closure; US peace push on Ukraine (Witkoff in Oslo and St Petersburg, Hubbard released, Patriot delay row); Abyei drone strike, 153 killed; Italy troops to Milan, France troops; Brent ~US$110; Chinese student deported from Taiwan.
 2. Australia: Helen Haines loses both legs, Phil Haines and the Governor-General speak; Nugent court appearance (remanded, 4 Feb); MP security briefings and threat numbers; PM's office document on Haines (even-handed note on everyone walking things back); youth radicalisation; RBA's Hauser warns on inflation (Nov hike ~51%); Domain: prices fall in every capital; NextDC; Pocock data centre levy. NSW: Mount Pleasant laws criticised; WSI opens Sunday (Qatar from Dec 2027); DV reforms; Free TAFE deal, coal regions authority, ADHD GPs; Moss Vale gas plant appeal.
-3. Tech: SpaceX Q3 (AI now biggest segment); Starship Flight 15 double catch next month; SpaceX-Tesla merger committees; Tesla/Meta preview (report ~7am AEDT, after this was written); Netflix trims forecasts; Micron strike partly defused; Kospi rebound, Super Micro; RTX 5090 not discontinued, 24GB 5080 rumour; Ollama; TrueNAS 27 RC; iPhone Duo reviews; Instax expansion.
+3. Tech: SpaceX Q3 (AI now biggest segment); Starship Flight 15 double catch next month; SpaceX-Tesla merger committees; Tesla/Meta preview (report ~7am AEDT, after this was written); Netflix trims forecasts; Micron strike partly defused; Kospi rebound, Super Micro; 24GB RTX 5080 rumour; Ollama; iPhone Duo reviews; Instax expansion.
 4. Games: FF Resonance launch day (OpenCritic 85, Switch 1 vs 2); FF7 Remake Intergrade Game Pass 29 Oct; FFX watches; DQ Monsters; ID@Xbox round-up; Shrek 2 Remastered; Xbox handheld/Helix reports; MW4 tomorrow; WoW Forever stress test and launch 5 Nov AEDT; Cyberpunk 2.5; Stranger Than Heaven; Fallout 76 pets; Switch Sports Resort; Ocarina ad.
 5. Movies: James Wan's Gangster, Cop, Devil remake (Ma Dong-seok, Keanu in talks); Paradise Lost; Night Tales Club; Summoner; Trauma, or Monsters All (Barbara Crampton); Other Mommy drop; Above the Below; Hong Kong discs (Chinese Ghost Story 4K, Wheels on Meals, Pedicab Driver, Fearless Hyena, early John Woo, Exiled). Actress of the Month Thursday: the making of Aliens.
 6. Lore: Final Fantasy IV and Cecil's redemption.
@@ -31,6 +31,7 @@ Sixty dumbbell rows (thirty each arm, 7.5 kg) and a one-minute plank. Completion
 Challenge done. Section scores: World 3, Australia 3, Tech 4, Games 4, Movies 4, Lore 4, Game tech 4, Effects 3, Director 5, Workshop 5, Chat 3; liked everything except Alberta. Q1 Desert of Mystery and Swamp of Evil; Q2 a cattle farm where humans are fattened for meat; Q3 making-of specific scenes. Note: names still mispronounced (Ciri, Geralt and others) -> respellings changed (Ciri = Siri, Geralt = Gair ult) and 50+ new names added to show/pronunciations.json.
 
 ## Gaps
+- Dropped as repeats of earlier episodes: RTX 5090 'not discontinued' (20 Oct) and TrueNAS 27 RC (20 Oct workshop link); Chinese Ghost Story 4K framed as a date update.
 - Voice engine blocked (no audio).
 - Reuters, BBC and DW searches were rejected by the proxy again; news from ABC, SBS and NSW ministerial releases only. Several article bodies (Hubbard release, Zelenskyy SBS piece) were read by headline only.
 - Tesla and Meta report after this was written (~7am AEDT).
@@ -77,9 +78,7 @@ Tech, games, movies and deep dives:
 - https://www.tradingkey.com/analysis/stocks/us-stocks/262228767-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey
 - https://www.koreajoongangdaily.com/business/kospi-rebounds-over-3-on-eased-ai-spending-woes/12932490
 - https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-12-preliminary-130847425.html
-- https://pcguide.com/news/nvidia-denies-claims-rtx-5090-is-being-discontinued-as-stock-disappears-and-prices-near-9000
 - https://releasebot.io/updates/ollama
-- https://www.truenas.com/blog/truenas-27-is-here/
 - https://appleinsider.com/articles/26/10/21/iphone-duo-review-roundup-mostly-positive-opinions-unfold
 - https://www.fujirumors.com/
 - https://opencritic.com/game/20820/final-fantasy-resonance

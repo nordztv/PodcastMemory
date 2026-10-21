@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-22 | Lore | Final Fantasy IV and Cecil's redemption |
+| 2026-10-22 | Game tech | Mode 7 explained (fake it in Godot with Camera3D or a shader) |
+| 2026-10-22 | Effects | The Lord of the Rings: bigatures and forced perspective |
+| 2026-10-22 | Director | Bong Joon-ho's Memories of Murder |
+| 2026-10-22 | Workshop | Filming rain: backlight, dark background, shutter speed, reflections |
+| 2026-10-22 | Chat | Beautiful lies: the illusions behind games and films |
 | 2026-10-21 | Lore | The Witcher 3: making-of |
 | 2026-10-21 | Game tech | Tilemaps and autotiling (Godot terrains) |
 | 2026-10-21 | Effects | Mad Max: Fury Road's practical stunts |

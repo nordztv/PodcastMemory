@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
  "weekday": "Thursday",
- "length": "",
+ "length": "script only (audio not recorded)",
  "headline": "Final Fantasy Resonance launches, Helen Haines' husband speaks, the RBA warns on inflation, and SpaceX's first results",
  "challenge": "Sixty dumbbell rows (thirty each arm, 7.5 kg) and a one-minute plank (completion rate so far: 1 of 1, 100%)",
  "segments": [
@@ -267,11 +267,11 @@
      ]
     },
     {
-     "title": "RTX 5090 not discontinued; 24GB 5080 rumour",
+     "title": "24GB RTX 5080 rumour",
      "links": [
       {
        "label": "PC Guide",
-       "url": "https://pcguide.com/news/nvidia-denies-claims-rtx-5090-is-being-discontinued-as-stock-disappears-and-prices-near-9000"
+       "url": "https://www.pcguide.com/news/nvidia-reportedly-plans-upgraded-rtx-5080-with-24gb-vram-as-rtx-5090-rumored-to-be-discontinued/"
       }
      ]
     },
@@ -281,15 +281,6 @@
       {
        "label": "Releasebot",
        "url": "https://releasebot.io/updates/ollama"
-      }
-     ]
-    },
-    {
-     "title": "TrueNAS 27 release candidate",
-     "links": [
-      {
-       "label": "TrueNAS",
-       "url": "https://www.truenas.com/blog/truenas-27-is-here/"
       }
      ]
     },

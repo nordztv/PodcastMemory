@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-22 (Thursday)
+
+- **Length:** audio not recorded (voice engine blocked). Script about 12,000 words (headlines about 560).
+- **World:** US Ukraine peace push (Witkoff Oslo then St Petersburg, Hubbard freed, Patriot delay row); Abyei market drone strike, 153 dead; Italy troops to Milan, France troops; Brent ~US$110; Chinese student deported from Taiwan.
+- **Australia and NSW:** Haines lost both legs, Phil Haines and G-G speak, vigil Fri 8pm; Nugent remanded, back 4 Feb 2027; MP security briefings (AFP threat reports 1,067); PM's office document on Haines; youth radicalisation; RBA Hauser "materially worse" inflation, Nov hike ~51%; Domain prices fall in every capital (Sydney houses -4.7%); NextDC -42%; Pocock 5% data centre levy. NSW: Mount Pleasant laws criticised by ex-judge; WSI opens Sun 25 Oct; DV reforms pass; Free TAFE $560m; coal regions authority; ADHD GPs; Moss Vale gas plant appeal.
+- **Tech:** SpaceX Q3 ($14.6B, AI $7.56B); Starship Flight 15 double catch next month; SpaceX-Tesla merger committees; Tesla/Meta preview; Netflix trims forecasts; Micron Taichung deal; Kospi +3.3%, Super Micro; 24GB RTX 5080 rumour; Ollama 0.40.7; iPhone Duo reviews; Instax expansion.
+- **Games:** FF Resonance launch (OpenCritic 85, Switch 1 vs 2); FF7 Remake Game Pass 29 Oct; FFX watches; DQ Monsters 3 Dec; ID@Xbox round-up; Shrek 2 Remastered 10 Nov; Xbox handheld/Helix reports; WoW Forever launch 5 Nov AEDT; Cyberpunk 2.5; Stranger Than Heaven; Fallout 76 pets; Switch Sports Resort; Ocarina ad.
+- **Movies:** James Wan's Gangster, Cop, Devil remake; Paradise Lost; Night Tales Club; Summoner; Trauma, or Monsters All; Other Mommy drop; Above the Below; HK discs (Chinese Ghost Story 4K, Exiled). Actress of the Month Thursday: Aliens making-of.
+- **Deep dives:** FFIV and Cecil; Mode 7 (fake it in Godot); LOTR bigatures and forced perspective; Memories of Murder. Workshop: filming rain.
+- **Challenge:** Sixty dumbbell rows and a one-minute plank (rate 1 of 1, 100%).
+- **Questions:** FF character who deserves a Mount Ordeals; his game's Mode 7 moment; did he watch Aliens.
+- **Answer reaction:** 21 Oct answers (Desert of Mystery/Swamp of Evil, human cattle farm, making-of scenes); suggestion: Jellyfin extras folders for making-of clips. Thanked for 5s (director, workshop) and the names note.
+- **Follow up:** Tesla and Meta results (this morning); Micron Taoyuan strike; Witkoff in St Petersburg; Haines condition and vigil Fri; MW4, iPhone Duo, Clayface, Fallout Day 23 Oct; WSI opens 25 Oct; Tokyo IFF 26 Oct; Arrow Chinese Ghost Story 26 Oct; Israel election 27 Oct; SK Hynix 27 Oct; WoW Forever names 27 Oct; CPI next week; Wolf Among Us, FF7R Game Pass, Apple event 29 Oct; Intel 29 Oct; RBA 3 Nov; WoW Forever 5 Nov; Ocarina 5 Nov; Starship Flight 15 (NET 8 Nov); Shrek 2 10 Nov.
+
 ## 2026-10-21 (Wednesday)
 
 - **Length:** 87 min (headlines 4 min). Script delivered at 2am; audio recorded later on request in the same session.

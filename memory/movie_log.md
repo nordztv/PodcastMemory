@@ -11,6 +11,12 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-10-22 | Aliens (1986) | James Cameron | Sigourney Weaver, Michael Biehn, Carrie Henn | Sci-fi action horror, USA/UK | Actress of the Month, Thursday (making-of) | | | |
+| 2026-10-22 | Memories of Murder (2003) | Bong Joon-ho | Song Kang-ho, Kim Sang-kyung | Crime thriller, South Korea | Director deep dive | | | |
+| 2026-10-22 | The Lord of the Rings: The Fellowship of the Ring (2001) | Peter Jackson | Elijah Wood, Ian McKellen | Fantasy, New Zealand/USA | Effects deep dive (bigatures, forced perspective; whole trilogy) | | | |
+| 2026-10-22 | Exiled (2006) | Johnnie To | Anthony Wong, Francis Ng | Crime, Hong Kong | Movies segment recommendation (Blu-ray news) | | | |
+| 2026-10-22 | A Chinese Ghost Story (1987) | Ching Siu-tung (prod. Tsui Hark) | Joey Wong, Leslie Cheung | Fantasy horror, Hong Kong | Movies segment mention (Arrow 4K trilogy) | | | |
+| 2026-10-22 | The Gangster, the Cop, the Devil (2019) | Lee Won-tae | Ma Dong-seok | Crime thriller, South Korea | Movies segment mention (James Wan remake news) | | | |
 | 2026-10-21 | Oldboy (2003) | Park Chan-wook | Choi Min-sik, Yoo Ji-tae, Kang Hye-jung | Thriller, South Korea | Director deep dive (corridor fight) | | | |
 | 2026-10-21 | Mad Max: Fury Road (2015) | George Miller | Charlize Theron, Tom Hardy | Action, Australia/USA | Effects deep dive (practical stunts) | | | |
 | 2026-10-21 | The Blade (1995) | Tsui Hark | Vincent Zhao | Wuxia, Hong Kong | Movies segment recommendation (Criterion release) | | | |
@@ -29,9 +35,12 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Bong Joon-ho | Memories of Murder (2003) | Song Kang-ho | 2026-10-22 |
+| Peter Jackson | The Lord of the Rings (2001-03) | | 2026-10-22 |
+| Johnnie To | Exiled (2006) | | 2026-10-22 |
 | Ridley Scott | Alien (1979) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
-| James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
+| James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986, making-of 22 Oct) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
 | Christopher Nolan | Inception (2010) | | 2026-10-18 |
 | Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |
