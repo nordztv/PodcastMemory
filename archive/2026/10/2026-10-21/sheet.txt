@@ -7,10 +7,11 @@ First challenge, no rate yet
 Done (yes or no):
 
 --------------------------------------------------
-RATE TODAY'S EPISODE
-Score (1 to 5):
-Best segment:
-Worst segment:
+RATE TODAY'S EPISODE (1 to 5 each)
+Delivery of information:
+Story choice:
+Humour and personality:
+Deep dives:
 
 --------------------------------------------------
 TODAY'S QUESTIONS FROM THE SHOW
