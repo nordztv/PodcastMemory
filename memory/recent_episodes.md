@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-22 (Thursday)
 
-- **Length:** audio not recorded (voice engine blocked). Script about 12,000 words (headlines about 560).
+- **Length:** 90 min (headlines 4 min). Script delivered at 2am; audio recorded later on request in the same session.
 - **World:** US Ukraine peace push (Witkoff Oslo then St Petersburg, Hubbard freed, Patriot delay row); Abyei market drone strike, 153 dead; Italy troops to Milan, France troops; Brent ~US$110; Chinese student deported from Taiwan.
 - **Australia and NSW:** Haines lost both legs, Phil Haines and G-G speak, vigil Fri 8pm; Nugent remanded, back 4 Feb 2027; MP security briefings (AFP threat reports 1,067); PM's office document on Haines; youth radicalisation; RBA Hauser "materially worse" inflation, Nov hike ~51%; Domain prices fall in every capital (Sydney houses -4.7%); NextDC -42%; Pocock 5% data centre levy. NSW: Mount Pleasant laws criticised by ex-judge; WSI opens Sun 25 Oct; DV reforms pass; Free TAFE $560m; coal regions authority; ADHD GPs; Moss Vale gas plant appeal.
 - **Tech:** SpaceX Q3 ($14.6B, AI $7.56B); Starship Flight 15 double catch next month; SpaceX-Tesla merger committees; Tesla/Meta preview; Netflix trims forecasts; Micron Taichung deal; Kospi +3.3%, Super Micro; 24GB RTX 5080 rumour; Ollama 0.40.7; iPhone Duo reviews; Instax expansion.

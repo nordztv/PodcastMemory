@@ -1,6 +1,6 @@
 # Morning Briefing - Thursday 22 October 2026
 
-Scheduled run, started about 1:46am Sydney. Audio NOT recorded: the voice engine setup (engine/setup.sh) was blocked twice by the session's automatic permission check ("Code from External"), so per daily_run 6b this is a script-only delivery (`Morning_Briefing_2026-10-22_script.txt`). About 12,000 words.
+Scheduled run, started about 1:46am Sydney. Audio recorded later on request (90 min, headlines 4 min, 11 chapters, delivered about 5am). In the scheduled run it was NOT recorded: the voice engine setup (engine/setup.sh) was blocked twice by the session's automatic permission check ("Code from External"), so per daily_run 6b this is a script-only delivery (`Morning_Briefing_2026-10-22_script.txt`). About 12,000 words.
 
 ## Running order
 1. Opening and world: rainy Thursday (BOM 95%, 3-15 mm, storms possible, NE winds), weekend City Circle closure; US peace push on Ukraine (Witkoff in Oslo and St Petersburg, Hubbard released, Patriot delay row); Abyei drone strike, 153 killed; Italy troops to Milan, France troops; Brent ~US$110; Chinese student deported from Taiwan.
