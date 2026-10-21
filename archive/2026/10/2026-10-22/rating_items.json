@@ -1,0 +1,343 @@
+[
+ {
+  "key": "world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "world-1",
+    "title": "US peace push on Ukraine: Witkoff in Oslo, then St Petersburg",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "world-2",
+    "title": "Drone strike on Abyei market kills 153",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-3",
+    "title": "Italy sends troops to Milan; France deploys troops",
+    "topic": "Europe protests and unrest"
+   },
+   {
+    "id": "world-4",
+    "title": "Brent oil near US$110",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-5",
+    "title": "Chinese student deported from Taiwan over 'pinch' video",
+    "topic": "China and Taiwan"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "Helen Haines loses both legs; husband speaks",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-2",
+    "title": "Brendan Nugent's first court appearance",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-3",
+    "title": "MP security briefings and threat numbers",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-4",
+    "title": "PM's office document on Haines",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-5",
+    "title": "Youth radicalisation warning",
+    "topic": "Australian defence"
+   },
+   {
+    "id": "australia-6",
+    "title": "RBA warns inflation 'materially worse'",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-7",
+    "title": "House prices fall in every capital",
+    "topic": "Sydney housing and planning"
+   },
+   {
+    "id": "australia-8",
+    "title": "Pocock's data centre levy",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-9",
+    "title": "Judge attacks Mount Pleasant mine laws",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-10",
+    "title": "Western Sydney International opens Sunday",
+    "topic": "Sydney trains and transport"
+   },
+   {
+    "id": "australia-11",
+    "title": "Domestic violence reforms pass",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-12",
+    "title": "Free TAFE deal, coal regions authority, ADHD GPs",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-13",
+    "title": "Moss Vale data centre gas plant appeal",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "SpaceX's first results: AI now its biggest business",
+    "topic": "SpaceX and Starship"
+   },
+   {
+    "id": "tech-2",
+    "title": "Starship Flight 15: catch both stages",
+    "topic": "SpaceX and Starship"
+   },
+   {
+    "id": "tech-3",
+    "title": "Tesla results preview and merger committees",
+    "topic": "Tesla"
+   },
+   {
+    "id": "tech-4",
+    "title": "Netflix trims forecasts",
+    "topic": "Tech company earnings"
+   },
+   {
+    "id": "tech-5",
+    "title": "Micron Taiwan strike partly defused",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-6",
+    "title": "Kospi rebounds; Super Micro lifts AI hardware",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-7",
+    "title": "RTX 5090 not discontinued; 24GB 5080 rumour",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-8",
+    "title": "Ollama updates",
+    "topic": "Running AI models at home (model sizes, quantisation)"
+   },
+   {
+    "id": "tech-9",
+    "title": "TrueNAS 27 release candidate",
+    "topic": "Home server: Dell T330, TrueNAS, Jellyfin"
+   },
+   {
+    "id": "tech-10",
+    "title": "iPhone Duo reviews",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-11",
+    "title": "Fujifilm expands Instax film",
+    "topic": "Fujifilm X-M5, lenses and camera gear"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "Final Fantasy Resonance launch day",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-2",
+    "title": "FF7 Remake Intergrade joins Game Pass",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-3",
+    "title": "FFX watches and Dragon Quest Monsters",
+    "topic": "Square Enix and Dragon Quest"
+   },
+   {
+    "id": "games-4",
+    "title": "ID@Xbox showcase round-up",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-5",
+    "title": "Shrek 2 Remastered",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-6",
+    "title": "Xbox handheld and Helix price reports",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-7",
+    "title": "WoW Forever stress test and launch timeline",
+    "topic": "Warcraft and Blizzard"
+   },
+   {
+    "id": "games-8",
+    "title": "Cyberpunk 2077 update 2.5",
+    "topic": "The Witcher and CD Projekt Red"
+   },
+   {
+    "id": "games-9",
+    "title": "Stranger Than Heaven hands-on",
+    "topic": "Like a Dragon / Yakuza series"
+   },
+   {
+    "id": "games-10",
+    "title": "Fallout 76 World Pets",
+    "topic": "Fallout series"
+   },
+   {
+    "id": "games-11",
+    "title": "Switch Sports Resort and the Ocarina ad",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "James Wan to remake The Gangster, the Cop, the Devil",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-2",
+    "title": "Yeon Sang-ho's Paradise Lost opens",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-3",
+    "title": "Night Tales Club: Kurosawa and Shimizu",
+    "topic": "Japanese horror"
+   },
+   {
+    "id": "movies-4",
+    "title": "Kevin Bacon's Summoner",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-5",
+    "title": "Trauma, or Monsters All trailer",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-6",
+    "title": "Other Mommy drops 70%",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-7",
+    "title": "Above the Below trailer",
+    "topic": "Sci-fi and action films"
+   },
+   {
+    "id": "movies-8",
+    "title": "Hong Kong classics on 4K and Blu-ray",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-9",
+    "title": "Actress of the Month: the making of Aliens",
+    "topic": "Cult actresses and iconic characters"
+   }
+  ]
+ },
+ {
+  "key": "lore",
+  "name": "Lore",
+  "items": [
+   {
+    "id": "lore-1",
+    "title": "Final Fantasy IV and Cecil's redemption",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   }
+  ]
+ },
+ {
+  "key": "game-tech",
+  "name": "Game tech",
+  "items": [
+   {
+    "id": "game-tech-1",
+    "title": "Mode 7 explained, and faking it in Godot",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "The Lord of the Rings: bigatures and forced perspective",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Bong Joon-ho's Memories of Murder",
+    "topic": "Korean genre cinema"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "How to film rain",
+    "topic": "Fujifilm X-M5, lenses and camera gear"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "Beautiful lies: the illusions behind games and films",
+    "topic": "Game tech explained (DLSS, rendering, parallax)"
+   }
+  ]
+ }
+]

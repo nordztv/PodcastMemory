@@ -1,0 +1,25 @@
+[happy] Game tech. And today, the most famous graphics trick of the Super Nintendo: Mode seven. We mentioned it with the A Link to the Past world map yesterday, so let's open the box. And I'll start with the practical bit, because you can fake it in your own game this weekend.
+
+Here's the Godot version, in one minute. In Godot four, the easiest way to get a Mode seven look is to cheat with three D. Put your big map image on a flat plane, a MeshInstance three D with a plane mesh. Turn the texture filter to nearest, so the pixels stay crisp. Tilt a Camera three D down at the plane, low and at an angle. Then move and rotate the camera, not the ground. That's it. You get the classic swooping, tilting world map. If you want your characters to stay pixel art, use Sprite three D nodes with billboard turned on, so they always face the camera.
+
+If you'd rather stay purely in two D, the other way is a shader on a TextureRect: for each row of pixels below the horizon, you work out how far away that row is, divide by that distance, rotate the coordinates, and sample your map texture there. Rows near the horizon get squashed and tiny, rows near the bottom stay big. It's a few lines of shader code, and it's lovely for a flying sequence or a world map screen.
+
+Now, how the real thing worked.
+
+The Super Nintendo draws its picture in layers, as we said yesterday. Normally those background layers can only scroll: slide left, right, up, down. Mode seven is a special mode where one background layer gets superpowers. It can be rotated and scaled. Spun round, zoomed in, zoomed out. Under the hood, the console applies a little bit of maths, a matrix, to every pixel, which tells it where in the big background map that pixel should come from.
+
+That on its own gives you a flat, spinning, zooming map. Pretty, but flat. Think of a photo on a turntable under a magnifying glass.
+
+The magic is the next step. The Super Nintendo draws the screen one line at a time, from top to bottom. And it has a feature called H D M A, which lets it quietly change settings between lines, while the picture is being drawn. So programmers changed the zoom on every single line. Lines near the top of the ground are zoomed far out, so they look distant and tiny. Lines near the bottom are zoomed in, so they look close and big. And your eye reads that as perspective. A flat floor, stretching away to a horizon.
+
+[happy] That's F-Zero. That's Super Mario Kart. That's Pilotwings. It's not three D at all. It's a flat picture being re-zoomed two hundred and twenty four times every frame. [punch] The Super Nintendo didn't render a world. It just lied very convincingly, sixty times a second.
+
+There were limits. Mode seven only works on one background layer, so the floor is all you get. Everything standing on it, the karts, the characters, the trees, has to be sprites drawn on top, which is why the pipes in Mario Kart always look a bit like cardboard cutouts. And the map itself had to fit in a fixed size: a grid of a hundred and twenty eight by a hundred and twenty eight tiles, so a thousand and twenty four pixels square.
+
+Clever designers used it everywhere once they understood it. The Final Fantasy six airship world map. The tilting platform over the lava in some of Super Mario World's castle fights, which is really a background layer being rotated. The swooping world maps in Secret of Mana when you fly on Flammie. That one's especially relevant to you, because it's exactly the effect your game would want for a travel or flying sequence.
+
+So, a practical idea for your game. Your farm and your world are top-down. But if, later, the player unlocks a way to travel, a giant bird, a flying radish, whatever you like, that's the moment for a Mode seven style map. Build your normal world map as one big image, drop it on a plane in a little three D scene, and fly a tilted camera over it. A tiny bit of work for a big "oh wow" moment. And it's straight out of the Secret of Mana playbook.
+
+[happy] Here's my question for you. If your game had one Mode seven moment, what would the player be riding, and where would they be flying to? My answer: a giant, flying radish. [punch] It doesn't want to carry you. It just wants revenge for its family. Your answer space is on the sheet.
+
+Now. Effects.

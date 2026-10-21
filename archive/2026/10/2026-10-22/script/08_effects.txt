@@ -1,0 +1,25 @@
+[happy] Effects. And today, the films that taught a generation that the best miniatures aren't miniature at all. The Lord of the Rings, and its bigatures.
+
+When Peter Jackson made the trilogy in New Zealand, around the turn of the millennium, digital effects were getting good. Gollum alone proves that. But for the great cities and fortresses, Minas Tirith, Helm's Deep, Barad-dûr, Rivendell, Isengard, the team at Weta Workshop, led by Richard Taylor, made a bold choice. They built them. Physically. As models.
+
+Except these weren't little tabletop models. They were enormous. So big that the crew started calling them "bigatures". Some were bigger than a room, and some had to be shot in a car park or a warehouse just to fit. Minas Tirith, the white city carved into the mountain, was built as a huge, tiered model packed with tiny buildings, streets and walls, detailed enough for a camera to fly right down into it.
+
+Why go physical? Because real objects behave like real objects. Light bounces off a real wall exactly the way light bounces off a wall. Shadows fall correctly. Tiny chips and dirt and weathering catch the light in a way that, back then, computers struggled to fake. Put a real camera close to a real model, and your brain believes it. The digital work, the armies, the sky, the moving figures, was then added on top, so you get the best of both.
+
+Shooting them was its own art. A miniatures unit, with the cinematographer Alex Funke, worked for years on these models, using motion control. That's a computer-driven camera rig that can repeat the exact same move again and again, to the millimetre. So they could shoot the city once with one lighting setup, then again with smoke, then again for a different pass, and every pass lines up perfectly. Then the effects artists stacked them all together.
+
+[happy] Then there's the other half of the trick, and it's my favourite. Forced perspective. How do you make Ian McKellen, who's quite a tall man, look like he's towering over Elijah Wood as Frodo, when they're sitting side by side on a cart?
+
+You cheat with distance. Things further from the camera look smaller. So you put Gandalf close to the camera and Frodo further away, and line them up so they look like they're next to each other. Old trick. As old as cinema.
+
+The problem: the moment the camera moves, the trick breaks, because the two actors shift relative to each other. So the Lord of the Rings team built something new. For the cart scene in Fellowship, the cart was actually built as two separate pieces, at different distances from the camera, with Gandalf on the near piece and Frodo on the far piece. And when the camera moved, a motion control rig moved one half of the set to keep the illusion perfectly lined up. A moving forced perspective shot. That's why those early Shire scenes feel so natural, even though you're watching an optical illusion.
+
+They also used scale doubles, smaller or taller stand-ins for wide shots, built sets at two different scales, like Bag End, one where the hobbits fit and one where Gandalf bangs his head on the beams, and plenty of kneeling, low tables and oversized props. Hundreds of little cheats, all working together.
+
+[dark] Forced perspective is a lovely trick until you think about it too long. A whole film where everyone is standing exactly where the camera tells them. Hobbits who must never, ever step forward. [beat] Somewhere in that Shire, there's a hobbit who took one step towards the lens on take forty seven. [punch] And now he's a giant, and no one's allowed to talk about it.
+
+And it worked. All three films won the Oscar for visual effects. And the bigatures have aged beautifully, in a way some purely digital effects from the same era haven't. When the trilogy was remastered for four K, those models still hold up, because they're real. Your four K discs have the proof.
+
+There's also a lesson there that applies to your own filmmaking, even with just a camera and a desk. If you want something to look big, shoot it low and wide, close to the lens, with slow movement and a bit of haze or depth in the background. That's how a model city becomes a mountain city, and it's how your Pi in a little case could look like a broadcast tower in a product shot.
+
+Now, a director.

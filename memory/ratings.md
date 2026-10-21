@@ -8,6 +8,7 @@ Scores are 1 to 5 per section. Votes list liked (+) and disliked (-) stories wit
 
 | Episode | World | Australia | Tech | Games | Movies | Lore | Game tech | Effects | Director | Workshop | Chat | Liked | Disliked | What changed because of it |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 3 | 5 | 5 | 3 | Liked every Australia, tech, games and movies story; all world stories but one; Witcher 3 lore; tilemaps; Fury Road; Oldboy; FCP workshop; Dark World chat | Alberta votes to stay (Canadian politics) | Director and Workshop (5) kept as they are; world, Australia, effects and chat (3) get small tweaks: tighter world round-up, more why-it-matters in Australia, more practical detail in effects, chat kept shorter; Canadian politics -5. Note: names still mispronounced (Ciri, Geralt): respellings fixed and every name double-checked. Overall 4, best Movies, worst Opening and world (old fields still on the page). |
 
 ## Old format (overall score, best and worst segment; used until 20 Oct 2026)
 

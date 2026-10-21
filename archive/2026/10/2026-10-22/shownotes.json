@@ -1,0 +1,625 @@
+{
+ "date": "2026-10-22",
+ "weekday": "Thursday",
+ "length": "",
+ "headline": "Final Fantasy Resonance launches, Helen Haines' husband speaks, the RBA warns on inflation, and SpaceX's first results",
+ "challenge": "Sixty dumbbell rows (thirty each arm, 7.5 kg) and a one-minute plank (completion rate so far: 1 of 1, 100%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "US peace push on Ukraine: Witkoff in Oslo, then St Petersburg",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/russia-releases-us-citizen-stephen-hubbard-in-custody-since-2022/107294224"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/zelenskyy-ukraine-intelligence-us-peace-talks/gl9573rhw"
+      }
+     ]
+    },
+    {
+     "title": "Drone strike on Abyei market kills 153",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466"
+      }
+     ]
+    },
+    {
+     "title": "Italy sends troops to Milan; France deploys troops",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://sbs.com.au/news/article/pasta-production-hit-as-italy-sends-troops-after-milan-clashes/k31y1vee2"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/troops-deployed-and-curfews-implemented-to-quell-france-riots/107290576"
+      }
+     ]
+    },
+    {
+     "title": "Brent oil near US$110",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-22-2026/107290728"
+      }
+     ]
+    },
+    {
+     "title": "Chinese student deported from Taiwan over 'pinch' video",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/chinese-student-deported-from-taiwan-or-pinching-video/107289352"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Helen Haines loses both legs; husband speaks",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/phil-haines-governor-general-speak-on-helen-haines-health/107293176"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276"
+      }
+     ]
+    },
+    {
+     "title": "Brendan Nugent's first court appearance",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/mps-alleged-attacker-remains-behind-bars-evening-news-bulletin-21-october-2026/3ve6fyqcw"
+      }
+     ]
+    },
+    {
+     "title": "MP security briefings and threat numbers",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/federal-mp-afp-threat-assessments-lacking/107287500"
+      }
+     ]
+    },
+    {
+     "title": "PM's office document on Haines",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates/107290276"
+      }
+     ]
+    },
+    {
+     "title": "Youth radicalisation warning",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/youth-radicalisation-crime-police-warning-ideological-violence/107292752"
+      }
+     ]
+    },
+    {
+     "title": "RBA warns inflation 'materially worse'",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574"
+      }
+     ]
+    },
+    {
+     "title": "House prices fall in every capital",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/domain-house-price-september-quarter/107289400"
+      }
+     ]
+    },
+    {
+     "title": "Pocock's data centre levy",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/were-siding-with-the-tech-bros-pococks-proposes-new-levy-on-big-players/qr2mfu41a"
+      }
+     ]
+    },
+    {
+     "title": "Judge attacks Mount Pleasant mine laws",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/probe-into-nsw-coalmine-at-the-centre-of-climate-court-battle/107268146"
+      }
+     ]
+    },
+    {
+     "title": "Western Sydney International opens Sunday",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/nsw-travel-western-sydney-international-airport-flight-savings/106785424"
+      }
+     ]
+    },
+    {
+     "title": "Domestic violence reforms pass",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/reforms-protecting-victim-survivors-pass"
+      }
+     ]
+    },
+    {
+     "title": "Free TAFE deal, coal regions authority, ADHD GPs",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/free-tafe-program-locked"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/future-jobs-and-investment-fund-for-coal-producing-regions"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/nearly-300-gps-trained-to-safely-diagnose-and-treat-adhd"
+      }
+     ]
+    },
+    {
+     "title": "Moss Vale data centre gas plant appeal",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-21/moss-vale-data-centre-gas-plant-court-appeal/107294066"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "SpaceX's first results: AI now its biggest business",
+     "links": [
+      {
+       "label": "Fortune",
+       "url": "https://fortune.com/2026/10/20/spacex-q3-profit-ai-si-elon-musk/"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15: catch both stages",
+     "links": [
+      {
+       "label": "Motley Fool transcript",
+       "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
+      }
+     ]
+    },
+    {
+     "title": "Tesla results preview and merger committees",
+     "links": [
+      {
+       "label": "Electrek",
+       "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
+      }
+     ]
+    },
+    {
+     "title": "Netflix trims forecasts",
+     "links": [
+      {
+       "label": "Netflix letter",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
+      }
+     ]
+    },
+    {
+     "title": "Micron Taiwan strike partly defused",
+     "links": [
+      {
+       "label": "TradingKey",
+       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262228767-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey"
+      }
+     ]
+    },
+    {
+     "title": "Kospi rebounds; Super Micro lifts AI hardware",
+     "links": [
+      {
+       "label": "Korea JoongAng Daily",
+       "url": "https://www.koreajoongangdaily.com/business/kospi-rebounds-over-3-on-eased-ai-spending-woes/12932490"
+      },
+      {
+       "label": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-12-preliminary-130847425.html"
+      }
+     ]
+    },
+    {
+     "title": "RTX 5090 not discontinued; 24GB 5080 rumour",
+     "links": [
+      {
+       "label": "PC Guide",
+       "url": "https://pcguide.com/news/nvidia-denies-claims-rtx-5090-is-being-discontinued-as-stock-disappears-and-prices-near-9000"
+      }
+     ]
+    },
+    {
+     "title": "Ollama updates",
+     "links": [
+      {
+       "label": "Releasebot",
+       "url": "https://releasebot.io/updates/ollama"
+      }
+     ]
+    },
+    {
+     "title": "TrueNAS 27 release candidate",
+     "links": [
+      {
+       "label": "TrueNAS",
+       "url": "https://www.truenas.com/blog/truenas-27-is-here/"
+      }
+     ]
+    },
+    {
+     "title": "iPhone Duo reviews",
+     "links": [
+      {
+       "label": "AppleInsider",
+       "url": "https://appleinsider.com/articles/26/10/21/iphone-duo-review-roundup-mostly-positive-opinions-unfold"
+      }
+     ]
+    },
+    {
+     "title": "Fujifilm expands Instax film",
+     "links": [
+      {
+       "label": "Fuji Rumors",
+       "url": "https://www.fujirumors.com/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Final Fantasy Resonance launch day",
+     "links": [
+      {
+       "label": "OpenCritic",
+       "url": "https://opencritic.com/game/20820/final-fantasy-resonance"
+      },
+      {
+       "label": "Nintendo Everything",
+       "url": "https://nintendoeverything.com/final-fantasy-resonance-nintendo-switch-1-vs-2"
+      }
+     ]
+    },
+    {
+     "title": "FF7 Remake Intergrade joins Game Pass",
+     "links": [
+      {
+       "label": "Windows Central",
+       "url": "https://windowscentral.com/gaming/xbox/final-fantasy-vii-remake-game-pass-october-2026"
+      }
+     ]
+    },
+    {
+     "title": "FFX watches and Dragon Quest Monsters",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/dragon-quest-monsters-the-withered-world-details-online-content-offline-battle-arena-and-wranglers-gauntlet"
+      }
+     ]
+    },
+    {
+     "title": "ID@Xbox showcase round-up",
+     "links": [
+      {
+       "label": "Xbox Wire",
+       "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/"
+      }
+     ]
+    },
+    {
+     "title": "Shrek 2 Remastered",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+      }
+     ]
+    },
+    {
+     "title": "Xbox handheld and Helix price reports",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/report-xbox-to-release-next-gen-handheld-in-2027-and-expensive-helix-console-in-2028"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever stress test and launch timeline",
+     "links": [
+      {
+       "label": "Wowhead",
+       "url": "https://www.wowhead.com/blue-tracker/news/us/24302072"
+      },
+      {
+       "label": "Icy Veins",
+       "url": "https://www.icy-veins.com/wow-forever/roadmap"
+      }
+     ]
+    },
+    {
+     "title": "Cyberpunk 2077 update 2.5",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22"
+      }
+     ]
+    },
+    {
+     "title": "Stranger Than Heaven hands-on",
+     "links": [
+      {
+       "label": "PlayStation Blog",
+       "url": "https://blog.playstation.com/2026/10/21/stranger-than-heaven-hands-on-report-brutal-combat-and-the-glitz-of-show-business-intermix"
+      }
+     ]
+    },
+    {
+     "title": "Fallout 76 World Pets",
+     "links": [
+      {
+       "label": "Bethesda",
+       "url": "https://fallout.bethesda.net/en-US/news/inside-the-vault-world-pets-and-hideouts-public-test-server"
+      }
+     ]
+    },
+    {
+     "title": "Switch Sports Resort and the Ocarina ad",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "James Wan to remake The Gangster, the Cop, the Devil",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/james-wan-korean-thriller-remake/"
+      },
+      {
+       "label": "Dark Horizons",
+       "url": "https://www.darkhorizons.com/keanu-reeves-in-talks-for-james-wans-next/"
+      }
+     ]
+    },
+    {
+     "title": "Yeon Sang-ho's Paradise Lost opens",
+     "links": [
+      {
+       "label": "Star News",
+       "url": "https://www.starnewskorea.com/en/movie/2026/10/19/2026101910004614245"
+      }
+     ]
+    },
+    {
+     "title": "Night Tales Club: Kurosawa and Shimizu",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/tv/3972719/first-night-tales-club-teaser-brings-j-horror-masters-together"
+      }
+     ]
+    },
+    {
+     "title": "Kevin Bacon's Summoner",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/news/594111/daniel-ings-stephanie-beatriz-summoned-for-amazon-mgm-horror-movie-summoner/"
+      }
+     ]
+    },
+    {
+     "title": "Trauma, or Monsters All trailer",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/trauma-or-monsters-all-trailer/"
+      }
+     ]
+    },
+    {
+     "title": "Other Mommy drops 70%",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/box-office/594327/whalefall-devils-horror-weekend-box-office/"
+      }
+     ]
+    },
+    {
+     "title": "Above the Below trailer",
+     "links": [
+      {
+       "label": "Dark Horizons",
+       "url": "https://www.darkhorizons.com/first-trailer-idris-elbas-above-the-below/"
+      }
+     ]
+    },
+    {
+     "title": "Hong Kong classics on 4K and Blu-ray",
+     "links": [
+      {
+       "label": "UK release tracker",
+       "url": "https://normanicgrav.co.uk/2026/10/03/q4-2026-solicitations-for-uk-asian-cinema-home-video-releases/"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39206"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39195"
+      }
+     ]
+    },
+    {
+     "title": "Actress of the Month: the making of Aliens",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Aliens_(film)"
+      },
+      {
+       "label": "Space.com",
+       "url": "https://www.space.com/entertainment/space-movies-shows/we-knew-we-had-a-lot-to-live-up-to-as-aliens-turns-40-we-chat-with-the-legendary-vfx-masters-who-created-the-alien-queen-interview"
+      },
+      {
+       "label": "Film Stories",
+       "url": "https://filmstories.co.uk/features/james-camerons-aliens-finding-the-best-cut-of-the-film/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Final Fantasy IV and Cecil's redemption",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Mode 7 explained, and faking it in Godot",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "The Lord of the Rings: bigatures and forced perspective",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Bong Joon-ho's Memories of Murder",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "How to film rain",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Beautiful lies: the illusions behind games and films",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Actress of the Month (Sigourney Weaver)",
+   "title": "Aliens (1986), the making-of",
+   "note": "Watch the Special Edition if you can; check streaming or a 4K disc",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aliens_(film)"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Memories of Murder (2003)",
+   "note": "Bong Joon-ho's second feature",
+   "links": []
+  },
+  {
+   "kind": "Deep-dive game",
+   "title": "Final Fantasy IV (Pixel Remaster)",
+   "note": "Probably the nicest way to play it today",
+   "links": []
+  },
+  {
+   "kind": "Workshop",
+   "title": "How to film rain",
+   "note": "Backlight it, dark background, 1/50 for streaks or 1/500+ to freeze; shoot puddle reflections; the X-M5 isn't weather sealed",
+   "links": []
+  }
+ ],
+ "questions": [
+  "Which Final Fantasy character most deserves their own Mount Ordeals, a chance to face their dark side and come back redeemed?",
+  "If your game had one Mode 7 moment, what would the player be riding, and where would they be flying to?",
+  "Did you get to watch Aliens this week? If so, what did you think?"
+ ]
+}

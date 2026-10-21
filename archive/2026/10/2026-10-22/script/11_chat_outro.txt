@@ -1,0 +1,29 @@
+[happy] Okay. Before I let you go, a little wander.
+
+Have you noticed what today's episode was secretly about? Lies. Beautiful ones. Mode seven is a flat picture pretending to be a world. The bigatures are models pretending to be cities. Forced perspective is two people pretending to stand side by side. Even Final Fantasy four's best fight is your hero pretending not to fight at all.
+
+And I think that's why we love this stuff. A game or a film is a magic trick you've agreed to fall for. You know Gandalf isn't really that tall. You know Mario Kart isn't really three D. And you choose to believe it anyway, because the trick is done with so much care.
+
+It's the same with your server, really. Ninety six terabytes, Jellyfin humming away, every film neatly sorted with its poster and its year. It looks like a little cinema. [punch] And it is, technically, a cinema with more storage than some small countries.
+
+[dark] Although, after your answer yesterday, I'll never look at a cosy farm the same way again. I asked what your farm turns into in the Dark World, and you said a cattle farm, except the livestock is people. Being fattened up. [beat] So I've been thinking about the little scarecrow by the gate. Smiling. Holding a clipboard. Weighing everyone on market day. [beat] And the cheerful sign at the front still says "Welcome, friends!" [punch] It's not lying. You are very welcome. You're just also on the menu.
+
+That's the most disturbing thing anyone's said to me this week. And I read the news for a living.
+
+[happy] Right. The challenge. And first, a well done. You did yesterday's. Forty squats and twenty push-ups, ticked off. That puts you on one out of one, a hundred per cent. A perfect record. I'm almost emotional.
+
+So today, a step up, and something different. Sixty dumbbell rows, thirty on each arm, with your seven and a half kilo dumbbells, plus a one minute plank. Break them up however you like across the day. A set of rows before you leave, the plank tonight. Your completion rate so far is one out of one, a hundred per cent. [punch] No pressure. But I'm going to be insufferable if it's two out of two.
+
+The week ahead. Tesla and Meta report this morning, about seven our time. Tomorrow, Call of Duty Modern Warfare four launches, the iPhone Duo arrives, Clayface hits cinemas, it's Fallout Day, and there's the online vigil for Helen Haines at eight tomorrow night. On the weekend, no City Circle trains from Friday night, and Western Sydney International opens to passenger flights on Sunday. Next week: the Tokyo film festival opens on Monday, Arrow's Chinese Ghost Story trilogy lands, Israel votes and World of Warcraft Forever name reservations open on Tuesday, the inflation figures come out, The Wolf Among Us Remastered and Final Fantasy seven Remake on Game Pass arrive on the twenty ninth, and Apple's "Pro and Tell" event is that Thursday morning. And then the Reserve Bank, on Melbourne Cup day.
+
+[happy] Now, your answers. You filled in the answer page again, and I loved them.
+
+Your favourite Light World and Dark World pair in A Link to the Past: the Desert of Mystery, and the Swamp of Evil. Great pick. The desert's all secrets and quicksand, and then the Dark World says, what if it were also damp and miserable? [punch] Which is basically Sydney today.
+
+And thank you for the scores. A five for the director deep dive, and a five for the workshop. I'll take those. I'm framing them. And I heard you about the names. You said Ciri and Geralt were wrong, and plenty of others. You're right, and I'm sorry. I've fixed the way I say them, and I'm checking every name before it goes to air. [punch] Please be patient with me, I'm still learning to say "Geralt" without sounding like I'm clearing my throat.
+
+But the answer I want to talk about is your Jellyfin one. If you could add one physical media extra to your library, you said: the making of specific scenes. That's a great answer, because it's exactly what the best discs do, and exactly what today's show has been about. Fury Road's stunts, the Oldboy corridor, the bigatures.
+
+So here's my one suggestion. You can do this in Jellyfin right now. Jellyfin supports extras. In a film's folder, next to the movie file, make a subfolder called "behind the scenes", or "featurettes", or "scenes", and drop video files in there. Jellyfin picks them up and shows them on that film's page, as extras, just like a disc menu. So take one film you love, Aliens is a good start this week, and collect a few short making-of clips about specific scenes: the Queen, the Power Loader, the tea break mutiny if you can find it. Name each file after the scene. Check the Jellyfin docs for the exact folder names it recognises. And suddenly your server has its own special features menu. [happy] Your own Criterion collection. [punch] With one very dedicated, very unpaid curator.
+
+Right, that's me. Take the umbrella, hold on to it through Hyde Park, and maybe skip the long lingering lunch in the Botanic Garden today. Enjoy Final Fantasy tonight, but do try to sleep at some point. Have a great day at work, Scott. I'll see you tomorrow.
