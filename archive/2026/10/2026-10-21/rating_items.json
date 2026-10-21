@@ -1,0 +1,333 @@
+[
+ {
+  "key": "world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "world-1",
+    "title": "France curfews and unrest across Europe",
+    "topic": "Europe protests and unrest"
+   },
+   {
+    "id": "world-2",
+    "title": "Kyiv barrage and the early warning row",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "world-3",
+    "title": "West Bank settler attack arrests",
+    "topic": "Israel and the Middle East"
+   },
+   {
+    "id": "world-4",
+    "title": "Alberta votes to stay in Canada",
+    "topic": "Canadian politics"
+   },
+   {
+    "id": "world-5",
+    "title": "Kenya cult leader verdict",
+    "topic": "Major world news"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "Helen Haines attack: man charged",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-2",
+    "title": "MP safety and the political temperature",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-3",
+    "title": "Hanson apology over Lambie cartoon",
+    "topic": "One Nation and Pauline Hanson"
+   },
+   {
+    "id": "australia-4",
+    "title": "Aged care and the migration cuts",
+    "topic": "Immigration policy"
+   },
+   {
+    "id": "australia-5",
+    "title": "NAB to cut 2,500 jobs",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-6",
+    "title": "ADF recruiting in PNG",
+    "topic": "Australian defence"
+   },
+   {
+    "id": "australia-7",
+    "title": "Teralba train factory",
+    "topic": "Sydney trains and transport"
+   },
+   {
+    "id": "australia-8",
+    "title": "Workplace protection orders",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-9",
+    "title": "Bays West design shortlist",
+    "topic": "Sydney housing and planning"
+   },
+   {
+    "id": "australia-10",
+    "title": "Incinerator moratorium inquiry",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-11",
+    "title": "Town Hall protest case",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "Chip stocks bounce, then Korea slides",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-2",
+    "title": "China orders 3M+ RTX Pro 5500 cards",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-3",
+    "title": "Intel XeSS coming to Proton",
+    "topic": "Intel and AMD"
+   },
+   {
+    "id": "tech-4",
+    "title": "AMD GAIA local AI agent",
+    "topic": "Running AI models at home (model sizes, quantisation)"
+   },
+   {
+    "id": "tech-5",
+    "title": "Nvidia custom HBM memory",
+    "topic": "Nvidia"
+   },
+   {
+    "id": "tech-6",
+    "title": "Earnings: Netflix, SpaceX, Tesla, Meta",
+    "topic": "Tech company earnings"
+   },
+   {
+    "id": "tech-7",
+    "title": "Apple Pro and Tell event",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-8",
+    "title": "iPhone Duo order limits",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-9",
+    "title": "Fujifilm X-T6 battery rumour",
+    "topic": "Fujifilm X-M5, lenses and camera gear"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "Final Fantasy Resonance reviews",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-2",
+    "title": "FFXIV account warning",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-3",
+    "title": "NieR rumour and FF Tactics mobile update",
+    "topic": "Square Enix and Dragon Quest"
+   },
+   {
+    "id": "games-4",
+    "title": "Switch Sports Resort, Ocarina size, Zelda restocks",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-5",
+    "title": "ID@Xbox, Wolf Among Us, Game Pass",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-6",
+    "title": "Call of Duty MW4",
+    "topic": "Call of Duty"
+   },
+   {
+    "id": "games-7",
+    "title": "WoW Forever stress test",
+    "topic": "Warcraft and Blizzard"
+   },
+   {
+    "id": "games-8",
+    "title": "Witcher 3 Remastered patch",
+    "topic": "The Witcher and CD Projekt Red"
+   },
+   {
+    "id": "games-9",
+    "title": "Yakuza voice actor Hiroshi Tsuchida",
+    "topic": "Like a Dragon / Yakuza series"
+   },
+   {
+    "id": "games-10",
+    "title": "Fallout Day week",
+    "topic": "Fallout series"
+   },
+   {
+    "id": "games-11",
+    "title": "A Link to the Past retrospective",
+    "topic": "Retro games (SNES and Mega Drive)"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "Slayground teaser",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-2",
+    "title": "Korean critics awards for Hope",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-3",
+    "title": "Tokyo International Film Festival",
+    "topic": "Film festivals"
+   },
+   {
+    "id": "movies-4",
+    "title": "Street Fighter vs Resident Evil in Japan",
+    "topic": "Game-to-film adaptations"
+   },
+   {
+    "id": "movies-5",
+    "title": "Criterion's The Blade",
+    "topic": "Kung fu and martial arts films"
+   },
+   {
+    "id": "movies-6",
+    "title": "Die Hard and Rambo in 4K",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-7",
+    "title": "Asian horror: Juku, The Red Woman",
+    "topic": "Asian horror"
+   },
+   {
+    "id": "movies-8",
+    "title": "Kick On wins at Brooklyn Horror",
+    "topic": "Australian films"
+   },
+   {
+    "id": "movies-9",
+    "title": "Jennifer's Body 2",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-10",
+    "title": "The Mummy: Book of the Dead",
+    "topic": "Fantasy films"
+   },
+   {
+    "id": "movies-11",
+    "title": "Netflix film chief leaves",
+    "topic": "Film industry news"
+   }
+  ]
+ },
+ {
+  "key": "lore",
+  "name": "Lore",
+  "items": [
+   {
+    "id": "lore-1",
+    "title": "The Witcher 3: making-of",
+    "topic": "The Witcher and CD Projekt Red"
+   }
+  ]
+ },
+ {
+  "key": "game-tech",
+  "name": "Game tech",
+  "items": [
+   {
+    "id": "game-tech-1",
+    "title": "Tilemaps and autotiling in Godot",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "Mad Max: Fury Road stunts",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Oldboy's corridor fight",
+    "topic": "Korean genre cinema"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "Final Cut: correction, look and presets",
+    "topic": "Colour grading and Final Cut Pro"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "The Dark World of cosy games",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ }
+]

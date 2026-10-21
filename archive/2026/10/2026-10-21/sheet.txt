@@ -8,10 +8,19 @@ Done (yes or no):
 
 --------------------------------------------------
 RATE TODAY'S EPISODE (1 to 5 each)
-Delivery of information:
-Story choice:
-Humour and personality:
-Deep dives:
+World news:
+Australia:
+Tech:
+Games:
+Movies:
+Lore:
+Game tech:
+Effects:
+Director:
+Workshop:
+Chat and goodbye:
+Stories I liked:
+Stories I didn't:
 
 --------------------------------------------------
 TODAY'S QUESTIONS FROM THE SHOW

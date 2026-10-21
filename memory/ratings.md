@@ -2,12 +2,12 @@
 
 Scott's ratings from the answer page or the RATE TODAY'S EPISODE section of each sheet. Newest first. The daily run adds rows here and adjusts the show (bible section 8).
 
-## Area ratings (from 21 Oct 2026)
+## Section scores and story votes (from 21 Oct 2026)
 
-Each area scored 1 to 5.
+Scores are 1 to 5 per section. Votes list liked (+) and disliked (-) stories with their topics.
 
-| Episode | Delivery of information | Story choice | Humour and personality | Deep dives | What changed because of it |
-| --- | --- | --- | --- | --- | --- |
+| Episode | World | Australia | Tech | Games | Movies | Lore | Game tech | Effects | Director | Workshop | Chat | Liked | Disliked | What changed because of it |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Old format (overall score, best and worst segment; used until 20 Oct 2026)
 
