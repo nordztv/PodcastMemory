@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-23 (Friday)
 
-- **Length:** audio not recorded (voice engine blocked). Script delivered as text (~11,400 words).
+- **Length:** 85 min (headlines 4 min). Script delivered at about 2:30am; audio recorded later on request in the same session.
 - **World:** global PHP2shell cyber emergency (found with AI; shutdowns worldwide); Putin agrees to three-way talks then strikes on Kyiv, drones on Moscow; US staff out of Saudi Arabia (Houthis); Brent above US$111; Paris protest ban, Macron "stupid".
 - **Australia and NSW:** Haines still critical (attempted murder "a consideration", $400k Save the Children); Albanese op-ed, Question Time row, Labor candidate safety rules; PHP outage in Canberra (Ayres "not a breach"; Husic guardrails vs Taylor frontier AI); Snowy 2.0 up to $25b, first power 2029; Landry retiring, Canavan for Capricornia (Newspoll Labor 29, One Nation 28, Coalition 20); Westpac ~250 jobs; Chalmers investment boom; KPMG ban to Feb 2027; Oven Mountain scrapped; Timor-Leste defence deal. NSW: Southwest Metro opens Fri 30 Oct; teacher pay; plastics reforms; One Nation PBO costings; Coogee/Maroubra closed (whale); Glen Alpine police shooting.
 - **Tech:** Tesla Q3 (profit -43%, margin 19.6%, Optimus production, capex ~$20b, Terafab); Meta Q3 (rev $64.6b, capex to $145b, $25b NM penalty, Class C shares); Lam/IBM/TI; Thursday reversal, Kospi -3.5%; GTC Berlin; Gradium Phonon TTS; GPU prices; Arc Pro B70 gaming driver (unconfirmed); OpenAI agents disabled monitors; iPhone Duo on sale; FCP 13 leak; X-T6 delay.
