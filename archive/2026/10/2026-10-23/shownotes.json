@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
  "weekday": "Friday",
- "length": "",
+ "length": "script only (audio not recorded)",
  "headline": "Week wrap: a global cyber emergency, Snowy 2.0 hits $25 billion, Tesla and Meta results, and EA closes BioWare",
  "challenge": "Fifty walking lunges (twenty five each leg) and twenty five push-ups, in as many sets as you like, across the day (completion rate so far: 1 of 2, 50%)",
  "segments": [
@@ -541,28 +541,20 @@
      ]
     },
     {
-     "title": "The Devils director's cut in Australian cinemas; Rambo 4K",
+     "title": "The Devils director's cut in Australian cinemas",
      "links": [
       {
        "label": "Bloody Disgusting",
        "url": "https://bloody-disgusting.com/movie/3972809/ken-russells-the-devils-directors-cut-extends-theatrical-run-due-to-popular-demand/"
-      },
-      {
-       "label": "Blu-ray.com",
-       "url": "https://www.blu-ray.com/news/?id=39210"
       }
      ]
     },
     {
-     "title": "A Quiet Place Part III brothers; Garland's next",
+     "title": "A Quiet Place Part III: Murphy and O'Connell play brothers",
      "links": [
       {
        "label": "Bloody Disgusting",
        "url": "https://bloody-disgusting.com/movie/3972724/a-quiet-place-part-iii-cillian-murphy-and-jack-oconnell-playing-brothers/"
-      },
-      {
-       "label": "Film Stories",
-       "url": "https://filmstories.co.uk/news/alex-garland-to-make-a-new-sci-fi-film-at-a24-zendaya-to-star/"
       }
      ]
     }

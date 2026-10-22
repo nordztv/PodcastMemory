@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-23 | Lore | Illidan Stormrage's story |
+| 2026-10-23 | Game tech | A-star pathfinding (AStarGrid2D / NavigationAgent2D for the radish monster) |
+| 2026-10-23 | Effects | The Matrix's bullet time |
+| 2026-10-23 | Director | Kurosawa's Seven Samurai |
+| 2026-10-23 | Workshop | A local text to speech voice on the home server (Kokoro container, voice blending) |
+| 2026-10-23 | Chat | Weekend send-off; project check-in: Godot game (radish spawn and chase, CanvasModulate day-night, Resource save system) |
 | 2026-10-22 | Lore | Final Fantasy IV and Cecil's redemption |
 | 2026-10-22 | Game tech | Mode 7 explained (fake it in Godot with Camera3D or a shader) |
 | 2026-10-22 | Effects | The Lord of the Rings: bigatures and forced perspective |

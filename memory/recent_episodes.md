@@ -2,6 +2,23 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-23 (Friday)
+
+- **Length:** audio not recorded (voice engine blocked). Script delivered as text (~11,400 words).
+- **World:** global PHP2shell cyber emergency (found with AI; shutdowns worldwide); Putin agrees to three-way talks then strikes on Kyiv, drones on Moscow; US staff out of Saudi Arabia (Houthis); Brent above US$111; Paris protest ban, Macron "stupid".
+- **Australia and NSW:** Haines still critical (attempted murder "a consideration", $400k Save the Children); Albanese op-ed, Question Time row, Labor candidate safety rules; PHP outage in Canberra (Ayres "not a breach"; Husic guardrails vs Taylor frontier AI); Snowy 2.0 up to $25b, first power 2029; Landry retiring, Canavan for Capricornia (Newspoll Labor 29, One Nation 28, Coalition 20); Westpac ~250 jobs; Chalmers investment boom; KPMG ban to Feb 2027; Oven Mountain scrapped; Timor-Leste defence deal. NSW: Southwest Metro opens Fri 30 Oct; teacher pay; plastics reforms; One Nation PBO costings; Coogee/Maroubra closed (whale); Glen Alpine police shooting.
+- **Tech:** Tesla Q3 (profit -43%, margin 19.6%, Optimus production, capex ~$20b, Terafab); Meta Q3 (rev $64.6b, capex to $145b, $25b NM penalty, Class C shares); Lam/IBM/TI; Thursday reversal, Kospi -3.5%; GTC Berlin; Gradium Phonon TTS; GPU prices; Arc Pro B70 gaming driver (unconfirmed); OpenAI agents disabled monitors; iPhone Duo on sale; FCP 13 leak; X-T6 delay.
+- **Games:** EA closes BioWare, next Mass Effect cancelled (~400 jobs; Battlefront 3 report; Mass Effect TV survives); MW4 launch; Fallout Day (free bundle to 1 Nov, Fathomless 2027); FF Resonance Taito collab 7 Nov, FFXIV Fan Fest 31 Oct; Xbox Cloud Playtime, valuation, Helix OS, RTO; WoW Forever beta extended; Capcom 11.7M breach; Zelda console sold out; Sakurai on AI; Stranger Than Heaven previews.
+- **Movies:** Clayface reviews (76% RT, $15-30M forecasts); You Can See Everything; Wicker; Wildwood; You Can't Leave; Crossed teaser; Tokyo IFF line-up; My Home; Tsui Hark wants horror; The Devils in AU cinemas 29 Oct; Quiet Place III.
+- **Deep dives:** Illidan Stormrage; A-star pathfinding for the radish monster; The Matrix bullet time; Kurosawa's Seven Samurai. Workshop: local TTS voice on the T330.
+- **Weekend send-off:** awards (irony: Cyber Security Centre's own site offline); weekend with his son (Darling Quarter playground, Nicho Halloween Festival, the Calyx Sunday, Burra); defending picks (A Link to the Past, Aliens: he loved it).
+- **Project check-in:** Godot 2D game, suggested radish spawn counter + AStarGrid2D chase, CanvasModulate day-night cycle, Resource-based save/load.
+- **Challenge:** Fifty walking lunges and twenty five push-ups (rate 1 of 2, 50%; 22 Oct missed).
+- **Questions:** Warcraft character as a travelling merchant; a bullet time moment in his game; the radish monster's game over screen.
+- **Answer reaction:** 22 Oct answers (Vincent Valentine, cannon like Secret of Mana, loved Aliens); suggestion: fake-height cannon arc with a shrinking shadow. Thanked for 5s and "much better with story".
+- **Weekly review:** first one; format_tuning updated; 4 proposals on the answer page.
+- **Follow up:** Haines condition and any charge upgrade; Landry/Canavan announcement (today); Moody's France downgrade; Ukraine talks date and Trump-Putin-Xi summit; PHP breach fallout; Clayface opening weekend; MW4 sales; FF Resonance sales; WoW Forever names 27 Oct; Tokyo IFF 26 Oct; Israel election 27 Oct; inflation figures and SK Hynix midweek; Apple event, Samsung, Intel, Phantom Blade Zero, Zelda console, FF7R Game Pass, The Devils (AU) 29 Oct; Southwest Metro 30 Oct; FFXIV Fan Fest 31 Oct; RBA 3 Nov; AMD 3 Nov; WoW Forever and Ocarina 5 Nov; Nintendo results 5 Nov.
+
 ## 2026-10-22 (Thursday)
 
 - **Length:** 90 min (headlines 4 min). Script delivered at 2am; audio recorded later on request in the same session.

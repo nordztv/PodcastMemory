@@ -11,6 +11,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-10-23 | The Matrix (1999) | The Wachowskis | Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne | Sci-fi action, USA/Australia | Effects deep dive (bullet time) | | | |
+| 2026-10-23 | Seven Samurai (1954) | Akira Kurosawa | Toshiro Mifune, Takashi Shimura | Jidaigeki action, Japan | Director deep dive | | | |
+| 2026-10-23 | The Devils (1971, director's cut) | Ken Russell | Vanessa Redgrave, Oliver Reed | Historical horror drama, UK | Movies segment recommendation (4K in AU cinemas 29 Oct) | | | |
 | 2026-10-22 | Aliens (1986) | James Cameron | Sigourney Weaver, Michael Biehn, Carrie Henn | Sci-fi action horror, USA/UK | Actress of the Month, Thursday (making-of) | | | |
 | 2026-10-22 | Memories of Murder (2003) | Bong Joon-ho | Song Kang-ho, Kim Sang-kyung | Crime thriller, South Korea | Director deep dive | | | |
 | 2026-10-22 | The Lord of the Rings: The Fellowship of the Ring (2001) | Peter Jackson | Elijah Wood, Ian McKellen | Fantasy, New Zealand/USA | Effects deep dive (bigatures, forced perspective; whole trilogy) | | | |
@@ -22,7 +25,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-10-21 | The Blade (1995) | Tsui Hark | Vincent Zhao | Wuxia, Hong Kong | Movies segment recommendation (Criterion release) | | | |
 | 2026-10-21 | Green Room (2015) | Jeremy Saulnier | Anton Yelchin, Imogen Poots | Horror thriller, USA | Movies segment recommendation (with Slayground news) | | | |
 | 2026-10-21 | Ugetsu (1953) | Kenji Mizoguchi | Machiko Kyō, Kinuyo Tanaka | Ghost story, Japan | Movies segment mention (Tokyo IFF retrospective) | | | |
-| 2026-10-20 | Aliens (1986) | James Cameron | Sigourney Weaver, Carrie Henn, Michael Biehn | Sci-fi action horror, USA/UK | Actress of the Month, Tuesday | | | |
+| 2026-10-20 | Aliens (1986) | James Cameron | Sigourney Weaver, Carrie Henn, Michael Biehn | Sci-fi action horror, USA/UK | Actress of the Month, Tuesday | Yes | Liked | "Really good. I loved the intensity of the action and the sound of the guns. The robot getting ripped in half was so unexpected." (22 Oct) |
 | 2026-10-20 | Alien (1979) | Ridley Scott | Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright | Sci-fi horror, UK/USA | Director deep dive | | | |
 | 2026-10-20 | The Thing (1982) | John Carpenter | Kurt Russell, Keith David | Sci-fi horror, USA | Effects deep dive (Rob Bottin creature effects) | | | |
 | 2026-10-19 | The Shining (1980) | Stanley Kubrick | Shelley Duvall, Jack Nicholson | Horror, UK/USA | Director deep dive (Steadicam) | | | |
@@ -35,6 +38,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Akira Kurosawa | Seven Samurai (1954) | Toshiro Mifune, Takashi Shimura | 2026-10-23 |
+| The Wachowskis | The Matrix (1999) | Carrie-Anne Moss | 2026-10-23 |
+| Ken Russell | The Devils (1971) | Vanessa Redgrave | 2026-10-23 |
 | Bong Joon-ho | Memories of Murder (2003) | Song Kang-ho | 2026-10-22 |
 | Peter Jackson | The Lord of the Rings (2001-03) | | 2026-10-22 |
 | Johnnie To | Exiled (2006) | | 2026-10-22 |

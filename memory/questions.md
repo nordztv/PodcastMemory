@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-10-22 | Which Final Fantasy character most deserves their own Mount Ordeals, a chance to face their dark side and come back redeemed? | Final Fantasy (series, lore, new releases) | Not yet | no |
-| 2026-10-22 | If your game had one Mode 7 moment, what would the player be riding, and where would they be flying to? | Godot and Scott's 2D game | Not yet | no |
-| 2026-10-22 | Did you get to watch Aliens this week? If so, what did you think? | Cult actresses and iconic characters | Not yet | no |
+| 2026-10-23 | If one Warcraft character turned up in your game as a travelling merchant, who would it be, and what would they sell? | Warcraft and Blizzard | Not yet | no |
+| 2026-10-23 | If you could add one bullet time moment to your game, what would it be? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-23 | When the radish monster finally catches you, what does your game over screen say? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-22 | Which Final Fantasy character most deserves their own Mount Ordeals, a chance to face their dark side and come back redeemed? | Final Fantasy (series, lore, new releases) | 2026-10-22 (answer page): "Vincent Valentine" | 2026-10-23 |
+| 2026-10-22 | If your game had one Mode 7 moment, what would the player be riding, and where would they be flying to? | Godot and Scott's 2D game | 2026-10-22 (answer page): "Shot out of a canon like secret of mana" | 2026-10-23 (suggestion given: fake-height arc with shrinking shadow) |
+| 2026-10-22 | Did you get to watch Aliens this week? If so, what did you think? | Cult actresses and iconic characters | 2026-10-22 (answer page): "Yes, it was really good. I loved the intensity of the action and the sound of the guns. The robot getting ripped in half was so unexpected." | 2026-10-23 |
 | 2026-10-21 | Which Light World and Dark World pair from A Link to the Past is your favourite, and how did you get on with the game this week? | Retro games / Zelda | 2026-10-21 (answer page): "Desert of Mystery Ledge and Swamp of Evil" | 2026-10-22 |
 | 2026-10-21 | If your game had a Dark World, what would your farm turn into on the other side? | Godot and Scott's 2D game | 2026-10-21 (answer page): "Like a cattle farm but it is humans being fattened for meat." | 2026-10-22 |
 | 2026-10-21 | If you could add one physical-media style extra to your Jellyfin library, a commentary, a booklet, a making-of, what would it be and for which film? | Home server: Dell T330, TrueNAS, Jellyfin | 2026-10-21 (answer page): "Making of specific scenes." | 2026-10-22 (suggestion given) |
