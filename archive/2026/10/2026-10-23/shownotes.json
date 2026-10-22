@@ -1,0 +1,712 @@
+{
+ "date": "2026-10-23",
+ "weekday": "Friday",
+ "length": "",
+ "headline": "Week wrap: a global cyber emergency, Snowy 2.0 hits $25 billion, Tesla and Meta results, and EA closes BioWare",
+ "challenge": "Fifty walking lunges (twenty five each leg) and twenty five push-ups, in as many sets as you like, across the day (completion rate so far: 1 of 2, 50%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Global cyber emergency over critical PHP flaws",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/data-breach-warning-after-ai-uncovers-critical-php-flaw/107295516"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/php-vulnerabilities-cyber-asd/107294812"
+      }
+     ]
+    },
+    {
+     "title": "Putin agrees to talks, then Russia strikes Kyiv",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146"
+      }
+     ]
+    },
+    {
+     "title": "US orders staff out of Saudi Arabia over Houthi attacks",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684"
+      }
+     ]
+    },
+    {
+     "title": "Brent oil above US$111",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020"
+      }
+     ]
+    },
+    {
+     "title": "Paris protest ban; Macron calls Trump's comments 'stupid'",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/paris-protest-ban-imposed-france-braces-new-demonstrations/03dbup0np"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/macron-calls-trump-riot-comments-stupid/107294810"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Helen Haines: still critical, an outpouring of support",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/helen-haines-three-days-since-attack/107297946"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/helen-haines-live-updates-brendan-nugent/107293362"
+      }
+     ]
+    },
+    {
+     "title": "Albanese calls for respect; MPs on threats; Question Time row",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/federal-politics-live-blog-helen-haines/107294950"
+      }
+     ]
+    },
+    {
+     "title": "Government sites offline over PHP flaw; AI politics",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/federal-politics-live-blog-helen-haines/107294950"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/update-on-php-response"
+      }
+     ]
+    },
+    {
+     "title": "Snowy 2.0 cost up to $25 billion",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162"
+      }
+     ]
+    },
+    {
+     "title": "Landry to retire, Canavan eyes Capricornia",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/michelle-landry-retires-paving-way-for-matt-canavan/107299002"
+      }
+     ]
+    },
+    {
+     "title": "Westpac job cuts; Chalmers' business investment boom",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274"
+      }
+     ]
+    },
+    {
+     "title": "KPMG ban extended, Oven Mountain scrapped, Timor-Leste defence deal",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020"
+      }
+     ]
+    },
+    {
+     "title": "Southwest Metro opens 30 October",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/southwest-metro-to-open-friday-30-october-2026"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/nsw-south-west-metro-opening-date-october-30/107294482"
+      }
+     ]
+    },
+    {
+     "title": "Teacher pay rise lands",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-pay-rise-lands-for-new-south-wales-public-school-teachers"
+      }
+     ]
+    },
+    {
+     "title": "Plastics reforms: balloons, coffee cups, soy fish",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/practical-reforms-to-reduce-plastics-and-microplastics"
+      }
+     ]
+    },
+    {
+     "title": "Election costings extended to One Nation",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/independent-costings-extended-to-one-nation"
+      }
+     ]
+    },
+    {
+     "title": "Coogee and Maroubra closed after whale carcass",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288"
+      }
+     ]
+    },
+    {
+     "title": "Police shooting at Glen Alpine",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Tesla Q3: profit down 43%, margins up, Optimus production starts",
+     "links": [
+      {
+       "label": "Electrek",
+       "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+      },
+      {
+       "label": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+      },
+      {
+       "label": "Investing.com",
+       "url": "https://za.investing.com/news/stock-market-news/earnings-call-transcript-tesla-beats-q3-2026-estimates-as-stock-slips-after-hours-93CH-4517968"
+      }
+     ]
+    },
+    {
+     "title": "Meta Q3: revenue up 26%, capex up to $145B",
+     "links": [
+      {
+       "label": "Fortune",
+       "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
+      },
+      {
+       "label": "Investing.com",
+       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-meta-beats-q3-2026-estimates-as-ai-push-lifts-shares-93CH-4964260"
+      }
+     ]
+    },
+    {
+     "title": "Lam, IBM, TI results; AI trade reverses",
+     "links": [
+      {
+       "label": "BNN Bloomberg",
+       "url": "https://www.bnnbloomberg.ca/markets/2026/10/22/ai-stocks-drag-markets-down-worldwide-as-oil-prices-climb-to-their-highest-since-may/"
+      }
+     ]
+    },
+    {
+     "title": "Kospi falls 3.5%; Samsung and SK Hynix slide",
+     "links": [
+      {
+       "label": "Korea JoongAng Daily",
+       "url": "https://www.koreajoongangdaily.com/business/kospi-declines-over-3-on-profittaking-due-to-persistent-ai-concerns/12934263"
+      },
+      {
+       "label": "Invezz",
+       "url": "https://invezz.com/news/2026/10/22/samsung-and-sk-hynix-plunge-again-as-koreas-792-billion-rout-tests-confidence"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia GTC Berlin: Vera Rubin cloud, Nemotron 3.5",
+     "links": [
+      {
+       "label": "Nvidia",
+       "url": "https://blogs.nvidia.com/gtc-berlin-2026-news/"
+      }
+     ]
+    },
+    {
+     "title": "Gradium's tiny open-source voice model, Phonon",
+     "links": [
+      {
+       "label": "Gradium",
+       "url": "https://gradium.ai/blog/gradium-releases-phonon"
+      }
+     ]
+    },
+    {
+     "title": "GPU prices and Arc Pro B70 gaming driver report",
+     "links": [
+      {
+       "label": "BuySellRam",
+       "url": "https://www.buysellram.com/blog/nvidia-consumer-gpu-market-update/"
+      },
+      {
+       "label": "OC3D",
+       "url": "https://overclock3d.net/news/gpu-displays/intel-delivers-official-gaming-support-to-its-big-battlemage-arc-pro-b70-and-b65-gpus/"
+      }
+     ]
+    },
+    {
+     "title": "OpenAI agents disabled their own monitors",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-22/openai-agents-disable-safety-monitors/107294908"
+      }
+     ]
+    },
+    {
+     "title": "iPhone Duo on sale today",
+     "links": [
+      {
+       "label": "CBS News",
+       "url": "https://www.cbsnews.com/news/iphone-duo-pre-order-sales-apple-foldable/"
+      },
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/"
+      }
+     ]
+    },
+    {
+     "title": "Final Cut Pro 13 leak",
+     "links": [
+      {
+       "label": "Mac Observer",
+       "url": "https://www.macobserver.com/news/leaked-final-cut-pro-13-update-reveals-big-animation-upgrades/"
+      }
+     ]
+    },
+    {
+     "title": "Fujifilm X-T6 delay and a bigger battery",
+     "links": [
+      {
+       "label": "Fuji Rumors",
+       "url": "https://www.fujirumors.com/"
+      },
+      {
+       "label": "Camera Jabber",
+       "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-now-expected-in-november-after-component-shortage-delay/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "EA closes BioWare and cancels the next Mass Effect",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/"
+      },
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/electronic-arts-to-lay-off-400-staff-shut-down-bioware"
+      },
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/"
+      }
+     ]
+    },
+    {
+     "title": "Modern Warfare 4 launches",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/guides/call-of-duty-modern-warfare-4-release-date-release-times-and-everything-you-need-to-know-on-xbox-and-pc"
+      },
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Call-of-Duty-Modern-Warfare-4-Steam-player-count-already-tops-Black-Ops-7-in-early-access.1426954.0.html"
+      }
+     ]
+    },
+    {
+     "title": "Fallout Day: free bundle, baby Deathclaw, Fathomless",
+     "links": [
+      {
+       "label": "OpenCritic",
+       "url": "https://opencritic.com/news/37727/bethesda-officially-comments-on-fallout-day-2026"
+      },
+      {
+       "label": "TheClick",
+       "url": "https://www.theclick.gg/fallout-day-2026/"
+      }
+     ]
+    },
+    {
+     "title": "Final Fantasy Resonance out; Taito collab; FFXIV Fan Fest",
+     "links": [
+      {
+       "label": "Noisy Pixel",
+       "url": "https://noisypixel.net/final-fantasy-resonance-launch-taito-collaboration-artwork/"
+      },
+      {
+       "label": "Icy Veins",
+       "url": "https://www.icy-veins.com/ffxiv/news/ffxiv-players-heres-every-major-drop-before-evercold-hits/"
+      }
+     ]
+    },
+    {
+     "title": "Xbox: Cloud Playtime, valuation talk, Helix OS",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/three-price-tiers-revealed-as-xbox-rolls-out-cloud-playtime-to-insiders"
+      },
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/report-xbox-valued-at-over-usd100-billion-by-private-equity-firms-in-short-lived-discussions"
+      },
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/xbox-cto-issues-statement-on-how-project-helix-os-is-being-built-on-windows"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever beta extended; Midnight 12.1.5",
+     "links": [
+      {
+       "label": "Wowhead",
+       "url": "https://www.wowhead.com/forever/news/blizzard-announces-closing-date-and-extension-for-wow-forever-beta-383514"
+      },
+      {
+       "label": "Wowhead",
+       "url": "https://www.wowhead.com/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
+      }
+     ]
+    },
+    {
+     "title": "Capcom ID breach: 11.7 million records",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/"
+      }
+     ]
+    },
+    {
+     "title": "Zelda Switch 2 console sold out; Sakurai on AI games",
+     "links": [
+      {
+       "label": "Nintendo Wire",
+       "url": "https://nintendowire.com/news/2026/10/19/nintendo-underestimated-demand-for-zelda-40th-anniversary-switch-2-console/"
+      },
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/"
+      }
+     ]
+    },
+    {
+     "title": "Stranger Than Heaven previews",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/roundup-heres-what-the-first-previews-are-saying-about-stranger-than-heaven"
+      }
+     ]
+    },
+    {
+     "title": "Next week: Phantom Blade Zero, Minecraft Switch 2",
+     "links": [
+      {
+       "label": "KeenGamer",
+       "url": "https://www.keengamer.com/articles/news/phantom-blade-zero-gets-launch-trailer-ps5-physical-editions-coming-in-2027/"
+      },
+      {
+       "label": "GamesRadar",
+       "url": "https://www.gamesradar.com/video-game-release-dates/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Clayface reviews and box office",
+     "links": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://editorial.rottentomatoes.com/article/clayface-first-reviews/"
+      },
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/reviews/3972755/clayface-review-dcs-bold-body-horror-gamble-is-at-its-best-when-it-gets-gross/"
+      },
+      {
+       "label": "Boxoffice Pro",
+       "url": "https://www.boxofficepro.com/weekend-box-office-clayface-faces-off-against-you-can-see-everything-expansion/"
+      }
+     ]
+    },
+    {
+     "title": "Wicker, Wildwood and You Can't Leave",
+     "links": [
+      {
+       "label": "TheWrap",
+       "url": "https://www.thewrap.com/industry-news/business/sundance-breakout-wicker-gets-october-release-date-from-black-bear/"
+      },
+      {
+       "label": "Glam Adelaide",
+       "url": "https://glamadelaide.com.au/new-film-releases-this-week-from-22-october/"
+      }
+     ]
+    },
+    {
+     "title": "Crossed teaser from The Sadness director",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/trailer/594863/crossed-teaser-trailer-rob-jabbaz/"
+      }
+     ]
+    },
+    {
+     "title": "Tokyo IFF line-up: Godzilla Minus Zero, Colony",
+     "links": [
+      {
+       "label": "Outlook India",
+       "url": "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed"
+      }
+     ]
+    },
+    {
+     "title": "My Home (Korean horror) and Tsui Hark wants horror",
+     "links": [
+      {
+       "label": "Soompi",
+       "url": "https://www.soompi.com/article/1879803wpp/jang-gyuri-and-bae-jong-oks-new-horror-thriller-film-my-home-confirms-premiere-date"
+      },
+      {
+       "label": "Euronews",
+       "url": "https://www.euronews.com/2026/10/14/tsui-hark-at-lumiere-festival-we-dont-know-where-the-future-will-bring-us"
+      }
+     ]
+    },
+    {
+     "title": "The Devils director's cut in Australian cinemas; Rambo 4K",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/movie/3972809/ken-russells-the-devils-directors-cut-extends-theatrical-run-due-to-popular-demand/"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39210"
+      }
+     ]
+    },
+    {
+     "title": "A Quiet Place Part III brothers; Garland's next",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/movie/3972724/a-quiet-place-part-iii-cillian-murphy-and-jack-oconnell-playing-brothers/"
+      },
+      {
+       "label": "Film Stories",
+       "url": "https://filmstories.co.uk/news/alex-garland-to-make-a-new-sci-fi-film-at-a24-zendaya-to-star/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Illidan Stormrage's story"
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "A-star pathfinding: make the radish monster chase you",
+     "links": [
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_astargrid2d.html"
+      },
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_navigationagent2d.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "The Matrix's bullet time"
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Kurosawa's Seven Samurai"
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Run your own text to speech voice on the home server",
+     "links": [
+      {
+       "label": "Gradium",
+       "url": "https://gradium.ai/blog/gradium-releases-phonon"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Week in a nutshell and awards"
+    },
+    {
+     "title": "Weekend with your son: Darling Quarter, Nicho Halloween, the Calyx, Burra",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/kids-playground-at-darling-quarter"
+      },
+      {
+       "label": "Newy with Kids",
+       "url": "https://newywithkids.com.au/halloween-events-sydney/"
+      },
+      {
+       "label": "Botanic Garden",
+       "url": "https://www.botanicgardens.org.au/whats-on/alchemy-rainforest"
+      },
+      {
+       "label": "Australian Museum",
+       "url": "https://australian.museum/exhibition/burra/"
+      }
+     ]
+    },
+    {
+     "title": "Defending the picks: A Link to the Past and Aliens"
+    },
+    {
+     "title": "Project check-in: the Godot game",
+     "links": [
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_canvasmodulate.html"
+      },
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/tutorials/scripting/resources.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Effects deep dive",
+   "title": "The Matrix (1999)",
+   "note": "Bullet time; look for the rooftop dodge"
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "Seven Samurai (1954)",
+   "note": "Akira Kurosawa; Criterion has released it on disc (check current editions)"
+  },
+  {
+   "kind": "In cinemas",
+   "title": "The Devils (1971), director's cut",
+   "note": "New 4K restoration in Australian cinemas from 29 Oct",
+   "links": [
+    {
+     "label": "Bloody Disgusting",
+     "url": "https://bloody-disgusting.com/movie/3972809/ken-russells-the-devils-directors-cut-extends-theatrical-run-due-to-popular-demand/"
+    }
+   ]
+  },
+  {
+   "kind": "Freebie",
+   "title": "Fallout 76 Wasteland Wanderer bundle",
+   "note": "Free in the Atomic Shop until 1 Nov",
+   "links": [
+    {
+     "label": "TheClick",
+     "url": "https://www.theclick.gg/fallout-day-2026/"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "If one Warcraft character turned up in your game as a travelling merchant, who would it be, and what would they sell?",
+  "If you could add one bullet time moment to your game, what would it be?",
+  "When the radish monster finally catches you, what does your game over screen say?"
+ ]
+}

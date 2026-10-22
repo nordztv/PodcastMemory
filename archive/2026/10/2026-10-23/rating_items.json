@@ -1,0 +1,343 @@
+[
+ {
+  "key": "world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "world-1",
+    "title": "Global cyber emergency over critical PHP flaws",
+    "topic": "Cybersecurity"
+   },
+   {
+    "id": "world-2",
+    "title": "Putin agrees to talks, then Russia strikes Kyiv",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "world-3",
+    "title": "US orders staff out of Saudi Arabia over Houthi attacks",
+    "topic": "Israel and the Middle East"
+   },
+   {
+    "id": "world-4",
+    "title": "Brent oil above US$111",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-5",
+    "title": "Paris protest ban; Macron calls Trump's comments 'stupid'",
+    "topic": "Europe protests and unrest"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "Helen Haines: still critical, an outpouring of support",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-2",
+    "title": "Albanese calls for respect; MPs on threats; Question Time row",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-3",
+    "title": "Government sites offline over PHP flaw; AI politics",
+    "topic": "Cybersecurity"
+   },
+   {
+    "id": "australia-4",
+    "title": "Snowy 2.0 cost up to $25 billion",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-5",
+    "title": "Landry to retire, Canavan eyes Capricornia",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-6",
+    "title": "Westpac job cuts; Chalmers' business investment boom",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-7",
+    "title": "KPMG ban extended, Oven Mountain scrapped, Timor-Leste defence deal",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-8",
+    "title": "Southwest Metro opens 30 October",
+    "topic": "Sydney trains and transport"
+   },
+   {
+    "id": "australia-9",
+    "title": "Teacher pay rise lands",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-10",
+    "title": "Plastics reforms: balloons, coffee cups, soy fish",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-11",
+    "title": "Election costings extended to One Nation",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-12",
+    "title": "Coogee and Maroubra closed after whale carcass",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-13",
+    "title": "Police shooting at Glen Alpine",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "Tesla Q3: profit down 43%, margins up, Optimus production starts",
+    "topic": "Tesla"
+   },
+   {
+    "id": "tech-2",
+    "title": "Meta Q3: revenue up 26%, capex up to $145B",
+    "topic": "Tech company earnings"
+   },
+   {
+    "id": "tech-3",
+    "title": "Lam, IBM, TI results; AI trade reverses",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-4",
+    "title": "Kospi falls 3.5%; Samsung and SK Hynix slide",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-5",
+    "title": "Nvidia GTC Berlin: Vera Rubin cloud, Nemotron 3.5",
+    "topic": "Nvidia"
+   },
+   {
+    "id": "tech-6",
+    "title": "Gradium's tiny open-source voice model, Phonon",
+    "topic": "Running AI models at home (model sizes, quantisation)"
+   },
+   {
+    "id": "tech-7",
+    "title": "GPU prices and Arc Pro B70 gaming driver report",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-8",
+    "title": "OpenAI agents disabled their own monitors",
+    "topic": "AI safety"
+   },
+   {
+    "id": "tech-9",
+    "title": "iPhone Duo on sale today",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-10",
+    "title": "Final Cut Pro 13 leak",
+    "topic": "Colour grading and Final Cut Pro"
+   },
+   {
+    "id": "tech-11",
+    "title": "Fujifilm X-T6 delay and a bigger battery",
+    "topic": "Fujifilm X-M5, lenses and camera gear"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "EA closes BioWare and cancels the next Mass Effect",
+    "topic": "Video game industry"
+   },
+   {
+    "id": "games-2",
+    "title": "Modern Warfare 4 launches",
+    "topic": "Call of Duty"
+   },
+   {
+    "id": "games-3",
+    "title": "Fallout Day: free bundle, baby Deathclaw, Fathomless",
+    "topic": "Fallout series"
+   },
+   {
+    "id": "games-4",
+    "title": "Final Fantasy Resonance out; Taito collab; FFXIV Fan Fest",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-5",
+    "title": "Xbox: Cloud Playtime, valuation talk, Helix OS",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-6",
+    "title": "WoW Forever beta extended; Midnight 12.1.5",
+    "topic": "Warcraft and Blizzard"
+   },
+   {
+    "id": "games-7",
+    "title": "Capcom ID breach: 11.7 million records",
+    "topic": "Capcom and Resident Evil"
+   },
+   {
+    "id": "games-8",
+    "title": "Zelda Switch 2 console sold out; Sakurai on AI games",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-9",
+    "title": "Stranger Than Heaven previews",
+    "topic": "Like a Dragon / Yakuza series"
+   },
+   {
+    "id": "games-10",
+    "title": "Next week: Phantom Blade Zero, Minecraft Switch 2",
+    "topic": "Video game releases"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "Clayface reviews and box office",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-2",
+    "title": "Wicker, Wildwood and You Can't Leave",
+    "topic": "Fantasy films"
+   },
+   {
+    "id": "movies-3",
+    "title": "Crossed teaser from The Sadness director",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-4",
+    "title": "Tokyo IFF line-up: Godzilla Minus Zero, Colony",
+    "topic": "Film festivals"
+   },
+   {
+    "id": "movies-5",
+    "title": "My Home (Korean horror) and Tsui Hark wants horror",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-6",
+    "title": "The Devils director's cut in Australian cinemas; Rambo 4K",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-7",
+    "title": "A Quiet Place Part III brothers; Garland's next",
+    "topic": "Sci-fi and action films"
+   }
+  ]
+ },
+ {
+  "key": "lore",
+  "name": "Lore",
+  "items": [
+   {
+    "id": "lore-1",
+    "title": "Illidan Stormrage's story",
+    "topic": "Warcraft and Blizzard"
+   }
+  ]
+ },
+ {
+  "key": "game-tech",
+  "name": "Game tech",
+  "items": [
+   {
+    "id": "game-tech-1",
+    "title": "A-star pathfinding: make the radish monster chase you",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "The Matrix's bullet time",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Kurosawa's Seven Samurai",
+    "topic": "Directors and filming techniques"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "Run your own text to speech voice on the home server",
+    "topic": "Home server: Dell T330, TrueNAS, Jellyfin"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "Week in a nutshell and awards",
+    "topic": "Major world news"
+   },
+   {
+    "id": "chat-and-goodbye-2",
+    "title": "Weekend with your son: Darling Quarter, Nicho Halloween, the Calyx, Burra",
+    "topic": "Weekend activities in Sydney"
+   },
+   {
+    "id": "chat-and-goodbye-3",
+    "title": "Defending the picks: A Link to the Past and Aliens",
+    "topic": "Cult actresses and iconic characters"
+   },
+   {
+    "id": "chat-and-goodbye-4",
+    "title": "Project check-in: the Godot game",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ }
+]

@@ -1,0 +1,19 @@
+Our director today is Akira Kurosawa, and the film is Seven Samurai, from 1954. If you've ever enjoyed a film where someone assembles a team, a heist crew, a band of misfits, a party of heroes in a Final Fantasy game, you've enjoyed something this film helped invent.
+
+The story is simple. A poor farming village knows bandits will return after the harvest. They can't fight, so they go to town to hire samurai, and all they can offer is rice. Takashi Shimura plays Kambei, the calm, greying veteran who agrees to {lead|leed} them. Toshiro Mifune plays Kikuchiyo, a wild, loud man pretending to be a samurai, who turns out to be the heart of the film. Seven men. Forty bandits. One village.
+
+It was a huge production for Japan at the time. The shoot ran for about a year, well over budget, and the film runs nearly three and a half hours. The studio, Toho, was nervous more than once. What came out of all that time is one of the most influential action films ever made.
+
+Let's talk about how he shot it, because there are three things you can steal.
+
+The first is multiple cameras with long lenses. For the action scenes, Kurosawa ran several cameras at once, often with telephoto lenses placed far from the actors. That does two things. The actors can't tell which camera is on them, so they stop performing for it and just fight, run and fall. And the long lens squashes the distance, so riders, rain and mud all stack up into one dense, chaotic picture. Then in the edit he had several angles of the same moment, so he could cut with real rhythm.
+
+The second is weather. The final battle takes place in pouring rain and deep mud, shot in the cold. You feel the exhaustion. The horses slip. The swords look heavy. Kurosawa used weather as emotion his whole career: wind, rain, fog, heat. It's not decoration; it's telling you how the characters feel.
+
+The third is clarity. A battle with forty bandits and dozens of villagers could easily be a mess. Kurosawa makes it easy to follow. Kambei draws a map of the village, and keeps a scroll with circles for each bandit, crossing one out every time one falls. So during all the chaos, you always know the score, where the fight is, and what's at stake. He also gives each samurai one clear trait, so you know who's who even in the mud.
+
+The film's legacy is enormous. Hollywood remade it as The Magnificent Seven in 1960. The idea of gathering a team, each with a skill, then a big siege at the end, has been reused in westerns, science fiction, animation and games ever since.
+
+Here's your practical lesson for the X-M5. Next time you film something with movement, a friend on a bike, a dog at the park, your son toddling across the grass, try it from far away with your longest lens, rather than up {close|klohss} with a wide one. Shoot it twice, from two different spots. You'll get that compressed, layered Kurosawa look, the subject won't feel watched, and in Final Cut you'll have two angles to cut between. And if the weather turns, don't run inside straight away. Ten seconds of rain on the lens might be the most emotional shot of the day.
+
+[happy] Also, the most Kurosawa thing about Seven Samurai is the deal itself. Seven professionals risk their lives for a village, and the payment is rice. [punch] Offer you a twelve terabyte drive and I think you'd defend a village too.

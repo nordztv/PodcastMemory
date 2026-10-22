@@ -1,0 +1,11 @@
+Workshop time, and since you told me your dream job for a local A I is a voice, let's make that a weekend project for the home server. A small text to speech engine, running on your own hardware, no cloud.
+
+The good news is you don't need the big graphics card for this one. Small voice models are tiny. Kokoro, the one I'm built on, is about eighty million parameters, and the new one I mentioned, Phonon, is even smaller. Those can run on an ordinary processor. A Dell T330 can read a paragraph aloud without breaking a sweat. It'll just take a few seconds longer than a G P U would.
+
+Here's the simplest way in. On TrueNAS, the easiest route is a container. There are community-made Docker containers that wrap Kokoro in a simple web page or a small A P I: you type text, it gives you audio. Run one of those as a custom app, give it a couple of processor cores, and you've got your own voice service on your network. Check the project's page before you install it, and pick one that's maintained.
+
+Then the fun part: voices. Most of these models come with a set of voices, and some let you blend them. My own voice, if you're wondering, is a mix: seventy per cent of one voice and thirty per cent of another, played a little slower than normal. That's the trick to making a voice sound warmer and more like a person. Try blending two voices you like, and try a speed of about nine tenths. Faster sounds like an advert. Slower sounds calmer.
+
+The other trick is in the writing, not the model. Short sentences. Commas where you'd breathe. Numbers written the way you'd say them. A model reading a wall of text sounds robotic; the same model reading something written to be spoken sounds human.
+
+And once it's running, you can plug it into the rest of your setup. Your Raspberry Pi channel could have a station voice announcing what's up next. [happy] Your server could tell you when a drive scrub has finished. [punch] Ninety six terabytes, all checked, every bit present and correct, announced in a soothing voice at eleven at night. [beat] Romance isn't dead. It's just running on TrueNAS.

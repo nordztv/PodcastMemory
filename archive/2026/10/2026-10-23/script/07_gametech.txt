@@ -1,0 +1,23 @@
+Game tech, and today it's practical first, because I want your radish monster to be able to find you. Right now, a monster that runs straight at the player gets stuck on the first fence post. What you want is pathfinding, and the classic way to do it is called A-star.
+
+Here's how to do it in Godot four, two ways.
+
+Option one, if your farm is built on a grid of tiles, which it is: use the A-star grid two D class. You create one in code, tell it the size of your map and the size of a tile, and call its update function. Then, for every tile the monster can't walk through, a fence, a tree, a well, the farmhouse, you mark that cell as solid. When the radish monster wants to reach you, you ask the grid for a path from its tile to your tile, and it hands you back a list of cells. The monster walks to the first cell, then the next, then the next. You can also choose whether it's allowed to move diagonally, which changes how sneaky it looks.
+
+Option two is Godot's navigation system: give your tile map layer some navigation shapes, and give the monster a navigation agent two D node. You set the agent's target position to the player, and every frame you ask it for the next position to walk towards. This one's smoother and handles monsters bumping around each other, but there's a bit more to set up, and the docs still mark the agent as experimental.
+
+For a top-down farm, I'd start with the grid. It's simple, it's fast, and you can see exactly what's happening.
+
+Three tips that will save you a weekend. One: don't recalculate the path every single frame. Do it every quarter of a second or so, or when the player moves to a new tile. Two: give the monster a leash. If you get more than, say, ten tiles away, it gives up and wanders back to the field it came from, grumbling. Three: draw the path while you're testing. A little line of dots from radish to player will show you every bug instantly.
+
+Now, how does A-star actually work? Imagine you're walking from Green Square to work, and you don't know Sydney at all. You stand on the corner and look at the streets next to you. For each one, you think about two things: how far you've already walked to get there, and roughly how far it still is to work, as the crow flies. Add those together, and walk towards the corner with the smallest total. Then repeat from there.
+
+That's A-star. The distance you've already walked is the cost so far. The rough guess of what's left is called the heuristic. The magic is in combining them. If you only looked at the distance walked, you'd spread out in every direction like a puddle, slowly checking every street in the city. If you only looked at the straight-line guess, you'd charge towards the office and walk into the harbour. Together, A-star heads towards the goal, but it's willing to go around the Botanic Garden fence when it has to.
+
+As long as your guess never overestimates the real distance, A-star is guaranteed to find the shortest path. On a grid where you can only move up, down, left and right, the usual guess is to add the horizontal and vertical distances together; with diagonals allowed, you use a slightly different formula, and the Godot class lets you pick.
+
+You can also make some tiles more expensive instead of solid. Mud, tall crops, a shallow stream. The radish monster can wade through your carrots, but it costs more, so it'll go around if there's an easy path.
+
+[dark] Which raises a question about your radish monster. When it paths through the carrot patch, does it know them? [beat] Are they cousins? [punch] Does it slow down out of respect, or speed up out of guilt?
+
+[happy] Either way, by Monday it should be able to chase you round the farmhouse properly. And if it ever gets stuck on a fence post, that's not a bug. That's a radish having a bad day.
