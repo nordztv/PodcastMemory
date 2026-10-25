@@ -1,10 +1,10 @@
 # Daily run procedure
 
-Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 12:30am Sydney time (Scott's choice, October 2026), so the script and sheet should be delivered by about 1:15am; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
+Followed by the scheduled task the evening before every weekday episode (Sunday to Thursday nights, for Monday to Friday episodes; no weekend episodes). The run starts about 9:30pm Sydney time (Scott's choice, 25 October 2026), so the script and sheet should be delivered by about 10:15pm, and Scott's Mac records the audio overnight; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
 
-**Time budget (Sydney):** the run starts about 12:30am. Aim to have the script and sheet delivered by about 1:15am, then render audio if the voice engine runs (about an hour for 80 minutes of audio). If it's past 5:40am and rendering isn't finished, join whatever sections are done and deliver those.
+**Time budget (Sydney):** the run starts about 9:30pm the evening before. Aim to have the script and sheet committed, pushed and delivered by about 10:15pm, then render audio if the voice engine runs (about an hour for 80 minutes of audio). If it's past 5:40am and rendering isn't finished, join whatever sections are done and deliver those.
 
-Let `DATE` = the episode's date: the Sydney date of the coming morning (if the run starts in the evening, before midnight, that is TOMORROW's Sydney date; after midnight it is today's), in YYYY-MM-DD. Use that date and its weekday for everything (the greeting, "Friday" rules, file paths, the answer page), `REPO` = the clone of nordztv/podcastmemory, `EP` = `REPO/archive/YYYY/MM/DATE`.
+Let `DATE` = the episode's date: the Sydney date of the coming morning (the run starts in the evening, so this is normally TOMORROW's Sydney date; only if a run starts after midnight is it today's), in YYYY-MM-DD. Use that date and its weekday for everything (the greeting, "Friday" rules, file paths, the answer page), `REPO` = the clone of nordztv/podcastmemory, `EP` = `REPO/archive/YYYY/MM/DATE`.
 
 ## 0. Already delivered?
 
@@ -42,6 +42,8 @@ Read, in full: `show/bible.md`, `show/format_tuning.md` (the current weekly stru
 **Chats:** use ToolSearch once to check for tools that read Scott's past Claude conversations (search "recent chats"). They are normally NOT available in scheduled runs; if they are, read his chats since the last episode (at most 3 days; on Mondays, since Friday) and apply them the same way as inbox entries. If not, rely on the inbox and the answer sheets, and don't mention it in the delivery message.
 
 ## 4. Research
+
+The run happens the evening before the episode: write the news as "overnight / yesterday" from the listener's morning point of view only where it's true; weather is the forecast for the episode's day and the day after; "today" in the script means the episode's day.
 
 If an allowed news site can't be fetched (for example bbc.com is sometimes blocked for fetching), use its stories via WebSearch results, rely on the other allowed sources, and mention it in the delivery message. Never swap in a source that isn't allowed.
 

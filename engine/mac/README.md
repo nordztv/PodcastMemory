@@ -1,8 +1,8 @@
 # Recording on the MacBook Pro (Fish Audio S2-Pro)
 
-Set up 25 October 2026 at Scott's request. The cloud run (12:29am weekdays) writes the script and saves it to GitHub. The MacBook Pro then records it in Scott's reference voice with Fish Audio S2-Pro, and saves the audio to iCloud Drive > Morning Briefing.
+Set up 25 October 2026 at Scott's request. The cloud run (9:29pm Sunday to Thursday, for the next morning's episode) writes the script and saves it to GitHub. The MacBook Pro then records it in Scott's reference voice with Fish Audio S2-Pro, and saves the audio to iCloud Drive > Morning Briefing.
 
-- 1:00am weekdays: the Mac wakes. 1:05am: `record_at_home.sh` starts and checks GitHub every two minutes for the day's script (it gives up at 6am).
+- 10:00pm Sunday to Thursday: the Mac wakes. 10:05pm: `record_at_home.sh` starts and checks GitHub every two minutes for the next morning's script (it gives up after 4 hours), then records overnight.
 - It records the full episode with chapter markers (`build_fish.py`) and copies the MP3 plus the answer sheet into iCloud Drive > Morning Briefing, with a notification. (No headlines edition.)
 - The voice: `voice.json` names the reference clip (`ref_happy1.wav`, "Happy 1") and its transcript (`ref_happy.txt`). To use another voice, add a 10 to 30 second WAV and its exact transcript here and change the two names.
 - If Fish fails, the episode is recorded with the show's Kokoro voice instead.

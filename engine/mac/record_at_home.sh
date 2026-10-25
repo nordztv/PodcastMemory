@@ -1,12 +1,14 @@
 #!/bin/bash
-# Mac recorder (Scott's choice, 25 Oct 2026). Runs on the MacBook Pro at 1:05am on weekdays (set up by install.sh).
-# Waits for the cloud run (starts 12:29am) to save today's script to GitHub, then records it with Fish Audio S2-Pro
+# Mac recorder (Scott's choice, 25 Oct 2026). Runs on the MacBook Pro at 10:05pm Sunday to Thursday (set up by install.sh).
+# Waits for the cloud run (starts 9:29pm) to save tomorrow's script to GitHub, then records it with Fish Audio S2-Pro
 # in the reference voice from engine/mac/voice.json: the full episode, with chapter markers.
 # (No headlines edition; removed 25 Oct 2026.) Saves the MP3 and the answer sheet to iCloud Drive > Morning Briefing, with a notification.
 # If Fish fails, records the episode with the show's Kokoro voice instead.
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 BASE="$HOME/MorningBriefing"; REPO="$BASE/podcastmemory"
-DATE="$(TZ=Australia/Sydney date +%F)"; Y="${DATE:0:4}"; M="${DATE:5:2}"
+# The episode is for the coming morning: tomorrow's date in the evening, today's if run after midnight (by hand).
+if [ "$(TZ=Australia/Sydney date +%H)" -ge 12 ]; then DATE="$(TZ=Australia/Sydney date -v+1d +%F)"; else DATE="$(TZ=Australia/Sydney date +%F)"; fi
+STARTED=$(date +%s); Y="${DATE:0:4}"; M="${DATE:5:2}"
 EP="$REPO/archive/$Y/$M/$DATE"
 DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Morning Briefing"
 OUT="$HOME/podcast/out"
@@ -18,7 +20,7 @@ caffeinate -is -w $$ &
 while :; do
   git -C "$REPO" pull -q || true
   [ -f "$EP/script/11_chat_outro.txt" ] && break
-  if [ "$(TZ=Australia/Sydney date +%H%M)" -ge 0600 ]; then echo "no script by 6am, giving up"; notify "No script arrived this morning"; exit 0; fi
+  if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script arrived tonight"; exit 0; fi
   sleep 120
 done
 sleep 30; git -C "$REPO" pull -q || true
