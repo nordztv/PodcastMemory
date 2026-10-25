@@ -27,11 +27,11 @@ done
 (cd "$HOME/tts" && grep -E " (kokoro-v1.0.onnx|voices-v1.0.bin)\$" "$REPO/voice_backup/SHA256SUMS" | shasum -a 256 -c -)
 
 echo "3/5 Fish voice test (downloads the model, about 7 GB, the first time)"
-TESTDIR="$REPO/archive/2000/01/2000-01-01/headlines"; mkdir -p "$TESTDIR"
-echo "Good morning Scott, I hope you are doing well today. The home studio is ready." > "$TESTDIR/01_headlines.txt"
-"$BASE/fish/bin/python" "$REPO/engine/mac/build_fish.py" 2000-01-01 headlines
-rm -rf "$REPO/archive/2000"
-open "$HOME/podcast/out/Morning_Briefing_2000-01-01_headlines.mp3"
+TESTDIR="$REPO/archive/2000/01/2000-01-01/script"; mkdir -p "$TESTDIR"
+echo "Good morning Scott, I hope you are doing well today. The home studio is ready." > "$TESTDIR/01_opening_world.txt"
+"$BASE/fish/bin/python" "$REPO/engine/mac/build_fish.py" 2000-01-01
+rm -rf "$REPO/archive/2000" "$HOME/podcast/render_fish/2000-01-01"
+open "$HOME/podcast/out/Morning_Briefing_2000-01-01.mp3"
 
 echo "4/5 Schedule (weekdays 1:05am, plus wake the Mac at 1:00am)"
 PLIST="$HOME/Library/LaunchAgents/com.scott.morningbriefing.plist"

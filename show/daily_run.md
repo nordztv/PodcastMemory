@@ -1,8 +1,8 @@
 # Daily run procedure
 
-Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 12:30am Sydney time (Scott's choice, October 2026), so the script, sheet and headlines should be delivered by about 1:15am; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
+Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 12:30am Sydney time (Scott's choice, October 2026), so the script and sheet should be delivered by about 1:15am; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
 
-**Time budget (Sydney):** the run starts about 12:30am. Aim to have the script, sheet and headlines delivered by about 1:15am, then render audio if the voice engine runs (about an hour for 80 minutes of audio). If it's past 5:40am and rendering isn't finished, join whatever sections are done and deliver those.
+**Time budget (Sydney):** the run starts about 12:30am. Aim to have the script and sheet delivered by about 1:15am, then render audio if the voice engine runs (about an hour for 80 minutes of audio). If it's past 5:40am and rendering isn't finished, join whatever sections are done and deliver those.
 
 Let `DATE` = the episode's date: the Sydney date of the coming morning (if the run starts in the evening, before midnight, that is TOMORROW's Sydney date; after midnight it is today's), in YYYY-MM-DD. Use that date and its weekday for everything (the greeting, "Friday" rules, file paths, the answer page), `REPO` = the clone of nordztv/podcastmemory, `EP` = `REPO/archive/YYYY/MM/DATE`.
 
@@ -54,7 +54,6 @@ Write the 11 sections from bible section 5 as plain text files in `EP/script/` (
 Also write:
 - Today's challenge (bible section 8): run `python3 engine/challenges.py misses DATE` (2 or more in a row: make it a little harder, per the bible), pick it, run `python3 engine/challenges.py rate DATE` for the completion rate (use exactly what it prints, in the outro, the headlines and the sheet), then `python3 engine/challenges.py add DATE "challenge"`.
 - `EP/sheet.txt`: the daily sheet with today's challenge and completion rate, the rating lines and today's questions (bible section 8).
-- `EP/headlines/01_headlines.txt`: the five-minute headlines edition (bible section 5b).
 - `EP/shownotes.json`: the show notes (bible section 5b; leave "length" as "" until the audio is built, then fill it in).
 - `EP/notes.md`: running order, deep-dive topics, today's questions (with the host's joke answers), topics hot today, and a Sources list (every link used; news links only from the six allowed sources).
 
@@ -64,12 +63,12 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 
 ## 6. Build the audio
 
-First the headlines edition (a couple of minutes): `sh REPO/engine/build_episode.sh DATE headlines` -> `~/podcast/out/Morning_Briefing_DATE_headlines.mp3`. Then the full episode: `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3` (with chapter markers; if the log says "chapters skipped", the episode is still fine, just mention it).
+Build the full episode (there is no headlines edition; Scott removed it on 25 Oct 2026): `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3` (with chapter markers; if the log says "chapters skipped", the episode is still fine, just mention it).
 
 ## 6b. If the voice engine is blocked
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
-- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text, with the [tags] removed), and commit it.
+- Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (section headings and each section's text, with the [tags] removed), and commit it.
 - Scott's MacBook Pro records the episode itself (set up 25 Oct 2026, engine/mac/README.md): from about 1:05am it pulls the script from GitHub, records it with Fish Audio S2-Pro in his reference voice, and saves the MP3s to iCloud Drive > Morning Briefing. So commit and push the script as early as possible (step 5), and in the delivery message say the audio is being recorded on his Mac and will appear in iCloud Drive.
 - In step 7, send that file and `EP/sheet.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
@@ -79,7 +78,7 @@ The run's automatic safety check sometimes blocks installing or running the voic
 
 - **Reminder due 2026-11-18:** on the first episode on or after 2026-11-18, add one line to the delivery message asking whether Scott would now like episodes in a podcast app such as Pocket Casts or Overcast (a private feed), instead of as files in the Claude app. Then delete this reminder line from this file in the memory commit.
 
-- SendUserFile (status "proactive", display "attach") with files [the MP3, the headlines MP3, `EP/sheet.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories and today's challenge.
+- SendUserFile (status "proactive", display "attach") with files [the MP3, `EP/sheet.txt`]; then create `EP/delivered.txt` containing the delivery time, and include it in the memory commit, caption: episode length, the three best stories and today's challenge.
 - **Show notes:** fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` (writes `~/podcast/out/shownotes.html`), then with the Artifact tool: `read` the URL in `show/shownotes_url.txt`, and `publish` that file with that `url` (no icon). If publishing fails, send `shownotes.html` with SendUserFile instead and mention it.
 - One short SendUserMessage: running order in a few lines and the deep dives; "Today's questions for you" written out; topic changes (hot topics, promotions to main, drop-offs, new topics); any storyline updates; anything that failed (a site blocked, chat history unavailable, a section skipped); and the Sources list.
 

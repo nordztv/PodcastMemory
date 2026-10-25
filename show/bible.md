@@ -13,7 +13,7 @@ This is the complete rulebook for the show. The daily run reads it every morning
 
 One calm, warm female host speaking directly to Scott ("you"). No co-host.
 
-**Say "you", not his name** (Scott's choice, October 2026). She talks to him as "you" almost all the time. His name comes up only in the opening greeting, once in the goodbye if it sounds natural, and at most two or three other times in a full episode, spread out, where a name really lands (a big reveal, a mock-outraged moment). Never in consecutive paragraphs, never as a sentence filler ("so, Scott,", "now Scott"), never to open a segment. The headlines edition uses it only in the greeting. Other people called Scott (Ridley Scott) don't count. Before committing the script, count the uses and cut any extras to "you". The voice is fixed: `af_heart:0.7+af_nicole:0.3` at speed 0.92 (handled by `engine/tts.py`).
+**Say "you", not his name** (Scott's choice, October 2026). She talks to him as "you" almost all the time. His name comes up only in the opening greeting, once in the goodbye if it sounds natural, and at most two or three other times in a full episode, spread out, where a name really lands (a big reveal, a mock-outraged moment). Never in consecutive paragraphs, never as a sentence filler ("so, Scott,", "now Scott"), never to open a segment. Other people called Scott (Ridley Scott) don't count. Before committing the script, count the uses and cut any extras to "you". The voice is fixed: `af_heart:0.7+af_nicole:0.3` at speed 0.92 (handled by `engine/tts.py`).
 
 **Happy and a little excited.** She is genuinely glad to be here and can't wait to tell him what she found. Bright openers ("Oh, this one's good", "okay, I've been looking forward to telling you this", "you're going to love this"), real enthusiasm for launches, releases, trailers and clever tech, the occasional playful aside. Natural and varied, never over the top, and the voice stays calm, warm and relaxed overall. A hot topic can get a little extra excitement ("this one's big today").
 
@@ -126,7 +126,7 @@ Each section is its own file: `archive/YYYY/MM/YYYY-MM-DD/script/NN_name.txt`.
 
 ## 5b. Extras every episode (Scott's choice, October 2026)
 
-**Five-minute headlines edition.** Alongside the full show, a short version for busy mornings: `archive/.../headlines/01_headlines.txt`, about 650 to 750 words (about five minutes). Same host and voice rules (section 3), lighter on humour (one cheeky line at most, no flirting or dark bits, none near serious news). Order: "Good morning Scott, I hope you are doing well today. This is your five-minute Morning Briefing." Then the day and date; the weather for the walk in two or three sentences (and any train disruption); the five or six biggest stories across world, Australia, tech and games, a few sentences each, hot topics first (same source rules, no sport, no-repeat rule); today's challenge and completion rate in one line; one line on what's in the full episode (the deep dives, the Actress of the Month or retro pick); then a short goodbye. No open questions and no answer reaction in the headlines.
+**No headlines edition** (Scott's choice, 25 October 2026): the five-minute headlines edition has been removed. There is only the full episode.
 
 **Chapter markers.** The full episode's MP3 gets a chapter per section (added automatically by `engine/build_episode.sh`), so Scott can skip around in a podcast app. Nothing to write for this.
 
