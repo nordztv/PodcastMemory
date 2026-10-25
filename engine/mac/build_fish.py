@@ -1,3 +1,5 @@
+#!/bin/sh
+''''exec "$HOME/MorningBriefing/fish/bin/python" "$0" "$@" #'''
 """Morning Briefing on the Mac with Fish Audio S2-Pro (MLX), copying the show's reference voice clip.
 
 Usage: python engine/mac/build_fish.py YYYY-MM-DD [headlines]
