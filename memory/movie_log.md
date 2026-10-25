@@ -11,6 +11,10 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-10-26 | Audition (1999) | Takashi Miike | Ryo Ishibashi, Eihi Shiina | Horror, Japan | Director deep dive (after Ryu Murakami's death) | | | |
+| 2026-10-26 | The Lord of the Rings: The Two Towers (2002) | Peter Jackson | Andy Serkis, Elijah Wood, Sean Astin | Fantasy, New Zealand/USA | Effects deep dive (Gollum, performance capture) | | | |
+| 2026-10-26 | Road Games (1981) | Richard Franklin | Stacy Keach, Jamie Lee Curtis | Thriller, Australia | Movies segment mention (Umbrella 4K) | | | |
+| 2026-10-26 | Paradise Lost (2026) | Yeon Sang-ho | Kim Hyun-joo | Sci-fi thriller, South Korea | Movies segment (box office) | | | |
 | 2026-10-23 | The Matrix (1999) | The Wachowskis | Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne | Sci-fi action, USA/Australia | Effects deep dive (bullet time) | | | |
 | 2026-10-23 | Seven Samurai (1954) | Akira Kurosawa | Toshiro Mifune, Takashi Shimura | Jidaigeki action, Japan | Director deep dive | | | |
 | 2026-10-23 | The Devils (1971, director's cut) | Ken Russell | Vanessa Redgrave, Oliver Reed | Historical horror drama, UK | Movies segment recommendation (4K in AU cinemas 29 Oct) | | | |
@@ -38,15 +42,17 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Takashi Miike | Audition (1999) | Eihi Shiina | 2026-10-26 |
+| Yeon Sang-ho | Paradise Lost (2026) | Kim Hyun-joo | 2026-10-26 |
 | Akira Kurosawa | Seven Samurai (1954) | Toshiro Mifune, Takashi Shimura | 2026-10-23 |
 | The Wachowskis | The Matrix (1999) | Carrie-Anne Moss | 2026-10-23 |
 | Ken Russell | The Devils (1971) | Vanessa Redgrave | 2026-10-23 |
 | Bong Joon-ho | Memories of Murder (2003) | Song Kang-ho | 2026-10-22 |
-| Peter Jackson | The Lord of the Rings (2001-03) | | 2026-10-22 |
+| Peter Jackson | The Lord of the Rings (2001-03); The Two Towers Gollum deep dive | Andy Serkis | 2026-10-26 |
 | Johnnie To | Exiled (2006) | | 2026-10-22 |
 | Ridley Scott | Alien (1979) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
 | James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986, making-of 22 Oct) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
-| John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis, Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
+| John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis (also Road Games, mentioned 26 Oct), Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
 | Christopher Nolan | Inception (2010) | | 2026-10-18 |
 | Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |

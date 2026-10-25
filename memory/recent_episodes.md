@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-26 (Monday)
+
+- **Length:** (filled in when built). Script delivered about 10pm Sunday; audio rendered in the cloud overnight.
+- **World:** Houthis claim strikes on Saudi airports and oil sites, 2022 truce collapsed; oil ~US$114 Fri; Kremlin rejects Witkoff ideas, Trump-Putin-Xi summit talk, Starlink speeds restored; France ~1,000 arrests Sat, Yellow Vests 31 Oct; Jordan church funeral attack (7 dead); Israel votes Tue 27; Brazil run-off; Vanuatu quakes.
+- **Australia and NSW:** Haines serious but stable, Nugent charges, back in Feb; AFP's Barrett on Insiders ("words matter", duress alarms); Ashby weighs Capricornia (Canavan unconfirmed); Steele-John on leave, accuses Shoebridge; CPI Wed 28, RBA 3 Nov (~51% hike odds, cash 4.6%); Vic Labor $1.5b ED launch. NSW: WSI first flights (JQ362, Auckland Mon); Minns scraps 15 Nov timetable (T8 Sydenham kept); Great Koala NP law; child safety laws a year on; 444 bus 16 Nov; MPs upset after security briefing; Southwest Metro Fri 30.
+- **Tech:** Ollama 0.40.11 speech (Phonon) and d3 decision models; Nemotron 3.5 Bolt 4GB; llama.cpp B70 +6%; RTX 5090 stripping, $8,500; B300s on China Telecom; SK Hynix drops Solidigm IPO (+4.4%), results Wed 11am; Micron talks Tue 27 (typhoon), G11 400-layer NAND; Fri markets; iPhone Duo hinge cracks, Jan shipping; Apple Pro and Tell preview; SpaceX 80,000 cell sites; Flight 15 NET 8 Nov; quick hits (Odin 3 Portal, Retroid Linux, Jellyfin 12.3, X-T6 rumour).
+- **Games:** FF Resonance Steam peak 38,182, 97% positive; Romancing SaGa 2 1M; FFXIV Fan Fest keynote Sat 31 Oct 1pm; Miyamoto Order of Culture 3 Nov; Ocarina E10+, 3 Game Boy games 27 Oct, Switch 2 jailbreak claim; WoW Forever names Wed ~7am to 3 Nov; Cyberpunk 2 quest team ex-modders; Xbox (Arkane 13 Nov deadline, Netflix offer, Chiang leaves); MW4 weekend; Phantom Blade Zero 29 Oct; quick hits (HLX, Mass Effect leak, US Sept sales); retro projects (recomp wave, Xbox Labs, RPCS3 80%, Sonic 3 Unlocked). Retro pick: Beyond Oasis (Mega Drive).
+- **Movies:** Clayface ~$24M est; You Can See Everything ~$20M; Wildwood, Wicker; Street Fighter -73% (Chun-Li); Ryu Murakami dies at 74; new Alien film (Guzikowski, Scott producing); Yamazaki on Aliens/T2 and Minus Zero; Tokyo IFF opens (Rolf de Heer jury president); Paradise Lost in profit; Toy Robot Video (Romeo Must Die, Cradle 2 the Grave, Hakuchi); Road Games 4K, The Keep, Jackie Brown, Lady in White; Recluse; Dracula: The Crimson Code.
+- **Deep dives:** Witcher Conjunction of the Spheres and Elder Blood; procedural generation; Gollum performance capture; Miike's Audition. Workshop: Pi channel station ident in FCP.
+- **Challenge:** Ten thousand steps and forty bodyweight squats (rate 2 of 3, 67%; 23 Oct done).
+- **Questions:** a spirit summoned from something on his farm; a monster from another sphere in his valley; an old game decompiled with one modern feature.
+- **Answer reaction:** 23 Oct answers (Chen Stormstout, no bullet time, radish not built); suggestion: one-evening placeholder radish chase. Thanked for lore and game tech 5s; names fixed; weekly review outcomes announced.
+- **Follow up:** Brazil result; Israel election 27 Oct (results Wed AEDT); Micron talks 27 Oct; CPI and SK Hynix 28 Oct; WoW Forever names 28 Oct; Apple event, Fed, Microsoft, Alphabet, Samsung 29 Oct AEDT; Phantom Blade Zero, FF7R Game Pass, The Devils 29 Oct; Intel and Amazon, Southwest Metro 30 Oct; FFXIV Fan Fest keynote 31 Oct; Yellow Vests 31 Oct; RBA, US midterms, Miyamoto award, Godzilla Minus Zero (Japan) 3 Nov; AMD 4 Nov; Ocarina, WoW Forever, Nintendo results 5 Nov; Starship Flight 15 NET 8 Nov; Arkane deadline 13 Nov; Haines recovery; Capricornia preselection.
+
 ## 2026-10-23 (Friday)
 
 - **Length:** 85 min (headlines 4 min). Script delivered at about 2:30am; audio recorded later on request in the same session.

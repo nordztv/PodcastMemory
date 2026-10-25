@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-10-23 | If one Warcraft character turned up in your game as a travelling merchant, who would it be, and what would they sell? | Warcraft and Blizzard | Not yet | no |
-| 2026-10-23 | If you could add one bullet time moment to your game, what would it be? | Godot and Scott's 2D game | Not yet | no |
-| 2026-10-23 | When the radish monster finally catches you, what does your game over screen say? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-26 | In Beyond Oasis you summon spirits from things in the world. If your game had one spirit you could summon from something on your farm, what would you summon it from, and what would it do? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-26 | If the Conjunction of the Spheres dropped one monster from another world into your valley, what would it be, and how would the farmers deal with it? | The Witcher and CD Projekt Red | Not yet | no |
+| 2026-10-26 | If you could have one old game decompiled and rebuilt with one modern feature added, which game would it be, and what would you add? | Retro gaming projects (emulators, reverse engineering, mods) | Not yet | no |
+| 2026-10-23 | If one Warcraft character turned up in your game as a travelling merchant, who would it be, and what would they sell? | Warcraft and Blizzard | 2026-10-23 (answer page): "Chen Stormstout, he would sell Stout and tell jokes about being hungry." | 2026-10-26 |
+| 2026-10-23 | If you could add one bullet time moment to your game, what would it be? | Godot and Scott's 2D game | 2026-10-23 (answer page): "i wouldnt add it in it." | 2026-10-26 |
+| 2026-10-23 | When the radish monster finally catches you, what does your game over screen say? | Godot and Scott's 2D game | 2026-10-23 (answer page): "i liked your idea but i have not implemented the radish yet. great idea though" | 2026-10-26 (suggestion given: one-evening placeholder radish chase) |
 | 2026-10-22 | Which Final Fantasy character most deserves their own Mount Ordeals, a chance to face their dark side and come back redeemed? | Final Fantasy (series, lore, new releases) | 2026-10-22 (answer page): "Vincent Valentine" | 2026-10-23 |
 | 2026-10-22 | If your game had one Mode 7 moment, what would the player be riding, and where would they be flying to? | Godot and Scott's 2D game | 2026-10-22 (answer page): "Shot out of a canon like secret of mana" | 2026-10-23 (suggestion given: fake-height arc with shrinking shadow) |
 | 2026-10-22 | Did you get to watch Aliens this week? If so, what did you think? | Cult actresses and iconic characters | 2026-10-22 (answer page): "Yes, it was really good. I loved the intensity of the action and the sound of the guns. The robot getting ripped in half was so unexpected." | 2026-10-23 |

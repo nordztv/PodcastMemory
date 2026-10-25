@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-26 | Lore | The Witcher lore: the Conjunction of the Spheres and the Elder Blood |
+| 2026-10-26 | Game tech | Procedural generation (seeded RandomNumberGenerator, FastNoiseLite clusters for farm debris and forage) |
+| 2026-10-26 | Effects | Gollum and performance capture |
+| 2026-10-26 | Director | Takashi Miike's Audition (tied to Ryu Murakami's death; Hitchcock's Rear Window still unused) |
+| 2026-10-26 | Workshop | A station ident for the Pi channel in Final Cut Pro |
+| 2026-10-26 | Chat | From modder to developer: recomps, preservation and the hidden fourth season |
+| 2026-10-26 | Retro | Beyond Oasis recommended (Mega Drive) |
 | 2026-10-23 | Lore | Illidan Stormrage's story |
 | 2026-10-23 | Game tech | A-star pathfinding (AStarGrid2D / NavigationAgent2D for the radish monster) |
 | 2026-10-23 | Effects | The Matrix's bullet time |
