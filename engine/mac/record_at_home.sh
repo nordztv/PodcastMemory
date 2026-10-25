@@ -20,12 +20,12 @@ echo "== $(date) waiting for the $DATE script"
 caffeinate -is -w $$ &
 
 while :; do
-  git -C "$REPO" pull -q || true
+  git -C "$REPO" pull -q --rebase --autostash || true
   [ -f "$EP/script/11_chat_outro.txt" ] && break
   if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script arrived tonight"; exit 0; fi
   sleep 120
 done
-sleep 30; git -C "$REPO" pull -q || true
+sleep 30; git -C "$REPO" pull -q --rebase --autostash || true
 mkdir -p "$DEST"
 cp "$EP/sheet.txt" "$DEST/Sheet_$DATE.txt" 2>/dev/null || true
 

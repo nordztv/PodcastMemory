@@ -19,7 +19,7 @@ PY="$(brew --prefix python@3.12)/bin/python3.12"
 ln -sf "$BASE/venv/bin/python" "$BASE/venv/bin/python3"
 
 echo "2/5 Backup voice files (from the repo's own backup, checked against its checksums)"
-git -C "$REPO" pull -q
+git -C "$REPO" pull -q --rebase --autostash
 mkdir -p "$HOME/tts"
 for f in kokoro-v1.0.onnx voices-v1.0.bin; do
   [ -s "$HOME/tts/$f" ] || cat "$REPO"/voice_backup/"$f".part* > "$HOME/tts/$f"

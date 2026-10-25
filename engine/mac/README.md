@@ -4,7 +4,7 @@ Set up 25 October 2026 at Scott's request. The cloud run (9:29pm Sunday to Thurs
 
 - There is no schedule: Scott starts each recording by hand (his choice, 25 Oct 2026) by double-clicking **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
 - It records the full episode with chapter markers (`build_fish.py`) and copies the MP3 plus the answer sheet into iCloud Drive > Morning Briefing, with a notification. (No headlines edition.)
-- The voice: `voice.json` names the reference clip (`ref_happy1.wav`, "Happy 1") and its transcript (`ref_happy.txt`). To use another voice, add a 10 to 30 second WAV and its exact transcript here and change the two names.
+- The voice: `voice.json` holds the defaults (the reference clip `ref_happy1.wav`, "Happy 1", and its transcript `ref_happy.txt`). Put your own settings in `~/MorningBriefing/voice.local.json` instead of editing `voice.json`, so updates never clash. For example `{"ref": "~/Voices/me.wav", "ref_text": "~/Voices/me.txt"}` (a 10 to 30 second WAV and its exact transcript).
 - If Fish fails, the episode is recorded with the show's Kokoro voice instead.
 - Fish S2-Pro is free for personal, non-commercial use (Fish Audio Research License).
 

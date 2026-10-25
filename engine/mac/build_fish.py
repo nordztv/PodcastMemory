@@ -16,8 +16,22 @@ import glob, inspect, json, os, re, shutil, subprocess, sys, time, wave
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 HOME = os.path.expanduser("~")
 CFG = json.load(open(f"{REPO}/engine/mac/voice.json"))
-REF = f"{REPO}/engine/mac/{CFG['ref']}.wav"
-REF_TEXT = open(f"{REPO}/engine/mac/{CFG['ref_text']}.txt").read().strip()
+# Personal settings that never clash with updates: ~/MorningBriefing/voice.local.json overrides any of the keys above.
+LOCAL = f"{HOME}/MorningBriefing/voice.local.json"
+if os.path.exists(LOCAL):
+    CFG.update({k: v for k, v in json.load(open(LOCAL)).items() if not k.startswith("_")})
+
+
+def _path(name, ext):
+    """A name in engine/mac (ref_happy1), or a full path to your own file (~/Voices/me.wav)."""
+    p = os.path.expanduser(name)
+    if os.path.isabs(p) or os.path.exists(p):
+        return p
+    return f"{REPO}/engine/mac/{name}{'' if name.endswith(ext) else ext}"
+
+
+REF = _path(CFG["ref"], ".wav")
+REF_TEXT = open(_path(CFG["ref_text"], ".txt")).read().strip()
 CHUNK_WORDS = int(CFG.get("chunk_words", 30))
 SR = 24000
 PARA_GAP, SECTION_GAP, BEAT = 0.55, 1.8, 0.6
