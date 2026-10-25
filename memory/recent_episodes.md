@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-26 (Monday)
 
-- **Length:** (filled in when built). Script delivered about 10pm Sunday; audio rendered in the cloud overnight.
+- **Length:** 92 min (11 chapters). Script delivered about 10pm Sunday; audio rendered in the cloud and delivered about 10:45pm.
 - **World:** Houthis claim strikes on Saudi airports and oil sites, 2022 truce collapsed; oil ~US$114 Fri; Kremlin rejects Witkoff ideas, Trump-Putin-Xi summit talk, Starlink speeds restored; France ~1,000 arrests Sat, Yellow Vests 31 Oct; Jordan church funeral attack (7 dead); Israel votes Tue 27; Brazil run-off; Vanuatu quakes.
 - **Australia and NSW:** Haines serious but stable, Nugent charges, back in Feb; AFP's Barrett on Insiders ("words matter", duress alarms); Ashby weighs Capricornia (Canavan unconfirmed); Steele-John on leave, accuses Shoebridge; CPI Wed 28, RBA 3 Nov (~51% hike odds, cash 4.6%); Vic Labor $1.5b ED launch. NSW: WSI first flights (JQ362, Auckland Mon); Minns scraps 15 Nov timetable (T8 Sydenham kept); Great Koala NP law; child safety laws a year on; 444 bus 16 Nov; MPs upset after security briefing; Southwest Metro Fri 30.
 - **Tech:** Ollama 0.40.11 speech (Phonon) and d3 decision models; Nemotron 3.5 Bolt 4GB; llama.cpp B70 +6%; RTX 5090 stripping, $8,500; B300s on China Telecom; SK Hynix drops Solidigm IPO (+4.4%), results Wed 11am; Micron talks Tue 27 (typhoon), G11 400-layer NAND; Fri markets; iPhone Duo hinge cracks, Jan shipping; Apple Pro and Tell preview; SpaceX 80,000 cell sites; Flight 15 NET 8 Nov; quick hits (Odin 3 Portal, Retroid Linux, Jellyfin 12.3, X-T6 rumour).
