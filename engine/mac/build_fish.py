@@ -15,11 +15,26 @@ import glob, inspect, json, os, re, shutil, subprocess, sys, time, wave
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 HOME = os.path.expanduser("~")
-CFG = json.load(open(f"{REPO}/engine/mac/voice.json"))
+DEFAULTS = {"ref": "ref_happy1", "ref_text": "ref_happy", "chunk_words": 30, "words_per_minute": None, "tempo": 0.95,
+            "models": ["cs2764/fish-audio-s2-pro-8bit-mlx", "mlx-community/fish-audio-s2-pro-bf16"]}
+
+
+def _read(path):
+    """A settings file, or {} with a clear message if it has a typo (so a bad edit never stops a recording)."""
+    try:
+        return json.load(open(path))
+    except FileNotFoundError:
+        return {}
+    except ValueError as e:
+        print(f"WARNING: {path} isn't valid JSON ({e}); ignoring it and using the defaults.", flush=True)
+        return {}
+
+
+CFG = dict(DEFAULTS)
+CFG.update(_read(f"{REPO}/engine/mac/voice.json"))
 # Personal settings that never clash with updates: ~/MorningBriefing/voice.local.json overrides any of the keys above.
 LOCAL = f"{HOME}/MorningBriefing/voice.local.json"
-if os.path.exists(LOCAL):
-    CFG.update({k: v for k, v in json.load(open(LOCAL)).items() if not k.startswith("_")})
+CFG.update({k: v for k, v in _read(LOCAL).items() if not k.startswith("_")})
 
 
 def _path(name, ext):
