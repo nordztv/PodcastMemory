@@ -97,9 +97,36 @@ EASE = 0.5
 TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 
 
+# Scripts now use Fish S2's free-form delivery tags ([excited], [teasing tone], [chuckling], [low voice]...).
+# Kokoro only knows a few moods, so each tag is mapped to the nearest one; sounds and effects are dropped, pauses kept.
+KOKORO_MAP = [
+    (r"pause|break|beat", "[beat]"),
+    (r"punch", "[punch]"),
+    (r"laugh|chuckl|giggl|sigh|inhale|exhale|breath|gasp|tsk|clear|yawn|sob|groan|hum|emphasis", ""),
+    (r"dark|low voice|whisper|menac|eerie|creep|ominous|sinister|deadpan", "[dark]"),
+    (r"sad|serious|calm|soft|sombre|somber|grave|sympath|compassion|empath|gentle|moved|respect", "[serious]"),
+    (r"happy|excit|delight|cheer|joy|bright|enthus|thrill|proud|grateful|optimis|warm", "[happy]"),
+    (r"tease|teasing|cheeky|playful|flirt|wink|sarcas|smirk|amused|mischiev|curious|surprise", "[cheeky]"),
+]
+
+
+def kokoro_tags(text):
+    def one(m):
+        inner = m.group(1).lower()
+        if inner in ("happy", "dark", "cheeky", "serious", "normal", "beat", "punch"):
+            return m.group(0)
+        for pat, rep in KOKORO_MAP:
+            if re.search(pat, inner):
+                return rep
+        return ""
+    text = re.sub(r"\[([^\[\]{}]{1,60})\]", one, text)
+    return re.sub(r"(\[(happy|dark|cheeky|serious)\])(\s*\[(happy|dark|cheeky|serious)\])+", r"\1", text)
+
+
 def sentences(text):
     """Yields (kind, value, mood, punch): kind is "say" (value = sentence), "pause" (value = seconds) or "para"."""
     text = text.replace("\u2019", "'").replace("\u201c", '"').replace("\u201d", '"')
+    text = kokoro_tags(text)
     text = re.sub(r"\{[^{}|]*\|([^{}]*)\}", r"\1", text)  # {word|how to say it}, written into the script
     for pat, say in HETERONYMS:
         text = pat.sub(say, text)

@@ -54,41 +54,73 @@ PRONOUNCE = json.load(open(f"{REPO}/show/pronunciations.json"))
 HETERONYMS = [(re.compile(p), r) for p, r in json.load(open(f"{REPO}/show/heteronyms.json")) if p != "_comment"]
 ROMAN = {"II": "two", "III": "three", "IV": "four", "VI": "six", "VII": "seven", "VIII": "eight", "IX": "nine",
          "XI": "eleven", "XII": "twelve", "XIII": "thirteen", "XIV": "fourteen", "XV": "fifteen", "XVI": "sixteen"}
-TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
+# Delivery tags (bible section 3). Fish S2 reads free-form [tags] itself; the show's older tags are translated,
+# [beat]/[punch] become real pauses, and a paragraph's mood tag is repeated at the start of every chunk, because each
+# chunk is a separate Fish call and would otherwise lose it.
+ANY_TAG = re.compile(r"\[[^\[\]{}]{1,60}\]")
+LEGACY = {"happy": "[happy]", "dark": "[low voice][soft tone]", "serious": "[calm][soft tone]", "cheeky": "[playful]",
+          "normal": ""}
+# Sounds and one-off effects: these happen once where they're written and never carry into the next chunk.
+ONE_OFF = re.compile(r"laugh|chuckl|giggl|sigh|inhale|exhale|breath|gasp|tsk|pause|break|clear|emphasis|yawn|sob|groan|hum", re.I)
 
 
 def prepare(text):
-    """The show's text rules, as plain words Fish can read. [beat]/[punch] become a short pause marker."""
-    text = text.replace("’", "'").replace("“", '"').replace("”", '"')
+    """The show's text rules, as plain words Fish can read, with the delivery tags kept intact."""
+    text = text.replace("\u2019", "'").replace("\u201c", '"').replace("\u201d", '"')
     text = re.sub(r"\{[^{}|]*\|([^{}]*)\}", r"\1", text)          # {word|respelling}
+    text = re.sub(r"\[(beat|punch)\]", " \u2016 ", text, flags=re.I)  # pause marker, split on below
+    text = re.sub(r"\[(happy|dark|serious|cheeky|normal)\]", lambda m: LEGACY[m.group(1).lower()], text, flags=re.I)
+    tags = []                                                      # keep tags safe from the respelling rules
+    text = ANY_TAG.sub(lambda m: tags.append(m.group(0).lower()) or f"\u27e6{len(tags) - 1}\u27e7", text)
     for pat, say in HETERONYMS:
         text = pat.sub(say, text)
     for pat, say in PRONOUNCE.items():
         text = re.sub(pat, say, text, flags=re.I)
-    text = re.sub(r"\[(beat|punch)\]", " ‖ ", text, flags=re.I)  # pause marker, split on below
-    text = TAG.sub("", text)
     text = re.sub(r"\b(II|III|IV|VI|VII|VIII|IX|XI|XII|XIII|XIV|XV|XVI)\b", lambda m: ROMAN[m.group(1)], text)
     text = re.sub(r"\b([A-Z]{2,6})('?s)?\b", lambda m: " ".join(m.group(1)) + ("s" if m.group(2) else ""), text)
-    return text
+    return re.sub("\u27e6(\\d+)\u27e7", lambda m: tags[int(m.group(1))], text)
+
+
+def lead_mood(s):
+    """The mood tags at the very start of a sentence (not sounds or pauses), or None."""
+    m = re.match(r"\s*((?:\[[^\[\]]+\]\s*)+)", s)
+    if not m:
+        return None
+    mood = "".join(x for x in re.findall(r"\[[^\[\]]+\]", m.group(1)) if not ONE_OFF.search(x))
+    return mood or None
 
 
 def pieces(text):
     """Yields ("say", text) chunks of whole sentences, ("beat", None) and ("para", None) markers."""
     for para in [p.strip() for p in prepare(text).split("\n") if p.strip()]:
-        for part in para.split("‖"):
-            cur = []
+        mood = ""                                   # a mood lasts until the end of its paragraph
+        for part in para.split("\u2016"):
             sents = []
             for s in [s for s in re.split(r"(?<=[.!?])\s+", part.strip()) if s.strip()]:
                 # a very long sentence is split at commas, colons or semicolons, so no call runs past Fish's limit
                 sents += re.split(r"(?<=[,;:])\s+", s) if len(s.split()) > CHUNK_WORDS * 1.3 else [s]
+            cur, cur_mood = [], mood
             for s in sents:
-                if cur and len(" ".join(cur + [s]).split()) > CHUNK_WORDS:
-                    yield "say", " ".join(cur); cur = []
+                if cur and len(ANY_TAG.sub("", " ".join(cur + [s])).split()) > CHUNK_WORDS:
+                    yield "say", chunk(cur, cur_mood); cur, cur_mood = [], mood
                 cur.append(s)
+                mood = lead_mood(s) or mood
             if cur:
-                yield "say", " ".join(cur)
+                yield "say", chunk(cur, cur_mood)
             yield "beat", None
         yield "para", None
+
+
+def chunk(sents, mood):
+    """One Fish call's text: the paragraph's mood tag first, unless the chunk already opens with its own."""
+    text = " ".join(sents).strip()
+    if mood and not lead_mood(text):
+        text = f"{mood} {text}"
+    m = re.match(r"\s*((?:\[[^\[\]]+\]\s*)+)", text)     # no tag twice in the opening group
+    if m:
+        seen = list(dict.fromkeys(re.findall(r"\[[^\[\]]+\]", m.group(1))))[:3]
+        text = "".join(seen) + " " + text[m.end():]
+    return text
 
 
 def load():
@@ -163,7 +195,7 @@ def main():
                     print(f"  error: {e}", flush=True); ok = False
                 if not ok:
                     print(f"FAILED: {sec} chunk {n}", flush=True); failed += 1; continue
-            order.append(dest); words += len(text.split()); speech += secs(dest)
+            order.append(dest); words += len(ANY_TAG.sub("", text).split()); speech += secs(dest)
         if len(order) > first:
             order[-1:] = [f"{work}/sgap.wav"]
             timings.append((sec, sum(secs(p) for p in order[first:])))
