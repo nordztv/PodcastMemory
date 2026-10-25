@@ -4,5 +4,5 @@
   "ref_text": "ref_happy",
   "models": ["cs2764/fish-audio-s2-pro-8bit-mlx", "mlx-community/fish-audio-s2-pro-bf16"],
   "chunk_words": 30,
-  "words_per_minute": 155
+  "words_per_minute": null
 }
