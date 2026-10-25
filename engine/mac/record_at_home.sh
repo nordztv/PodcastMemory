@@ -1,13 +1,15 @@
 #!/bin/bash
-# Mac recorder (Scott's choice, 25 Oct 2026). Runs on the MacBook Pro at 10:05pm Sunday to Thursday (set up by install.sh).
-# Waits for the cloud run (starts 9:29pm) to save tomorrow's script to GitHub, then records it with Fish Audio S2-Pro
+# Mac recorder, started by hand (Scott's choice, 25 Oct 2026): double-click "Record Morning Briefing" on the Desktop,
+# or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD]
+# Waits for the cloud run (9:29pm the evening before) to save the script to GitHub, then records it with Fish Audio S2-Pro
 # in the reference voice from engine/mac/voice.json: the full episode, with chapter markers.
 # (No headlines edition; removed 25 Oct 2026.) Saves the MP3 and the answer sheet to iCloud Drive > Morning Briefing, with a notification.
 # If Fish fails, records the episode with the show's Kokoro voice instead.
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 BASE="$HOME/MorningBriefing"; REPO="$BASE/podcastmemory"
 # The episode is for the coming morning: tomorrow's date in the evening, today's if run after midnight (by hand).
-if [ "$(TZ=Australia/Sydney date +%H)" -ge 12 ]; then DATE="$(TZ=Australia/Sydney date -v+1d +%F)"; else DATE="$(TZ=Australia/Sydney date +%F)"; fi
+if [ -n "$1" ]; then DATE="$1"
+elif [ "$(TZ=Australia/Sydney date +%H)" -ge 12 ]; then DATE="$(TZ=Australia/Sydney date -v+1d +%F)"; else DATE="$(TZ=Australia/Sydney date +%F)"; fi
 STARTED=$(date +%s); Y="${DATE:0:4}"; M="${DATE:5:2}"
 EP="$REPO/archive/$Y/$M/$DATE"
 DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Morning Briefing"

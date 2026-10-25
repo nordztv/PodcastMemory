@@ -33,27 +33,16 @@ echo "Good morning Scott, I hope you are doing well today. The home studio is re
 rm -rf "$REPO/archive/2000" "$HOME/podcast/render_fish/2000-01-01"
 open "$HOME/podcast/out/Morning_Briefing_2000-01-01.mp3"
 
-echo "4/5 Schedule (Sunday to Thursday 10:05pm, plus wake the Mac at 10:00pm)"
+echo "4/5 No schedule (Scott records by hand); removing any old one"
 PLIST="$HOME/Library/LaunchAgents/com.scott.morningbriefing.plist"
-mkdir -p "$HOME/Library/LaunchAgents"
-cat > "$PLIST" <<PL
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-  <key>Label</key><string>com.scott.morningbriefing</string>
-  <key>ProgramArguments</key><array><string>/bin/bash</string><string>$REPO/engine/mac/record_at_home.sh</string></array>
-  <key>StartCalendarInterval</key><array>
-$(for d in 0 1 2 3 4; do echo "    <dict><key>Weekday</key><integer>$d</integer><key>Hour</key><integer>22</integer><key>Minute</key><integer>5</integer></dict>"; done)
-  </array>
-  <key>StandardOutPath</key><string>$BASE/record.log</string>
-  <key>StandardErrorPath</key><string>$BASE/record.log</string>
-</dict></plist>
-PL
-launchctl unload "$PLIST" 2>/dev/null || true
-launchctl load "$PLIST"
-echo "   Your Mac password is needed once, to let it wake itself at 10:00pm Sunday to Thursday:"
-sudo pmset repeat wakeorpoweron UMTWR 22:00:00
+if [ -f "$PLIST" ]; then launchctl unload "$PLIST" 2>/dev/null || true; rm -f "$PLIST"; fi
+if pmset -g sched 2>/dev/null | grep -qi "wakeorpoweron"; then
+  echo "   Your Mac password is needed once, to cancel the old automatic wake-up:"
+  sudo pmset repeat cancel
+fi
+cp "$REPO/engine/mac/Record Morning Briefing.command" "$HOME/Desktop/" && chmod +x "$HOME/Desktop/Record Morning Briefing.command"
 
-echo "5/5 Done. Episodes will appear in iCloud Drive > Morning Briefing."
+echo "5/5 Done. To record an episode, double-click \"Record Morning Briefing\" on your Desktop."
+echo "   Episodes appear in iCloud Drive > Morning Briefing."
 echo "   Next, run the speed test to see how long a full episode takes on this Mac:"
 echo "   bash $REPO/engine/mac/speed_test.sh"
