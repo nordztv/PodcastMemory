@@ -1,10 +1,10 @@
 # Daily run procedure
 
-Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 1:45am Sydney time; the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
+Followed by the scheduled task every weekday morning (Monday to Friday; no weekend episodes). The run starts about 11:45pm Sydney time the evening before (Sunday to Thursday night), so the script is delivered by about 12:30am (Scott's choice, October 2026); the episode MUST be delivered before 6:00am. Work unattended: never ask questions, make sensible choices, and note any assumption in the delivery message. Check the Sydney time at the start and regularly (the current_time tool if present, otherwise `TZ=Australia/Sydney date`).
 
-**Time budget (Sydney):** the run starts about 1:45am. Setup and memory read by about 2:15; research and script written and committed by about 3:30; audio rendering starts by 3:45 (about 40 minutes for 80 minutes of audio). If it's past 5:40 and rendering isn't finished, join whatever sections are done and deliver those.
+**Time budget (Sydney):** the run starts about 11:45pm the evening before. Aim to have the script, sheet and headlines delivered by about 12:30am, then render audio if the voice engine runs (about an hour for 80 minutes of audio). If it's past 5:40am and rendering isn't finished, join whatever sections are done and deliver those.
 
-Let `DATE` = today's Sydney date (YYYY-MM-DD), `REPO` = the clone of nordztv/podcastmemory, `EP` = `REPO/archive/YYYY/MM/DATE`.
+Let `DATE` = the episode's date: the Sydney date of the coming morning (if the run starts in the evening, before midnight, that is TOMORROW's Sydney date; after midnight it is today's), in YYYY-MM-DD. Use that date and its weekday for everything (the greeting, "Friday" rules, file paths, the answer page), `REPO` = the clone of nordztv/podcastmemory, `EP` = `REPO/archive/YYYY/MM/DATE`.
 
 ## 0. Already delivered?
 
