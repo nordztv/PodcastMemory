@@ -70,6 +70,7 @@ First the headlines edition (a couple of minutes): `sh REPO/engine/build_episode
 
 The run's automatic safety check sometimes blocks installing or running the voice engine. If `setup.sh` or `tts.py` is blocked or fails, try once more, then don't look for workarounds. Instead:
 - Join the scripts into one readable file, `EP/Morning_Briefing_DATE_script.txt` (the headlines edition first, then section headings and each section's text, with the [tags] removed), and commit it.
+- Scott's MacBook Pro records the episode itself (set up 25 Oct 2026, engine/mac/README.md): from about 1:05am it pulls the script from GitHub, records it with Fish Audio S2-Pro in his reference voice, and saves the MP3s to iCloud Drive > Morning Briefing. So commit and push the script as early as possible (step 5), and in the delivery message say the audio is being recorded on his Mac and will appear in iCloud Drive.
 - In step 7, send that file and `EP/sheet.txt` with SendUserFile, and in the SendUserMessage say plainly at the top that the audio couldn't be recorded this morning, and that saying "record today's Morning Briefing" in any Claude chat will also record it from the saved script (run `sh engine/setup.sh`, then `sh engine/build_episode.sh DATE`, send the MP3, and create `EP/delivered.txt`).
 - In `memory/recent_episodes.md`, set Length to "audio not recorded (voice engine blocked)".
 - Carry on with everything else (memory updates and commits) as normal.
