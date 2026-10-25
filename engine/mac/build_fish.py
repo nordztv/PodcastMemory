@@ -15,7 +15,7 @@ import glob, inspect, json, os, re, shutil, subprocess, sys, time, wave
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 HOME = os.path.expanduser("~")
-DEFAULTS = {"ref": "ref_happy1", "ref_text": "ref_happy", "chunk_words": 30, "words_per_minute": None, "tempo": 0.95,
+DEFAULTS = {"ref": "ref_happy1", "ref_text": "ref_happy", "chunk_words": 30, "words_per_minute": None, "tempo": 0.86,
             "models": ["cs2764/fish-audio-s2-pro-8bit-mlx", "mlx-community/fish-audio-s2-pro-bf16"]}
 
 
@@ -172,7 +172,7 @@ def main():
             raise SystemExit("Too many chunks failed; stopping")
     target = CFG.get("words_per_minute")
     tempo = max(0.8, min(1.0, target / (words / speech * 60))) if target and speech else 1.0
-    if CFG.get("tempo"):   # a fixed speed instead: 0.95 = 5% slower than Fish speaks (pitch kept)
+    if CFG.get("tempo"):   # a fixed speed instead: 0.86 = 14% slower than Fish speaks (pitch kept)
         tempo = max(0.8, min(1.0, float(CFG["tempo"])))
     print(f"Pace: {words / max(speech, 1) * 60:.0f} words a minute; tempo {tempo:.2f}", flush=True)
     with open(f"{work}/list.txt", "w") as lst:
