@@ -157,11 +157,13 @@ def main():
             raise SystemExit("Too many chunks failed; stopping")
     target = CFG.get("words_per_minute")
     tempo = max(0.8, min(1.0, target / (words / speech * 60))) if target and speech else 1.0
+    if CFG.get("tempo"):   # a fixed speed instead: 0.95 = 5% slower than Fish speaks (pitch kept)
+        tempo = max(0.8, min(1.0, float(CFG["tempo"])))
     print(f"Pace: {words / max(speech, 1) * 60:.0f} words a minute; tempo {tempo:.2f}", flush=True)
     with open(f"{work}/list.txt", "w") as lst:
         lst.writelines(f"file '{p}'\n" for p in order)
     mp3 = f"{out}/Morning_Briefing_{d}" + ("_headlines" if headlines else "") + ".mp3"
-    af = ([f"atempo={tempo:.3f}"] if tempo < 0.99 else []) + ["loudnorm=I=-16:TP=-1.5:LRA=11"]
+    af = ([f"atempo={tempo:.3f}"] if tempo < 0.999 else []) + ["loudnorm=I=-16:TP=-1.5:LRA=11"]
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt", "-af", ",".join(af),
                     "-ar", str(SR), "-ac", "1", "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}",
                     "-metadata", "artist=Morning Briefing", mp3], check=True)
