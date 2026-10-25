@@ -1,0 +1,699 @@
+{
+ "date": "2026-10-26",
+ "weekday": "Monday",
+ "length": "",
+ "headline": "Western Sydney's first flights, the rail timetable backflip, Ollama learns to talk, and a new Alien film",
+ "challenge": "Ten thousand steps across the day and forty bodyweight squats, in as many sets as you like (completion rate so far: 2 of 3, 67%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Houthis claim strikes on Saudi airports and oil sites; truce collapses",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/irans-latest-threat-against-the-us-takes-aim-at-new-targets/kr7uxuczj"
+      }
+     ]
+    },
+    {
+     "title": "Oil climbs to about US$114",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
+      }
+     ]
+    },
+    {
+     "title": "Kremlin rejects Witkoff's ideas; Starlink speeds restored in Ukraine",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276"
+      }
+     ]
+    },
+    {
+     "title": "France: nearly 1,000 arrested in a second weekend of protests",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/nearly-1-000-arrested-as-fresh-clashes-erupt-across-france/56vps6qt8"
+      }
+     ]
+    },
+    {
+     "title": "Jordan church funeral attack",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/seven-killed-as-gunmen-open-fire-at-jordan-church-funeral/g4birflx0"
+      }
+     ]
+    },
+    {
+     "title": "Israel votes Tuesday; Brazil's run-off",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/tens-of-thousands-take-to-streets-in-brazil-ahead-of-closely-contested-runoff/3u3c0bvzf"
+      }
+     ]
+    },
+    {
+     "title": "Vanuatu earthquakes, no threat to Australia",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-24/two-large-earthquakes-strike-off-coast-of-vanuatu/107304900"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Helen Haines upgraded to serious but stable; the charges",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/helen-haines-condition-update-serious-but-stable/nodrxcue6"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/tarrawingee-neighbours-helen-haines-brendan-nugent-attack/107299624"
+      }
+     ]
+    },
+    {
+     "title": "AFP chief on Insiders: 'words matter'",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/afp-krissy-barrett-mental-health-care-helen-haines/79gbflyay"
+      }
+     ]
+    },
+    {
+     "title": "James Ashby weighs a run for Capricornia",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-24/james-ashby-considers-one-nation-run-for-seat-of-capricornia/107304534"
+      }
+     ]
+    },
+    {
+     "title": "Jordon Steele-John takes leave",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/greens-senator-jordon-steele-john-takes-leave-amid-misconduct-investigation/q8mafut0j"
+      }
+     ]
+    },
+    {
+     "title": "Inflation figures Wednesday; November rate rise odds",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574"
+      }
+     ]
+    },
+    {
+     "title": "Victorian Labor's hospitals launch",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/vic-labor-campaign-launch-health-hospital-investment/107304732"
+      }
+     ]
+    },
+    {
+     "title": "Western Sydney International's first flights",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/western-sydney-international-airport-first-commercial-fight-takes-off/pkedth2ck"
+      }
+     ]
+    },
+    {
+     "title": "Minns scraps the new rail timetable (T4, T8, South Coast)",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442"
+      }
+     ]
+    },
+    {
+     "title": "Great Koala National Park passes",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/great-koala-national-park-created"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/great-koala-national-park-legislation-passed/107296314"
+      }
+     ]
+    },
+    {
+     "title": "Child safety laws a year on; new 444 bus",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/tougher-child-safety-laws-mark-one-year"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/new-bus-route-from-balmain-east-to-leichhardt"
+      }
+     ]
+    },
+    {
+     "title": "NSW MPs upset after security briefing",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-23/nsw-mp-security-inadequate-after-parliament-safety-briefing/107299022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Ollama learns to speak (Phonon) and adds decision models",
+     "links": [
+      {
+       "label": "GitHub",
+       "url": "https://github.com/ollama/ollama/releases"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia's Nemotron 3.5 Bolt runs in about 4 GB",
+     "links": [
+      {
+       "label": "MarkTechPost",
+       "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/"
+      },
+      {
+       "label": "Hugging Face",
+       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+      }
+     ]
+    },
+    {
+     "title": "llama.cpp speeds up the Arc Pro B70",
+     "links": [
+      {
+       "label": "GitHub",
+       "url": "https://github.com/ggml-org/llama.cpp/releases"
+      }
+     ]
+    },
+    {
+     "title": "RTX 5090s stripped for AI servers; US$8,500 cards",
+     "links": [
+      {
+       "label": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block"
+      }
+     ]
+    },
+    {
+     "title": "Banned B300 chips found on China Telecom's network",
+     "links": [
+      {
+       "label": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor"
+      }
+     ]
+    },
+    {
+     "title": "SK Hynix shelves Solidigm listing; results Wednesday",
+     "links": [
+      {
+       "label": "Seoul Economic Daily",
+       "url": "https://en.sedaily.com/finance/2026/10/24/sk-hynix-scraps-solidigm-listing-turns-to-shareholder"
+      }
+     ]
+    },
+    {
+     "title": "Micron talks delayed by typhoon; 400-layer NAND",
+     "links": [
+      {
+       "label": "Guru3D",
+       "url": "https://www.guru3d.com/story/micron-announces-g11-nand-layers-roughly-2x-bit-density-versus-g9-up-to-faster-interface/"
+      }
+     ]
+    },
+    {
+     "title": "Friday's markets: chips steady after Thursday's rout",
+     "links": [
+      {
+       "label": "Reuters via Yahoo",
+       "url": "https://finance.yahoo.com/markets/articles/tech-selloff-relents-oil-five-103308077.html"
+      }
+     ]
+    },
+    {
+     "title": "iPhone Duo hinge cracks and a failed durability test",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/"
+      },
+      {
+       "label": "MacRumors",
+       "url": "https://macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test"
+      }
+     ]
+    },
+    {
+     "title": "What to expect from Apple's 'Pro and Tell'",
+     "links": [
+      {
+       "label": "Macworld",
+       "url": "https://www.macworld.com/article/3261726/oct-28-touchscreen-macbook-m6-imac-event-preview.html"
+      }
+     ]
+    },
+    {
+     "title": "SpaceX eyes 80,000 cell sites; Starship Flight 15 NET 8 Nov",
+     "links": [
+      {
+       "label": "Forbes",
+       "url": "https://www.forbes.com/sites/siladityaray/2026/10/23/att-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile/"
+      },
+      {
+       "label": "NASASpaceFlight",
+       "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: AYN Odin 3 Portal, Retroid Linux, Jellyfin 12.3, Fuji X-T6 rumours",
+     "links": [
+      {
+       "label": "Retro Handhelds",
+       "url": "https://retrohandhelds.gg/news/"
+      },
+      {
+       "label": "Fuji Rumors",
+       "url": "https://www.fujirumors.com/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Final Fantasy Resonance's big first weekend on Steam",
+     "links": [
+      {
+       "label": "GamesRadar",
+       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-is-already-the-second-biggest-steam-launch-of-any-turn-based-rpg-from-square-enix/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/3259780/charts/"
+      }
+     ]
+    },
+    {
+     "title": "Romancing SaGa 2 remake passes a million",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/romancing-saga-2-revenge-of-the-seven-shipments-and-digital-sales-top-one-million"
+      }
+     ]
+    },
+    {
+     "title": "FFXIV Fan Fest keynote Saturday 1pm",
+     "links": [
+      {
+       "label": "Lodestone",
+       "url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0377fcc55f424b8554a752a01c30057ec29d825b"
+      }
+     ]
+    },
+    {
+     "title": "Miyamoto to receive Japan's Order of Culture",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award"
+      },
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/"
+      }
+     ]
+    },
+    {
+     "title": "Nintendo bits: Ocarina rating, Game Boy additions, a claimed Switch 2 jailbreak",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles"
+      },
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever name reservations open Wednesday",
+     "links": [
+      {
+       "label": "Blizzard",
+       "url": "https://news.blizzard.com/en-us/article/24303866/claim-your-world-of-warcraft-forever-character-names"
+      }
+     ]
+    },
+    {
+     "title": "Half of Cyberpunk 2's quest team were modders",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/"
+      }
+     ]
+    },
+    {
+     "title": "Xbox: Arkane deadline, Netflix talks, COO leaves",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/report-microsoft-is-running-out-of-time-to-save-xbox-studio-arkane"
+      },
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months"
+      }
+     ]
+    },
+    {
+     "title": "Modern Warfare 4's first weekend",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far"
+      }
+     ]
+    },
+    {
+     "title": "Phantom Blade Zero out Thursday",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: HLX rumour, Mass Effect leak, US console sales",
+     "links": [
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
+      },
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/xbox-and-nintendo-console-sales-suffer-yoy-decreases-in-new-september-2026-us-report"
+      }
+     ]
+    },
+    {
+     "title": "Retro projects: the recomp boom and Xbox Labs",
+     "links": [
+      {
+       "label": "Recomp Software news",
+       "url": "https://www.recompsoftware.com/news/"
+      },
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Microsoft-launches-Xbox-Labs-to-support-recomp-projects.1423607.0.html"
+      }
+     ]
+    },
+    {
+     "title": "RPCS3 hits 80% playable",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/80percent-of-all-ps3-games-now-playable-on-pc-thanks-to-the-talented-team-behind-rpcs3"
+      }
+     ]
+    },
+    {
+     "title": "Sonic 3 Unlocked Mega Drive hack",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/sonic-3-unlocked-brings-sonic-mania-pluss-encore-mode-and-new-characters-to-the-mega-drive-genesis-classic"
+      }
+     ]
+    },
+    {
+     "title": "Retro Game of the Week: Beyond Oasis (Mega Drive)",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Beyond_Oasis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Clayface opens at number one (estimates)",
+     "links": [
+      {
+       "label": "TheWrap",
+       "url": "https://www.thewrap.com/culture-lifestyle/culture/clayface-you-can-see-everything-saturday-box-office/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/review-clayface/"
+      }
+     ]
+    },
+    {
+     "title": "Street Fighter drops 73% in week two",
+     "links": [
+      {
+       "label": "Cosmic Book News",
+       "url": "https://cosmicbook.news/street-fighter-second-weekend"
+      }
+     ]
+    },
+    {
+     "title": "Ryu Murakami, author of Audition, dies at 74",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/news/3973118/audition-author-ryu-murakami-has-passed-away-at-74/"
+      }
+     ]
+    },
+    {
+     "title": "A new Alien film: Guzikowski writing, Ridley Scott producing",
+     "links": [
+      {
+       "label": "TheWrap",
+       "url": "https://www.thewrap.com/creative-content/movies/new-alien-movie-screenwriter-aaron-guzikowski/"
+      }
+     ]
+    },
+    {
+     "title": "Godzilla Minus Zero's Cameron inspiration; Tokyo IFF opens",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/godzilla-minus-zero-sequel-inspiration/"
+      },
+      {
+       "label": "Tokyo IFF",
+       "url": "https://2026.tiff-jp.net/en/tiff/jury.html"
+      }
+     ]
+    },
+    {
+     "title": "Yeon Sang-ho's micro-budget Paradise Lost in profit",
+     "links": [
+      {
+       "label": "Cineplay",
+       "url": "https://www.cineplay.co.kr/en-us/articles/30394"
+      }
+     ]
+    },
+    {
+     "title": "Discs: Toy Robot Video's Jet Li double and Hakuchi",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39231"
+      }
+     ]
+    },
+    {
+     "title": "Discs: Road Games 4K, The Keep, Lady in White",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39217"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/lady-in-white-interview-frank-laloggia/"
+      }
+     ]
+    },
+    {
+     "title": "Horror round-up: Recluse, Dracula: The Crimson Code",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/recluse-movie-vertical-entertainment/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/dracula-reimagining-amanda-jiang/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "The Witcher: the Conjunction of the Spheres and the Elder Blood",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Procedural generation: seeds and noise for your farm",
+     "links": [
+      {
+       "label": "Godot docs: FastNoiseLite",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_fastnoiselite.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Gollum and performance capture",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Takashi Miike's Audition",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "A station ident for your Pi channel in Final Cut Pro",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "From modder to developer, and the fourth season",
+     "links": []
+    },
+    {
+     "title": "Your answers and the one-evening radish",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "Beyond Oasis / The Story of Thor (Mega Drive, 1994-95)",
+   "note": "Top-down action RPG from Ancient (Yuzo Koshiro); summon four elemental spirits. On Nintendo Switch Online + Expansion Pack (Sega Mega Drive app), the Mega Drive Mini and Sega Genesis Classics.",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Beyond_Oasis"
+    }
+   ]
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "Audition (1999, Takashi Miike)",
+   "note": "From Ryu Murakami's novel; Eihi Shiina as Asami. Check streaming or Arrow's disc."
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "The Lord of the Rings: The Two Towers (2002)",
+   "note": "Andy Serkis as Gollum."
+  }
+ ],
+ "questions": [
+  "In Beyond Oasis you summon spirits from things in the world. If your game had one spirit you could summon from something on your farm, what would you summon it from, and what would it do?",
+  "If the Conjunction of the Spheres dropped one monster from another world into your valley, what would it be, and how would the farmers deal with it?",
+  "If you could have one old game decompiled and rebuilt with one modern feature added, which game would it be, and what would you add?"
+ ]
+}

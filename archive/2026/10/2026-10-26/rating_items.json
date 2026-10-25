@@ -1,0 +1,373 @@
+[
+ {
+  "key": "world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "world-1",
+    "title": "Houthis claim strikes on Saudi airports and oil sites; truce collapses",
+    "topic": "Israel and the Middle East"
+   },
+   {
+    "id": "world-2",
+    "title": "Oil climbs to about US$114",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-3",
+    "title": "Kremlin rejects Witkoff's ideas; Starlink speeds restored in Ukraine",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "world-4",
+    "title": "France: nearly 1,000 arrested in a second weekend of protests",
+    "topic": "Europe protests and unrest"
+   },
+   {
+    "id": "world-5",
+    "title": "Jordan church funeral attack",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-6",
+    "title": "Israel votes Tuesday; Brazil's run-off",
+    "topic": "Major world news"
+   },
+   {
+    "id": "world-7",
+    "title": "Vanuatu earthquakes, no threat to Australia",
+    "topic": "Major world news"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "Helen Haines upgraded to serious but stable; the charges",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-2",
+    "title": "AFP chief on Insiders: 'words matter'",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-3",
+    "title": "James Ashby weighs a run for Capricornia",
+    "topic": "One Nation and Pauline Hanson"
+   },
+   {
+    "id": "australia-4",
+    "title": "Jordon Steele-John takes leave",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-5",
+    "title": "Inflation figures Wednesday; November rate rise odds",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-6",
+    "title": "Victorian Labor's hospitals launch",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-7",
+    "title": "Western Sydney International's first flights",
+    "topic": "Sydney trains and transport"
+   },
+   {
+    "id": "australia-8",
+    "title": "Minns scraps the new rail timetable (T4, T8, South Coast)",
+    "topic": "Sydney trains and transport"
+   },
+   {
+    "id": "australia-9",
+    "title": "Great Koala National Park passes",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-10",
+    "title": "Child safety laws a year on; new 444 bus",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-11",
+    "title": "NSW MPs upset after security briefing",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "Ollama learns to speak (Phonon) and adds decision models",
+    "topic": "Running AI models at home (model sizes, quantisation)"
+   },
+   {
+    "id": "tech-2",
+    "title": "Nvidia's Nemotron 3.5 Bolt runs in about 4 GB",
+    "topic": "Nvidia"
+   },
+   {
+    "id": "tech-3",
+    "title": "llama.cpp speeds up the Arc Pro B70",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-4",
+    "title": "RTX 5090s stripped for AI servers; US$8,500 cards",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-5",
+    "title": "Banned B300 chips found on China Telecom's network",
+    "topic": "Nvidia"
+   },
+   {
+    "id": "tech-6",
+    "title": "SK Hynix shelves Solidigm listing; results Wednesday",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-7",
+    "title": "Micron talks delayed by typhoon; 400-layer NAND",
+    "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+   },
+   {
+    "id": "tech-8",
+    "title": "Friday's markets: chips steady after Thursday's rout",
+    "topic": "Tech company earnings"
+   },
+   {
+    "id": "tech-9",
+    "title": "iPhone Duo hinge cracks and a failed durability test",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-10",
+    "title": "What to expect from Apple's 'Pro and Tell'",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-11",
+    "title": "SpaceX eyes 80,000 cell sites; Starship Flight 15 NET 8 Nov",
+    "topic": "SpaceX and Starship"
+   },
+   {
+    "id": "tech-12",
+    "title": "Quick hits: AYN Odin 3 Portal, Retroid Linux, Jellyfin 12.3, Fuji X-T6 rumours",
+    "topic": "Fujifilm X-M5, lenses and camera gear"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "Final Fantasy Resonance's big first weekend on Steam",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-2",
+    "title": "Romancing SaGa 2 remake passes a million",
+    "topic": "Square Enix and Dragon Quest"
+   },
+   {
+    "id": "games-3",
+    "title": "FFXIV Fan Fest keynote Saturday 1pm",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-4",
+    "title": "Miyamoto to receive Japan's Order of Culture",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-5",
+    "title": "Nintendo bits: Ocarina rating, Game Boy additions, a claimed Switch 2 jailbreak",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-6",
+    "title": "WoW Forever name reservations open Wednesday",
+    "topic": "Warcraft and Blizzard"
+   },
+   {
+    "id": "games-7",
+    "title": "Half of Cyberpunk 2's quest team were modders",
+    "topic": "The Witcher and CD Projekt Red"
+   },
+   {
+    "id": "games-8",
+    "title": "Xbox: Arkane deadline, Netflix talks, COO leaves",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-9",
+    "title": "Modern Warfare 4's first weekend",
+    "topic": "Call of Duty"
+   },
+   {
+    "id": "games-10",
+    "title": "Phantom Blade Zero out Thursday",
+    "topic": "Video game releases"
+   },
+   {
+    "id": "games-11",
+    "title": "Quick hits: HLX rumour, Mass Effect leak, US console sales",
+    "topic": "Video game industry"
+   },
+   {
+    "id": "games-12",
+    "title": "Retro projects: the recomp boom and Xbox Labs",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   },
+   {
+    "id": "games-13",
+    "title": "RPCS3 hits 80% playable",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   },
+   {
+    "id": "games-14",
+    "title": "Sonic 3 Unlocked Mega Drive hack",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   },
+   {
+    "id": "games-15",
+    "title": "Retro Game of the Week: Beyond Oasis (Mega Drive)",
+    "topic": "Retro games (SNES and Mega Drive)"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "Clayface opens at number one (estimates)",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-2",
+    "title": "Street Fighter drops 73% in week two",
+    "topic": "Game-to-film adaptations"
+   },
+   {
+    "id": "movies-3",
+    "title": "Ryu Murakami, author of Audition, dies at 74",
+    "topic": "Japanese horror"
+   },
+   {
+    "id": "movies-4",
+    "title": "A new Alien film: Guzikowski writing, Ridley Scott producing",
+    "topic": "Sci-fi and action films"
+   },
+   {
+    "id": "movies-5",
+    "title": "Godzilla Minus Zero's Cameron inspiration; Tokyo IFF opens",
+    "topic": "Film festivals"
+   },
+   {
+    "id": "movies-6",
+    "title": "Yeon Sang-ho's micro-budget Paradise Lost in profit",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-7",
+    "title": "Discs: Toy Robot Video's Jet Li double and Hakuchi",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-8",
+    "title": "Discs: Road Games 4K, The Keep, Lady in White",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-9",
+    "title": "Horror round-up: Recluse, Dracula: The Crimson Code",
+    "topic": "Horror films"
+   }
+  ]
+ },
+ {
+  "key": "lore",
+  "name": "Lore",
+  "items": [
+   {
+    "id": "lore-1",
+    "title": "The Witcher: the Conjunction of the Spheres and the Elder Blood",
+    "topic": "The Witcher and CD Projekt Red"
+   }
+  ]
+ },
+ {
+  "key": "game-tech",
+  "name": "Game tech",
+  "items": [
+   {
+    "id": "game-tech-1",
+    "title": "Procedural generation: seeds and noise for your farm",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "Gollum and performance capture",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Takashi Miike's Audition",
+    "topic": "Japanese horror"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "A station ident for your Pi channel in Final Cut Pro",
+    "topic": "Raspberry Pi projects (music TV channel, multicast streaming)"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "From modder to developer, and the fourth season",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   },
+   {
+    "id": "chat-and-goodbye-2",
+    "title": "Your answers and the one-evening radish",
+    "topic": "Godot and Scott's 2D game"
+   }
+  ]
+ }
+]

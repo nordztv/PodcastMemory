@@ -1,0 +1,13 @@
+Workshop time, and today I'm crossing two of your projects: Final Cut Pro, and the Raspberry Pi music video channel. Let's make a proper station ident, a five-second sting that plays between videos, like real T V channels {used|yoost} to.
+
+Step one: match your channel. Before you touch a single title, check what your Pi channel actually plays out: the resolution, probably ten eighty, and the frame rate, twenty five or thirty frames a second. In Final Cut Pro, make a new project with exactly those settings. If the ident's frame rate doesn't match the music videos around it, the playout can stutter at the joins, and it'll look amateur at the exact moment you want it to look slick.
+
+Step two: build it in layers. Start with a background from the Generators browser, a gradient or a texture, and colour it in your channel's colours. Add your logo as a P N G with transparency, and a simple title above it. Then give it movement with keyframes: select the logo, open the video inspector, and set a keyframe for scale at the start, say ninety per cent, and another one second later at a hundred. Slow, small moves look expensive. Big, fast spins look like 1998.
+
+Step three: the sound. A good ident is half audio. Add a short musical sting or a whoosh, and use the audio meters to keep it from being louder than the music videos. Nothing ruins a late-night channel like an ident that's twice as loud as the songs.
+
+Step four: make it reusable. Once you like it, select the whole thing and turn it into a compound clip, and save a copy in a template project. Then next month, for a Halloween ident or a Christmas one, you just swap the colours and the logo.
+
+Step five: export to suit the Pi. Share, Export File, H point two six four, at your channel's resolution. Keep the bitrate at or a bit under what your streams run at, around your eight megabits per second if you go the multicast route, so the ident doesn't spike the stream. Then drop it into your playlist rotation every few videos.
+
+[happy] And a bonus homework idea: you never told me your channel's station name back when I asked a week ago. This is your excuse to finally decide. [punch] Channel Pi is still available, and the mysterious fork is free to a good home.
