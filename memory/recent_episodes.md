@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-27 (Tuesday)
+
+- **Length:** audio not recorded (voice engine blocked); script about 10,950 words (~80 min). Script and sheet delivered about 10pm Monday.
+- **World:** Lula re-elected 51.8-48.2, Flavio Bolsonaro rejects result (two-hour poll extension); Serbia's Vucic concedes to the Student List; Israel votes Tue (Netanyahu's nuclear image, "bypass economy"); Iran's Araghchi defiant, Saudi intercepts 10 ballistic missiles, oil eases.
+- **Australia and NSW:** parliament's Haines tributes (cockatoo, fundraiser $1.2m, serious but stable); MP security, Hanson cartoon apology, digital duty of care bill debate this week; Taylor's small business question, Coalition $31b savings, opposes EU FTA; Karvelas on Labor disquiet over Iran war (2003 letter); estimates (COP talks ~$35m, Snowy no bonus, WWCC mid-2028, aged care algorithm); Perfection Fresh $12m cartel. NSW: $6.8b South Coast rail (mid-late 2030s); gun buyback from 2 Nov; $17m endoscopies; Victoria Barracks out by Christmas; ATSB tower fatigue near-misses; WSI first passengers.
+- **Tech:** touchscreen OLED MacBook Pro expected Wed (4am Thu AEDT), M6 iMac; Apple display veterans; Kospi -1.46%, foreign selling ~US$5.3b; Samsung+SK Hynix ~US$139b Q3 op profit expected; 8-layer HBM4 report (unconfirmed); Taiwan reopens Tue; Micron Taoyuan rejects offer; earnings calendar (Apple results 3 Nov AEDT, AMD 4 Nov); Flint on Ollama Linux/Windows; Kimi K3.1 Pro, MiniMax M3.1 Flash; ASUS Arc Pro B70 32GB; Booster 22 static fire; Tesla-SpaceX merger chatter, capex cut; X-T6 November rumour; quick hits (SupaBoy, Evercade Nexus).
+- **Games:** Phantom Blade Zero MC 88 / OC 91 (Steam Deck poor); FFXIV x FF7R Keybound Brawler Wed 7pm; Game Pass end Oct; Village in the Shade (yokai farm sim, out 27 Oct); Tomb Raider 30, Legacy of Atlantis 12 Feb; Sonic X Shadow 3M; Shenmue 3 Enhanced to early 2027; no Helldivers 3; Mass Effect petition 200k, ME5 timelines; PS5 anti-jailbreak firmware; Fallout 76 25M, World Pets 1 Dec; quick hits; retro (Civilisation on NGPC, Veins of Iron SNES, Ocarina unJPEG hack). Beyond Oasis reminder.
+- **Movies:** Godzilla Minus Zero R-rated (Japan 3 Nov, US 6 Nov); Tokyo IFF (Sukiyaki, Colony, Mizoguchi retro); Korean box office (Chiikawa, Paradise Lost 3rd); TIFFCOM (Howling Village); Clayface daily slide; Train to Busan and The Host 4K; Shaw Brothers Street Gangs; Umbrella I Saw the Devil 4K; Halloween week. Actress of the Month Tuesday: Weaver in Ghostbusters (1984). Announced November's actress from Japanese cult cinema.
+- **Deep dives:** Final Fantasy IX; palette swapping (Godot shader per radish tier); Interstellar's black hole; Hitchcock's Rear Window. Workshop: five-shot sequence on the walk.
+- **Challenge:** Thirty push-ups and seventy dumbbell rows (rate 3 of 4, 75%; 26 Oct done).
+- **Questions:** a game character's happy ending; strongest radish tier's colour and name; which yokai knocks at 2am.
+- **Answer reaction:** 26 Oct answers (yokai summons with personalities, murlocs, Secret of Mana HD-2D); suggestion: YokaiPersonality Resource + rand_weighted. Thanked for 5s (tech, games, lore, game tech, effects); workshop 3 noted.
+- **Follow up:** Israel results Wed; CPI, SK Hynix results, WoW Forever names, FFXIV x FF7R 28 Oct; Apple event, Fed, Microsoft, Alphabet, Samsung, Phantom Blade Zero, FF7R Game Pass, The Devils 29 Oct; Amazon, Intel, Southwest Metro 30 Oct; Fan Fest keynote (patch 8.0 date?) 31 Oct; Godzilla Minus Zero TIFF 1 Nov; gun buyback 2 Nov; RBA, Apple results, Miyamoto, Godzilla Japan 3 Nov; AMD 4 Nov; Ocarina 5 Nov; Starship Flight 15 NET 8 Nov; duty of care bill; Micron talks; Ghostbusters making-of Thursday; November actress (Japanese cult) Tue 3 Nov.
+
 ## 2026-10-26 (Monday)
 
 - **Length:** 92 min (11 chapters). Script delivered about 10pm Sunday; audio rendered in the cloud and delivered about 10:45pm.

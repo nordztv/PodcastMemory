@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-27 | Lore | Final Fantasy IX |
+| 2026-10-27 | Game tech | Palette swapping and limited palettes (Godot canvas_item shader, palette texture per radish tier; palette cycling) |
+| 2026-10-27 | Effects | Interstellar's black hole |
+| 2026-10-27 | Director | Hitchcock's Rear Window |
+| 2026-10-27 | Workshop | The five-shot sequence on the walk (phone now, X-M5 later) |
+| 2026-10-27 | Chat | Yokai and tsukumogami (kasa-obake, kappa; the hundred-year-old hoe) |
 | 2026-10-26 | Lore | The Witcher lore: the Conjunction of the Spheres and the Elder Blood |
 | 2026-10-26 | Game tech | Procedural generation (seeded RandomNumberGenerator, FastNoiseLite clusters for farm debris and forage) |
 | 2026-10-26 | Effects | Gollum and performance capture |
