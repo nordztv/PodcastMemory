@@ -22,6 +22,15 @@ Keep the Mac awake and plugged in while it records (the script stops it sleeping
    ```
    If `~/MorningBriefing/podcastmemory` already exists, skip the clone line and run `git -C ~/MorningBriefing/podcastmemory pull` instead.
 
+## Kokoro test (compare with Fish)
+
+Added 27 Oct 2026 at Scott's request. Records the episode in the show's Kokoro voice (the one the cloud uses) so you can compare it with Fish. It never touches the Fish recording.
+
+- Full episode: `bash ~/MorningBriefing/podcastmemory/engine/mac/record_kokoro.sh 2026-10-27` -> `Morning_Briefing_2026-10-27_kokoro.mp3`
+- Quick sample (opening section only, a few minutes): add `quick`, e.g. `record_kokoro.sh 2026-10-27 quick` -> `..._kokoro_sample.mp3`
+- Or copy `Record Morning Briefing (Kokoro test).command` to the Desktop and double-click it.
+- The result is copied to iCloud Drive > Morning Briefing and opened when done. It sets up anything missing on its first run. Log: `~/MorningBriefing/record_kokoro.log` (when started from the Desktop file).
+
 ## Handy commands
 
 - Record a particular day: `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-10-27` (saves to iCloud), or just rebuild the MP3: `~/MorningBriefing/fish/bin/python ~/MorningBriefing/podcastmemory/engine/mac/build_fish.py 2026-10-27` (lands in `~/podcast/out/`)
