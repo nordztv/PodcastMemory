@@ -1,2 +1,3 @@
 2026-10-26 21:53 AEDT
 script and sheet delivered (audio not recorded: voice engine blocked)
+2026-10-27 01:53 AEDT audio recorded on request in the cloud (86 min) and delivered
