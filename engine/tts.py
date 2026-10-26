@@ -102,7 +102,7 @@ TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 KOKORO_MAP = [
     (r"pause|break|beat", "[beat]"),
     (r"punch", "[punch]"),
-    (r"laugh|chuckl|giggl|sigh|inhale|exhale|breath|gasp|tsk|clear|yawn|sob|groan|hum|emphasis", ""),
+    (r"laugh|chuckl|giggl|huff|snicker|scoff|sigh|inhale|exhale|breath|gasp|tsk|clear|yawn|sob|groan|hum|emphasis", ""),
     (r"dark|low voice|whisper|menac|eerie|creep|ominous|sinister|deadpan", "[dark]"),
     (r"sad|serious|calm|soft|sombre|somber|grave|sympath|compassion|empath|gentle|moved|respect", "[serious]"),
     (r"happy|excit|delight|cheer|joy|bright|enthus|thrill|proud|grateful|optimis|warm", "[happy]"),

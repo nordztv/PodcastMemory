@@ -61,7 +61,7 @@ ANY_TAG = re.compile(r"\[[^\[\]{}]{1,60}\]")
 LEGACY = {"happy": "[happy]", "dark": "[low voice][soft tone]", "serious": "[calm][soft tone]", "cheeky": "[playful]",
           "normal": ""}
 # Sounds and one-off effects: these happen once where they're written and never carry into the next chunk.
-ONE_OFF = re.compile(r"laugh|chuckl|giggl|sigh|inhale|exhale|breath|gasp|tsk|pause|break|clear|emphasis|yawn|sob|groan|hum", re.I)
+ONE_OFF = re.compile(r"laugh|chuckl|giggl|huff|snicker|scoff|sigh|inhale|exhale|breath|gasp|tsk|pause|break|clear|emphasis|yawn|sob|groan|hum", re.I)
 
 
 def prepare(text):
