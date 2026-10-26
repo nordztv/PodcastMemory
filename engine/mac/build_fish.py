@@ -15,7 +15,7 @@ import glob, inspect, json, os, re, shutil, subprocess, sys, time, wave
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 HOME = os.path.expanduser("~")
-DEFAULTS = {"ref": "ref_happy1", "ref_text": "ref_happy", "chunk_words": 30, "words_per_minute": None, "tempo": 0.85,
+DEFAULTS = {"ref": "ref_happy1", "ref_text": "ref_happy", "chunk_words": 50, "fish_chunk_length": 600, "mood_tempo": True, "words_per_minute": None, "tempo": 0.85,
             "models": ["cs2764/fish-audio-s2-pro-8bit-mlx", "mlx-community/fish-audio-s2-pro-bf16"]}
 
 
@@ -50,6 +50,12 @@ REF_TEXT = open(_path(CFG["ref_text"], ".txt")).read().strip()
 CHUNK_WORDS = int(CFG.get("chunk_words", 30))
 SR = 24000
 PARA_GAP, SECTION_GAP, BEAT = 0.55, 1.8, 0.6
+SHORT_BEAT, LONG_BEAT = 0.35, 1.2      # [short beat] for quick jokes, [long beat] before big reveals
+# Speed by mood (26 Oct 2026): whispered secrets and sweet spooky slower, excited moments a little faster than the
+# episode's tempo. A chunk's tags decide; everything else plays at the episode tempo from voice.json.
+SLOW_MOOD = re.compile(r"whisper|hushed|secretive|very quiet|speaking slowly|sweet, innocent|softly, sweetly", re.I)
+FAST_MOOD = re.compile(r"\[(very )?excited", re.I)
+SLOW_TEMPO, FAST_TEMPO = 0.85, 0.97
 PRONOUNCE = json.load(open(f"{REPO}/show/pronunciations.json"))
 HETERONYMS = [(re.compile(p), r) for p, r in json.load(open(f"{REPO}/show/heteronyms.json")) if p != "_comment"]
 ROMAN = {"II": "two", "III": "three", "IV": "four", "VI": "six", "VII": "seven", "VIII": "eight", "IX": "nine",
@@ -68,8 +74,10 @@ def prepare(text):
     """The show's text rules, as plain words Fish can read, with the delivery tags kept intact."""
     text = text.replace("\u2019", "'").replace("\u201c", '"').replace("\u201d", '"')
     text = re.sub(r"\{[^{}|]*\|([^{}]*)\}", r"\1", text)          # {word|respelling}
-    text = re.sub(r"\[(beat|punch)\]", " \u2016 ", text, flags=re.I)  # pause marker, split on below
-    text = re.sub(r"\[(happy|dark|serious|cheeky|normal)\]", lambda m: LEGACY[m.group(1).lower()], text, flags=re.I)
+    text = re.sub(r"\[(long beat|long pause)\]", " \u2016L ", text, flags=re.I)  # pause markers, split on below
+    text = re.sub(r"\[short beat\]", " \u2016S ", text, flags=re.I)
+    text = re.sub(r"\[(beat|punch)\]", " \u2016B ", text, flags=re.I)
+    text = re.sub(r"\[(dark|cheeky|normal)\]", lambda m: LEGACY[m.group(1).lower()], text, flags=re.I)  # [happy] and [serious] work as they are
     tags = []                                                      # keep tags safe from the respelling rules
     text = ANY_TAG.sub(lambda m: tags.append(m.group(0).lower()) or f"\u27e6{len(tags) - 1}\u27e7", text)
     for pat, say in HETERONYMS:
@@ -91,14 +99,15 @@ def lead_mood(s):
 
 
 def pieces(text):
-    """Yields ("say", text) chunks of whole sentences, ("beat", None) and ("para", None) markers."""
+    """Yields ("say", text) chunks of whole sentences, ("beat", "B"|"S"|"L") and ("para", None) markers."""
     for para in [p.strip() for p in prepare(text).split("\n") if p.strip()]:
         mood = ""                                   # a mood lasts until the end of its paragraph
-        for part in para.split("\u2016"):
+        bits = re.split(r"\u2016([BSL])", para); kinds = bits[1::2] + ["B"]
+        for part, kind in zip(bits[0::2], kinds):
             sents = []
             for s in [s for s in re.split(r"(?<=[.!?])\s+", part.strip()) if s.strip()]:
                 # a very long sentence is split at commas, colons or semicolons, so no call runs past Fish's limit
-                sents += re.split(r"(?<=[,;:])\s+", s) if len(s.split()) > CHUNK_WORDS * 1.3 else [s]
+                sents += re.split(r"(?<=[,;:])\s+(?![^\[\]]*\])", s) if len(s.split()) > CHUNK_WORDS * 1.3 else [s]  # never inside a [tag]
             cur, cur_mood = [], mood
             for s in sents:
                 if cur and len(ANY_TAG.sub("", " ".join(cur + [s])).split()) > CHUNK_WORDS:
@@ -107,7 +116,7 @@ def pieces(text):
                 mood = lead_mood(s) or mood
             if cur:
                 yield "say", chunk(cur, cur_mood)
-            yield "beat", None
+            yield "beat", kind
         yield "para", None
 
 
@@ -139,7 +148,7 @@ def voice(model, text, dest, tmp):
     from mlx_audio.tts.generate import generate_audio
     shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp)
     want = dict(model=model, text=text, ref_audio=REF, ref_text=REF_TEXT, output_path=tmp, file_prefix="c",
-                join_audio=True, audio_format="wav", verbose=False, play=False)
+                chunk_length=int(CFG.get("fish_chunk_length", 600)), join_audio=True, audio_format="wav", verbose=False, play=False)
     accepted = inspect.signature(generate_audio).parameters
     takes_all = any(p.kind == p.VAR_KEYWORD for p in accepted.values())
     args = {k: v for k, v in want.items() if takes_all or k in accepted}
@@ -165,7 +174,7 @@ def main():
     src = f"{REPO}/archive/{d[:4]}/{d[5:7]}/{d}/" + ("headlines" if headlines else "script")
     work = f"{HOME}/podcast/render_fish/{d}" + ("_headlines" if headlines else ""); out = f"{HOME}/podcast/out"
     os.makedirs(work, exist_ok=True); os.makedirs(out, exist_ok=True)
-    for name, s in (("pgap", PARA_GAP), ("sgap", SECTION_GAP), ("beat", BEAT)):
+    for name, s in (("pgap", PARA_GAP), ("sgap", SECTION_GAP), ("beat", BEAT), ("sbeat", SHORT_BEAT), ("lbeat", LONG_BEAT)):
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", f"anullsrc=r={SR}:cl=mono", "-t", str(s), f"{work}/{name}.wav"], check=True)
     files = sorted(glob.glob(f"{src}/*.txt"))
     if not files:
@@ -174,12 +183,16 @@ def main():
         files = files[:1]
     model, mid = load()
     order, timings, failed, words, speech, start = [], [], 0, 0, 0.0, time.time()
+    said = {}                                             # chunk file -> its text, for speed by mood
     for f in files:
         sec = os.path.basename(f)[:-4]; first = len(order); n = 0
         for kind, text in pieces(open(f).read()):
             if kind == "beat":
+                gap = f"{work}/" + {"S": "sbeat", "L": "lbeat"}.get(text, "beat") + ".wav"
                 if len(order) > first and not order[-1].endswith(("beat.wav", "pgap.wav")):
-                    order.append(f"{work}/beat.wav")
+                    order.append(gap)
+                elif gap.endswith("lbeat.wav") and order and order[-1].endswith("beat.wav"):
+                    order[-1] = gap                       # a long beat wins over a plain one
                 continue
             if kind == "para":
                 if order and order[-1].endswith("beat.wav"):
@@ -195,10 +208,11 @@ def main():
                     print(f"  error: {e}", flush=True); ok = False
                 if not ok:
                     print(f"FAILED: {sec} chunk {n}", flush=True); failed += 1; continue
+            said[dest] = text
             order.append(dest); words += len(ANY_TAG.sub("", text).split()); speech += secs(dest)
         if len(order) > first:
             order[-1:] = [f"{work}/sgap.wav"]
-            timings.append((sec, sum(secs(p) for p in order[first:])))
+            timings.append((sec, first, len(order)))
         print(f"{sec} done, {int(time.time() - start)}s so far", flush=True)
         if failed > 10:
             raise SystemExit("Too many chunks failed; stopping")
@@ -207,15 +221,35 @@ def main():
     if CFG.get("tempo"):   # a fixed speed instead: 0.85 = 15% slower than Fish speaks (pitch kept)
         tempo = max(0.8, min(1.0, float(CFG["tempo"])))
     print(f"Pace: {words / max(speech, 1) * 60:.0f} words a minute; tempo {tempo:.2f}", flush=True)
+    moods = {"slow": 0, "fast": 0}
+    def paced(p):
+        """Each spoken chunk at its own speed (speed by mood); gaps stay as they are."""
+        if p not in said:
+            return p
+        t = tempo
+        if CFG.get("mood_tempo", True):
+            if SLOW_MOOD.search(said[p]):
+                t = min(tempo, SLOW_TEMPO); moods["slow"] += 1
+            elif FAST_MOOD.search(said[p]):
+                t = max(tempo, FAST_TEMPO); moods["fast"] += 1
+        if t >= 0.999:
+            return p
+        q = f"{p[:-4]}_t{t:.3f}.wav"
+        if not os.path.exists(q):
+            subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", p, "-af", f"atempo={t:.3f}", q], check=True)
+        return q
+    order = [paced(p) for p in order]
+    print(f"Speed by mood: {moods['slow']} slower chunks, {moods['fast']} faster", flush=True)
+    timings = [(s, sum(secs(p) for p in order[a:b])) for s, a, b in timings]
     with open(f"{work}/list.txt", "w") as lst:
         lst.writelines(f"file '{p}'\n" for p in order)
     mp3 = f"{out}/Morning_Briefing_{d}" + ("_headlines" if headlines else "") + ".mp3"
-    af = ([f"atempo={tempo:.3f}"] if tempo < 0.999 else []) + ["loudnorm=I=-16:TP=-1.5:LRA=11"]
+    af = ["loudnorm=I=-16:TP=-1.5:LRA=11"]                  # speed is already applied per chunk
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/list.txt", "-af", ",".join(af),
                     "-ar", str(SR), "-ac", "1", "-b:a", "128k", "-metadata", f"title=Morning Briefing - {d}",
                     "-metadata", "artist=Morning Briefing", mp3], check=True)
     with open(f"{work}/timings.txt", "w") as t:
-        t.writelines(f"{s}\t{v / tempo}\n" for s, v in timings)
+        t.writelines(f"{s}\t{v}\n" for s, v in timings)
     if subprocess.run([sys.executable, f"{REPO}/engine/chapters.py", mp3, f"{work}/timings.txt", d] + (["headlines"] if headlines else [])).returncode:
         print("chapters skipped (episode is fine without them)", flush=True)
     took = time.time() - start
