@@ -1,0 +1,33 @@
+[excited] Game tech time! [delighted] And since you told me you'd love more pixel art on the show, [warm] today is all about one of pixel art's oldest, cleverest tricks: the palette swap. [playful] And yes, [teasing] it's going to end with your radish. [giggling while talking] Everything ends with your radish now.
+
+[warm, practical] Let's do the Godot bit first, so you can try it tonight. [clear, explaining] The goal: one radish sprite, twenty five strength levels, and a different colour scheme for each tier, without drawing it twenty five times.
+
+[clear, explaining] Step one: draw your radish in Aseprite, or whatever you like, using only a handful of shades of grey, say five. Pure black for the outline, then four greys from dark to light. [calm] Think of each grey not as a colour, but as a slot number: slot one is the outline, slot two the shadow, and so on.
+
+[clear, explaining] Step two: make a tiny palette image. Five pixels wide, one pixel for each slot, and one row for each tier. Row one might be a normal red radish with green leaves. Row five might be a sickly purple. [sly] Row ten, a radish that's clearly been eating something it shouldn't. [giggling while talking] We'll come back to that.
+
+[clear, explaining] Step three: on your radish's Sprite2D, add a new Shader Material with a canvas item shader. In the fragment function, read the sprite's pixel, take its red value, which for a grey is between zero and one, and use that as the horizontal position to look up a colour in your palette image. The vertical position is the row for the current tier. Then set the output colour to the palette colour, but keep the sprite's original alpha so the transparent bits stay transparent. [calm] That's about six lines of shader code.
+
+[clear, explaining] Two settings matter. Set the palette texture's filter to nearest, so Godot doesn't blend neighbouring colours together, [playful] or your radish turns into a smoothie. [clear] And tick "Local to Scene" on the material, so each radish gets its own copy. Otherwise, change one radish's tier, and every radish on the farm changes with it. [amused] Which, to be fair, [punch] would be a pretty good horror moment. [giggling while talking] Write that down, actually.
+
+[clear, explaining] Then, when the radish spawns, you just call set shader parameter with the tier number, and it picks its row. [excited] One sprite, twenty five monsters. [delighted] And because it's a shader, you can animate it too: flash every colour to white for a frame when it's hit, or shift it to a red row when it's about to charge. [warm] That's your fight-or-run tell, from our very first monster chat, done with one parameter.
+
+[curious] [thoughtful] So why does this trick exist at all? [nostalgic] Go back to the Super Nintendo. Memory was tiny and expensive, so the console didn't store a colour for every pixel. [clear, explaining] Instead, each pixel of a sprite stored a little number, an index, pointing into a palette, a short list of colours. On the Super Nintendo, a sprite palette had sixteen colours, and the first one was always see-through. [warm] The picture was really a paint-by-numbers sheet, and the palette was the box of paints.
+
+[delighted] And here's the magic: change the paints, and every picture using those numbers changes instantly, for free. [excited] That's how you got Luigi from Mario, how Dragon Quest turned its blue slime into an orange she-slime, [amused] and how Mortal Kombat got an entire family of ninjas out of one costume. [playful] Scorpion, Sub-Zero, Reptile: [punch] [laughing tone] same man, different laundry. [giggling while talking] Sorry, I'm a big fan of cheap ninjas.
+
+[impressed] Developers went further with palette cycling: instead of swapping a palette once, they rotated colours through it every few frames. A row of blues shifting one step at a time makes a waterfall look like it's flowing, [dreamy] with no extra frames of animation at all. [warm] Lava bubbles, flickering torches, shimmering water in old R P Gs: lots of it was just colours taking turns.
+
+[thoughtful] And there's an artistic reason to keep the trick today, even with unlimited colours. [calm] A limited palette forces harmony. When every enemy, tree and tile shares a set of colours, the world looks like it belongs together. [warm] It's why a lot of modern pixel art games pick a palette of thirty or so colours and never leave it.
+
+[happy] So, your tip list for the weekend:
+
+[clear] One. Draw in greys, colour in the shader. You'll thank yourself when you add the twenty fifth tier.
+
+[clear] Two. Nearest filter on the palette, Local to Scene on the material.
+
+[clear] Three. Use a bright flash row for hits and a warning row for attacks. Readability first.
+
+[clear] Four. Pick a master palette for the whole game early, and make the radish tiers from it, so even the scariest radish still looks like it grew on your farm.
+
+[curious] [playful] Which brings me to today's second question. If each strength level of your radish monster gets its own palette, [beat] what colour is the strongest one, tier twenty five, and what do the farmers call it? [mock-serious] My answer: it's a deep, glossy black, and the farmers call it [short beat] "Sir". [punch] [deadpan] Just "Sir". [giggling while talking] Nobody's brave enough to give it a proper name. [warm] Tell me on your answer page.

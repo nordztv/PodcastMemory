@@ -1,0 +1,386 @@
+{
+ "date": "2026-10-27",
+ "sections": [
+  {
+   "key": "world",
+   "name": "Opening and world",
+   "items": [
+    {
+     "id": "world-1",
+     "title": "Lula re-elected in Brazil; Flavio Bolsonaro rejects the result",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-2",
+     "title": "Serbia: Vucic concedes to the student-led movement",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-3",
+     "title": "Israel votes today; Netanyahu's final pitch",
+     "topic": "Israel and the Middle East"
+    },
+    {
+     "id": "world-4",
+     "title": "Iran defiant; Saudi Arabia intercepts missiles; oil eases",
+     "topic": "Israel and the Middle East"
+    }
+   ]
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "items": [
+    {
+     "id": "australia-1",
+     "title": "Parliament pauses for Helen Haines",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-2",
+     "title": "MP security, One Nation's cartoons and the online duty of care bill",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-3",
+     "title": "Question Time and the Coalition's $31 billion savings",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-4",
+     "title": "Labor disquiet over the Iran war",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-5",
+     "title": "Senate estimates: COP talks cost, Snowy bonus, Working with Children Checks, aged care algorithm",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-6",
+     "title": "Perfection Fresh admits vegetable price-fixing",
+     "topic": "Australian economy and banks"
+    },
+    {
+     "id": "australia-7",
+     "title": "Inflation figures Wednesday",
+     "topic": "Australian economy and banks"
+    },
+    {
+     "id": "australia-8",
+     "title": "$6.8 billion South Coast rail plan",
+     "topic": "Sydney trains and transport"
+    },
+    {
+     "id": "australia-9",
+     "title": "National gun buyback starts in NSW on 2 November",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-10",
+     "title": "$17 million to clear overdue endoscopies",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-11",
+     "title": "Victoria Barracks: out by Christmas",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-12",
+     "title": "Sydney Airport near-misses and tower fatigue",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-13",
+     "title": "Western Sydney airport's first passengers",
+     "topic": "Sydney trains and transport"
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "name": "Tech",
+   "items": [
+    {
+     "id": "tech-1",
+     "title": "Touchscreen OLED MacBook Pro expected Wednesday",
+     "topic": "Apple"
+    },
+    {
+     "id": "tech-2",
+     "title": "Apple display veterans step back",
+     "topic": "Apple"
+    },
+    {
+     "id": "tech-3",
+     "title": "Kospi falls ahead of record Samsung and SK Hynix profits",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-4",
+     "title": "Report: eight-layer HBM4 for Rubin Ultra (unconfirmed)",
+     "topic": "Nvidia"
+    },
+    {
+     "id": "tech-5",
+     "title": "Taiwan's market reopens after typhoon and holiday",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-6",
+     "title": "Micron's Taoyuan union rejects the bonus offer",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-7",
+     "title": "This week's earnings calendar",
+     "topic": "Tech company earnings"
+    },
+    {
+     "id": "tech-8",
+     "title": "Flint coding model on Ollama for Linux and Windows",
+     "topic": "Running AI models at home (model sizes, quantisation)"
+    },
+    {
+     "id": "tech-9",
+     "title": "Giant open models: Kimi K3.1 Pro and MiniMax M3.1 Flash",
+     "topic": "Running AI models at home (model sizes, quantisation)"
+    },
+    {
+     "id": "tech-10",
+     "title": "ASUS Arc Pro B70 with 32 GB",
+     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+    },
+    {
+     "id": "tech-11",
+     "title": "Starship Booster 22 static fire",
+     "topic": "SpaceX and Starship"
+    },
+    {
+     "id": "tech-12",
+     "title": "Tesla-SpaceX merger chatter; Tesla capex cut",
+     "topic": "Tesla"
+    },
+    {
+     "id": "tech-13",
+     "title": "Fujifilm X-T6 rumoured for November",
+     "topic": "Fujifilm X-M5, lenses and camera gear"
+    },
+    {
+     "id": "tech-14",
+     "title": "Quick hits: SupaBoy SNES handheld, Evercade Nexus, Nvidia software, OpenAI funding, Friday's chips",
+     "topic": "Tech company earnings"
+    }
+   ]
+  },
+  {
+   "key": "games",
+   "name": "Games",
+   "items": [
+    {
+     "id": "games-1",
+     "title": "Phantom Blade Zero reviews: 88 on Metacritic",
+     "topic": "Video game releases"
+    },
+    {
+     "id": "games-2",
+     "title": "FFXIV x FF7 Remake crossover and Fan Fest",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    },
+    {
+     "id": "games-3",
+     "title": "Game Pass: FF7 Remake, Mouthwashing and more",
+     "topic": "Xbox"
+    },
+    {
+     "id": "games-4",
+     "title": "Village in the Shade: a yokai farming game",
+     "topic": "Japanese yokai"
+    },
+    {
+     "id": "games-5",
+     "title": "Tomb Raider turns 30: Legacy of Atlantis teaser",
+     "topic": "Cult actresses and iconic characters"
+    },
+    {
+     "id": "games-6",
+     "title": "Sonic X Shadow Generations passes 3 million",
+     "topic": "Video game industry"
+    },
+    {
+     "id": "games-7",
+     "title": "Shenmue 3 Enhanced delayed to 2027",
+     "topic": "Like a Dragon / Yakuza series"
+    },
+    {
+     "id": "games-8",
+     "title": "No Helldivers 3, says Arrowhead",
+     "topic": "Video game industry"
+    },
+    {
+     "id": "games-9",
+     "title": "Mass Effect petition passes 200,000",
+     "topic": "Video game industry"
+    },
+    {
+     "id": "games-10",
+     "title": "Sony's anti-jailbreak firmware push",
+     "topic": "Video game industry"
+    },
+    {
+     "id": "games-11",
+     "title": "Fallout 76 passes 25 million; World Pets 1 December",
+     "topic": "Fallout series"
+    },
+    {
+     "id": "games-12",
+     "title": "Quick hits: Look Outside, Queen's Domain, Darkest Dungeon II, MW4 patch, Factorio 2.1, Knightmare",
+     "topic": "Pixel art"
+    },
+    {
+     "id": "games-13",
+     "title": "Retro projects: Civilisation on Neo Geo Pocket, Veins of Iron for SNES",
+     "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+    },
+    {
+     "id": "games-14",
+     "title": "Ocarina of Time 'unJPEG' hack rebuilds Hyrule in 3D",
+     "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+    },
+    {
+     "id": "games-15",
+     "title": "Beyond Oasis reminder and tips",
+     "topic": "Retro games (SNES and Mega Drive)"
+    }
+   ]
+  },
+  {
+   "key": "movies",
+   "name": "Movies",
+   "items": [
+    {
+     "id": "movies-1",
+     "title": "Godzilla Minus Zero: first R-rated Godzilla",
+     "topic": "Practical effects and CGI history"
+    },
+    {
+     "id": "movies-2",
+     "title": "Tokyo IFF: Sukiyaki opens, Yeon Sang-ho's Colony closes",
+     "topic": "Film festivals"
+    },
+    {
+     "id": "movies-3",
+     "title": "Korean box office: Chiikawa on top, Paradise Lost third",
+     "topic": "Korean genre cinema"
+    },
+    {
+     "id": "movies-4",
+     "title": "TIFFCOM: Howling Village pitched, Frontieres showcase",
+     "topic": "Japanese horror"
+    },
+    {
+     "id": "movies-5",
+     "title": "Clayface's slide and You Can See Everything's rise",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-6",
+     "title": "Train to Busan and The Host on 4K",
+     "topic": "4K Blu-ray, physical media and restorations"
+    },
+    {
+     "id": "movies-7",
+     "title": "Shaw Brothers Street Gangs of Hong Kong; Umbrella's I Saw the Devil 4K",
+     "topic": "Kung fu and martial arts films"
+    },
+    {
+     "id": "movies-8",
+     "title": "Halloween week: Terrifier trilogy, Breeder, Big Baby, The Mortician's Daughter",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-9",
+     "title": "Actress of the Month: Sigourney Weaver in Ghostbusters (1984)",
+     "topic": "Cult actresses and iconic characters"
+    },
+    {
+     "id": "movies-10",
+     "title": "November's actress will come from Japanese cult cinema",
+     "topic": "Cult actresses and iconic characters"
+    }
+   ]
+  },
+  {
+   "key": "lore",
+   "name": "Lore",
+   "items": [
+    {
+     "id": "lore-1",
+     "title": "Final Fantasy IX: the return to fantasy",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    }
+   ]
+  },
+  {
+   "key": "game-tech",
+   "name": "Game tech",
+   "items": [
+    {
+     "id": "game-tech-1",
+     "title": "Palette swapping: one radish, 25 monsters",
+     "topic": "Pixel art"
+    }
+   ]
+  },
+  {
+   "key": "effects",
+   "name": "Effects",
+   "items": [
+    {
+     "id": "effects-1",
+     "title": "Interstellar's black hole",
+     "topic": "Practical effects and CGI history"
+    }
+   ]
+  },
+  {
+   "key": "director",
+   "name": "Director",
+   "items": [
+    {
+     "id": "director-1",
+     "title": "Hitchcock's Rear Window",
+     "topic": "Directors and filming techniques"
+    }
+   ]
+  },
+  {
+   "key": "workshop",
+   "name": "Workshop",
+   "items": [
+    {
+     "id": "workshop-1",
+     "title": "The five-shot sequence on your walk",
+     "topic": "Fujifilm X-M5, lenses and camera gear"
+    }
+   ]
+  },
+  {
+   "key": "chat-and-goodbye",
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "id": "chat-and-goodbye-1",
+     "title": "Yokai and the tsukumogami on your farm",
+     "topic": "Japanese yokai"
+    },
+    {
+     "id": "chat-and-goodbye-2",
+     "title": "Your answers and the yokai summon system",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  }
+ ]
+}
