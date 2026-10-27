@@ -2,8 +2,7 @@
 
 Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Scott's choice: Fish Audio removed). The cloud run (about 9:30pm Sunday to Thursday, for the next morning's episode) writes the script and saves it to GitHub. The MacBook Pro then records it in the show's Kokoro voice (the same voice the cloud uses), and saves the audio to iCloud Drive > Morning Briefing.
 
-- **Automatic** (Scott's request, 27 Oct 2026): after running `auto_install.sh` once, the Mac starts recording by itself at 9:40pm Sunday to Thursday: it waits for the night's script, records it as soon as it's on GitHub and saves it to iCloud. It skips an episode that's already in iCloud, and only one recording runs at a time. If the Mac is asleep at 9:40pm it starts when the Mac wakes (or set the optional 9:38pm wake-up). Turn it off with `auto_install.sh off`.
-- **By hand:** double-click **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
+- There is no schedule (Scott's choice, confirmed 27 Oct 2026): run the one command below in Terminal, or double-click **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
 - It records the full episode with chapter markers (`engine/build_episode.sh`, the same build the cloud uses) and copies the MP3 plus the answer sheet into iCloud Drive > Morning Briefing, with a notification.
 - The voice and its moods are set in `engine/tts.py` (shared with the cloud). The scripts' delivery tags are mapped to Kokoro's moods automatically.
 - It keeps the Mac awake while it records, but closing the lid on battery will pause it.
@@ -19,12 +18,13 @@ Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Sc
    ```
    If `~/MorningBriefing/podcastmemory` already exists, skip the clone line and run `git -C ~/MorningBriefing/podcastmemory pull` instead. `install.sh` also removes the old Fish Audio setup (its Python environment and downloaded models) if it's there.
 
-## Automatic recording
+## The one command
 
 ```
-bash ~/MorningBriefing/podcastmemory/engine/mac/auto_install.sh       # on (asks about an optional wake-up)
-bash ~/MorningBriefing/podcastmemory/engine/mac/auto_install.sh off   # off
+git -C ~/MorningBriefing/podcastmemory pull -q; caffeinate -dims bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh
 ```
+
+It sets up anything missing, waits for the script if it isn't on GitHub yet, records the episode in Kokoro and saves it with the sheet to iCloud Drive > Morning Briefing.
 
 ## Handy commands
 
