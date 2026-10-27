@@ -11,6 +11,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-10-28 | Ringu (1998) | Hideo Nakata | Nanako Matsushima, Hiroyuki Sanada, Rie Ino | Horror, Japan | Director deep dive | | | |
+| 2026-10-28 | An American Werewolf in London (1981) | John Landis | David Naughton, Griffin Dunne, Jenny Agutter | Horror comedy, UK/USA | Effects deep dive (Rick Baker transformation) | | | |
+| 2026-10-28 | Ghost in the Cell (2026) | Joko Anwar | | Horror comedy, Indonesia | Movies segment recommendation | | | |
 | 2026-10-27 | Ghostbusters (1984) | Ivan Reitman | Sigourney Weaver, Bill Murray, Dan Aykroyd, Harold Ramis | Supernatural comedy, USA | Actress of the Month, Tuesday | | | |
 | 2026-10-27 | Interstellar (2014) | Christopher Nolan | Matthew McConaughey, Anne Hathaway, Jessica Chastain | Sci-fi, USA/UK | Effects deep dive (Gargantua) | | | |
 | 2026-10-27 | Rear Window (1954) | Alfred Hitchcock | James Stewart, Grace Kelly, Thelma Ritter, Raymond Burr | Thriller, USA | Director deep dive | | | |
@@ -46,6 +49,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Hideo Nakata | Ringu (1998) | Nanako Matsushima | 2026-10-28 |
+| John Landis | An American Werewolf in London (1981) | | 2026-10-28 |
+| Joko Anwar | Ghost in the Cell (2026, recommended) | | 2026-10-28 |
 | Ivan Reitman | Ghostbusters (1984) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-27 |
 | Alfred Hitchcock | Rear Window (1954) | Grace Kelly | 2026-10-27 |
 | Takashi Miike | Audition (1999) | Eihi Shiina | 2026-10-26 |

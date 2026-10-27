@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-10-27 | If you could give one character from any game the happy ending they never got, who would it be, and what would their ending look like? | Final Fantasy (series, lore, new releases) | Not yet | no |
-| 2026-10-27 | If each strength level of your radish monster gets its own palette, what colour is the strongest one (tier twenty five), and what do the farmers call it? | Pixel art | Not yet | no |
-| 2026-10-27 | If one yokai knocked on your farmhouse door in your game at two in the morning, which one would it be, and what would it want? | Japanese yokai | Not yet | no |
+| 2026-10-28 | Did you enjoy Beyond Oasis, and why? | Retro games (SNES and Mega Drive) | Not yet | no |
+| 2026-10-28 | If a nurikabe blocked a path in your game, what would the player have to do to get past it? | Japanese yokai | Not yet | no |
+| 2026-10-28 | If you could hear one Final Fantasy track played live by a full orchestra at the Sydney Opera House, which would it be, and why that one? | Final Fantasy (series, lore, new releases) | Not yet | no |
+| 2026-10-27 | If you could give one character from any game the happy ending they never got, who would it be, and what would their ending look like? | Final Fantasy (series, lore, new releases) | 2026-10-27 (answer page): "The guy from last of us." | 2026-10-28 |
+| 2026-10-27 | If each strength level of your radish monster gets its own palette, what colour is the strongest one (tier twenty five), and what do the farmers call it? | Pixel art | 2026-10-27 (answer page): "Big white radish with a red top" | 2026-10-28 (suggestion given: plain tier 25 palette with one flickering tell row) |
+| 2026-10-27 | If one yokai knocked on your farmhouse door in your game at two in the morning, which one would it be, and what would it want? | Japanese yokai | 2026-10-27 (answer page): "I don't know yokai names, I just enjoy there existence" | 2026-10-28 |
 | 2026-10-26 | In Beyond Oasis you summon spirits from things in the world. If your game had one spirit you could summon from something on your farm, what would you summon it from, and what would it do? | Godot and Scott's 2D game | 2026-10-26 (answer page): "japanese yokai with all different personalities so every time you summoned one you wouldnt know what to expect." | 2026-10-27 (suggestion given: YokaiPersonality Resource + rand_weighted) |
 | 2026-10-26 | If the Conjunction of the Spheres dropped one monster from another world into your valley, what would it be, and how would the farmers deal with it? | The Witcher and CD Projekt Red | 2026-10-26 (answer page): "murlocs from world of warcraft. i love the noise those things make." | 2026-10-27 |
 | 2026-10-26 | If you could have one old game decompiled and rebuilt with one modern feature added, which game would it be, and what would you add? | Retro gaming projects (emulators, reverse engineering, mods) | 2026-10-26 (answer page): "secret of mana but i would add the new \"HD-2D\" look." | 2026-10-27 |

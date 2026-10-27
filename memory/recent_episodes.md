@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-28 (Wednesday)
+
+- **Length:** LENGTH (11 chapters). Script and sheet delivered about 10pm Tuesday; audio rendered in the cloud the same evening.
+- **World:** Israel votes (Yashar vs Likud, IDF-Netanyahu feud; exit polls ~7am AEDT); UN inquiry on Gaza since ceasefire; Brazil's Liberal Party accepts Lula's win, Flavio's passports; UK Fairford charges (Burnham: IRGC); Ethiopia church attacks (40+ dead).
+- **Australia and NSW:** Marrickville golf grant ("I was not correct", McKenzie wants apology); MP security (9 offices, duress alarms, review; ~800 AFP threat reports); online abuse data, Coalition to oppose duty of care bill; Greens' $21/week tax cut (NPC Wed, PBO $22b); ABC v One Nation (Bluey cease and desist); estimates (fuel facility paused, Snowy 2.0 $22-25b +1 year); WHV cuts (45,000 / 5,000); CPI Wed, hike odds >60%. NSW: Abbotsford arson rescue (red Holden Astra); 2031 Road Safety Plan (average speed cameras for cars considered); 4,000+ homes SSD, Town Hall Square SSD; WSI $55 coach gap; Southwest Metro Fri.
+- **Tech:** Anthropic S-1 (ANT, H1 rev $16.3b, Thanksgiving debut; disclosed on air); Kospi +3.09% to 5,638 (Hynix +5.2%, Samsung +4.2%); SK Hynix Q3 consensus ~77T won OP, HBM4 shortfall risk, payout review; B70 street ~$1,268, Ollama no Arc backend; OLED iPad mini ($699, A20 Pro, IP67, preorders Thu, 6 Nov); Apple event Thu 4am; Meta $35b share sale (Nvidia/AMD/Broadcom up to $5b); SpaceX $40b Apollo GPU lease, Musk shakeout warning; Microsoft buyouts to ~60,000; Ship 42 static fire, Flight 15 mid-Nov; quick hits (FSR 4.1, Pi 4 2GB +50%, Pi OS, OpenAI cache channel, Konkr Pocket Block, SupaBoy).
+- **Games:** WoW Forever names (two-part names, beta bans), Talebound PTR 30 Oct, raids 9 Dec, StarCraft shooter report; FF 40th Crystal Edition album (Jan); Keybound Brawler backlash (keyboard-only, gender-locked outfits); PBZ preload 135GB; Arkane deadline to 13 Dec; Ocarina midnight launches sold out, Miyamoto on Bowser; Pokemon Unite ends 23 Mar 2027; Sucker Punch and Auroch layoffs; Fallout Shelter: The Experiment 13 Jan; retro (Blast Corps recomp, Panzer Dragoon Saga PC, Azahar vs Anbernic, Sunshine Online 2.0); quick hits. Beyond Oasis retrospective.
+- **Movies:** Fangoria Chainsaw Awards (Obsession sweep, Exit 8 international, Madigan); YCSE wins Monday; Clayface $43M global; Dune Part Three posters, ~$10M presales; Tokyo IFF (Blanchett Fri, Alpha Gang with Doona Bae); Korean BO (Tazza 4 2M, Odyssey 12.3M); Ghost in the Cell; Karaoke Murder (AU 30 Oct); Crawlers (AU 29 Oct); discs (Frighteners 4K, Frankenstein, Moving, Tatsumi).
+- **Deep dives:** Final Fantasy X and Spira; game feel and screen shake; An American Werewolf in London; Nakata's Ringu. Workshop: cold J-horror grade in FCP. Chat: Yokai of the Week #1 (nurikabe).
+- **Challenge:** Fifty bodyweight squats and a two-minute plank (rate 3 of 5, 60%; 27 Oct missed).
+- **Questions:** did he enjoy Beyond Oasis; getting past a nurikabe in his game; FF track live at the Opera House.
+- **Answer reaction:** 27 Oct answers (Joel, big white radish with a red top, yokai names); suggestion: plain tier 25 palette with one flickering tell row. Effects 3 noted.
+- **Follow up:** Israel results and coalition talks; CPI and SK Hynix results 28 Oct; Greens NPC; Albanese apology pressure; Apple event, Fed, Microsoft, Alphabet, Samsung, Phantom Blade Zero, FF7R Game Pass, The Devils/Crawlers 29 Oct; Ghostbusters making-of Thu; Amazon, Intel, Southwest Metro, Karaoke Murder, Blanchett at TIFF 30 Oct; Fan Fest keynote 31 Oct; RBA, Godzilla Minus Zero Japan 3 Nov; Ocarina and WoW Forever 5 Nov; Flight 15 mid-Nov; November actress (Japanese cult) Tue 3 Nov; Arkane 13 Dec.
+
 ## 2026-10-27 (Tuesday)
 
 - **Length:** 86 min (11 chapters). Voice engine blocked in the scheduled run; script and sheet delivered about 10pm Monday, audio recorded on request in the same session about 1:55am.

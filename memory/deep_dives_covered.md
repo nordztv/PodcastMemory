@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-28 | Lore | Final Fantasy X and Spira |
+| 2026-10-28 | Game tech | Game feel and screen shake (Camera2D trauma + FastNoiseLite, hit stop, squash and stretch, hit flash) |
+| 2026-10-28 | Effects | An American Werewolf in London's transformation |
+| 2026-10-28 | Director | Hideo Nakata's Ringu |
+| 2026-10-28 | Workshop | A cold Japanese horror grade in Final Cut Pro ("Cursed Tape" preset) |
+| 2026-10-28 | Chat | Yokai of the Week #1: the nurikabe |
+| 2026-10-28 | Retro | Beyond Oasis retrospective (Ancient, Mega Drive hardware, Koshiro's score) |
 | 2026-10-27 | Lore | Final Fantasy IX |
 | 2026-10-27 | Game tech | Palette swapping and limited palettes (Godot canvas_item shader, palette texture per radish tier; palette cycling) |
 | 2026-10-27 | Effects | Interstellar's black hole |

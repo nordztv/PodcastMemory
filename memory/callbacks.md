@@ -4,6 +4,9 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 
 | Bit | Where it came from | Last used |
 | --- | --- | --- |
+| The strongest radish is the plainest: a big white radish with a red top ("the most ordinary radish in the world, and the one that kills you") | Scott's answer, 27 Oct (tier 25 palette) | 2026-10-28 |
+| Joel gets the happy ending: a quiet farm, a porch, a guitar, nobody coming up the road (possibly a small radish problem) | Scott's answer, 27 Oct (happy ending) | 2026-10-28 |
+| He doesn't know yokai names, he just enjoys their existence (hence Yokai of the Week) | Scott's answer, 27 Oct | 2026-10-28 |
 | Murlocs gurgling at the farmers: the most terrifying thing anyone's said on the show | Scott's answer, 26 Oct (monster from another sphere) | 2026-10-27 |
 | Summoned yokai with random personalities ("you wouldn't know what to expect"); the prankster moves your hoe somewhere stupid | Scott's answer, 26 Oct (farm spirit) | 2026-10-27 |
 | Secret of Mana in HD-2D: "you know who's already building something close to it" | Scott's answer, 26 Oct (decomp wish) | 2026-10-27 |
@@ -16,7 +19,7 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 | His Dark World farm: a cattle farm where the livestock is people being fattened (the scarecrow with the clipboard, "Welcome, friends!") | Scott's answer, 21 Oct (farm's Dark World) | 2026-10-26 |
 | Desert of Mystery and Swamp of Evil: "damp and miserable", like a rainy Sydney day | Scott's answer, 21 Oct (favourite ALttP pair) | 2026-10-22 |
 | Making-of specific scenes: his own Jellyfin "special features" menu, one unpaid curator | Scott's answer, 21 Oct (Jellyfin extra) | 2026-10-22 |
-| The radish monster: pull too many radishes and one bursts out after you (weak at 1, terrifying at 25) | Scott's answer, 20 Oct (first monster in his game) | 2026-10-23 |
+| The radish monster: pull too many radishes and one bursts out after you (weak at 1, terrifying at 25) | Scott's answer, 20 Oct (first monster in his game) | 2026-10-28 |
 | Tifa Lockhart as the guest party member who punches the final boss into reconsidering his life | Scott's answer, 20 Oct (classic FF guest in Resonance) | 2026-10-27 |
 | His dream for a 32 GB card is a "really sexy AI voice"; the host takes it as professional competition | Scott's answer, 20 Oct (first job for local AI) | 2026-10-26 |
 | The host's turnip with teeth that grows when watered (Scott's radish monster grew out of it) | Host's joke answer, 20 Oct | 2026-10-21 |

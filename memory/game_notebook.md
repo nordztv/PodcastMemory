@@ -6,10 +6,12 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - A 2D top-down action RPG in Godot 4 on his MacBook Pro: Secret of Mana meets Stardew Valley (chose Godot over SpriteKit).
 
 ## Monsters
+- Strongest radish, tier 25 (27 Oct): "Big white radish with a red top".
 - The radish monster (20 Oct): the more radishes you pull while farming, the likelier a radish monster bursts out; it scales from weak (1) to strong (25); a random hidden counter that resets after it appears. Liked the host's turnip-with-teeth idea it grew from.
 - 23 Oct: liked the "You've been harvested" game over screen idea; the radish monster isn't implemented yet.
 
 ## Spirits and summons
+- Yokai (27 Oct): "I don't know yokai names, I just enjoy there existence".
 - Farm spirit summons (26 Oct): "japanese yokai with all different personalities so every time you summoned one you wouldnt know what to expect."
 
 ## World and places
@@ -23,16 +25,17 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 ## Mechanics and decisions
 - Look (26 Oct, decomp answer): would rebuild Secret of Mana with the "HD-2D" look.
+- Progress (27 Oct, built box): "Nothing yes".
 - Progress (26 Oct, built box): "I didnt really work on any project but the podcast. i really want to add the raddish to my game though, i just need to find the time to do it."
 - Bullet time (23 Oct): he wouldn't add it.
 
 ## Open questions from the show (not answered yet)
 - Signature item and what it lets the player do (19 Oct).
-- The strongest radish tier's colour and name (27 Oct).
-- Which yokai knocks on the farmhouse door at 2am, and what it wants (27 Oct).
+- If a nurikabe blocked a path in the game, how the player gets past (28 Oct).
 
 ## Suggestions the show has given
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
 - 23 Oct: radish spawn counter + AStarGrid2D chase; CanvasModulate day-night cycle; Resource save/load; fake-height cannon arc with a shrinking shadow.
 - 26 Oct: build the smallest radish in one evening (counter, threshold, a red-square CharacterBody2D that chases with move_and_slide, burrows after ten seconds); procedural scatter with a seeded RandomNumberGenerator and FastNoiseLite.
 - 27 Oct: palette swap shader for radish tiers (greyscale sprite, palette texture with one row per tier, nearest filter, material Local to Scene, hit-flash and warning rows); YokaiPersonality Resource with weights picked by RandomNumberGenerator.rand_weighted (helpful one waters a crop, prankster moves the hoe).
+- 28 Oct: game feel for the radish (Camera2D trauma shake with FastNoiseLite, hit stop via Engine.time_scale and an ignore-time-scale timer, squash-and-stretch tween, hit flash row); make tier 25 look like a plain white radish with a red top, with one flickering palette row as its only tell.
