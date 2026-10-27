@@ -1,9 +1,0 @@
-{
-  "_comment": "Defaults only: put your own settings in ~/MorningBriefing/voice.local.json (same keys; ref and ref_text can be full paths to your own WAV and transcript), so updates never clash. Mac recording voice (Fish Audio S2-Pro on MLX). ref = the reference clip Fish copies (engine/mac/<ref>.wav), ref_text = its transcript (engine/mac/<ref_text>.txt). To use a different voice, drop a 10-30 s WAV and its exact transcript in engine/mac/ and change these two names. models are tried in order.",
-  "ref": "ref_happy1",
-  "ref_text": "ref_happy",
-  "models": ["cs2764/fish-audio-s2-pro-8bit-mlx", "mlx-community/fish-audio-s2-pro-bf16"],
-  "chunk_words": 50,
-  "words_per_minute": null,
-  "tempo": 0.85
-}

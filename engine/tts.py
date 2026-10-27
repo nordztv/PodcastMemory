@@ -97,7 +97,7 @@ EASE = 0.5
 TAG = re.compile(r"\[(happy|dark|cheeky|serious|normal|beat|punch)\]", re.I)
 
 
-# Scripts now use Fish S2's free-form delivery tags ([excited], [teasing tone], [chuckling], [low voice]...).
+# Scripts use free-form delivery tags written for Fish S2 (the Mac now records with Kokoro too, since 27 Oct 2026) ([excited], [teasing tone], [chuckling], [low voice]...).
 # Kokoro only knows a few moods, so each tag is mapped to the nearest one; sounds and effects are dropped, pauses kept.
 KOKORO_MAP = [
     (r"pause|break|beat", "[beat]"),
