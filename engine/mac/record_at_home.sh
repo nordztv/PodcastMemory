@@ -16,6 +16,13 @@ EP="$REPO/archive/$Y/$M/$DATE"
 DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Morning Briefing"
 OUT="$HOME/podcast/out"
 notify() { osascript -e "display notification \"$1\" with title \"Morning Briefing\"" >/dev/null 2>&1 || true; }
+# One recording at a time (the 9:40pm automatic one and a double-click could overlap); a lock older than 6 hours is stale.
+LOCK="$BASE/.recording.lock"
+if ! mkdir "$LOCK" 2>/dev/null; then
+  if [ -n "$(find "$LOCK" -maxdepth 0 -mmin +360 2>/dev/null)" ]; then rm -rf "$LOCK"; mkdir "$LOCK"
+  else echo "A recording is already running (see ~/MorningBriefing/record.log). Nothing to do."; exit 0; fi
+fi
+trap 'rm -rf "$LOCK"' EXIT
 caffeinate -dims -w $$ &
 
 # One-time bits (skipped when already there): tools, the Python environment and the Kokoro voice files from the repo's backup.
