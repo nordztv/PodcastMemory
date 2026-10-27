@@ -19,7 +19,9 @@ fi
 mkdir -p "$WORK" "$OUT"
 ls "$SRC"/*.txt >/dev/null
 
-ls "$SRC"/*.txt | xargs -P2 -I{} sh -c 'f="{}"; b=$(basename "$f" .txt); [ -s "'"$WORK"'/$b.mp3" ] || python3 "'"$REPO"'/engine/tts.py" "$f" "'"$WORK"'/$b.mp3"'
+# -n1 with the file as $1 (not -I{}): macOS xargs caps -I commands at 255 bytes ("command line cannot be assembled")
+export WORK REPO
+ls "$SRC"/*.txt | xargs -P2 -n1 sh -c 'f="$1"; b=$(basename "$f" .txt); [ -s "$WORK/$b.mp3" ] || python3 "$REPO/engine/tts.py" "$f" "$WORK/$b.mp3"' _
 
 GAP=1.8
 ffmpeg -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t $GAP -b:a 128k "$WORK/gap.mp3"
