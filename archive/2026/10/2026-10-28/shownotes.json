@@ -1,0 +1,594 @@
+{
+ "date": "2026-10-28",
+ "weekday": "Wednesday",
+ "length": "",
+ "headline": "Israel votes, the PM's \"I was not correct\" moment, Anthropic's IPO filing, an OLED iPad mini, WoW Forever names and Beyond Oasis behind the scenes",
+ "challenge": "Fifty bodyweight squats and a two-minute plank in total, broken up however you like, across the day (completion rate so far: 3 of 5, 60%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Israel votes in a referendum on Netanyahu; the military feud",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/netanyahu-faces-test-as-israelis-head-to-polls-evening-news-bulletin-27-october-2026/hcqxeekun"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/israel-election-military-netanyahu-feud/107312270"
+      }
+     ]
+    },
+    {
+     "title": "UN inquiry on Gaza since the ceasefire",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402"
+      }
+     ]
+    },
+    {
+     "title": "Brazil: Bolsonaro's party accepts Lula's win; Flavio hands over passports",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/bolsonaro-agrees-to-surrender-passports-after-acknowledging-loss-in-brazils-presidential-race/ypalv10c6"
+      }
+     ]
+    },
+    {
+     "title": "UK: two charged over the RAF Fairford plot",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522"
+      }
+     ]
+    },
+    {
+     "title": "Ethiopia: at least 40 killed in attacks on churches",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/netanyahu-faces-test-as-israelis-head-to-polls-evening-news-bulletin-27-october-2026/hcqxeekun"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Albanese: \"I was not correct\" on the Marrickville golf grant",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346"
+      },
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-10-27/federal-politics-live-blog-oct-27/107312378"
+      }
+     ]
+    },
+    {
+     "title": "MP security: office upgrades, duress alarms and a review",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/anthony-albanese-reacts-to-mps-calls-for-duress-alarms/f1ojbecs9"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/afp-data-shatters-youth-radicalisation-assumptions/107316300"
+      }
+     ]
+    },
+    {
+     "title": "Online abuse of MPs; Coalition to oppose the duty of care bill",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/labor-mps-turn-to-ai-to-combat-online-abuse-threats/107311412"
+      }
+     ]
+    },
+    {
+     "title": "The Greens' $21-a-week tax cut",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/greens-leader-proposes-tax-cut-and-welfare-boost/107315572"
+      }
+     ]
+    },
+    {
+     "title": "ABC to take legal action against One Nation over Bluey",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/abc-to-take-legal-action-against-one-nation-over-shocking-use-of-bluey-in-partys-videos/7gtrvt9h4"
+      }
+     ]
+    },
+    {
+     "title": "Estimates: fuel facility paused, Snowy 2.0 slips again",
+     "links": [
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-10-27/federal-politics-live-blog-oct-27/107312378"
+      }
+     ]
+    },
+    {
+     "title": "Working holiday visa places cut",
+     "links": [
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-10-27/federal-politics-live-blog-oct-27/107312378"
+      }
+     ]
+    },
+    {
+     "title": "Inflation figures today; rate hike odds above 60%",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820"
+      }
+     ]
+    },
+    {
+     "title": "Abbotsford arson: a passer-by and a rookie officer save an 88-year-old",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/nsw-abbotsford-suspected-arson-attack-police-balaclava-sydney/107312574"
+      }
+     ]
+    },
+    {
+     "title": "2031 Road Safety Action Plan",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/nsw-government-launches-2031-road-safety-action-plan-to-address-road-trauma"
+      }
+     ]
+    },
+    {
+     "title": "4,000 homes declared State Significant; Town Hall Square",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/more-than-4000-homes-declared-state-significant"
+      }
+     ]
+    },
+    {
+     "title": "Western Sydney Airport's $55 transport gap",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/western-sydney-airport-transport-bus-train-line/1nwmb85i6"
+      }
+     ]
+    },
+    {
+     "title": "Southwest Metro opens Friday",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Anthropic files to go public",
+     "links": [
+      {
+       "label": "Fortune",
+       "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+      }
+     ]
+    },
+    {
+     "title": "Kospi rebounds 3.1% before SK Hynix results",
+     "links": [
+      {
+       "label": "MT",
+       "url": "https://www.mt.co.kr/en/stock/2026/10/27/2026102715521372601"
+      },
+      {
+       "label": "Invezz",
+       "url": "https://invezz.com/news/2026/10/27/samsung-sk-hynix-surge-to-revive-kospi-whats-driving-tuesdays-rally/"
+      }
+     ]
+    },
+    {
+     "title": "SK Hynix Q3: what to watch",
+     "links": [
+      {
+       "label": "TrendForce",
+       "url": "https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/"
+      }
+     ]
+    },
+    {
+     "title": "The 32 GB club: Arc Pro B70 prices and software",
+     "links": [
+      {
+       "label": "RunAIHome",
+       "url": "https://www.runaihome.com/blog/intel-arc-pro-b70-local-ai-hardware-guide-2026/"
+      },
+      {
+       "label": "BuySellRAM",
+       "url": "https://www.buysellram.com/blog/nvidia-consumer-gpu-market-update/"
+      }
+     ]
+    },
+    {
+     "title": "OLED iPad mini launched; Apple's event Thursday",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/26/apple-announces-ipad-mini-with-oled-display/"
+      }
+     ]
+    },
+    {
+     "title": "Meta's $35b share sale, with chipmakers buying in",
+     "links": [
+      {
+       "label": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/26/meta-35-billion-stock-offering-ai-expansion.html"
+      }
+     ]
+    },
+    {
+     "title": "SpaceX's $40b GPU lease; Musk warns of a shakeout",
+     "links": [
+      {
+       "label": "The AI Insider",
+       "url": "https://theaiinsider.tech/2026/10/27/spacex-locks-in-40b-apollo-backed-gpu-lease-to-expand-ai-compute/"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft offers buyouts to 60,000 staff",
+     "links": [
+      {
+       "label": "Tom's Hardware",
+       "url": "https://tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15: ship and booster both fired",
+     "links": [
+      {
+       "label": "Starlust",
+       "url": "https://starlust.org/starbase-bustles-with-activity-as-spacex-prepares-for-next-two-starship-flights"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: FSR 4.1, Pi prices, Pi OS, sandboxed agents, Konkr Pocket Block, SupaBoy",
+     "links": [
+      {
+       "label": "AMD",
+       "url": "https://newsroom.amd.com/news/amd-fsr-upscaling-4-1-boosts-frames-image-quality/"
+      },
+      {
+       "label": "OMG! Ubuntu",
+       "url": "https://www.omgubuntu.co.uk/2026/10/raspberry-pi-2gb-costs-how-much-now"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "WoW Forever name reservations open; Talebound demo; raids 9 Dec",
+     "links": [
+      {
+       "label": "Warcraft Tavern",
+       "url": "https://www.warcrafttavern.com/forever/news/early-name-reservation-details-announced-for-wow-forever/"
+      }
+     ]
+    },
+    {
+     "title": "Final Fantasy 40th album: one track per game",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion"
+      }
+     ]
+    },
+    {
+     "title": "Keybound Brawler backlash",
+     "links": [
+      {
+       "label": "Kotaku",
+       "url": "https://kotaku.com/the-final-fantasy-14-typing-minigame-isnt-even-out-yet-but-its-not-going-over-so-well-right-now-2000748365"
+      }
+     ]
+    },
+    {
+     "title": "Phantom Blade Zero preload: 135 GB",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-ps5-trophy-list-revealed-plot-your-way-to-platinum-trophy-now"
+      }
+     ]
+    },
+    {
+     "title": "Arkane gets another month",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/microsoft-announces-extended-deadline-to-find-a-solution-for-xbox-studio-arkane"
+      }
+     ]
+    },
+    {
+     "title": "Miyamoto on why Mario doesn't fight Bowser; Ocarina midnight launches",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/i-cant-create-a-battle-like-this-miyamoto-on-the-origins-of-nes-marios-non-violent-bowser-fights"
+      }
+     ]
+    },
+    {
+     "title": "Pokemon Unite closing; Sucker Punch and Auroch layoffs",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/pokemon-unite-to-end-service-on-march-23-2027"
+      },
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project"
+      }
+     ]
+    },
+    {
+     "title": "Fallout Shelter becomes a TV competition",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show"
+      }
+     ]
+    },
+    {
+     "title": "Retro projects: Blast Corps recomp, Panzer Dragoon Saga on PC, Azahar vs Anbernic",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/rares-n64-classic-blast-corps-just-got-an-100percent-gen-ai-free-recomp-with-a-ton-of-explosive-new-features"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/i-hope-this-wonderful-game-lives-on-forever-panzer-dragoon-saga-gets-pc-recomp-from-the-dev-behind-yaba-sanshiro"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Assassin's Creed and Virtua Fighter news, Clair Obscur knighthoods, Waveling Island",
+     "links": []
+    },
+    {
+     "title": "Beyond Oasis: how it was made and the Mega Drive inside",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Beyond_Oasis"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://timeextension.com/news/2024/09/music-story-of-thors-vinyl-debut-is-yuzo-koshiro-at-his-16-bit-best"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Fangoria Chainsaw Awards: Obsession sweeps, Exit 8 best international",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/2026-fangoria-chainsaw-awards-winners/"
+      }
+     ]
+    },
+    {
+     "title": "You Can See Everything beats Clayface again",
+     "links": [
+      {
+       "label": "Deadline",
+       "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/clayface-box-office-opening-numbers/"
+      }
+     ]
+    },
+    {
+     "title": "Dune Part Three posters and record presales",
+     "links": [
+      {
+       "label": "AOL",
+       "url": "https://www.aol.com/articles/dune-part-three-epic-posters-162030000.html"
+      }
+     ]
+    },
+    {
+     "title": "Tokyo IFF: Cate Blanchett and Alpha Gang (with Doona Bae)",
+     "links": [
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-reassess-global-standing-40th-edition-1236930996/"
+      },
+      {
+       "label": "Asian Movie Pulse",
+       "url": "https://asianmoviepulse.com/2026/10/tokyo-international-film-festival-2026-opening-ceremony/"
+      }
+     ]
+    },
+    {
+     "title": "Korean box office: Tazza 4 passes two million",
+     "links": [
+      {
+       "label": "KOFIC",
+       "url": "https://www.koreanfilm.or.kr/eng/news/boxOffice_Weekly.jsp?mode=BOXOFFICE_WEEKLY"
+      }
+     ]
+    },
+    {
+     "title": "Ghost in the Cell: Joko Anwar's prison horror-comedy",
+     "links": [
+      {
+       "label": "ScreenAnarchy",
+       "url": "https://screenanarchy.com/2026/10/ghost-in-the-cell-joko-anwars-riot-horror-comedy-on-digital-tomorrow.html"
+      }
+     ]
+    },
+    {
+     "title": "Karaoke Murder and Crawlers in Australian cinemas",
+     "links": [
+      {
+       "label": "Asian Movie Pulse",
+       "url": "https://asianmoviepulse.com/2026/10/karaoke-murder-four-continent-theatrical-release/"
+      },
+      {
+       "label": "JoBlo",
+       "url": "https://www.joblo.com/crawlers-trailer/"
+      }
+     ]
+    },
+    {
+     "title": "Discs: The Frighteners 4K, Frankenstein, Moving, Tatsumi",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39235"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Final Fantasy X and Spira",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Game feel and screen shake for the radish chase",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "An American Werewolf in London's transformation",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Hideo Nakata's Ringu",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "A cold Japanese horror grade in Final Cut Pro",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Yokai of the Week: the nurikabe",
+     "links": []
+    },
+    {
+     "title": "Your answers and the plain white radish",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "Beyond Oasis (The Story of Thor), Mega Drive",
+   "note": "Wednesday retrospective; Nintendo Switch Online Expansion Pack, Sega Mega Drive app (check)",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Beyond_Oasis"
+    }
+   ]
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "Ringu (1998), Hideo Nakata",
+   "note": "Look for a restored disc release; check streaming",
+   "links": []
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "An American Werewolf in London (1981), John Landis",
+   "note": "Rick Baker's Oscar-winning transformation",
+   "links": []
+  },
+  {
+   "kind": "Horror pick",
+   "title": "Ghost in the Cell (Joko Anwar)",
+   "note": "On digital now",
+   "links": [
+    {
+     "label": "ScreenAnarchy",
+     "url": "https://screenanarchy.com/2026/10/ghost-in-the-cell-joko-anwars-riot-horror-comedy-on-digital-tomorrow.html"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "Did you enjoy Beyond Oasis, and why?",
+  "If a nurikabe blocked a path in your game, what would the player have to do to get past it?",
+  "If you could hear one Final Fantasy track played live by a full orchestra at the Sydney Opera House, which would it be, and why that one?"
+ ]
+}

@@ -1,0 +1,11 @@
+[happy] Workshop. [warm] Quick and practical, and it carries straight on from Ringu. [enthusiastic] Let's build a cold, late-nineties Japanese horror grade in Final Cut Pro, in four steps.
+
+[calm, friendly] Step one. Start with a clip from your walk or your apartment, ideally something shot in the shade or indoors. Select it, open the inspector, and add a Color Wheels effect. [helpful] Use the master wheel's brightness first: bring the overall level down a touch, so the whole image feels like an overcast afternoon rather than a sunny one.
+
+[calm, friendly] Step two. The colour. Drag the shadows wheel gently towards green-cyan, just a little, and the highlights very slightly towards cyan too. [curious] That's the sickly, fluorescent-office feel of Ringu: nothing is quite warm. [warm] Keep the midtones nearly neutral so skin doesn't turn into a zombie. [teasing] Unless that's the plan. [short beat] [punch] It's your film. [giggling while talking] I won't judge.
+
+[calm, friendly] Step three. Pull the saturation down, to about seventy per cent on the master wheel. [thoughtful] Then add a Hue Saturation Curves effect, and on the hue versus saturation curve, pull the reds and oranges down a bit more. Warm colours feel safe and alive, so taking them away is what makes a room feel empty. [calm] And lift the very bottom of the shadows slightly, so the blacks go a little milky, like an old tape.
+
+[calm, friendly] Step four. Save it. Right-click the effects in the inspector and save them as an effects preset, call it "Cursed Tape", [playful] which is a very reasonable name for a preset. [helpful] Now you can drop it on any clip in one click, and tweak it from there. [warm] Use the video scopes to check you haven't crushed the shadows completely, because a good horror grade keeps detail in the dark. [whispery] That's where the scary things live.
+
+[happy] [proud] So that's it: darker, colder, less saturated, reds pulled back, milky blacks. [enthusiastic] Try it on your hallway shot from the last segment, and you'll have your own little Japanese ghost film by the weekend. [teasing] [sly] And when you show it to me, [short beat] [punch] I'll pretend I'm not scared. [giggling while talking] I'll be a little bit scared.

@@ -1,0 +1,341 @@
+{
+ "date": "2026-10-28",
+ "sections": [
+  {
+   "key": "world",
+   "name": "Opening and world",
+   "items": [
+    {
+     "id": "world-1",
+     "title": "Israel votes in a referendum on Netanyahu; the military feud",
+     "topic": "Israel and the Middle East"
+    },
+    {
+     "id": "world-2",
+     "title": "UN inquiry on Gaza since the ceasefire",
+     "topic": "Israel and the Middle East"
+    },
+    {
+     "id": "world-3",
+     "title": "Brazil: Bolsonaro's party accepts Lula's win; Flavio hands over passports",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-4",
+     "title": "UK: two charged over the RAF Fairford plot",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-5",
+     "title": "Ethiopia: at least 40 killed in attacks on churches",
+     "topic": "Major world news"
+    }
+   ]
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "items": [
+    {
+     "id": "australia-1",
+     "title": "Albanese: \"I was not correct\" on the Marrickville golf grant",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-2",
+     "title": "MP security: office upgrades, duress alarms and a review",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-3",
+     "title": "Online abuse of MPs; Coalition to oppose the duty of care bill",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-4",
+     "title": "The Greens' $21-a-week tax cut",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-5",
+     "title": "ABC to take legal action against One Nation over Bluey",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-6",
+     "title": "Estimates: fuel facility paused, Snowy 2.0 slips again",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-7",
+     "title": "Working holiday visa places cut",
+     "topic": "Immigration policy"
+    },
+    {
+     "id": "australia-8",
+     "title": "Inflation figures today; rate hike odds above 60%",
+     "topic": "Australian economy and banks"
+    },
+    {
+     "id": "australia-9",
+     "title": "Abbotsford arson: a passer-by and a rookie officer save an 88-year-old",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-10",
+     "title": "2031 Road Safety Action Plan",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-11",
+     "title": "4,000 homes declared State Significant; Town Hall Square",
+     "topic": "Sydney housing and planning"
+    },
+    {
+     "id": "australia-12",
+     "title": "Western Sydney Airport's $55 transport gap",
+     "topic": "Sydney trains and transport"
+    },
+    {
+     "id": "australia-13",
+     "title": "Southwest Metro opens Friday",
+     "topic": "Sydney trains and transport"
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "name": "Tech",
+   "items": [
+    {
+     "id": "tech-1",
+     "title": "Anthropic files to go public",
+     "topic": "Tech company earnings"
+    },
+    {
+     "id": "tech-2",
+     "title": "Kospi rebounds 3.1% before SK Hynix results",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-3",
+     "title": "SK Hynix Q3: what to watch",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-4",
+     "title": "The 32 GB club: Arc Pro B70 prices and software",
+     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+    },
+    {
+     "id": "tech-5",
+     "title": "OLED iPad mini launched; Apple's event Thursday",
+     "topic": "Apple"
+    },
+    {
+     "id": "tech-6",
+     "title": "Meta's $35b share sale, with chipmakers buying in",
+     "topic": "Tech company earnings"
+    },
+    {
+     "id": "tech-7",
+     "title": "SpaceX's $40b GPU lease; Musk warns of a shakeout",
+     "topic": "SpaceX and Starship"
+    },
+    {
+     "id": "tech-8",
+     "title": "Microsoft offers buyouts to 60,000 staff",
+     "topic": "Tech company earnings"
+    },
+    {
+     "id": "tech-9",
+     "title": "Starship Flight 15: ship and booster both fired",
+     "topic": "SpaceX and Starship"
+    },
+    {
+     "id": "tech-10",
+     "title": "Quick hits: FSR 4.1, Pi prices, Pi OS, sandboxed agents, Konkr Pocket Block, SupaBoy",
+     "topic": "Raspberry Pi projects (music TV channel, multicast streaming)"
+    }
+   ]
+  },
+  {
+   "key": "games",
+   "name": "Games",
+   "items": [
+    {
+     "id": "games-1",
+     "title": "WoW Forever name reservations open; Talebound demo; raids 9 Dec",
+     "topic": "Warcraft and Blizzard"
+    },
+    {
+     "id": "games-2",
+     "title": "Final Fantasy 40th album: one track per game",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    },
+    {
+     "id": "games-3",
+     "title": "Keybound Brawler backlash",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    },
+    {
+     "id": "games-4",
+     "title": "Phantom Blade Zero preload: 135 GB",
+     "topic": "Video game releases"
+    },
+    {
+     "id": "games-5",
+     "title": "Arkane gets another month",
+     "topic": "Xbox"
+    },
+    {
+     "id": "games-6",
+     "title": "Miyamoto on why Mario doesn't fight Bowser; Ocarina midnight launches",
+     "topic": "Nintendo (Switch 2, Zelda)"
+    },
+    {
+     "id": "games-7",
+     "title": "Pokemon Unite closing; Sucker Punch and Auroch layoffs",
+     "topic": "Video game industry"
+    },
+    {
+     "id": "games-8",
+     "title": "Fallout Shelter becomes a TV competition",
+     "topic": "Fallout series"
+    },
+    {
+     "id": "games-9",
+     "title": "Retro projects: Blast Corps recomp, Panzer Dragoon Saga on PC, Azahar vs Anbernic",
+     "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+    },
+    {
+     "id": "games-10",
+     "title": "Quick hits: Assassin's Creed and Virtua Fighter news, Clair Obscur knighthoods, Waveling Island",
+     "topic": "Pixel art"
+    },
+    {
+     "id": "games-11",
+     "title": "Beyond Oasis: how it was made and the Mega Drive inside",
+     "topic": "Retro games (SNES and Mega Drive)"
+    }
+   ]
+  },
+  {
+   "key": "movies",
+   "name": "Movies",
+   "items": [
+    {
+     "id": "movies-1",
+     "title": "Fangoria Chainsaw Awards: Obsession sweeps, Exit 8 best international",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-2",
+     "title": "You Can See Everything beats Clayface again",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-3",
+     "title": "Dune Part Three posters and record presales",
+     "topic": "Sci-fi and action films"
+    },
+    {
+     "id": "movies-4",
+     "title": "Tokyo IFF: Cate Blanchett and Alpha Gang (with Doona Bae)",
+     "topic": "Film festivals"
+    },
+    {
+     "id": "movies-5",
+     "title": "Korean box office: Tazza 4 passes two million",
+     "topic": "Korean genre cinema"
+    },
+    {
+     "id": "movies-6",
+     "title": "Ghost in the Cell: Joko Anwar's prison horror-comedy",
+     "topic": "Asian horror"
+    },
+    {
+     "id": "movies-7",
+     "title": "Karaoke Murder and Crawlers in Australian cinemas",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-8",
+     "title": "Discs: The Frighteners 4K, Frankenstein, Moving, Tatsumi",
+     "topic": "4K Blu-ray, physical media and restorations"
+    }
+   ]
+  },
+  {
+   "key": "lore",
+   "name": "Lore",
+   "items": [
+    {
+     "id": "lore-1",
+     "title": "Final Fantasy X and Spira",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    }
+   ]
+  },
+  {
+   "key": "game-tech",
+   "name": "Game tech",
+   "items": [
+    {
+     "id": "game-tech-1",
+     "title": "Game feel and screen shake for the radish chase",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  },
+  {
+   "key": "effects",
+   "name": "Effects",
+   "items": [
+    {
+     "id": "effects-1",
+     "title": "An American Werewolf in London's transformation",
+     "topic": "Practical effects and CGI history"
+    }
+   ]
+  },
+  {
+   "key": "director",
+   "name": "Director",
+   "items": [
+    {
+     "id": "director-1",
+     "title": "Hideo Nakata's Ringu",
+     "topic": "Japanese horror"
+    }
+   ]
+  },
+  {
+   "key": "workshop",
+   "name": "Workshop",
+   "items": [
+    {
+     "id": "workshop-1",
+     "title": "A cold Japanese horror grade in Final Cut Pro",
+     "topic": "Colour grading and Final Cut Pro"
+    }
+   ]
+  },
+  {
+   "key": "chat-and-goodbye",
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "id": "chat-and-goodbye-1",
+     "title": "Yokai of the Week: the nurikabe",
+     "topic": "Japanese yokai"
+    },
+    {
+     "id": "chat-and-goodbye-2",
+     "title": "Your answers and the plain white radish",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  }
+ ]
+}
