@@ -21,6 +21,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - Monster from another sphere (26 Oct): "murlocs from world of warcraft. i love the noise those things make."
 
 ## Characters and merchants
+- Nurikabe (28 Oct): "i would make him barrier between treasure so you would need to make him a recipe of a cake or something."
 - Travelling merchant (23 Oct): Chen Stormstout (Warcraft), selling Stout and telling jokes about being hungry.
 
 ## Mechanics and decisions
@@ -31,7 +32,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 ## Open questions from the show (not answered yet)
 - Signature item and what it lets the player do (19 Oct).
-- If a nurikabe blocked a path in the game, how the player gets past (28 Oct).
+- Chen Stormstout's first line at his stall (29 Oct).
 
 ## Suggestions the show has given
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
@@ -39,3 +40,4 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - 26 Oct: build the smallest radish in one evening (counter, threshold, a red-square CharacterBody2D that chases with move_and_slide, burrows after ten seconds); procedural scatter with a seeded RandomNumberGenerator and FastNoiseLite.
 - 27 Oct: palette swap shader for radish tiers (greyscale sprite, palette texture with one row per tier, nearest filter, material Local to Scene, hit-flash and warning rows); YokaiPersonality Resource with weights picked by RandomNumberGenerator.rand_weighted (helpful one waters a crop, prankster moves the hoe).
 - 28 Oct: game feel for the radish (Camera2D trauma shake with FastNoiseLite, hit stop via Engine.time_scale and an ignore-time-scale timer, squash-and-stretch tween, hit flash row); make tier 25 look like a plain white radish with a red top, with one flickering palette row as its only tell.
+- 29 Oct: dialogue system (DialogueLine/DialogueChoice Resources, typewriter RichTextLabel with skip, choice Buttons, GameState autoload flags such as met_chen); radish-cake NurikabeGate (StaticBody2D + Area2D, exported wanted item, flag nurikabe_fed, tween modulate alpha, collision off with set_deferred).

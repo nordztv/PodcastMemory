@@ -4,7 +4,7 @@ Super Nintendo and Mega Drive picks. Monday: the recommendation. Tuesday: a remi
 
 | Week of | Game | Console | Why it was picked | Played? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-26 | Beyond Oasis (The Story of Thor) | Mega Drive | Top-down action RPG between A Link to the Past and Secret of Mana; summoning elemental spirits from the scenery suits his farming action game; alternating to Mega Drive (NSO Expansion Pack Mega Drive app); retrospective done 28 Oct | | | |
+| 2026-10-26 | Beyond Oasis (The Story of Thor) | Mega Drive | Top-down action RPG between A Link to the Past and Secret of Mana; summoning elemental spirits from the scenery suits his farming action game; alternating to Mega Drive (NSO Expansion Pack Mega Drive app); retrospective done 28 Oct | Not yet (28 Oct: "I have not had a chance to play it yet, work has been really busy.") | | |
 | 2026-10-19 | The Legend of Zelda: A Link to the Past | SNES | Blueprint for top-down action RPGs like Secret of Mana and his Godot game; warm-up for the Ocarina remake (retrospective done 21 Oct) | Some (named Desert of Mystery / Swamp of Evil as his favourite pair, 21 Oct) | | |
 
 ## Already known

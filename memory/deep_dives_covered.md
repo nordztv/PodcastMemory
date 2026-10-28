@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-29 | Lore | The original World of Warcraft launch in 2004 |
+| 2026-10-29 | Game tech | Dialogue systems and branching conversations (Godot Resources, typewriter RichTextLabel, choice buttons, GameState flags) |
+| 2026-10-29 | Effects | Godzilla Minus One's small-team VFX |
+| 2026-10-29 | Director | Sam Raimi's Evil Dead camera |
+| 2026-10-29 | Workshop | A private coding helper on the MacBook Pro (Ollama + Flint) |
+| 2026-10-29 | Chat | Monsters that want things (the cake-loving nurikabe) |
 | 2026-10-28 | Lore | Final Fantasy X and Spira |
 | 2026-10-28 | Game tech | Game feel and screen shake (Camera2D trauma + FastNoiseLite, hit stop, squash and stretch, hit flash) |
 | 2026-10-28 | Effects | An American Werewolf in London's transformation |

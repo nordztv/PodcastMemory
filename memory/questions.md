@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-10-28 | Did you enjoy Beyond Oasis, and why? | Retro games (SNES and Mega Drive) | Not yet | no |
-| 2026-10-28 | If a nurikabe blocked a path in your game, what would the player have to do to get past it? | Japanese yokai | Not yet | no |
-| 2026-10-28 | If you could hear one Final Fantasy track played live by a full orchestra at the Sydney Opera House, which would it be, and why that one? | Final Fantasy (series, lore, new releases) | Not yet | no |
+| 2026-10-29 | If you reserved one World of Warcraft Forever character tonight, what would the first and last name be? | Warcraft and Blizzard | Not yet | no |
+| 2026-10-29 | What's the very first thing Chen Stormstout says when the player walks up to his stall? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-29 | Did you get to watch Ghostbusters this week, and which ghost from the film would you most want haunting your farm? | Cult actresses and iconic characters | Not yet | no |
+| 2026-10-28 | Did you enjoy Beyond Oasis, and why? | Retro games (SNES and Mega Drive) | 2026-10-28 (answer page): "I have not had a chance to play it yet, work has been really busy." | 2026-10-29 |
+| 2026-10-28 | If a nurikabe blocked a path in your game, what would the player have to do to get past it? | Japanese yokai | 2026-10-28 (answer page): "i would make him barrier between treasure so you would need to make him a recipe of a cake or something." | 2026-10-29 (suggestion given: radish-cake NurikabeGate scene) |
+| 2026-10-28 | If you could hear one Final Fantasy track played live by a full orchestra at the Sydney Opera House, which would it be, and why that one? | Final Fantasy (series, lore, new releases) | 2026-10-28 (answer page): "opening / bombing song" | 2026-10-29 |
 | 2026-10-27 | If you could give one character from any game the happy ending they never got, who would it be, and what would their ending look like? | Final Fantasy (series, lore, new releases) | 2026-10-27 (answer page): "The guy from last of us." | 2026-10-28 |
 | 2026-10-27 | If each strength level of your radish monster gets its own palette, what colour is the strongest one (tier twenty five), and what do the farmers call it? | Pixel art | 2026-10-27 (answer page): "Big white radish with a red top" | 2026-10-28 (suggestion given: plain tier 25 palette with one flickering tell row) |
 | 2026-10-27 | If one yokai knocked on your farmhouse door in your game at two in the morning, which one would it be, and what would it want? | Japanese yokai | 2026-10-27 (answer page): "I don't know yokai names, I just enjoy there existence" | 2026-10-28 |

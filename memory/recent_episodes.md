@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-29 (Thursday)
+
+- **Length:** LENGTH (11 chapters). Made on request in the chat on Wednesday evening (the schedule moved to 8:29pm and skipped that night's run). Fewer stories, more depth.
+- **World:** Israel exit polls (Likud ~25, Yashar 21-23; blocs ~50 v ~52-53, Arab parties 17-18 kingmakers; turnout 77.7%); Nordic leaders call Putin (Abu Dhabi talks next month); oil ~US$115 (claimed refinery strike).
+- **Australia and NSW:** CPI 4.3% (trimmed mean ~3.7%), hike odds 87-90% for 3 Nov; Question Time (O'Brien suspended, golf grant row, refinery windfall tax "actively" considered); duty of care bill and Scamps' ombudsman push; JobSeeker compensation (50,652 eligible, 1,430 invited); Australia Post CEO $1.2m bonus. NSW: Star fined $260m; NRMA green slip overcharge ($12.2m, 41,564 policies); 40 MND notifications; Southwest Metro Fri.
+- **Tech:** SK Hynix Q3 (104.6tn won revenue, 83.3tn OP, 80% margin; HBM demand double supply; sold out to 2029; 20,000 won dividend incl. Kioxia special; ~100tn returns; +10.9%); Kospi record 6,012 (+6.6%); Samsung results Thu; B70 now from $1,499 US, ASUS UGen B70 EUR 1,799 310W; M6 iMac ($1,499, 32GB max) and M6 MacBook Pro ($1,999) released; touchscreen OLED MacBook Pro expected 4am Thu (~$2,899); Flint on Ollama; quick hits (Micron, TSMC CoWoS rises, CXMT HBM3E, Fujifilm tape).
+- **Games:** WoW Forever name reservation trouble; Phantom Blade Zero #1 on Steam pre-launch (~500k est.); Virtua Fighter Crossroads by RGG (reveal 2am Fri); FF7R Game Pass, Keybound live, Fan Fest Sat; Witcher at 19 thanks BioWare (Aurora); retro: The Curse of Ogaerito (Ningyo no Rakuin) 31 Oct; quick hits.
+- **Movies:** Godzilla Minus Zero AU 5 Nov (M, IMAX previews); Dune Part Three final trailer (35mm, Sandgren); Umbrella Inugami Legacy (Feb); Paradise Lost #2 weekdays; Never After Dark digital 2 Nov. Actress of the Month Thursday: making of Ghostbusters (Weaver's month ends).
+- **Deep dives:** WoW 2004 launch; dialogue systems in Godot; Godzilla Minus One VFX; Raimi's Evil Dead. Workshop: Ollama + Flint on the Mac. Chat: monsters that want things.
+- **Challenge:** Thirty five push-ups and forty walking lunges (rate 4 of 6, 67%; 28 Oct done).
+- **Questions:** WoW Forever name; Chen's first line; Ghostbusters watched and which ghost on the farm.
+- **Answer reaction:** 28 Oct answers (Beyond Oasis not played yet, nurikabe wants cake, Bombing Mission); suggestion: radish-cake NurikabeGate scene. Thanked for 5s (Australia, lore, workshop, chat) and the depth note.
+- **Follow up:** Apple event results, Fed, Microsoft/Alphabet, Samsung results 29 Oct; Virtua Fighter reveal 30 Oct; Amazon, Intel, Southwest Metro 30 Oct; Fan Fest keynote, Ogaerito translation 31 Oct; Never After Dark 2 Nov; RBA, November actress (Japanese cult) 3 Nov; Godzilla Minus Zero (AU), Ocarina, WoW Forever 5 Nov; Israel count and coalition talks; Flight 15 mid-Nov; Inugami Legacy Feb.
+
 ## 2026-10-28 (Wednesday)
 
 - **Length:** 97 min (11 chapters). Script and sheet delivered about 10pm Tuesday; audio rendered in the cloud the same evening.

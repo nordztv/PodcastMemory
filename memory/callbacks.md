@@ -4,6 +4,8 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 
 | Bit | Where it came from | Last used |
 | --- | --- | --- |
+| The nurikabe who just wants cake (a radish cake, lo bak go); a wall that's waited 300 years for the right flavour | Scott's answer, 28 Oct (nurikabe) | 2026-10-29 |
+| Opening / Bombing Mission at the Sydney Opera House | Scott's answer, 28 Oct (orchestra) | 2026-10-29 |
 | The strongest radish is the plainest: a big white radish with a red top ("the most ordinary radish in the world, and the one that kills you") | Scott's answer, 27 Oct (tier 25 palette) | 2026-10-28 |
 | Joel gets the happy ending: a quiet farm, a porch, a guitar, nobody coming up the road (possibly a small radish problem) | Scott's answer, 27 Oct (happy ending) | 2026-10-28 |
 | He doesn't know yokai names, he just enjoys their existence (hence Yokai of the Week) | Scott's answer, 27 Oct | 2026-10-28 |
