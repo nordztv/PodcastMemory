@@ -1,0 +1,251 @@
+{
+ "date": "2026-10-29",
+ "sections": [
+  {
+   "key": "world",
+   "name": "Opening and world",
+   "items": [
+    {
+     "id": "world-1",
+     "title": "Israel's exit polls: no bloc reaches 61",
+     "topic": "Israel and the Middle East"
+    },
+    {
+     "id": "world-2",
+     "title": "Nordic leaders phone Putin",
+     "topic": "Russia-Ukraine war"
+    },
+    {
+     "id": "world-3",
+     "title": "Oil near US$115 after claimed refinery strike",
+     "topic": "Major world news"
+    }
+   ]
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "items": [
+    {
+     "id": "australia-1",
+     "title": "Inflation jumps to 4.3%; rate rise near-certain",
+     "topic": "Australian economy and banks"
+    },
+    {
+     "id": "australia-2",
+     "title": "Question Time: O'Brien suspended; golf grant fight; refinery windfall tax",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-3",
+     "title": "Duty of care bill and the online ombudsman push",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-4",
+     "title": "JobSeeker compensation and Australia Post's bonus",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-5",
+     "title": "Star fined $260 million",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-6",
+     "title": "NRMA green slip overcharging",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-7",
+     "title": "First MND notifications in NSW",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-8",
+     "title": "Southwest Metro opens Friday",
+     "topic": "Sydney trains and transport"
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "name": "Tech",
+   "items": [
+    {
+     "id": "tech-1",
+     "title": "SK Hynix: 80% margins, sold out to 2029, 20,000 won dividend",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-2",
+     "title": "Kospi tops 6,000; Samsung results today",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-3",
+     "title": "Arc Pro B70 prices double; ASUS joins in",
+     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+    },
+    {
+     "id": "tech-4",
+     "title": "M6 iMac and MacBook Pro out; touchscreen MacBook Pro expected",
+     "topic": "Apple"
+    },
+    {
+     "id": "tech-5",
+     "title": "Flint: a coding model that fits on your Mac",
+     "topic": "Running AI models at home (model sizes, quantisation)"
+    },
+    {
+     "id": "tech-6",
+     "title": "Quick hits: Micron, TSMC prices, CXMT HBM, Fujifilm tape",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    }
+   ]
+  },
+  {
+   "key": "games",
+   "name": "Games",
+   "items": [
+    {
+     "id": "games-1",
+     "title": "WoW Forever name reservations stumble",
+     "topic": "Warcraft and Blizzard"
+    },
+    {
+     "id": "games-2",
+     "title": "Phantom Blade Zero tops Steam before launch",
+     "topic": "Video game releases"
+    },
+    {
+     "id": "games-3",
+     "title": "Virtua Fighter Crossroads, from the Like a Dragon team",
+     "topic": "Like a Dragon / Yakuza series"
+    },
+    {
+     "id": "games-4",
+     "title": "FF7 Remake on Game Pass; Keybound Brawler live; Fan Fest Saturday",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    },
+    {
+     "id": "games-5",
+     "title": "The Witcher at 19: thanks to BioWare",
+     "topic": "The Witcher and CD Projekt Red"
+    },
+    {
+     "id": "games-6",
+     "title": "Retro: The Curse of Ogaerito fan translation",
+     "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+    },
+    {
+     "id": "games-7",
+     "title": "Quick hits: Tim Stamper, Capcom classics, Warhorse, Moonlight Peaks",
+     "topic": "Video game industry"
+    }
+   ]
+  },
+  {
+   "key": "movies",
+   "name": "Movies",
+   "items": [
+    {
+     "id": "movies-1",
+     "title": "Godzilla Minus Zero in Australia on 5 November",
+     "topic": "Japanese horror"
+    },
+    {
+     "id": "movies-2",
+     "title": "Dune Part Three's final trailer",
+     "topic": "Sci-fi and action films"
+    },
+    {
+     "id": "movies-3",
+     "title": "Umbrella's Inugami Legacy set",
+     "topic": "4K Blu-ray, physical media and restorations"
+    },
+    {
+     "id": "movies-4",
+     "title": "Paradise Lost climbs; Never After Dark on digital",
+     "topic": "Korean genre cinema"
+    },
+    {
+     "id": "movies-5",
+     "title": "Actress of the Month: the making of Ghostbusters",
+     "topic": "Cult actresses and iconic characters"
+    }
+   ]
+  },
+  {
+   "key": "lore",
+   "name": "Lore",
+   "items": [
+    {
+     "id": "lore-1",
+     "title": "World of Warcraft's 2004 launch",
+     "topic": "Warcraft and Blizzard"
+    }
+   ]
+  },
+  {
+   "key": "game-tech",
+   "name": "Game tech",
+   "items": [
+    {
+     "id": "game-tech-1",
+     "title": "Dialogue systems in Godot (Chen Stormstout)",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  },
+  {
+   "key": "effects",
+   "name": "Effects",
+   "items": [
+    {
+     "id": "effects-1",
+     "title": "Godzilla Minus One's small-team VFX",
+     "topic": "Practical effects and CGI history"
+    }
+   ]
+  },
+  {
+   "key": "director",
+   "name": "Director",
+   "items": [
+    {
+     "id": "director-1",
+     "title": "Sam Raimi's The Evil Dead camera",
+     "topic": "Directors and filming techniques"
+    }
+   ]
+  },
+  {
+   "key": "workshop",
+   "name": "Workshop",
+   "items": [
+    {
+     "id": "workshop-1",
+     "title": "A private coding helper on your Mac (Ollama + Flint)",
+     "topic": "Running AI models at home (model sizes, quantisation)"
+    }
+   ]
+  },
+  {
+   "key": "chat-and-goodbye",
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "id": "chat-and-goodbye-1",
+     "title": "Monsters that want things: the cake-loving nurikabe",
+     "topic": "Japanese yokai"
+    },
+    {
+     "id": "chat-and-goodbye-2",
+     "title": "Your answers and the radish-cake gate",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  }
+ ]
+}

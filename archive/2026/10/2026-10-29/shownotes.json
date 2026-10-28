@@ -1,0 +1,448 @@
+{
+ "date": "2026-10-29",
+ "weekday": "Thursday",
+ "length": "",
+ "headline": "Israel's hung result, inflation at 4.3%, SK Hynix sold out to 2029, WoW Forever's bumpy names and the making of Ghostbusters",
+ "challenge": "Thirty five push-ups and forty walking lunges (twenty each leg), in as many sets as you like, across the day (completion rate so far: 4 of 6, 67%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Israel's exit polls: no bloc reaches 61",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/israel-election-blog-october-28/107259780"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/live-blog/israel-election-2026-live-updates/7z47797ge"
+      }
+     ]
+    },
+    {
+     "title": "Nordic leaders phone Putin",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/putin-nordic-prime-ministers-phone-call-ukraine/107316960"
+      }
+     ]
+    },
+    {
+     "title": "Oil near US$115 after claimed refinery strike",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/asx-markets-business-live-news/107316614"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Inflation jumps to 4.3%; rate rise near-certain",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/chalmers-downplays-further-fuel-discounts-amid-high-inflation/107319372"
+      }
+     ]
+    },
+    {
+     "title": "Question Time: O'Brien suspended; golf grant fight; refinery windfall tax",
+     "links": [
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-10-28/federal-politics-live-blog-oct-28/107315976"
+      }
+     ]
+    },
+    {
+     "title": "Duty of care bill and the online ombudsman push",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/crossbench-push-for-labor-to-challenge-big-tech/107316400"
+      }
+     ]
+    },
+    {
+     "title": "JobSeeker compensation and Australia Post's bonus",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/centrelink-jobseeker-compliance-regime-restarts/107313184"
+      },
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-10-28/federal-politics-live-blog-oct-28/107315976"
+      }
+     ]
+    },
+    {
+     "title": "Star fined $260 million",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384"
+      }
+     ]
+    },
+    {
+     "title": "NRMA green slip overcharging",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-28/sira-fines-nrma-insurance-for-overcharging-customers-green-slips/107315524"
+      }
+     ]
+    },
+    {
+     "title": "First MND notifications in NSW",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/first-motor-neurone-disease-notifications-received"
+      }
+     ]
+    },
+    {
+     "title": "Southwest Metro opens Friday",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "SK Hynix: 80% margins, sold out to 2029, 20,000 won dividend",
+     "links": [
+      {
+       "label": "SK hynix",
+       "url": "https://news.skhynix.com/en/q3-2026-business-results/"
+      },
+      {
+       "label": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+      }
+     ]
+    },
+    {
+     "title": "Kospi tops 6,000; Samsung results today",
+     "links": [
+      {
+       "label": "Korea JoongAng Daily",
+       "url": "https://www.koreajoongangdaily.com/business/kospi-surges-past-6000-as-sk-hynix-record-earnings-reignite-ai-rally/12943596"
+      }
+     ]
+    },
+    {
+     "title": "Arc Pro B70 prices double; ASUS joins in",
+     "links": [
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Intel-s-Arc-Pro-B70-has-climbed-faster-than-AMD-s-32GB-Radeon-AI-Pro-R9700-and-memory-costs-alone-can-t-explain-why.1435374.0.html"
+      },
+      {
+       "label": "ASUS",
+       "url": "https://press.asus.com/news/press-releases/asus-ugen-intel-arc-pro-b70-32gb-ai-accelerator/"
+      }
+     ]
+    },
+    {
+     "title": "M6 iMac and MacBook Pro out; touchscreen MacBook Pro expected",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/"
+      },
+      {
+       "label": "9to5Mac",
+       "url": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/"
+      }
+     ]
+    },
+    {
+     "title": "Flint: a coding model that fits on your Mac",
+     "links": [
+      {
+       "label": "Releasebot (Ollama)",
+       "url": "https://releasebot.io/updates/ollama"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Micron, TSMC prices, CXMT HBM, Fujifilm tape",
+     "links": [
+      {
+       "label": "DigiTimes",
+       "url": "https://www.digitimes.com/news/a20261028PD205/micron-strike-taiwan-performance-plant.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "WoW Forever name reservations stumble",
+     "links": [
+      {
+       "label": "Wowhead",
+       "url": "https://www.wowhead.com/forever/news/name-reservations-for-wow-forever-delayed-383608"
+      },
+      {
+       "label": "Icy Veins",
+       "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-character-name-reservations-start-today-heres-when/"
+      }
+     ]
+    },
+    {
+     "title": "Phantom Blade Zero tops Steam before launch",
+     "links": [
+      {
+       "label": "Inven Global",
+       "url": "https://www.invenglobal.com/articles/24747/chinese-games-on-a-roll-phantom-blade-zero-hits-1-on-steam-in-one-day-wukong-sales-surge-with-discount"
+      }
+     ]
+    },
+    {
+     "title": "Virtua Fighter Crossroads, from the Like a Dragon team",
+     "links": [
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/segas-glitzy-virtua-fighter-ps5-revival-teases-new-info-for-this-week"
+      }
+     ]
+    },
+    {
+     "title": "FF7 Remake on Game Pass; Keybound Brawler live; Fan Fest Saturday",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/six-xbox-game-pass-titles-are-confirmed-for-the-final-few-days-of-october"
+      },
+      {
+       "label": "Icy Veins",
+       "url": "https://www.icy-veins.com/ffxiv/news/earn-ffvii-themed-prizes-by-playing-keybound-brawler/"
+      }
+     ]
+    },
+    {
+     "title": "The Witcher at 19: thanks to BioWare",
+     "links": [
+      {
+       "label": "VGTimes",
+       "url": "https://vgtimes.com/gaming-news/172462-the-witcher-turns-19-as-cd-projekt-red-credits-bioware-for-its-early-support.html"
+      }
+     ]
+    },
+    {
+     "title": "Retro: The Curse of Ogaerito fan translation",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/a-fan-translation-for-the-ps1-horror-game-ningyo-no-rakuin-will-emerge-from-the-deep-this-halloween"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Tim Stamper, Capcom classics, Warhorse, Moonlight Peaks",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/rare-co-founder-tim-stamper-returns-to-social-media-cryptically-teases-opening-the-vault"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Godzilla Minus Zero in Australia on 5 November",
+     "links": [
+      {
+       "label": "Event Cinemas",
+       "url": "https://www.eventcinemas.com.au/movie/godzilla-minus-zero"
+      },
+      {
+       "label": "Hoyts",
+       "url": "https://www.hoyts.com.au/movies/godzilla-minus-zero-japanese-eng-sub"
+      }
+     ]
+    },
+    {
+     "title": "Dune Part Three's final trailer",
+     "links": [
+      {
+       "label": "Empire",
+       "url": "https://www.empireonline.com/movies/news/dune-part-three-final-trailer-showdown-paul-chani/"
+      },
+      {
+       "label": "World of Reel",
+       "url": "https://www.worldofreel.com/blog/2026/10/27/dune-3-final-trailer-denis-villeneuve-has-taken-massive-liberties-with-messiah-thats-perfectly-fine"
+      }
+     ]
+    },
+    {
+     "title": "Umbrella's Inugami Legacy set",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39241"
+      }
+     ]
+    },
+    {
+     "title": "Paradise Lost climbs; Never After Dark on digital",
+     "links": [
+      {
+       "label": "KOBIZ",
+       "url": "http://kobiz.or.kr/eng/news/boxOffice.jsp"
+      },
+      {
+       "label": "Horror Historian",
+       "url": "https://horrorhistorian.substack.com/p/asian-horror-film-news-october-26"
+      }
+     ]
+    },
+    {
+     "title": "Actress of the Month: the making of Ghostbusters",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ghostbusters"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "World of Warcraft's 2004 launch",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Dialogue systems in Godot (Chen Stormstout)",
+     "links": [
+      {
+       "label": "Dialogue Manager",
+       "url": "https://github.com/nathanhoad/godot_dialogue_manager"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Godzilla Minus One's small-team VFX",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Sam Raimi's The Evil Dead camera",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "A private coding helper on your Mac (Ollama + Flint)",
+     "links": [
+      {
+       "label": "Ollama",
+       "url": "https://ollama.com"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Monsters that want things: the cake-loving nurikabe",
+     "links": []
+    },
+    {
+     "title": "Your answers and the radish-cake gate",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Actress of the Month (Sigourney Weaver)",
+   "title": "Ghostbusters (1984), the making-of",
+   "note": "Filming began in New York on 28 Oct 1983",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ghostbusters"
+    }
+   ]
+  },
+  {
+   "kind": "In cinemas",
+   "title": "Godzilla Minus Zero",
+   "note": "Australia from Thu 5 Nov, rated M; IMAX previews (check Event and Hoyts)",
+   "links": [
+    {
+     "label": "Event Cinemas",
+     "url": "https://www.eventcinemas.com.au/movie/godzilla-minus-zero"
+    }
+   ]
+  },
+  {
+   "kind": "Disc pick",
+   "title": "Inugami Legacy (Umbrella, February)",
+   "note": "Kon Ichikawa's The Inugami Family (1976, 4K restoration) and his 2006 remake",
+   "links": [
+    {
+     "label": "Blu-ray.com",
+     "url": "https://www.blu-ray.com/news/?id=39241"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive films",
+   "title": "Godzilla Minus One (2023) and The Evil Dead (1981)",
+   "note": "Effects and director deep dives",
+   "links": []
+  }
+ ],
+ "questions": [
+  "If you reserved one World of Warcraft Forever character tonight, what would the first and last name be?",
+  "What's the very first thing Chen Stormstout says when the player walks up to his stall?",
+  "Did you get to watch Ghostbusters this week, and which ghost from the film would you most want haunting your farm?"
+ ]
+}

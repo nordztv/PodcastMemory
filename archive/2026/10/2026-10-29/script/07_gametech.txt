@@ -1,0 +1,29 @@
+[excited] Game tech! [warm] And today, talking. [playful] Specifically, how to make the characters in your game talk back. [enthusiastic] Dialogue systems. [teasing] Because Chen Stormstout is not going to tell jokes about being hungry [short beat] [punch] all by himself. [giggling while talking] Although he'd try.
+
+[calm, friendly] Practical first. Here's the smallest dialogue system that will still carry your whole game, in Godot four, in four pieces.
+
+[happy] Piece one: keep the words out of the code. [calm] Make a custom Resource called DialogueLine, with three exported properties: the speaker's name, the text, and an array of choices. Then a second Resource called DialogueChoice, with the choice text and the name of the line it leads to. [warm] Now each conversation is just a file you can edit in the inspector, like the Resource save system we talked about a couple of Fridays ago, and you never have to touch a script to fix a typo in Chen's joke.
+
+[happy] Piece two: the box on the screen. [calm] A CanvasLayer with a Panel, a Label for the speaker's name, and a RichTextLabel for the text. [delighted] For that classic typewriter effect, set the RichTextLabel's visible ratio to zero, then use a tween to bring it up to one over the length of the line, say three hundredths of a second per letter. [curious] Let the player press the button once to finish the line instantly, and a second time to move on. [warm] That one detail, being able to skip, is what separates a dialogue system people tolerate from one they enjoy.
+
+[happy] Piece three: choices. [calm] When a line has choices, clear a VBoxContainer, and for each choice, create a Button, set its text, and connect its pressed signal to a function that jumps to the line that choice points to. [warm] Give the first button focus, so it works with a controller. [playful] Your Secret of Mana fans will be on a gamepad. [short beat] [punch] Unlike some Final Fantasy fourteen typing games I could mention. [giggling while talking] Too soon?
+
+[happy] Piece four: memory. [curious] This is the bit that makes a world feel alive. [calm] Make an autoload, a script that's always loaded, called something like GameState, with a dictionary of flags: "met_chen", "bought_stout", "radish_tier_ten_defeated". When a conversation happens, set a flag. And give your DialogueLine an optional condition: a flag that has to be true for that line to appear. [delighted] So the first time you meet Chen, he introduces himself. The second time, he says, "Back again? The stout's that good, huh?" [warm] And after you've beaten your first big radish, he can say he heard about it. [impressed] Twenty lines of code, and suddenly your merchant remembers you.
+
+[thoughtful] [calm] Now, the theory, with an everyday analogy. [curious] Think of a dialogue system like a choose-your-own-adventure book. Each page is a line, each "turn to page forty" is a choice, and the reader's bookmark is your game state. [calm] Game writers talk about a few shapes. A tree branches every time you choose, which explodes fast: three choices, three times, is twenty seven endings. [warm] So most games use a hub instead. You start at a central question, branch out to a topic, then loop back to the hub. "Tell me about the valley." "What are you selling?" "Goodbye." [delighted] That's how most role-playing game shopkeepers work, and it's perfect for Chen.
+
+[calm] The other big idea is that the choices don't always change the story. Often they just change the flavour, how the character feels about you, or what they say next time, [thoughtful] and players still feel heard. That's much cheaper to write than truly branching plots, [warm] and for a farming game, where you'll talk to the same villagers hundreds of times, the memory of small things matters far more than big branching endings.
+
+[very sweet, innocent] [speaking slowly] And there's a dark little trick... [pause] [sweet, innocent, slow] where a character says something slightly different every time you visit. [short pause] Just a little more tired. [pause] A little less cheerful. [little giggle] [beat] [sweet, innocent, slow] Until one day, the shop is closed, [short pause] and there's just a note on the counter. [beat] [very softly, sweetly, slow] And it's in your handwriting.
+
+[happy] Quick tip list, for later.
+
+[calm, friendly] One. You don't have to build it all yourself. Dialogue Manager, by Nathan Hoad, is a popular free Godot plugin where you write conversations in a simple script format, with conditions and choices built in, and Dialogic is another with a visual editor. [warm] Building the small version yourself first will teach you what you actually need.
+
+[calm, friendly] Two. Write the conversation in a plain text file before you build anything. Read it out loud. If it doesn't sound right, no system will save it.
+
+[calm, friendly] Three. Add a tiny sound per letter while the text types out, with a slightly random pitch, like Animal Crossing's chatter. [delighted] It gives every character a voice without recording a single line. Chen gets a deep, round blip. The radish gets [short beat] [punch] a squeak. [giggling while talking] A menacing squeak.
+
+[calm, friendly] Four. Keep every line under about a hundred characters, so it fits in the box without scrolling, and break long speeches into several lines.
+
+[warm] [proud] And that's dialogue: words in Resources, a typewriter box, choices as buttons, and a dictionary that remembers. [teasing] Now your villagers can finally say something other than "the radishes are watching". [short beat] [deadpan] [punch] Although they should keep saying that. [giggling while talking] For safety.
