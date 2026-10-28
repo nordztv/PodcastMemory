@@ -1,6 +1,6 @@
 # Recording on the MacBook Pro (Kokoro voice)
 
-Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Scott's choice: Fish Audio removed). The cloud run (about 9:30pm Sunday to Thursday, for the next morning's episode) writes the script and saves it to GitHub. The MacBook Pro then records it in the show's Kokoro voice (the same voice the cloud uses), and saves the audio to iCloud Drive > Morning Briefing.
+Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Scott's choice: Fish Audio removed). The cloud run (about 8:30pm Sunday to Thursday, for the next morning's episode) writes the script and saves it to GitHub. The MacBook Pro then records it in the show's Kokoro voice (the same voice the cloud uses), and saves the audio to iCloud Drive > Morning Briefing.
 
 - There is no schedule (Scott's choice, confirmed 27 Oct 2026): run the one command below in Terminal, or double-click **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
 - It records the full episode with chapter markers (`engine/build_episode.sh`, the same build the cloud uses) and copies the MP3 plus the answer sheet into iCloud Drive > Morning Briefing, with a notification.
