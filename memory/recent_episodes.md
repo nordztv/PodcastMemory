@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-29 (Thursday)
 
-- **Length:** LENGTH (11 chapters). Made on request in the chat on Wednesday evening (the schedule moved to 8:29pm and skipped that night's run). Fewer stories, more depth.
+- **Length:** 81 min (11 chapters). Made on request in the chat on Wednesday evening (the schedule moved to 8:29pm and skipped that night's run). Fewer stories, more depth.
 - **World:** Israel exit polls (Likud ~25, Yashar 21-23; blocs ~50 v ~52-53, Arab parties 17-18 kingmakers; turnout 77.7%); Nordic leaders call Putin (Abu Dhabi talks next month); oil ~US$115 (claimed refinery strike).
 - **Australia and NSW:** CPI 4.3% (trimmed mean ~3.7%), hike odds 87-90% for 3 Nov; Question Time (O'Brien suspended, golf grant row, refinery windfall tax "actively" considered); duty of care bill and Scamps' ombudsman push; JobSeeker compensation (50,652 eligible, 1,430 invited); Australia Post CEO $1.2m bonus. NSW: Star fined $260m; NRMA green slip overcharge ($12.2m, 41,564 policies); 40 MND notifications; Southwest Metro Fri.
 - **Tech:** SK Hynix Q3 (104.6tn won revenue, 83.3tn OP, 80% margin; HBM demand double supply; sold out to 2029; 20,000 won dividend incl. Kioxia special; ~100tn returns; +10.9%); Kospi record 6,012 (+6.6%); Samsung results Thu; B70 now from $1,499 US, ASUS UGen B70 EUR 1,799 310W; M6 iMac ($1,499, 32GB max) and M6 MacBook Pro ($1,999) released; touchscreen OLED MacBook Pro expected 4am Thu (~$2,899); Flint on Ollama; quick hits (Micron, TSMC CoWoS rises, CXMT HBM3E, Fujifilm tape).
