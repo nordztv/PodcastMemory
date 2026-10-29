@@ -1,0 +1,628 @@
+{
+ "date": "2026-10-30",
+ "weekday": "Friday",
+ "length": "",
+ "headline": "Week wrap: Israel's hung count, the touchscreen MacBook Pro, Samsung's 100 trillion won quarter, Phantom Blade Zero's launch, and the Pi channel goes multicast",
+ "challenge": "Walk or run five kilometres across the day (the walk home counts) and sixty dumbbell shoulder presses (thirty each arm, 7.5 kg), in as many sets as you like (completion rate so far: 4 of 7, 57%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Israel's count: Likud 26, no bloc reaches 61",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/herzog-netanyahu-israel-election/107321418"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/what-happens-next-in-the-israeli-election/107321694"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/live-blog/israel-election-2026-live-updates/7z47797ge"
+      }
+     ]
+    },
+    {
+     "title": "Spain's worst rail crash in a decade",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-inexplicable-order-high-speed-rail/107321318"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/decision-probed-after-deadly-spain-train-crash-evening-news-bulletin-29-october-2026/9t0pbj6uz"
+      }
+     ]
+    },
+    {
+     "title": "The Fed holds, split 10-2",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+      }
+     ]
+    },
+    {
+     "title": "Oil at US$115",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+      }
+     ]
+    },
+    {
+     "title": "Sydney weather and the walk",
+     "links": [
+      {
+       "label": "BOM",
+       "url": "https://api.weather.bom.gov.au/v1/locations/r3gx2f/forecasts/daily"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Albanese: no overnight fix; savings in MYEFO; RBA Tuesday",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104"
+      },
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+      }
+     ]
+    },
+    {
+     "title": "Coalition rejects the EU trade deal; Greens open to it",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/decision-probed-after-deadly-spain-train-crash-evening-news-bulletin-29-october-2026/9t0pbj6uz"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104"
+      }
+     ]
+    },
+    {
+     "title": "SAS culture report released",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/secret-inquiry-into-afghanistan-special-forces-slams-sas/107321098"
+      }
+     ]
+    },
+    {
+     "title": "Estimates: ATO card ban, aged care tool; CHOGM next week",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104"
+      }
+     ]
+    },
+    {
+     "title": "Southwest Metro opens",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/southwest-metro-to-open-friday-30-october-2026"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/final-preparation-underway-before-historic-southwest-metro-opening"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-29/sydney-marrickville-businesses-southwest-metro-construction/107324256"
+      }
+     ]
+    },
+    {
+     "title": "Regional road safety upgrades; Rouse Hill drug arrests",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-fast-tracks-road-safety-upgrades-at-nine-regional-locations"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/decision-probed-after-deadly-spain-train-crash-evening-news-bulletin-29-october-2026/9t0pbj6uz"
+      }
+     ]
+    },
+    {
+     "title": "The week at home, and Star's instalments",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Apple's touchscreen OLED MacBook Pro",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/"
+      },
+      {
+       "label": "Tom's Guide",
+       "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-oled-touchscreen-macbook-pro"
+      },
+      {
+       "label": "Forbes Australia",
+       "url": "https://www.forbes.com.au/news/innovation/apple-reveals-touchscreen-macbook-pro-starting-at-a4599/"
+      }
+     ]
+    },
+    {
+     "title": "Samsung's 107 trillion won quarter",
+     "links": [
+      {
+       "label": "DigitalToday",
+       "url": "https://www.digitaltoday.co.kr/en/view/121375/samsung-electronics-operating-profit-100-trillion-won-era-memory-lifts-profit-set-cost-burden-persists"
+      },
+      {
+       "label": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
+      }
+     ]
+    },
+    {
+     "title": "Memory boom pushes GPU prices up",
+     "links": [
+      {
+       "label": "Tech Times",
+       "url": "https://www.techtimes.com/articles/328936/20261012/gpu-prices-jump-again-amd-radeon-loses-its-last-affordability-buffer.htm"
+      }
+     ]
+    },
+    {
+     "title": "ASUS Arc Pro B70 in Europe at EUR 1,799",
+     "links": [
+      {
+       "label": "Tech Times",
+       "url": "https://techtimes.com/articles/329558/20261027/asus-debuts-intel-arc-pro-b70-europe-1799-euro-price-narrows-vram-value-edge.htm"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft up, Alphabet down",
+     "links": [
+      {
+       "label": "Motley Fool",
+       "url": "https://www.fool.com/investing/2026/10/28/microsoft-and-alphabet-just-reported-earnings-putting-the-ai-boom-to-the-test/"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia Vera Rubin on Oracle",
+     "links": [
+      {
+       "label": "GlobeNewswire",
+       "url": "https://globenewswire.com/news-release/2026/10/27/3389428/0/en/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure.html"
+      }
+     ]
+    },
+    {
+     "title": "Ollama 0.40.12 (LFM3, faster on Apple silicon)",
+     "links": [
+      {
+       "label": "GitHub",
+       "url": "https://github.com/ollama/ollama/releases"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15 tests",
+     "links": [
+      {
+       "label": "Tesla Oracle",
+       "url": "https://www.teslaoracle.com/2026/10/28/spacex-completes-flight-15-pre-launch-static-fires-and-simulations-on-starship-42-and-super-heavy/"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: X-T6 rumour, Gemini 4 Carbon, Apple fined in Korea, Oracle, GitHub",
+     "links": [
+      {
+       "label": "Camera Jabber",
+       "url": "https://camerajabber.com/photography-news/fujifilm-x-t6-now-expected-in-november-after-component-shortage-delay/"
+      },
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Phantom Blade Zero peaks at 431,000 on Steam",
+     "links": [
+      {
+       "label": "Tech4Gamers",
+       "url": "https://www.tech4gamers.com/phantom-blade-zero-430k-players-steam/"
+      },
+      {
+       "label": "The Loadout",
+       "url": "https://theloadout.com/phantom-blade-zero-wins-praise-for-combat-stumbles-on-story-and-frame-rate"
+      }
+     ]
+    },
+    {
+     "title": "FFXIV Fan Fest keynote Saturday 1pm (Evercold)",
+     "links": [
+      {
+       "label": "GamingHQ",
+       "url": "https://gaminghq.eu/2026/10/20/final-fantasy-october-2026-events/"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever: name filter bug fixed, Warpath trailer, 5 Nov 10am",
+     "links": [
+      {
+       "label": "MMO-Champion",
+       "url": "https://www.mmo-champion.com/content/"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina previews, Zelda Switch 2 back in stock, Indie World",
+     "links": [
+      {
+       "label": "Press Start",
+       "url": "https://press-start.com.au/news/nintendo/2026/10/29/the-limited-edition-zelda-nintendo-switch-2-is-up-for-order-again"
+      },
+      {
+       "label": "VGC",
+       "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/"
+      }
+     ]
+    },
+    {
+     "title": "Cyberpunk 2.5 troubles on Switch 2",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now"
+      }
+     ]
+    },
+    {
+     "title": "Capcom sales; RE storyline to end within ten years",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/capcoms-2026-bangers-continue-to-shine-in-latest-financial-report"
+      },
+      {
+       "label": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/10/will-the-resident-evil-series-be-over-in-the-next-10-years-of-course-not"
+      }
+     ]
+    },
+    {
+     "title": "Capcom SNES classics rated in Korea",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/korean-ratings-board-lists-capcom-console-releases-inc-nes-and-snes-final-fight-mega-man-and-breath-of-fire-games"
+      }
+     ]
+    },
+    {
+     "title": "Retro: Xanadu and Time Twist translations, Panzer Dragoon Saga PC, Super Station Pocket",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/1994-pc-engine-cd-classic-the-legend-of-xanadu-receives-new-fan-translation"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/you-can-now-play-one-of-nintendos-most-outrageous-games-in-english-with-this-ai-free-fan-translation"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/i-hope-this-wonderful-game-lives-on-forever-panzer-dragoon-saga-gets-pc-recomp-from-the-dev-behind-yaba-sanshiro"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/10/taki-udon-drops-surprise-teaser-for-fpga-game-boy-super-station-pocket-handheld"
+      }
+     ]
+    },
+    {
+     "title": "Yokai games: Ayakashi Fishing Folktails, Kitsune",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/ayakashi-fishing-folktails-coming-west-in-mid-2027"
+      },
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/10/kitsune-the-journey-of-adashino-adds-switch-2-version-launches-in-spring-2027"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: VF reveal, Xbox reviews, PS Plus, Wolf Among Us, Shenmue 3",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/xbox-exec-issues-statement-in-response-to-review-controversy"
+      },
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/10/shenmue-3-enhanced-has-been-delayed-into-next-year"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "A quiet Halloween box office (Briarcliff)",
+     "links": [
+      {
+       "label": "Todd M Thatcher",
+       "url": "https://toddmthatcher.com/2026/10/27/october-30-november-1-box-office-predictions/"
+      }
+     ]
+    },
+    {
+     "title": "Korean box office: Chiikawa, Paradise Lost second",
+     "links": [
+      {
+       "label": "NC Press",
+       "url": "https://nc.press/news/articleView.html?idxno=629635"
+      }
+     ]
+    },
+    {
+     "title": "Resident Evil tops China again",
+     "links": [
+      {
+       "label": "Patrick Frater",
+       "url": "https://patrickfrater.substack.com/p/asia-weekend-box-office-trends-down"
+      }
+     ]
+    },
+    {
+     "title": "Tokyo IFF: Rolf de Heer's jury, Colony closes",
+     "links": [
+      {
+       "label": "Asian Movie Pulse",
+       "url": "https://asianmoviepulse.com/2026/10/tokyo-international-film-festival-2026-opening-ceremony/"
+      }
+     ]
+    },
+    {
+     "title": "New Group on Shudder 6 Nov",
+     "links": [
+      {
+       "label": "ScreenAnarchy",
+       "url": "https://screenanarchy.com/2026/10/shudder-extends-the-spooky-season-with-massive-season-of-screams-lineup-and-holiday-promos.html"
+      }
+     ]
+    },
+    {
+     "title": "The Holy Boy trailer",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/the-holy-boy-shudder-new-trailer/"
+      }
+     ]
+    },
+    {
+     "title": "Survive: The Game",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/survive-the-game-casting-news/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Final Fantasy XIV's collapse and rebirth as A Realm Reborn",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Inventory and crafting with Godot Resources (the nurikabe's radish cake)",
+     "links": [
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/tutorials/scripting/resources.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Blade Runner's miniatures",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Blade_Runner"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Na Hong-jin's The Wailing",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Wailing_(2016_film)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Filming night lights and reflections on your phone",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "The week in a nutshell and awards",
+     "links": []
+    },
+    {
+     "title": "Weekend with your son: EQ Markets, Sculpture by the Sea, Newtown Halloween, Maritime Museum",
+     "links": [
+      {
+       "label": "City of Sydney",
+       "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre"
+      },
+      {
+       "label": "Darling Harbour",
+       "url": "https://www.darlingharbour.com/whats-on/campaigns/halloween"
+      },
+      {
+       "label": "Time Out",
+       "url": "https://www.timeout.com/sydney/things-to-do-in-sydney-this-weekend"
+      },
+      {
+       "label": "City of Sydney",
+       "url": "https://whatson.cityofsydney.nsw.gov.au/events/ur-wayii-incoming-tide"
+      }
+     ]
+    },
+    {
+     "title": "Defending the picks: Beyond Oasis and Ghostbusters",
+     "links": []
+    },
+    {
+     "title": "Project check-in: Pi channel multicast",
+     "links": [
+      {
+       "label": "ffmpeg docs",
+       "url": "https://ffmpeg.org/ffmpeg-protocols.html"
+      },
+      {
+       "label": "Raspberry Pi white paper",
+       "url": "https://pip-assets.raspberrypi.com/categories/685-app-notes-guides-whitepapers/documents/RP-010033-WP-1-H.264%20encoding%20performance%20on%20Raspberry%20Pi%205_series%20computers.pdf"
+      },
+      {
+       "label": "Cloudflare",
+       "url": "https://www.cloudflare.com/learning/network-layer/what-is-igmp-snooping/"
+      },
+      {
+       "label": "ErsatzTV",
+       "url": "https://ersatztv.org/docs/clients/jellyfin/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Weekend homework",
+   "title": "Beyond Oasis (Mega Drive)",
+   "note": "This week's Retro Game of the Week, on the Nintendo Switch Online Expansion Pack Mega Drive app (check)",
+   "links": []
+  },
+  {
+   "kind": "Weekend film",
+   "title": "Ghostbusters (1984)",
+   "note": "This week's Actress of the Month film",
+   "links": []
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "The Wailing (2016)",
+   "note": "Na Hong-jin; check streaming or disc availability",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Wailing_(2016_film)"
+    }
+   ]
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "Blade Runner (1982)",
+   "note": "Douglas Trumbull's miniatures",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Blade_Runner"
+    }
+   ]
+  },
+  {
+   "kind": "Coming to Shudder",
+   "title": "New Group (Yûta Shimotsu)",
+   "note": "6 November, with a Best Wishes to All watch party",
+   "links": [
+    {
+     "label": "ScreenAnarchy",
+     "url": "https://screenanarchy.com/2026/10/shudder-extends-the-spooky-season-with-massive-season-of-screams-lineup-and-holiday-promos.html"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "If you could add one brand new job to Final Fantasy XIV, what would it be, and what's its signature move?",
+  "If your farm had one crafting recipe that only works at night, what would it make, and what's the strange ingredient no player would ever guess?",
+  "If your Pi channel ran a late-night horror block at midnight, what would it be called, and which music video opens it?"
+ ]
+}

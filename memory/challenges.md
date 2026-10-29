@@ -4,6 +4,7 @@ One fitness challenge per episode (bible section 8). Scott reports Done on the d
 
 | Date | Challenge | Done |
 | --- | --- | --- |
+| 2026-10-30 | Walk or run five kilometres across the day (the walk home counts) and sixty dumbbell shoulder presses (thirty each arm, 7.5 kg), in as many sets as you like | Not yet |
 | 2026-10-29 | Thirty five push-ups and forty walking lunges (twenty each leg), in as many sets as you like, across the day | Not yet |
 | 2026-10-28 | Fifty bodyweight squats and a two-minute plank in total, broken up however you like, across the day | Yes |
 | 2026-10-27 | Thirty push-ups and seventy dumbbell rows (thirty five each arm, 7.5 kg), in as many sets as you like, across the day | No |

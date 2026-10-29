@@ -1,0 +1,306 @@
+{
+ "date": "2026-10-30",
+ "sections": [
+  {
+   "key": "world",
+   "name": "Opening and world",
+   "items": [
+    {
+     "id": "world-1",
+     "title": "Israel's count: Likud 26, no bloc reaches 61",
+     "topic": "Israel and the Middle East"
+    },
+    {
+     "id": "world-2",
+     "title": "Spain's worst rail crash in a decade",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-3",
+     "title": "The Fed holds, split 10-2",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-4",
+     "title": "Oil at US$115",
+     "topic": "Major world news"
+    },
+    {
+     "id": "world-5",
+     "title": "Sydney weather and the walk",
+     "topic": "NSW politics and Sydney news"
+    }
+   ]
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "items": [
+    {
+     "id": "australia-1",
+     "title": "Albanese: no overnight fix; savings in MYEFO; RBA Tuesday",
+     "topic": "Australian economy and banks"
+    },
+    {
+     "id": "australia-2",
+     "title": "Coalition rejects the EU trade deal; Greens open to it",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-3",
+     "title": "SAS culture report released",
+     "topic": "Australian defence"
+    },
+    {
+     "id": "australia-4",
+     "title": "Estimates: ATO card ban, aged care tool; CHOGM next week",
+     "topic": "Australian federal politics"
+    },
+    {
+     "id": "australia-5",
+     "title": "Southwest Metro opens",
+     "topic": "Sydney trains and transport"
+    },
+    {
+     "id": "australia-6",
+     "title": "Regional road safety upgrades; Rouse Hill drug arrests",
+     "topic": "NSW politics and Sydney news"
+    },
+    {
+     "id": "australia-7",
+     "title": "The week at home, and Star's instalments",
+     "topic": "Australian federal politics"
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "name": "Tech",
+   "items": [
+    {
+     "id": "tech-1",
+     "title": "Apple's touchscreen OLED MacBook Pro",
+     "topic": "Apple"
+    },
+    {
+     "id": "tech-2",
+     "title": "Samsung's 107 trillion won quarter",
+     "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+    },
+    {
+     "id": "tech-3",
+     "title": "Memory boom pushes GPU prices up",
+     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+    },
+    {
+     "id": "tech-4",
+     "title": "ASUS Arc Pro B70 in Europe at EUR 1,799",
+     "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+    },
+    {
+     "id": "tech-5",
+     "title": "Microsoft up, Alphabet down",
+     "topic": "Tech company earnings"
+    },
+    {
+     "id": "tech-6",
+     "title": "Nvidia Vera Rubin on Oracle",
+     "topic": "Nvidia"
+    },
+    {
+     "id": "tech-7",
+     "title": "Ollama 0.40.12 (LFM3, faster on Apple silicon)",
+     "topic": "Running AI models at home (model sizes, quantisation)"
+    },
+    {
+     "id": "tech-8",
+     "title": "Starship Flight 15 tests",
+     "topic": "SpaceX and Starship"
+    },
+    {
+     "id": "tech-9",
+     "title": "Quick hits: X-T6 rumour, Gemini 4 Carbon, Apple fined in Korea, Oracle, GitHub",
+     "topic": "Fujifilm X-M5, lenses and camera gear"
+    }
+   ]
+  },
+  {
+   "key": "games",
+   "name": "Games",
+   "items": [
+    {
+     "id": "games-1",
+     "title": "Phantom Blade Zero peaks at 431,000 on Steam",
+     "topic": "Video game releases"
+    },
+    {
+     "id": "games-2",
+     "title": "FFXIV Fan Fest keynote Saturday 1pm (Evercold)",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    },
+    {
+     "id": "games-3",
+     "title": "WoW Forever: name filter bug fixed, Warpath trailer, 5 Nov 10am",
+     "topic": "Warcraft and Blizzard"
+    },
+    {
+     "id": "games-4",
+     "title": "Ocarina previews, Zelda Switch 2 back in stock, Indie World",
+     "topic": "Nintendo (Switch 2, Zelda)"
+    },
+    {
+     "id": "games-5",
+     "title": "Cyberpunk 2.5 troubles on Switch 2",
+     "topic": "The Witcher and CD Projekt Red"
+    },
+    {
+     "id": "games-6",
+     "title": "Capcom sales; RE storyline to end within ten years",
+     "topic": "Capcom and Resident Evil"
+    },
+    {
+     "id": "games-7",
+     "title": "Capcom SNES classics rated in Korea",
+     "topic": "Retro games (SNES and Mega Drive)"
+    },
+    {
+     "id": "games-8",
+     "title": "Retro: Xanadu and Time Twist translations, Panzer Dragoon Saga PC, Super Station Pocket",
+     "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+    },
+    {
+     "id": "games-9",
+     "title": "Yokai games: Ayakashi Fishing Folktails, Kitsune",
+     "topic": "Japanese yokai"
+    },
+    {
+     "id": "games-10",
+     "title": "Quick hits: VF reveal, Xbox reviews, PS Plus, Wolf Among Us, Shenmue 3",
+     "topic": "Video game industry"
+    }
+   ]
+  },
+  {
+   "key": "movies",
+   "name": "Movies",
+   "items": [
+    {
+     "id": "movies-1",
+     "title": "A quiet Halloween box office (Briarcliff)",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-2",
+     "title": "Korean box office: Chiikawa, Paradise Lost second",
+     "topic": "Korean genre cinema"
+    },
+    {
+     "id": "movies-3",
+     "title": "Resident Evil tops China again",
+     "topic": "Game-to-film adaptations"
+    },
+    {
+     "id": "movies-4",
+     "title": "Tokyo IFF: Rolf de Heer's jury, Colony closes",
+     "topic": "Film festivals"
+    },
+    {
+     "id": "movies-5",
+     "title": "New Group on Shudder 6 Nov",
+     "topic": "Japanese horror"
+    },
+    {
+     "id": "movies-6",
+     "title": "The Holy Boy trailer",
+     "topic": "Horror films"
+    },
+    {
+     "id": "movies-7",
+     "title": "Survive: The Game",
+     "topic": "Horror films"
+    }
+   ]
+  },
+  {
+   "key": "lore",
+   "name": "Lore",
+   "items": [
+    {
+     "id": "lore-1",
+     "title": "Final Fantasy XIV's collapse and rebirth as A Realm Reborn",
+     "topic": "Final Fantasy (series, lore, new releases)"
+    }
+   ]
+  },
+  {
+   "key": "game-tech",
+   "name": "Game tech",
+   "items": [
+    {
+     "id": "game-tech-1",
+     "title": "Inventory and crafting with Godot Resources (the nurikabe's radish cake)",
+     "topic": "Godot and Scott's 2D game"
+    }
+   ]
+  },
+  {
+   "key": "effects",
+   "name": "Effects",
+   "items": [
+    {
+     "id": "effects-1",
+     "title": "Blade Runner's miniatures",
+     "topic": "Practical effects and CGI history"
+    }
+   ]
+  },
+  {
+   "key": "director",
+   "name": "Director",
+   "items": [
+    {
+     "id": "director-1",
+     "title": "Na Hong-jin's The Wailing",
+     "topic": "Korean genre cinema"
+    }
+   ]
+  },
+  {
+   "key": "workshop",
+   "name": "Workshop",
+   "items": [
+    {
+     "id": "workshop-1",
+     "title": "Filming night lights and reflections on your phone",
+     "topic": "Colour grading and Final Cut Pro"
+    }
+   ]
+  },
+  {
+   "key": "chat",
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "id": "chat-1",
+     "title": "The week in a nutshell and awards",
+     "topic": "Major world news"
+    },
+    {
+     "id": "chat-2",
+     "title": "Weekend with your son: EQ Markets, Sculpture by the Sea, Newtown Halloween, Maritime Museum",
+     "topic": "Weekend activities in Sydney"
+    },
+    {
+     "id": "chat-3",
+     "title": "Defending the picks: Beyond Oasis and Ghostbusters",
+     "topic": "Retro games (SNES and Mega Drive)"
+    },
+    {
+     "id": "chat-4",
+     "title": "Project check-in: Pi channel multicast",
+     "topic": "Raspberry Pi projects (music TV channel, multicast streaming)"
+    }
+   ]
+  }
+ ]
+}

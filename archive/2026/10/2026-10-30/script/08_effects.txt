@@ -1,0 +1,21 @@
+[warm] [excited] Effects time. [dreamy] And today, one of the most beautiful pieces of model-making ever put on film: the Los Angeles of Blade Runner, from nineteen eighty two.
+
+[curious] Picture the opening shot. [dreamy] A vast industrial landscape at night, stretching to the horizon, thousands of tiny lights, towers belching great balls of fire into the dark, flying cars drifting over it all. [impressed] It looks enormous. [short beat] [playful] It fitted on a tabletop. [punch] A big table, but still. [giggling while talking] Your dining table could have hosted the apocalypse.
+
+[enthusiastic] The effects were led by Douglas Trumbull, who'd already done two thousand and one and Close Encounters, with Richard Yuricich and David Dryer, and a model shop led by Mark Stetson. [calm] And the look of the whole world, the cars, the streets, the city, came from the designer Syd Mead, who called himself a "visual futurist".
+
+[warm] Let's go step by step through how they built that opening shot, which the crew called the Hades landscape. [calm] Step one, forced perspective. The buildings at the front of the table were bigger and more detailed, and they got smaller and simpler towards the back. So a few metres of table reads as dozens of kilometres of city. [thoughtful] Same trick as the hobbits in Lord of the Rings, just with factories.
+
+[calm] Step two, the buildings themselves. Many of the distant structures were flat cut-outs, made from thin etched brass. Etching means you can cut thousands of tiny windows and pipes and gantries very precisely, far finer than anyone could by hand. [impressed] And then they were lit from behind, with a huge number of tiny bulbs and fibre optics, so each little window glows. [warm] That's why the city sparkles like it does.
+
+[calm] Step three, the fire. Those flame bursts from the towers weren't on the model. They were filmed separately, as real fire, and added into the shot optically, on film, layer by layer.
+
+[enthusiastic] Step four, the camera. Trumbull's team used motion control, a camera on a computer-controlled rig that can repeat exactly the same move again and again. [thoughtful] And this is the clever part. They'd film the same move many times, one pass for the lit windows, one for the lights on the flying cars, one for the smoke and haze, and then combine them. [soft, knowing tone] Each pass could be exposed perfectly for just one thing. That's why the lights glow so richly, and the shadows stay so deep.
+
+[calm] Step five, the atmosphere. So much of Blade Runner's look is smoke, rain and haze. The miniatures were shot in smoke-filled rooms, which softens the light and gives that feeling of a city drowning in pollution. [dry] The model makers apparently spent a lot of time breathing it, too. [chuckles] Glamorous work.
+
+[curious] And then there's the Tyrell Corporation's headquarters, those two enormous pyramids, a miniature as well, with its own grid of lit windows. [warm] And the Spinner, the flying police car, was built as full-size props for the actors, and as miniatures in different sizes for the flying shots.
+
+[very quiet] [soft, gentle] [speaking slowly] [secretive, hushed] Okay... come closer. [pause] [hushed, slow] Here's a little secret the model makers liked to tell. [pause] [very quiet, soft, slow] Model makers love "kit-bashing", building detail from bits of other models. [short pause] And it's often told... [beat] that a model of the Millennium Falcon was hidden in the city, dressed up as part of a building. [long beat] [amused] [laughing tone] So keep your eyes open next time you watch it.
+
+[thoughtful] The practical lesson, for you. [warm] You don't need a model shop to use these ideas. Forced perspective works in your own filming: put something small close to the lens and something big far away, and the camera can't tell the difference. [calm] Layering works in Final Cut: shoot one thing at a time, perfectly exposed, and stack them. [excited] And it's exactly how you'd build depth in your game, too. Bigger, more detailed tiles at the front, simple silhouettes at the back, and a soft haze layer in between. [delighted] Instant scale. [teasing] For a farm, admittedly. [punch] A very small, very foggy, possibly haunted Los Angeles of radishes. [giggling while talking] I'd play it.

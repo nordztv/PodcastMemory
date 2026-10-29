@@ -2,7 +2,7 @@
 
 The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
-Last daily update: 2026-10-29
+Last daily update: 2026-10-30
 
 ## Main topics (top 25)
 
@@ -82,7 +82,6 @@ Last daily update: 2026-10-29
 | Stardew Valley | 20 | 2026-10-18 |  |
 | Travel video | 20 | 2026-10-18 |  |
 | Video encoding and bitrates (x264, remux sizes) | 20 | 2026-10-17 |  |
-| The Lord of the Rings films | 17 | 2026-10-11 |  |
 | 10GbE home networking | 15 | 2026-10-17 |  |
 | AI safety | 15 | 2026-10-26 |  |
 | Australian films | 15 | 2026-10-22 |  |
@@ -92,10 +91,11 @@ Last daily update: 2026-10-29
 | Magic: The Gathering Final Fantasy cards | 15 | 2026-10-17 |  |
 | One Nation and Pauline Hanson | 15 | 2026-10-22 |  |
 | PS1 emulation (DuckStation) | 15 | 2026-10-17 |  |
+| The Lord of the Rings films | 15 | 2026-10-11 |  |
 | Weekend activities in Sydney | 15 | 2026-10-26 |  |
 | Australian defence | 10 | 2026-10-23 |  |
 | Pi-hole | 10 | 2026-10-17 |  |
 | Street Fighter film | 10 | 2026-10-18 |  |
-| Stranger Things | 7 | 2026-10-10 |  |
 | Canadian politics | 5 | 2026-10-22 |  |
-| The NeverEnding Story | 2 | 2026-10-11 |  |
+| Stranger Things | 5 | 2026-10-10 |  |
+| The NeverEnding Story | 0 | 2026-10-11 |  |
