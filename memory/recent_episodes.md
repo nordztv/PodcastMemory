@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-10-30 (Friday)
 
-- **Length:** (filling in). Scheduled run at 8:30pm Thursday; script and sheet delivered about 9pm, audio rendered in the cloud. Week wrap-up.
+- **Length:** 83 min (11 chapters). Scheduled run at 8:30pm Thursday; script and sheet delivered about 9pm, audio rendered in the cloud and delivered about 9:20pm. Week wrap-up.
 - **World:** Israel count (85%+: Likud 26, Yashar 21, bloc 53 v 48, Arab-led 19; Likud "stolen" claim; formal results 4 Nov; up to 42 days); Spain Urda high-speed crash (68+ dead, safety system fault, "inexplicable" restart order); Fed holds 10-2 (Cook, Hammack wanted a hike; Warsh); Brent US$115.48.
 - **Australia and NSW:** Albanese on inflation (savings in MYEFO, no cuts to hospitals/schools), Hastie "silent tax", fuel +9.4% Sept; RBA Tue 3 Nov (4.60%); Coalition rejects EU FTA (Canavan), Greens favourable; SAS culture report summary (Binskin; Hastie: unlawful conduct "not in dispute"); estimates (ATO card ban, aged care override $11b); duty of care bill through the House; CHOGM next week. NSW: Southwest Metro opens (4:31am, every 4 min peak; Marrickville businesses hurt); regional road safety; Rouse Hill backpack arrests; Star pays fine in instalments.
 - **Tech:** Apple PROLED touchscreen MacBook Pro (M5 Pro/Max, US$2,899, A$4,599, stores 6 Nov); Samsung Q3 (195.3tn revenue, 107.4tn OP, HBM4 ~60%, 2027 sold out, shares slid); GPU prices up with memory; ASUS B70 EUR 1,799; Microsoft (Azure +48%) up, Alphabet (Cloud +103%, capex) down 7-10%; Nvidia Vera Rubin on Oracle; Ollama 0.40.12; Flight 15 static fires; quick hits (X-T6 Nov rumour, Gemini 4 Carbon, Apple Korea fine, Oracle, GitHub agents).
