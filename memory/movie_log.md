@@ -11,7 +11,13 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
-| 2026-10-29 | Godzilla Minus One (2023) | Takashi Yamazaki | Ryunosuke Kamiki, Minami Hamabe | Kaiju, Japan | Effects deep dive (small-team VFX) | | | |
+| 2026-10-30 | Blade Runner (1982) | Ridley Scott | Harrison Ford, Sean Young, Rutger Hauer, Daryl Hannah | Sci-fi noir, USA | Effects deep dive (Douglas Trumbull's miniatures) | | | |
+| 2026-10-30 | The Wailing (2016) | Na Hong-jin | Kwak Do-won, Hwang Jung-min, Jun Kunimura, Chun Woo-hee | Horror, South Korea | Director deep dive | | | |
+| 2026-10-30 | New Group (2026) | Yuta Shimotsu | | Horror, Japan | Movies segment recommendation (Shudder, 6 Nov) | | | |
+| 2026-10-30 | Best Wishes to All (2023) | Yuta Shimotsu | | Horror, Japan | Movies segment mention (Shudder watch party) | | | |
+| 2026-10-29 | Godzilla Minus One (2023) | Na Hong-jin | The Wailing (2016) | Chun Woo-hee, Kwak Do-won, Jun Kunimura | 2026-10-30 |
+| Yuta Shimotsu | New Group (2026, recommended); Best Wishes to All (mentioned) | | 2026-10-30 |
+| Takashi Yamazaki | Ryunosuke Kamiki, Minami Hamabe | Kaiju, Japan | Effects deep dive (small-team VFX) | | | |
 | 2026-10-29 | The Evil Dead (1981) | Sam Raimi | Bruce Campbell | Horror, USA | Director deep dive | | | |
 | 2026-10-29 | Ghostbusters (1984) | Ivan Reitman | Sigourney Weaver | Supernatural comedy, USA | Actress of the Month, Thursday (making-of) | | | |
 | 2026-10-28 | Ringu (1998) | Hideo Nakata | Nanako Matsushima, Hiroyuki Sanada, Rie Ino | Horror, Japan | Director deep dive | | | |
@@ -67,7 +73,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Bong Joon-ho | Memories of Murder (2003); The Host (2006, mentioned) | Song Kang-ho, Bae Doona | 2026-10-27 |
 | Peter Jackson | The Lord of the Rings (2001-03); The Two Towers Gollum deep dive | Andy Serkis | 2026-10-26 |
 | Johnnie To | Exiled (2006) | | 2026-10-22 |
-| Ridley Scott | Alien (1979) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
+| Ridley Scott | Alien (1979); Blade Runner (1982, effects deep dive 30 Oct) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
 | James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986, making-of 22 Oct) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis (also Road Games, mentioned 26 Oct), Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |

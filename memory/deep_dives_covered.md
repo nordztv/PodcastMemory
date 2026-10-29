@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-10-30 | Lore | Final Fantasy XIV's collapse and rebirth as A Realm Reborn |
+| 2026-10-30 | Game tech | Inventory and crafting systems (Stardew-style; Godot ItemData/Inventory/Recipe Resources, the nurikabe's radish cake) |
+| 2026-10-30 | Effects | Blade Runner (1982) miniatures |
+| 2026-10-30 | Director | Na Hong-jin's The Wailing |
+| 2026-10-30 | Workshop | Filming night lights and puddle reflections on the phone (lock exposure low, 24fps, warm lights / cool shadows) |
+| 2026-10-30 | Chat | Weekend send-off; project check-in: Raspberry Pi channel (ffmpeg multicast with -c copy, pre-encode, IGMP snooping, ErsatzTV/Tunarr) |
 | 2026-10-29 | Lore | The original World of Warcraft launch in 2004 |
 | 2026-10-29 | Game tech | Dialogue systems and branching conversations (Godot Resources, typewriter RichTextLabel, choice buttons, GameState flags) |
 | 2026-10-29 | Effects | Godzilla Minus One's small-team VFX |

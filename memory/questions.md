@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-10-30 | If you could add one brand new job to Final Fantasy XIV, what would it be, and what's its signature move? | Final Fantasy (series, lore, new releases) | Not yet | no |
+| 2026-10-30 | If your farm had one crafting recipe that only works at night, what would it make, and what's the strange ingredient no player would ever guess? | Godot and Scott's 2D game | Not yet | no |
+| 2026-10-30 | If your Pi channel ran a late-night horror block at midnight, what would it be called, and which music video opens it? | Raspberry Pi projects (music TV channel, multicast streaming) | Not yet | no |
 | 2026-10-29 | If you reserved one World of Warcraft Forever character tonight, what would the first and last name be? | Warcraft and Blizzard | Not yet | no |
 | 2026-10-29 | What's the very first thing Chen Stormstout says when the player walks up to his stall? | Godot and Scott's 2D game | Not yet | no |
 | 2026-10-29 | Did you get to watch Ghostbusters this week, and which ghost from the film would you most want haunting your farm? | Cult actresses and iconic characters | Not yet | no |

@@ -2,6 +2,23 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-10-30 (Friday)
+
+- **Length:** (filling in). Scheduled run at 8:30pm Thursday; script and sheet delivered about 9pm, audio rendered in the cloud. Week wrap-up.
+- **World:** Israel count (85%+: Likud 26, Yashar 21, bloc 53 v 48, Arab-led 19; Likud "stolen" claim; formal results 4 Nov; up to 42 days); Spain Urda high-speed crash (68+ dead, safety system fault, "inexplicable" restart order); Fed holds 10-2 (Cook, Hammack wanted a hike; Warsh); Brent US$115.48.
+- **Australia and NSW:** Albanese on inflation (savings in MYEFO, no cuts to hospitals/schools), Hastie "silent tax", fuel +9.4% Sept; RBA Tue 3 Nov (4.60%); Coalition rejects EU FTA (Canavan), Greens favourable; SAS culture report summary (Binskin; Hastie: unlawful conduct "not in dispute"); estimates (ATO card ban, aged care override $11b); duty of care bill through the House; CHOGM next week. NSW: Southwest Metro opens (4:31am, every 4 min peak; Marrickville businesses hurt); regional road safety; Rouse Hill backpack arrests; Star pays fine in instalments.
+- **Tech:** Apple PROLED touchscreen MacBook Pro (M5 Pro/Max, US$2,899, A$4,599, stores 6 Nov); Samsung Q3 (195.3tn revenue, 107.4tn OP, HBM4 ~60%, 2027 sold out, shares slid); GPU prices up with memory; ASUS B70 EUR 1,799; Microsoft (Azure +48%) up, Alphabet (Cloud +103%, capex) down 7-10%; Nvidia Vera Rubin on Oracle; Ollama 0.40.12; Flight 15 static fires; quick hits (X-T6 Nov rumour, Gemini 4 Carbon, Apple Korea fine, Oracle, GitHub agents).
+- **Games:** Phantom Blade Zero peak 431,541 on Steam; FFXIV Fan Fest keynote Sat 1pm (Evercold expected); WoW Forever filter bug fix, Warpath trailer, 10am 5 Nov, gold bans; Ocarina previews, Zelda Switch 2 A$799, Witchbrook 28 Jan; Cyberpunk 2.5 Switch 2 problems; Capcom sales, RE storyline within ten years; Capcom SNES classics rated in Korea; retro (Xanadu, Time Twist, Panzer Dragoon Saga PC, Super Station Pocket); yokai games (Ayakashi Fishing Folktails, Kitsune); quick hits (VF reveal after writing, Xbox reviews, PS Plus, Wolf Among Us, Shenmue 3 delay).
+- **Movies:** quiet US Halloween (Briarcliff); Korea (Chiikawa, Paradise Lost 2nd); Resident Evil tops China; Tokyo IFF (de Heer jury, Colony closes); New Group on Shudder 6 Nov; The Holy Boy trailer; Survive: The Game.
+- **Deep dives:** FFXIV's collapse and A Realm Reborn; inventory and crafting in Godot; Blade Runner's miniatures; Na Hong-jin's The Wailing. Workshop: night lights and puddle reflections on the phone.
+- **Weekend send-off:** awards (irony: Star; predictable: memory profits and GPU prices; patience: Xanadu translators); weekend with his son (EQ Markets, Sculpture by the Sea, Newtown Halloween Street Party, Darling Harbour Halloween, Maritime Museum; Powerhouse Parramatta 7 Nov); defending picks (Beyond Oasis homework, Ghostbusters).
+- **Project check-in:** Raspberry Pi channel, suggested one ffmpeg multicast channel with -c copy and VLC, pre-encode on the Mac with one live flagship channel, IGMP snooping and keeping multicast off Wi-Fi (bonus: ErsatzTV/Tunarr into Jellyfin).
+- **Challenge:** Five kilometres walk or run and sixty dumbbell shoulder presses (rate 4 of 7, 57%; 29 Oct unreported).
+- **Questions:** a new FFXIV job; a night-only crafting recipe; a midnight horror block on the Pi channel.
+- **Answer reaction:** none (no new answers).
+- **Weekly review:** second one; format_tuning updated; 3 proposals on the answer page (Yokai of the Week permanent, radish build-along, Played/Watched buttons).
+- **Follow up:** Amazon and Intel results, Virtua Fighter Crossroads character (Mon); FFXIV Fan Fest keynote 31 Oct; Ogaerito translation 31 Oct; Never After Dark 2 Nov; RBA and US midterms 3 Nov; Apple results 3 Nov AEDT; AMD and Israel formal results 4 Nov; Ocarina, WoW Forever, Godzilla Minus Zero (AU) 5 Nov; MacBook Pro and iPad mini, New Group on Shudder 6 Nov; Powerhouse Parramatta 7 Nov; EU FTA in the Senate; SAS report fallout; Israel coalition talks; Flight 15 date; X-T6 November; November actress (Japanese cult) Tue 3 Nov; new retro pick Mon 2 Nov.
+
 ## 2026-10-29 (Thursday)
 
 - **Length:** 81 min (11 chapters). Made on request in the chat on Wednesday evening (the schedule moved to 8:29pm and skipped that night's run). Fewer stories, more depth.

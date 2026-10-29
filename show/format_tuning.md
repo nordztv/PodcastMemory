@@ -16,12 +16,18 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 - Fewer topics, more depth (Scott's note, 28 Oct): about half the number of stories per segment, each told properly (background, both sides, why it matters, what's next), weighted to his main topics; drop minor stories rather than listing them. Reason: his 28 Oct answer-page note.
 - Yokai of the Week (Scott's note, 27 Oct): every Wednesday the chat features one yokai (what it is, the folklore, how it could work in his game, a sweet-spooky moment), building his knowledge of yokai names. Don't repeat a yokai. Reason: his answer-page note asking for one yokai a week (first: the nurikabe, 28 Oct).
 - Effects: after a 3 (27 Oct), go step by step through how each piece of the effect was physically built, and keep a clear practical lesson. Reason: 27 Oct effects score.
-- Keep as is (scored 5): world news round-up length, tech depth, games breadth, effects, workshop.
+- Lore: keep full length and story-led, tied to the week's news where possible (Fan Fest, WoW Forever). Reason: scored 5, 4, 5 this week (26-28 Oct), the most consistent section.
+- Workshop: keep it short, hands-on and doable that day or weekend (a shot list, a preset, one command). Reason: rose from 3 (26 Oct) to 4 (27 Oct) to 5 (28 Oct) after going practical.
+- Chat: keep building it around his own answers and the Wednesday yokai. Reason: 4, 4, then 5 on 28 Oct with Yokai of the Week and his nurikabe answer.
+- Game tech: connect each topic to something he already said about his game (the radish, the nurikabe's cake, Chen's stall) and end with the smallest buildable step. Reason: steady 4s and 5s, and his answers keep coming back to the game.
+- Australian procedural stories (MP security reviews, bill debates without a vote): one or two lines unless there's a decision. Reason: the week's only dislike (27 Oct) was the MP security/cartoons/duty of care item.
+- Keep as is: world news round-up length, tech depth, games breadth, effects step by step, fewer stories with more depth.
 
 ## Change log
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-10-30 | Lore kept full and news-linked; workshop kept practical; chat around his answers and yokai; game tech tied to his own game ideas; Australian procedural items trimmed | 26-28 Oct section scores (lore 5/4/5, workshop 3/4/5, chat 4/4/5) and the 27 Oct dislike |
 | 2026-10-29 (midweek) | Fewer topics, more depth | 28 Oct note |
 | 2026-10-28 (midweek) | Yokai of the Week added to the Wednesday chat; effects made more step-by-step | 27 Oct note and effects score of 3 |
 | 2026-10-26 | Quick hits in tech and games; retro gaming projects in games; striking characters and scenes noted (classy) | Weekly review c1 approved; 23 Oct note; weekly review comment |
