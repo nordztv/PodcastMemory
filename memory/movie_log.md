@@ -15,9 +15,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-10-30 | The Wailing (2016) | Na Hong-jin | Kwak Do-won, Hwang Jung-min, Jun Kunimura, Chun Woo-hee | Horror, South Korea | Director deep dive | | | |
 | 2026-10-30 | New Group (2026) | Yuta Shimotsu | | Horror, Japan | Movies segment recommendation (Shudder, 6 Nov) | | | |
 | 2026-10-30 | Best Wishes to All (2023) | Yuta Shimotsu | | Horror, Japan | Movies segment mention (Shudder watch party) | | | |
-| 2026-10-29 | Godzilla Minus One (2023) | Na Hong-jin | The Wailing (2016) | Chun Woo-hee, Kwak Do-won, Jun Kunimura | 2026-10-30 |
-| Yuta Shimotsu | New Group (2026, recommended); Best Wishes to All (mentioned) | | 2026-10-30 |
-| Takashi Yamazaki | Ryunosuke Kamiki, Minami Hamabe | Kaiju, Japan | Effects deep dive (small-team VFX) | | | |
+| 2026-10-29 | Godzilla Minus One (2023) | Takashi Yamazaki | Ryunosuke Kamiki, Minami Hamabe | Kaiju, Japan | Effects deep dive (small-team VFX) | | | |
 | 2026-10-29 | The Evil Dead (1981) | Sam Raimi | Bruce Campbell | Horror, USA | Director deep dive | | | |
 | 2026-10-29 | Ghostbusters (1984) | Ivan Reitman | Sigourney Weaver | Supernatural comedy, USA | Actress of the Month, Thursday (making-of) | | | |
 | 2026-10-28 | Ringu (1998) | Hideo Nakata | Nanako Matsushima, Hiroyuki Sanada, Rie Ino | Horror, Japan | Director deep dive | | | |
@@ -58,6 +56,8 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Na Hong-jin | The Wailing (2016) | Chun Woo-hee, Kwak Do-won, Jun Kunimura | 2026-10-30 |
+| Yuta Shimotsu | New Group (2026, recommended); Best Wishes to All (mentioned) | | 2026-10-30 |
 | Takashi Yamazaki | Godzilla Minus One (2023) | | 2026-10-29 |
 | Sam Raimi | The Evil Dead (1981) | | 2026-10-29 |
 | Hideo Nakata | Ringu (1998) | Nanako Matsushima | 2026-10-28 |
