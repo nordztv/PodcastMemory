@@ -11,6 +11,10 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
+| 2026-11-02 | Top Gun: Maverick (2022) | Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
+| 2026-11-02 | Se7en (1995) | David Fincher | Brad Pitt, Morgan Freeman, Gwyneth Paltrow | Crime thriller, USA | Director deep dive | | | |
+| 2026-11-02 | Police Story (1985) and trilogy | Jackie Chan | Jackie Chan, Maggie Cheung | Action, Hong Kong | Movies segment mention (Eureka 4K SteelBook, 18 Jan) | | | |
+| 2026-11-02 | Wheels on Meals (1984) | Sammo Hung | Jackie Chan, Sammo Hung, Yuen Biao | Kung fu comedy, Hong Kong | Movies segment mention (Eureka 4K, 23 Nov) | | | |
 | 2026-10-30 | Blade Runner (1982) | Ridley Scott | Harrison Ford, Sean Young, Rutger Hauer, Daryl Hannah | Sci-fi noir, USA | Effects deep dive (Douglas Trumbull's miniatures) | | | |
 | 2026-10-30 | The Wailing (2016) | Na Hong-jin | Kwak Do-won, Hwang Jung-min, Jun Kunimura, Chun Woo-hee | Horror, South Korea | Director deep dive | | | |
 | 2026-10-30 | New Group (2026) | Yuta Shimotsu | | Horror, Japan | Movies segment recommendation (Shudder, 6 Nov) | | | |
@@ -56,6 +60,8 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Joseph Kosinski | Top Gun: Maverick (2022) | | 2026-11-02 |
+| David Fincher | Se7en (1995) | | 2026-11-02 |
 | Na Hong-jin | The Wailing (2016) | Chun Woo-hee, Kwak Do-won, Jun Kunimura | 2026-10-30 |
 | Yuta Shimotsu | New Group (2026, recommended); Best Wishes to All (mentioned) | | 2026-10-30 |
 | Takashi Yamazaki | Godzilla Minus One (2023) | | 2026-10-29 |

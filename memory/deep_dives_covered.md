@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-02 | Lore | Secret of Mana: making-of |
+| 2026-11-02 | Game tech | Save systems and data design for RPGs (persist group, Dictionaries, JSON via FileAccess to user://, version number, save on sleep, save the radish counter and seed) |
+| 2026-11-02 | Effects | Top Gun: Maverick's real cockpit filming |
+| 2026-11-02 | Director | Fincher's Se7en |
+| 2026-11-02 | Workshop | Git version control for the Godot project |
+| 2026-11-02 | Chat | Where cut content goes; October monthly check-in |
+| 2026-11-02 | Retro | Demon's Crest recommended (SNES) |
 | 2026-10-30 | Lore | Final Fantasy XIV's collapse and rebirth as A Realm Reborn |
 | 2026-10-30 | Game tech | Inventory and crafting systems (Stardew-style; Godot ItemData/Inventory/Recipe Resources, the nurikabe's radish cake) |
 | 2026-10-30 | Effects | Blade Runner (1982) miniatures |

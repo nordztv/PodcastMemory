@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-10-30 | If you could add one brand new job to Final Fantasy XIV, what would it be, and what's its signature move? | Final Fantasy (series, lore, new releases) | Not yet | no |
-| 2026-10-30 | If your farm had one crafting recipe that only works at night, what would it make, and what's the strange ingredient no player would ever guess? | Godot and Scott's 2D game | Not yet | no |
-| 2026-10-30 | If your Pi channel ran a late-night horror block at midnight, what would it be called, and which music video opens it? | Raspberry Pi projects (music TV channel, multicast streaming) | Not yet | no |
+| 2026-11-02 | In Demon's Crest, each crest turns Firebrand into a new form. If the hero of your game found one crest that changed their form, what would it turn them into, and what could that form do on the farm? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-02 | If you could give one film the full treatment, a new scan from the original negative and a director-approved 4K, which film would it be, and what's the one extra you'd want on the disc? | 4K Blu-ray, physical media and restorations | Not yet | no |
+| 2026-11-02 | For November, what would you like more of on the show, and what would you like less of? | Morning Briefing itself (monthly check-in) | Not yet | no |
+| 2026-10-30 | If you could add one brand new job to Final Fantasy XIV, what would it be, and what's its signature move? | Final Fantasy (series, lore, new releases) | 2026-10-30 (answer page): "Necromancer, corpse explosion" | 2026-11-02 |
+| 2026-10-30 | If your farm had one crafting recipe that only works at night, what would it make, and what's the strange ingredient no player would ever guess? | Godot and Scott's 2D game | 2026-10-30 (answer page): "Moon-cakes, tears from stars" | 2026-11-02 (suggestion given: falling-star night event, star tear items, night_only recipe flag) |
+| 2026-10-30 | If your Pi channel ran a late-night horror block at midnight, what would it be called, and which music video opens it? | Raspberry Pi projects (music TV channel, multicast streaming) | 2026-10-30 (answer page): "Sailors Sorrows, the monster mash" | 2026-11-02 |
 | 2026-10-29 | If you reserved one World of Warcraft Forever character tonight, what would the first and last name be? | Warcraft and Blizzard | Not yet | no |
 | 2026-10-29 | What's the very first thing Chen Stormstout says when the player walks up to his stall? | Godot and Scott's 2D game | Not yet | no |
 | 2026-10-29 | Did you get to watch Ghostbusters this week, and which ghost from the film would you most want haunting your farm? | Cult actresses and iconic characters | Not yet | no |
