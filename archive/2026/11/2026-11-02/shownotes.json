@@ -1,0 +1,528 @@
+{
+ "date": "2026-11-02",
+ "weekday": "Monday",
+ "length": "",
+ "headline": "Iran's warning before the midterms, a rate rise all but certain, Intel's worst day since 1974, FFXIV Evercold's delay and the Zephyr, and Demon's Crest",
+ "challenge": "Thirty five push-ups and fifty bodyweight squats, in as many sets as you like, across the day (completion rate so far: 5 of 8, 62%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Iran's leader orders an unrestrained response; Hormuz tankers hit",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/attacks-on-iran-should-be-met-without-restraint-khamenei-orders/107332392"
+      }
+     ]
+    },
+    {
+     "title": "US midterms on Tuesday",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-27/us-midterms-trump-explained-2026/107202804"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/susan-collins-distances-from-donald-trump-midterm-elections/107331256"
+      }
+     ]
+    },
+    {
+     "title": "Israel: Arab parties as kingmakers",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/israel-election-leaves-anti-netanyahu-arab-parties-kingmakers/107326622"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/israel-election-netanyahu-ultra-orthodox-palestinian-vote-bloc/107327994"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine: Oleshky evacuation and Patriot sale",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/evacuees-from-russian-occupied-oleshky-arrive-in-ukraine/107332470"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652"
+      }
+     ]
+    },
+    {
+     "title": "Spain crash toll 69; two Australians unaccounted for",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/two-australians-unaccounted-for-after-deadly-spain-train-crash-morning-news-bulletin-31october-2026/7wlqpw5py"
+      }
+     ]
+    },
+    {
+     "title": "Sydney weather and the walk",
+     "links": [
+      {
+       "label": "BOM",
+       "url": "https://www.bom.gov.au/places/nsw/north-sydney/forecast/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "RBA set to hike to 4.85%; savings accounts lag",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/interest-rate-myefo-albanese-armstrong-analysis-economy/107327460"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/rba-interest-hike-impact-on-high-interest-savings-accounts/107197290"
+      }
+     ]
+    },
+    {
+     "title": "Albanese at CHOGM; Security Council bid",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/albanese-arrives-at-chogm-evening-news-bulletin-1-november-2026/zxfw0qrr4"
+      }
+     ]
+    },
+    {
+     "title": "Liberal push to rule out super changes",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948"
+      }
+     ]
+    },
+    {
+     "title": "Labor and One Nation staffer row",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/labor-denies-it-tried-to-lure-one-nation-mp-david-farley/bblstrdfr"
+      }
+     ]
+    },
+    {
+     "title": "Victoria Barracks up for sale",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-01/victoria-barracks-sydney-history-future-museum-speaks-out/107318758"
+      }
+     ]
+    },
+    {
+     "title": "NSW gun buyback starts today",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/nsw-first-to-get-national-gun-buyback-underway"
+      }
+     ]
+    },
+    {
+     "title": "Southwest Metro's first days, and the chimes",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/southwest-metro-train-has-left-station"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Intel beats, then has its worst day since 1974",
+     "links": [
+      {
+       "label": "Intel results (StockTitan)",
+       "url": "https://www.stocktitan.net/news/INTC/intel-reports-third-quarter-2026-financial-45kjlqvhkaar.html"
+      },
+      {
+       "label": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+      },
+      {
+       "label": "Motley Fool",
+       "url": "https://fool.com/investing/2026/10/30/why-intel-stock-crashed-on-friday"
+      }
+     ]
+    },
+    {
+     "title": "Amazon: AWS up 39%, free cash flow negative",
+     "links": [
+      {
+       "label": "GeekWire",
+       "url": "https://www.geekwire.com/2026/aws-growth-hits-39-its-fastest-in-nearly-five-years-as-amazon-misses-on-earnings/"
+      }
+     ]
+    },
+    {
+     "title": "Kospi slides; SK Hynix and Samsung fall",
+     "links": [
+      {
+       "label": "Seoul Economic Daily",
+       "url": "https://en.sedaily.com/news/2026/10/30/kospi-plunges-35-percent-on-alphabet-shock-samsung-chip"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia dips on 'circular financing' fears",
+     "links": [
+      {
+       "label": "Motley Fool",
+       "url": "https://fool.com/investing/2026/10/30/why-nvidia-stock-took-a-dive-today"
+      }
+     ]
+    },
+    {
+     "title": "Apple results Tuesday; iPhone Duo 'crackgate'",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2"
+      },
+      {
+       "label": "MacRumors",
+       "url": "https://macrumors.com/2026/10/26/iphone-duo-crack-apple-response"
+      }
+     ]
+    },
+    {
+     "title": "Mistral Large 4 open weights",
+     "links": [
+      {
+       "label": "The Next Web",
+       "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: AMD Wednesday, Starship NET 8 Nov, TSMC buys AUO plant, Tesla China finance, US-China truce",
+     "links": [
+      {
+       "label": "Neoteo",
+       "url": "https://neoteo.com/en/auo-approves-nt388-billion-taichung-plant-sale-to-tsmc"
+      },
+      {
+       "label": "CnEVPost",
+       "url": "https://cnevpost.com/2026/10/30/tesla-launches-new-financing-plan-china"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "FFXIV Evercold delayed to 23 Feb; Zephyr revealed; FF7 raid",
+     "links": [
+      {
+       "label": "MMORPG.com",
+       "url": "https://www.mmorpg.com/features/all-the-details-from-ffxivs-fan-fest-tokyo-keynote-2000139232"
+      },
+      {
+       "label": "TheSixthAxis",
+       "url": "https://www.thesixthaxis.com/2026/10/31/final-fantasy-xiv-fanfest-in-tokyo-reveals-new-job-full-trailer-and-more/"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever Thursday 10am",
+     "links": [
+      {
+       "label": "Blizzard",
+       "url": "https://worldofwarcraft.blizzard.com/en-us/news/24302093"
+      }
+     ]
+    },
+    {
+     "title": "Virtua Fighter Crossroads: Lionel Rafale",
+     "links": [
+      {
+       "label": "Anime News Network",
+       "url": "https://www.animenewsnetwork.com/news/2026-10-30/virtua-fighter-crossroads-game-reveals-character-lionel-rafale-in-trailer/.243357"
+      }
+     ]
+    },
+    {
+     "title": "Phantom Blade Zero peaks at 731,000",
+     "links": [
+      {
+       "label": "Game World Observer",
+       "url": "https://gameworldobserver.com/2026/10/30/phantom-blade-zero-peaks-at-over-731k-concurrent-players-at-launch-marking15th-highest-result-in-steam-history"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina reviews due midweek",
+     "links": [
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Metacritic-reveals-Zelda-Ocarina-of-Time-review-embargo-as-release-date-approaches.1438321.0.html"
+      }
+     ]
+    },
+    {
+     "title": "The Curse of Ogaerito translation is out",
+     "links": [
+      {
+       "label": "Romhack Plaza",
+       "url": "https://romhackplaza.org/index.php/translations/the-curse-of-ogaerito-english-translation-playstation"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Pikmin Day, Duskbloods delay, TES VI report, RE exhibition, Jaleco collection, SGBC",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/"
+      }
+     ]
+    },
+    {
+     "title": "Retro Game of the Week: Demon's Crest",
+     "links": [
+      {
+       "label": "Den of Geek",
+       "url": "https://www.denofgeek.com/games/demons-crest-forgotten-ghost-n-goblins-game-is-a-hidden-classic"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Godzilla Minus Zero: Tokyo, IMAX, Thursday in Australia",
+     "links": [
+      {
+       "label": "Rotten Tomatoes",
+       "url": "https://editorial.rottentomatoes.com/article/godzilla-minus-zero-first-reviews/"
+      },
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/"
+      }
+     ]
+    },
+    {
+     "title": "A quiet Halloween box office",
+     "links": [
+      {
+       "label": "Deadline",
+       "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+      }
+     ]
+    },
+    {
+     "title": "Eureka: Wheels on Meals and Police Story 4K",
+     "links": [
+      {
+       "label": "Eureka",
+       "url": "https://eurekavideo.co.uk/category/news/"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39080"
+      }
+     ]
+    },
+    {
+     "title": "Colony 4K; Parasite on Criterion 4K",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/news/595641/yeon-sang-hos-zombie-film-colony-infects-4k-uhd-blu-ray-this-december/"
+      },
+      {
+       "label": "The Film Stage",
+       "url": "https://thefilmstage.com/the-criterion-collections-january-2027-lineup-features-claire-denis-mike-leigh-and-deliverance-on-4k/"
+      }
+     ]
+    },
+    {
+     "title": "The Invisible Half sells at TIFFCOM",
+     "links": [
+      {
+       "label": "Screen Daily",
+       "url": "https://www.screendaily.com/news/est-n8-closes-multiple-deals-on-j-horror-the-invisible-half-including-north-america/5221938.article"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "The making of Secret of Mana",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "A save system for your game (persist group, JSON, version number, save on sleep)",
+     "links": [
+      {
+       "label": "Godot docs: saving games",
+       "url": "https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Top Gun: Maverick's real cockpit filming",
+     "links": [
+      {
+       "label": "TechRadar",
+       "url": "https://www.techradar.com/news/top-gun-maverick-director-reveals-mind-boggling-number-of-cameras-used-on-set"
+      },
+      {
+       "label": "The Ringer",
+       "url": "https://www.theringer.com/movies/2022/5/24/23137965/top-gun-maverick-training-tom-cruise"
+      },
+      {
+       "label": "VFX Voice",
+       "url": "https://vfxvoice.com/top-gun-maverick-soars-to-the-next-level-to-match-live-action-and-cg/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "David Fincher's Se7en",
+     "links": [
+      {
+       "label": "ASC",
+       "url": "https://theasc.com/articles/book-excerpt-conversations-with-darius-khondji"
+      },
+      {
+       "label": "Art of the Title",
+       "url": "https://www.artofthetitle.com/title/se7en/"
+      },
+      {
+       "label": "Box Office Mojo",
+       "url": "https://www.boxofficemojo.com/title/tt0114369.htm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Git for your Godot project in ten minutes",
+     "links": [
+      {
+       "label": "Godot docs: version control",
+       "url": "https://docs.godotengine.org/en/stable/tutorials/best_practices/version_control_systems.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Where cut content goes",
+     "links": []
+    },
+    {
+     "title": "Monthly check-in: October's topics",
+     "links": []
+    },
+    {
+     "title": "Your answers and a suggestion: star tears on lucky nights",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "Demon's Crest (SNES, Capcom, 1994)",
+   "note": "Play Firebrand, collect elemental crests to change form, fly a Mode 7 overworld; a couple of hours for a straight run, longer for the best ending. In the Nintendo Switch Online SNES library.",
+   "links": [
+    {
+     "label": "Den of Geek",
+     "url": "https://www.denofgeek.com/games/demons-crest-forgotten-ghost-n-goblins-game-is-a-hidden-classic"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Se7en (1995)",
+   "note": "Fincher, Khondji's CCE look, Kyle Cooper's titles; restored from the negative at 8K.",
+   "links": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2025/film/features/david-fincher-se7en-4k-restoration-alien-3-1236263980"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Top Gun: Maverick (2022)",
+   "note": "Six Sony Venice cameras per jet, actors in the back seat.",
+   "links": []
+  }
+ ],
+ "questions": [
+  "In Demon's Crest, each crest turns Firebrand into a new form. If the hero of your game found one crest that changed their form, what would it turn them into, and what could that form do on the farm?",
+  "If you could give one film the full treatment, a new scan from the original negative and a director-approved 4K, which film would it be, and what's the one extra you'd want on the disc?",
+  "For November, what would you like more of on the show, and what would you like less of?"
+ ]
+}

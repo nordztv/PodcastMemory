@@ -14,7 +14,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 - Retro gaming projects (decomps, recomps, emulators, mods, fan translations) get a regular spot in games. Reason: his 23 Oct note.
 - Quick hits at the end of tech and games (now in the bible). Reason: c1 approved.
 - Fewer topics, more depth (Scott's note, 28 Oct): about half the number of stories per segment, each told properly (background, both sides, why it matters, what's next), weighted to his main topics; drop minor stories rather than listing them. Reason: his 28 Oct answer-page note.
-- Yokai of the Week (Scott's note, 27 Oct): every Wednesday the chat features one yokai (what it is, the folklore, how it could work in his game, a sweet-spooky moment), building his knowledge of yokai names. Don't repeat a yokai. Reason: his answer-page note asking for one yokai a week (first: the nurikabe, 28 Oct).
+- Yokai of the Week: now a permanent Wednesday feature in the bible (c1 approved, 31 Oct).
 - Effects: after a 3 (27 Oct), go step by step through how each piece of the effect was physically built, and keep a clear practical lesson. Reason: 27 Oct effects score.
 - Lore: keep full length and story-led, tied to the week's news where possible (Fan Fest, WoW Forever). Reason: scored 5, 4, 5 this week (26-28 Oct), the most consistent section.
 - Workshop: keep it short, hands-on and doable that day or weekend (a shot list, a preset, one command). Reason: rose from 3 (26 Oct) to 4 (27 Oct) to 5 (28 Oct) after going practical.

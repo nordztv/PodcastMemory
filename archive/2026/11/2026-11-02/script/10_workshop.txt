@@ -1,0 +1,15 @@
+[warm] [happy] Workshop time. [delighted] And this week it's Godot, and it pairs perfectly with the save system: a save system for your whole project. [curious] Version control, with Git, in about ten minutes.
+
+[thoughtful] Here's why. You're about to start changing a lot of things: inventory, dialogue, saving, the radish. [serious] One day, something will break, and you won't remember what you changed. [calm] Git takes a snapshot of your project every time you ask, so you can always go back. [teasing] It's like a save file for the developer. [punch] So when the radish monster eats your code, you just load. [giggling while talking] I'm sorry. I'm committed to the radish.
+
+[happy] Step one: in Godot, open your project, go to the Project menu, then Version Control, and choose the option to create the version control metadata. [calm] Godot writes two small files for you: a dot gitignore and a dot gitattributes. [thoughtful] The important one is the gitignore. It tells Git to skip the hidden dot godot folder, which is just Godot's cache of imported files, and can be rebuilt any time. [warm] Without it, you'd be saving thousands of files you don't need.
+
+[happy] Step two: open Terminal in your project folder and type git init. [calm] Then git add, a space and a full stop, to add everything, and then git commit, dash m, and a message in quotes, like "before the radish". [soft, knowing tone] That's your first snapshot.
+
+[happy] Step three: put it somewhere safe. Make a new private repository on GitHub, and follow the two lines it shows you to push your project up. [calm] Now your game {lives|livz} on your Mac and in the cloud. [teasing] And, if you insist, on the home server as well. [punch] Belt, braces, and a second belt. [giggling while talking] I know you. You'll want the second belt.
+
+[happy] Step four: the habit. [encouraging] Commit before every big change, and after every little win. "Radish counter works." "Radish chases player." "Radish no longer chases player through walls." [warm] Small commits with honest messages are the best gift you can give future you.
+
+[thoughtful] And one tip for later: if you want to try something risky, like a new combat system, make a branch first, with git switch, dash c, and a name. [calm] If it works, keep it. If it doesn't, switch back, and it's like it never happened.
+
+[warm] So tonight, if you've got ten minutes: the Version Control menu, git init, one commit, and a private repository. [soft, knowing tone] Your radish will thank you. [teasing] Eventually. [giggling while talking] After it's done chasing you.

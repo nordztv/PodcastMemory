@@ -20,6 +20,8 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 - Monster from another sphere (26 Oct): "murlocs from world of warcraft. i love the noise those things make."
 
+- Night-only crafting recipe (30 Oct): "Moon-cakes, tears from stars".
+
 ## Characters and merchants
 - Nurikabe (28 Oct): "i would make him barrier between treasure so you would need to make him a recipe of a cake or something."
 - Travelling merchant (23 Oct): Chen Stormstout (Warcraft), selling Stout and telling jokes about being hungry.
@@ -30,10 +32,13 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - Progress (26 Oct, built box): "I didnt really work on any project but the podcast. i really want to add the raddish to my game though, i just need to find the time to do it."
 - Bullet time (23 Oct): he wouldn't add it.
 
+## Radish build-along (f1 approved 31 Oct; one step each Friday)
+- Steps: 1 pull counter, 2 spawn, 3 chase, 4 tiers (palette rows), 5 game over screen, 6 polish.
+- Given: none yet (first step due Friday 6 Nov). Done: none reported.
+
 ## Open questions from the show (not answered yet)
 - Signature item and what it lets the player do (19 Oct).
 - Chen Stormstout's first line at his stall (29 Oct).
-- A night-only crafting recipe and its strange ingredient (30 Oct).
 
 ## Suggestions the show has given
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
