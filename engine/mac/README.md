@@ -4,7 +4,7 @@ Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Sc
 
 - There is no schedule (Scott's choice, confirmed 27 Oct 2026): run the one command below in Terminal, or double-click **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
 - It records the full episode with chapter markers (`engine/build_episode.sh`, the same build the cloud uses) and copies the MP3 plus the answer sheet into iCloud Drive > Morning Briefing, with a notification.
-- The voice and its moods are set in `engine/tts.py` (shared with the cloud). The scripts' delivery tags are mapped to Kokoro's moods automatically.
+- The voice and its moods are set in `engine/tts.py` (shared with the cloud). The scripts' delivery tags are mapped to Kokoro's six moods automatically, and same-mood sentences are rendered together in paragraph-sized chunks (2 Nov 2026), so a `git pull` gives the Mac the same improvements.
 - It keeps the Mac awake while it records, but closing the lid on battery will pause it.
 
 ## One-time setup
