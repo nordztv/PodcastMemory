@@ -2,6 +2,9 @@
 
 Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (Secret of Mana meets Stardew Valley), in his words where possible, so he has one place to design from. Started 26 Oct 2026 (weekly review f1, approved). Updated by the daily run from his answers, notes, the "What I built this week" box and chats. Scott can edit anything here. Never delete his ideas.
 
+## Status
+- 2 Nov 2026: Scott scrapped his game_prototype project to start again, but wants everything about it remembered (this whole notebook is kept). He wants the radish monster and the yokai ideas carried into the new game: keep recommending them.
+
 ## The pitch
 - A 2D top-down action RPG in Godot 4 on his MacBook Pro: Secret of Mana meets Stardew Valley (chose Godot over SpriteKit).
 
@@ -34,7 +37,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 ## Radish build-along (f1 approved 31 Oct; one step each Friday)
 - Steps: 1 pull counter, 2 spawn, 3 chase, 4 tiers (palette rows), 5 game over screen, 6 polish.
-- Given: none yet (first step due Friday 6 Nov). Done: none reported.
+- Given: none yet (first step due Friday 6 Nov, in the new project). Done: none reported.
 
 ## Open questions from the show (not answered yet)
 - Signature item and what it lets the player do (19 Oct).
