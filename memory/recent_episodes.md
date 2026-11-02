@@ -2,6 +2,20 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-11-03 (Tuesday)
+
+- **Length:** (rendering). Scheduled run at 8:30pm Monday; script and sheet delivered about 8:55pm; audio rendered in the cloud.
+- **World (shorter, per his feedback):** US midterms eve (Stevens endorses Rogers, Schumer "despicable betrayal"; Alaska certification suit dismissed; 20,000+ California ballots; Texas $500m+); Iran (Trump "one or two sites", Vance letter to Rezaei "tone completely changed", blockade stays, limpet mine); German youth protests (Frankfurt 100+ police hurt, 54 arrests; Paris petrol bomb probe; Dobrindt blame).
+- **Australia and NSW:** RBA today (>80% odds, 4.85%, highest since 2008; Sept trimmed mean 1% v 0.8; Westpac $6.8b, "elevated into 2027"; Cotality -1.2% Oct, 7th fall, -6.7% from peak, Oliver -15%); Gallagher "no area exempt", spending 26.9% GDP, battery rebate $7.2b, Chalmers -16; Albanese to ask Burnham to restore regional work for UK backpackers (47k -> ~80k; Taylor "desperate"); Canavan for Capricornia (Hanson not running); McKinnon Index (30.5% trust, 1 in 4 young men). NSW: gun buyback day one (331 appointments, 2,430 guns, stations full); pen-and-paper NAPLAN push (Car); Armed Response Command (250 officers, $94.3m); Havilah denies wrongdoing.
+- **Tech:** Kospi +2.24% (Hynix +3.8%, Samsung +1.8%), TSMC -1.7%, Kioxia -15.8% (flat Dec-qtr guide, NAND prices mid-20s% v ~70%); Tokyo Electron +5%; Apple results Tue ~8:30am AEDT (~$113.4b, margin watch 46.5%); AMD Wed 9am, Qualcomm/Arm Thu; Kimi K3.1 Pro weights 4 Nov (huge); Liquid LFM3 ~2B GGUF; Starship Flight 15 now 12 Nov, catch both stages; quick hits (Radeon price rise report, SanDisk, Foxconn, X-T6).
+- **Games:** Nagoshi Studio dissolved (Gang of Dragon fate unclear); Phantom Blade Zero 4M in 72h; Ocarina (pre-load 24.5GB, eight new things, mic ocarina, leak warning); WoW Forever (names end today, Oceanic RP bug, controller support/Helix hint); Xbox -2% content, Turn 10 into Playground; Persona remake leak (rumour); Mega Man Cook Man; retro (Glitch Boy, Shining Wind sequel saved, Corpse Party Rebuilt+, Dead of the Brain on Steam); quick hits (Death Stranding Isolations, Petit Planet, Warzone X1, Kirby Air Riders, World of Horror). Demon's Crest: he played it (mixed), Beyond Oasis (liked).
+- **Movies:** Godzilla Day, Minus Zero opens in Japan (Min Tanaka, 2h15, tagline); US Halloween weekend details (YCSE $63.9m on $7m, Wicker #4, Clayface -57%, $56m total); Mouthwashing film (Kusama, Derrickson); Ripcord winner; Patrick Stewart dies at 86; TIFF winners Wed. Actress of the Month: Meiko Kaji introduced; Tuesday pick Lady Snowblood (1973).
+- **Deep dives:** Metal Gear Solid 3; day-night lighting in Godot; Mission: Impossible cliff jump; John Woo's Hard Boiled. Workshop: TrueNAS SMART tests and alerts. Chat: guardian tigers (Byakko, cat-faced tigers).
+- **Challenge:** Sixty dumbbell bicep curls and a ninety second plank (rate 5 of 9, 56%; 2 Nov missed).
+- **Questions:** a weapon hidden in a farm object; one thing to eat from a game's world; the goblin leader's name and wish.
+- **Answer reaction:** 2 Nov answers (tiger crest, NeverEnding Story 4K, less world/more games and movies); suggestion: CrestData + Area2D roar scaring goblins. Thanked for lore 5; workshop 3 noted.
+- **Follow up:** RBA decision and Apple results Tue 3 Nov; US midterm results, AMD, Israel official results, Evercold pre-orders, Kimi weights, TIFF awards Wed 4 Nov; Ocarina reviews midweek; Ocarina, WoW Forever, Godzilla Minus Zero (AU), Qualcomm/Arm, BoE Thu 5 Nov; MacBook Pro in stores, New Group on Shudder, first radish build-along step Fri 6 Nov; X-T6 announcement (rumoured Nov); Starship Flight 15 12 Nov; Nvidia 17 Nov; Victoria Barracks move-out 17 Nov; Albanese-Burnham backpacker talks; Canavan preselection; Gang of Dragon fate; Lady Snowblood making-of Thu; Demon's Crest retrospective Wed (ask why mixed).
+
 ## 2026-11-02 (Monday)
 
 - **Length:** 91 min (11 chapters). Scheduled run at 8:30pm Sunday; script and sheet delivered about 9pm; audio rendered in the cloud.

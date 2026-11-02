@@ -11,7 +11,13 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
 | Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
 | Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
-| 2026-11-02 | Top Gun: Maverick (2022) | Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
+| 2026-11-03 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Tuesday (Kaji introduced) | | | |
+| 2026-11-03 | Mission: Impossible - Dead Reckoning Part One (2023) | Christopher McQuarrie | Tom Cruise, Hayley Atwell, Rebecca Ferguson | Action, USA | Effects deep dive (motorbike cliff jump) | | | |
+| 2026-11-03 | Hard Boiled (1992) | John Woo | Chow Yun-fat, Tony Leung Chiu-wai | Action/crime, Hong Kong | Director deep dive (hidden lift cut, multi-speed cameras) | | | |
+| 2026-11-02 | Top Gun: Maverick (2022) | Toshiya Fujita | Lady Snowblood (1973) | Meiko Kaji (Actress of the Month, Nov 2026; also Stray Cat Rock: Delinquent Girl Boss) | 2026-11-03 |
+| Christopher McQuarrie | Mission: Impossible - Dead Reckoning Part One (2023) | | 2026-11-03 |
+| John Woo | Hard Boiled (1992) | | 2026-11-03 |
+| Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
 | 2026-11-02 | Se7en (1995) | David Fincher | Brad Pitt, Morgan Freeman, Gwyneth Paltrow | Crime thriller, USA | Director deep dive | | | |
 | 2026-11-02 | Police Story (1985) and trilogy | Jackie Chan | Jackie Chan, Maggie Cheung | Action, Hong Kong | Movies segment mention (Eureka 4K SteelBook, 18 Jan) | | | |
 | 2026-11-02 | Wheels on Meals (1984) | Sammo Hung | Jackie Chan, Sammo Hung, Yuen Biao | Kung fu comedy, Hong Kong | Movies segment mention (Eureka 4K, 23 Nov) | | | |
@@ -25,7 +31,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-10-28 | Ringu (1998) | Hideo Nakata | Nanako Matsushima, Hiroyuki Sanada, Rie Ino | Horror, Japan | Director deep dive | | | |
 | 2026-10-28 | An American Werewolf in London (1981) | John Landis | David Naughton, Griffin Dunne, Jenny Agutter | Horror comedy, UK/USA | Effects deep dive (Rick Baker transformation) | | | |
 | 2026-10-28 | Ghost in the Cell (2026) | Joko Anwar | | Horror comedy, Indonesia | Movies segment recommendation | | | |
-| 2026-10-27 | Ghostbusters (1984) | Ivan Reitman | Sigourney Weaver, Bill Murray, Dan Aykroyd, Harold Ramis | Supernatural comedy, USA | Actress of the Month, Tuesday | | | |
+| 2026-10-27 | Ghostbusters (1984) | Ivan Reitman | Sigourney Weaver, Bill Murray, Dan Aykroyd, Harold Ramis | Supernatural comedy, USA | Actress of the Month, Tuesday | Yes (answer page, 2 Nov) | Liked | (tapped Watched it, Liked) |
 | 2026-10-27 | Interstellar (2014) | Christopher Nolan | Matthew McConaughey, Anne Hathaway, Jessica Chastain | Sci-fi, USA/UK | Effects deep dive (Gargantua) | | | |
 | 2026-10-27 | Rear Window (1954) | Alfred Hitchcock | James Stewart, Grace Kelly, Thelma Ritter, Raymond Burr | Thriller, USA | Director deep dive | | | |
 | 2026-10-27 | The Host (2006) | Bong Joon-ho | Song Kang-ho, Bae Doona | Monster film, South Korea | Movies segment mention (20th anniversary 4K, 8 Dec) | | | |

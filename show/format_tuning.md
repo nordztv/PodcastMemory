@@ -4,7 +4,9 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
-- Segment word budgets: as in bible section 5, except game tech.
+- World and Australia lighter, games and movies heavier (Scott's 2 Nov monthly check-in answer: "less world news and more games and movies"): opening and world about 650 to 800 words with only the two or three biggest world stories; Australia about 1,400 words (big stories still covered properly); games about 2,000 to 2,200 and movies about 1,500 including the actress segment. Reason: his 2 Nov answer.
+- Workshop: after a 3 (2 Nov, Git), keep it to one job he can finish in ten minutes, with exact clicks or commands. Reason: 2 Nov workshop score.
+- Segment word budgets: as in bible section 5, except game tech and the world/games/movies shift above.
 - Game tech: about 1,000 words (up from 900), still practical first: the Godot how-to first, then the theory with an everyday analogy, then a short tip list. Reason: rated 4 (21 Oct) then 5 (22 Oct) after going practical-first.
 - Australia: for each big story, add one clear "why it matters" line and one "what happens next" line, and keep minor items to a sentence. Reason: scored 3 (21 Oct) then 4 (22 Oct); the only news section not yet at 5.
 - Story-led delivery: frame stories as a story (who, what changed, why you should care) rather than a list of facts, with conversational rhythm, varied sentence lengths and fewer long runs of numbers. Reason: 20 Oct note (robotic at times) and 22 Oct note ("much better with story").
@@ -27,6 +29,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-03 (midweek) | Less world news, more games and movies; workshop kept to a ten-minute job | 2 Nov answer (monthly check-in) and workshop score 3 |
 | 2026-10-30 | Lore kept full and news-linked; workshop kept practical; chat around his answers and yokai; game tech tied to his own game ideas; Australian procedural items trimmed | 26-28 Oct section scores (lore 5/4/5, workshop 3/4/5, chat 4/4/5) and the 27 Oct dislike |
 | 2026-10-29 (midweek) | Fewer topics, more depth | 28 Oct note |
 | 2026-10-28 (midweek) | Yokai of the Week added to the Wednesday chat; effects made more step-by-step | 27 Oct note and effects score of 3 |

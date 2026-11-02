@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-03 | Lore | Metal Gear Solid 3: Snake Eater |
+| 2026-11-03 | Game tech | Day-night lighting in 2D (Godot CanvasModulate + Gradient, PointLight2D, LightOccluder2D, UI on CanvasLayer, TimeOfDay autoload, is_night for night-only recipes and star tears, save the time) |
+| 2026-11-03 | Effects | Mission: Impossible's motorbike cliff jump (Dead Reckoning) |
+| 2026-11-03 | Director | John Woo's Hard Boiled |
+| 2026-11-03 | Workshop | TrueNAS SMART tests, scrubs and email alerts |
+| 2026-11-03 | Chat | Guardian tigers (Byakko, cat-faced Edo tigers, Korean tiger and magpie) for his tiger crest |
 | 2026-11-02 | Lore | Secret of Mana: making-of |
 | 2026-11-02 | Game tech | Save systems and data design for RPGs (persist group, Dictionaries, JSON via FileAccess to user://, version number, save on sleep, save the radish counter and seed) |
 | 2026-11-02 | Effects | Top Gun: Maverick's real cockpit filming |

@@ -13,6 +13,9 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - The radish monster (20 Oct): the more radishes you pull while farming, the likelier a radish monster bursts out; it scales from weak (1) to strong (25); a random hidden counter that resets after it appears. Liked the host's turnip-with-teeth idea it grew from.
 - 23 Oct: liked the "You've been harvested" game over screen idea; the radish monster isn't implemented yet.
 
+## Forms and crests
+- Form-changing crest (2 Nov, answer page): "tiger defend the farm from golbins." (the hero becomes a tiger that defends the farm from goblins)
+
 ## Spirits and summons
 - Yokai (27 Oct): "I don't know yokai names, I just enjoy there existence".
 - Farm spirit summons (26 Oct): "japanese yokai with all different personalities so every time you summoned one you wouldnt know what to expect."
@@ -42,6 +45,8 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 ## Open questions from the show (not answered yet)
 - Signature item and what it lets the player do (19 Oct).
 - Chen Stormstout's first line at his stall (29 Oct).
+- A weapon hidden in an everyday farm object, and who carries it (3 Nov).
+- The goblin leader's name and what he wants (3 Nov).
 
 ## Suggestions the show has given
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
@@ -51,4 +56,5 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - 28 Oct: game feel for the radish (Camera2D trauma shake with FastNoiseLite, hit stop via Engine.time_scale and an ignore-time-scale timer, squash-and-stretch tween, hit flash row); make tier 25 look like a plain white radish with a red top, with one flickering palette row as its only tell.
 - 30 Oct: inventory and crafting with Resources (ItemData with id, icon and max stack; Inventory Resource with slots and a changed signal; Recipe Resource with ingredients dictionary, can_craft/craft; radish cake = 3 radishes + rice flour + sugar for the NurikabeGate; greyed-out recipes; save by item id; drop items when full; Chen's shop as an inventory with prices).
 - 2 Nov: save system (persist group with save/load Dictionaries, JSON via FileAccess to user://, version field, save when sleeping, save the radish counter and RNG seed; avoid loading untrusted Resource files); Git for the project; falling-star night event with star tear items and a night_only flag on recipes (moon-cakes).
+- 3 Nov: tiger crest (CrestData Resource with sprite frames, speed and move; swap AnimatedSprite2D frames; Area2D roar puts goblins in a 3-second scared state running directly away, with a cooldown timer and screen shake); day-night lighting (CanvasModulate + Gradient, PointLight2D lanterns, UI on a CanvasLayer, TimeOfDay autoload with is_night for night-only recipes and star tears, save the time of day).
 - 29 Oct: dialogue system (DialogueLine/DialogueChoice Resources, typewriter RichTextLabel with skip, choice Buttons, GameState autoload flags such as met_chen); radish-cake NurikabeGate (StaticBody2D + Area2D, exported wanted item, flag nurikabe_fed, tween modulate alpha, collision off with set_deferred).
