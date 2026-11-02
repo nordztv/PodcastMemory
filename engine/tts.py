@@ -52,11 +52,18 @@ SYSTEM_ESPEAK = os.environ.get("ESPEAK_NG")  # e.g. Homebrew's espeak-ng on a Ma
 
 
 def espeak(text):
+    # A segment that starts with "-" (e.g. "GPU-hunter" after the capitals are spelled out) would be read by
+    # espeak-ng as a command-line option, and its help text would then be spoken as gibberish (2 Nov 2026 bug).
+    text = text.strip().lstrip("-–").strip()
+    if not text:
+        return ""
     if SYSTEM_ESPEAK:
         cmd, env = [SYSTEM_ESPEAK, "-q", "--ipa=3", "-v", "en-us", text], None
     else:
         cmd, env = [f"{PIPER}/espeak-ng", f"--path={PIPER}", "-q", "--ipa=3", "-v", "en-us", text], {"LD_LIBRARY_PATH": PIPER}
     out = subprocess.run(cmd, capture_output=True, text=True, env=env).stdout
+    if "espeak-ng [options]" in out or "text-to-speech:" in out:   # never speak a usage message
+        return ""
     return " ".join(out.split())
 
 
