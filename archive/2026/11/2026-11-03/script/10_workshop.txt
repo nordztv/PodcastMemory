@@ -1,0 +1,19 @@
+[happy] Workshop! And today it's a ten minute job for your Dell. Something you'll set up once, and then never think about again... until the day it saves you.
+
+[calm] With Kioxia in the news, it's a good moment to think about the drives you already have, because replacing them isn't getting any cheaper. You've got eight twelve terabyte drives in that server. And whatever you end up deciding about the server's future, those drives are worth looking after while they're spinning. The question is: if one of them was quietly getting sick, would you know?
+
+[curious] Hard drives keep a health diary. It's called SMART, and it records things like how many bad spots the drive has found and moved data away from. TrueNAS can test the drives and read that diary for you automatically. So here's the setup, step by step.
+
+[calm] Step one. In TrueNAS, go to Data Protection, and find the SMART tests section. The menus move around a little between versions, so if it isn't exactly there, search for "SMART".
+
+[calm] Step two. Add a short test. Select all your drives, and schedule it weekly, say, Sunday at three in the morning. A short test takes a couple of minutes and checks the basics.
+
+[calm] Step three. Add a long test, monthly. Pick a quiet night, mid-month. A long test reads every part of every drive, so on twelve terabyte drives it can take the best part of a day. Don't schedule it at the same time as the pool's scrub, which also reads everything; let them take turns.
+
+[calm] Step four. Check the scrub schedule. Under the same Data Protection page, there's a scrub task for your pool. A scrub reads all your data and checks it against its checksums, so silent damage gets found and repaired. Once a month is plenty.
+
+[happy] Step five, the important one. Tell TrueNAS how to reach you. In the alert settings, set up an email, or one of the other alert services, and send yourself a test alert. Because a warning that nobody reads... [punch] is just a very organised diary of a disaster. [giggling while talking] Sorry. That got dark fast.
+
+[curious] And one extra, if you want to look now: open any drive's SMART results and check two numbers. "Reallocated sectors" and "pending sectors". On a healthy drive, they're zero. If either one starts climbing, that drive is telling you it's tired. Order a replacement before it fails, not after.
+
+[teasing] Ten minutes. One email. Ninety six terabytes, safely watched. [punch] Which is more than I can say for your lens comparison spreadsheet. [giggling while talking] Does that one have backups? Asking for a friend.

@@ -1,0 +1,37 @@
+[excited] Okay, tech! And the story today is memory chips. Again. [playful] I know. But this time there's a twist.
+
+[calm] You'll remember Friday's sell-off: chip stocks in America had a terrible day, and on Friday our time Korea's memory makers fell hard too. Yesterday, Asia split three ways. Korea bounced. The Kospi closed up two point two four per cent, at five thousand eight hundred and fifty nine, after being down almost two per cent in the morning. SK Hynix rose nearly four per cent, which takes back about half of Friday's fall, and Samsung rose almost two. Local institutions did the buying; foreign investors and everyday traders were selling.
+
+[surprised] But Taiwan and Japan didn't get the same relief. TSMC fell another one point seven per cent. And in Tokyo... oh, this is the interesting one. Kioxia, the big Japanese flash memory maker, fell almost sixteen per cent in a single day.
+
+[curious] Why? Its results were actually great. Revenue for the September quarter was about two point five trillion yen, with an operating margin of about eighty per cent. Eighty! But two things spooked investors. Its forecast for the December quarter is flat: the same profit, basically, as the quarter before. And the price of its flash memory rose in the mid twenty per cent range in the September quarter... which sounds great, until you hear that the quarter before, it rose about seventy per cent.
+
+[thoughtful] So prices are still rising. Just much more slowly. Kioxia's finance chief says some orders were pulled forward into September and others slipped into the new year, and he expects fast growth to come back from January. And its twenty twenty seven output is already sold out. So this isn't a collapse. It's the first sign that the memory boom might be... levelling off.
+
+[calm] Why it matters to you: memory prices are why GPUs, SSDs and RAM have been creeping up all year. If the price rises slow down, that's good news, eventually, for your home server and your GPU hunt. And for SK Hynix and Samsung, the question for investors is simple: is this a pause, or the peak?
+
+[playful] Meanwhile, Tokyo Electron, which makes the machines that make the chips, rose five per cent on a big profit forecast and a buyback. [cheeky] When everyone is panicking about gold, sell shovels. [punch] Very expensive, very precise shovels. [giggling while talking] Okay, okay. Back to the serious bit.
+
+[excited] Apple! Its results for the September quarter come out this morning, our time, around eight thirty. So, if you check your phone on the train, you might see them before I do. [calm] Wall Street expects revenue of about a hundred and thirteen billion US dollars, up about eleven per cent, and earnings of about two dollars a share. Apple's own guidance was nine to eleven per cent growth, with iPhone sales up in the mid teens.
+
+[curious] Three things to watch. First, margins. Memory costs are hitting everyone, and one analyst at Bernstein warns Apple's margin could slip to about forty six and a half per cent. Second, supply. Apple warned that shortages for iPhone, Mac and iPad would get worse during the quarter. And third, the holiday forecast, with the new iPhones, the iPhone Duo, and the touchscreen MacBook Pro arriving in stores on Friday. [teasing] Which you are definitely not looking at. [punch] Not at all. [giggling while talking] Sorry. I couldn't help it.
+
+[calm] And the chip earnings keep coming this week. AMD reports at nine tomorrow morning, our time, after falling about ten per cent on Friday in the same sell-off as Intel. So tomorrow is a big test for them. Then Qualcomm and Arm report on Thursday morning our time.
+
+[excited] Now, local AI. Two things you'll like. The Chinese lab Moonshot has said the open weights for its new model, Kimi K three point one Pro, arrive tomorrow, the fourth. [teasing] And before you get excited... [punch] it's enormous. [calm] One roundup reports about two point eight trillion parameters, with about a hundred billion active at a time, though I couldn't confirm that from Moonshot itself. Its last model needed around one point four terabytes just to store. So this is not a home model, unless you've got a server room you haven't told me about.
+
+[happy] The other one is the opposite. Liquid AI has released a family of tiny models, about two billion parameters each, for text, images and audio. They come in the formats that run in Ollama and llama dot cpp, and on Apple's MLX. Liquid says the text model fits in about one gigabyte at four-bit, with room for a very long context on top. All of the benchmarks are Liquid's own, so treat them with a pinch of salt. But a useful model that small runs on a laptop, a Raspberry Pi five... or the corner of your Dell, without anyone noticing. [cheeky] Your server has more storage than some small countries. [punch] Now it can have a very small brain, too. [giggling while talking] A little one. It's adorable.
+
+[calm] And Starship. Flight Fifteen has moved. You'll remember we said "not before the eighth". Well, the American aviation regulator's listing now shows the twelfth of November. And SpaceX says on this flight it'll try to catch both stages: the Super Heavy booster, which it has caught before, and the Ship itself, on the launch tower. A Ship catch has never been tried. [excited] If it works, that's the moment Starship starts to look properly reusable. [teasing] And if it doesn't... [punch] it'll be a very expensive firework. [laughing tone] We'll find out on the twelfth, hopefully.
+
+[happy] Quick hits!
+
+[calm] AMD is reportedly planning another price rise on Radeon graphics cards this month, as the cost of their memory rises; that's a supply chain report, not confirmed by AMD. [sighing] Of course it is.
+
+[calm] SanDisk, another flash memory company, fell more than thirteen per cent on Friday, the same nerves as Kioxia.
+
+[calm] In Taiwan, Foxconn and MediaTek both rose yesterday, even as TSMC fell.
+
+[curious] And the Fujifilm X T six rumours still point to an announcement this month, delayed from September by a component shortage, with a forty megapixel sensor, eight K video, and a new fifty to a hundred and forty millimetre lens. Fujifilm usually announces on a Thursday. [teasing] [punch] Not that you're counting Thursdays.
+
+[happy] Right! From chips to games. And there's a big, sad one, and a big happy one.

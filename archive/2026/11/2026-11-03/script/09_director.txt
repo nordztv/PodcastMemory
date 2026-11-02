@@ -1,0 +1,29 @@
+[excited] Director time. And as promised, this one connects to Phantom Blade Zero: the Hong Kong action film that game, and half of modern action cinema, owes a debt to. John Woo's Hard Boiled.
+
+[calm] It came out in nineteen ninety two. Chow Yun-fat plays Inspector Yuen, a jazz-playing Hong Kong cop everyone calls "Tequila". Tony Leung plays Tony, an undercover cop deep inside a gun-smuggling gang. They don't know they're on the same side. And it all ends in a hospital, with the smugglers' weapons hidden in the basement, and a maternity ward full of newborn babies on one of the floors above.
+
+[thoughtful] It was John Woo's last Hong Kong film before he went to Hollywood, and you can feel him throwing everything he'd learned at the screen.
+
+[curious] So how did he shoot it? Let's start with the cameras. Woo shot his action scenes with several cameras running at once, each at a different speed. One at normal speed, others in slow motion. Then in the edit, he cut between them. So a single dive through the air might be seen at normal speed from one angle, then slowed right down from another, then normal again, all in a couple of seconds. That's the "Woo" feeling: time stretches and snaps back, like music.
+
+[calm] And he thinks of action as music. He's said so himself: he cuts gunfights like a dance, or a musical number, to a rhythm. Watch the opening teahouse shootout, with the birds in their cages, and you can almost count the beats.
+
+[happy] His other trademarks are all here, too. The two-gun dive, sideways, through the air. The slow-motion doves. The "Mexican stand-off", two men with guns pointed at each other's faces, often friends. And the idea that a gunfight can be about honour and loyalty, not just violence.
+
+[excited] But the scene everyone talks about is in the hospital. It looks like one continuous shot, almost three minutes long. Tequila and Tony fight their way down a corridor, into a lift, out onto another floor, through more gunmen, with the camera following them the whole way. No cuts. [beat] Or so it seems.
+
+[very quiet] [soft, gentle] [speaking slowly] [secretive, hushed] Okay... come closer. [pause] [hushed, slow] There's a cut in it. [pause] When they step into the lift... [beat] the doors {close|kloze}... and that's where it's hidden. [beat] [very quiet, soft, slow] The crew used the moment the doors shut to quickly redress the same set as a different floor. [pause] When the doors open again... it's a new floor. [beat] Same corridor.
+
+[happy] Isn't that clever? The whole thing was choreographed and rehearsed so the actors, the stunt team, the squibs for the bullet hits, and the camera all moved together. If anything went wrong, they had to go back to the start. And because it's one long take, you feel trapped inside the action with the heroes. No cutting away to catch your breath.
+
+[soft tone] Then there's the ending, with the babies. Tequila carries a newborn out through the gunfire, and plugs the baby's ears with cotton wool. It's absurd, and tense, and sweet, all at once. It's very Woo: the most violent film of his career, and its heart is a cop protecting a baby.
+
+[thoughtful] The influence is everywhere. The Matrix's lobby shootout. Max Payne, the video game, which basically turned Woo's slow-motion dives into a button. Stranglehold, an actual sequel to Hard Boiled as a game, with Chow Yun-fat himself. And now Phantom Blade Zero, with its Kungfupunk fighting, selling four million copies.
+
+[happy] So, your practical lesson. Two of them, because they're both easy.
+
+[calm] One: the speed change. Your phone can already shoot slow motion. Next time you film something moving, a ferry pulling in, a pigeon taking off in the Botanic Garden, shoot it twice: once at normal speed, once in slow motion, from a different angle. In Final Cut, cut from the normal shot to the slow one right at the most interesting moment, then back again. That little stretch of time is the Woo feeling, and it works for anything, not just gunfights.
+
+[calm] Two: the hidden cut. If you want a shot that looks continuous, find a moment where the screen goes dark or blocked: someone walks right past the lens, the camera pans across a pillar or a dark doorway. End one take there, start the next take from the same spot, and cut on that moment. Nobody will see the join. It's how Woo did it, and it's how a lot of "one take" films still do it.
+
+[teasing] And if you're filming in a hospital... [punch] maybe skip the squibs. [giggling while talking] Hospitals hate that. I've heard.
