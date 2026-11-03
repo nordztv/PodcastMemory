@@ -26,6 +26,14 @@ git -C ~/MorningBriefing/podcastmemory pull -q; caffeinate -dims bash ~/MorningB
 
 It sets up anything missing, waits for the script if it isn't on GitHub yet, records the episode in Kokoro and saves it with the sheet to iCloud Drive > Morning Briefing.
 
+## Weekly game-project sync (3 Nov 2026)
+
+The show's lore, game tech and workshop follow your Game-Prototype weekly task. One-time setup (after the setup above):
+```
+git -C ~/MorningBriefing/podcastmemory pull -q; bash ~/MorningBriefing/podcastmemory/engine/mac/install_game_sync.sh ~/path/to/Game-Prototype
+```
+Leave off the path if the folder is in your home, Documents, Developer, Projects, Desktop or GitHub folder (it finds it), or if it's on GitHub as nordztv/Game-Prototype (it clones a copy). It then syncs every Sunday at 7:30pm, before the cloud run, and a **Sync Game Project** shortcut on the Desktop syncs any time (say, mid-week when you change the task). It copies text only: the task file (any file named like task, todo, weekly, roadmap, plan or sprint; or set `TASK_FILE=` in `~/MorningBriefing/game_sync.conf`), Markdown notes, the file tree, GDScript files, scene outlines, recent commits and open issues, into `memory/game_project/` in this repo. Log: `~/MorningBriefing/game_sync.log`.
+
 ## Handy commands
 
 - Record a particular day: `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-10-27` (saves to iCloud)
