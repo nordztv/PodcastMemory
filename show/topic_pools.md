@@ -75,6 +75,18 @@ The daily run uses the first unused item in each pool (used = listed in `memory/
 - Ghostbusters (1984)
 - An American Werewolf in London's transformation
 - The Dark Knight's truck flip
+- Shin Godzilla's suitmation-to-CGI hybrid and motion capture by Mansai Nomura
+- The Host (2006): Bong Joon-ho's creature by Weta and The Orphanage
+- Aliens (1986): the Queen puppet and the power loader
+- Hard Boiled's practical squibs and hospital explosions
+- Lady Snowblood's arterial spray: Japanese blood effects in 1970s cinema
+- Ghost in the Shell (1995): blending cel animation and digital effects
+- Ringu's Sadako emerging from the TV (reverse-filmed movement)
+- Train to Busan's zombie choreography and stunt work
+- Dune (2021): sand screens instead of blue screens
+- Crouching Tiger, Hidden Dragon's wire-work in the bamboo forest
+- Tremors (1990): the Graboids, all practical
+- Pan's Labyrinth: the Pale Man (Doug Jones and prosthetics)
 
 ## Directors and technique
 

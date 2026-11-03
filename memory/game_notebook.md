@@ -6,6 +6,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - 2 Nov 2026: Scott scrapped his game_prototype project to start again, but wants everything about it remembered (this whole notebook is kept). He wants the radish monster and the yokai ideas carried into the new game: keep recommending them.
 
 - 3 Nov 2026: the current project is Game-Prototype, which has a weekly task. The show now follows it daily (bible 5c); weekly snapshots land in memory/game_project/.
+- 3 Nov 2026 (sync): the new project is called Lanternfall (Godot 4.7), just created.
 
 ## The pitch
 - A 2D top-down action RPG in Godot 4 on his MacBook Pro: Secret of Mana meets Stardew Valley (chose Godot over SpriteKit).
@@ -45,12 +46,15 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - Given: none yet (first step due Friday 6 Nov, in the new project). Done: none reported.
 
 ## Open questions from the show (not answered yet)
+- What the Lanternfall really is (4 Nov).
+- What a zashiki-warashi in the farmhouse loves, and what makes it leave (4 Nov).
 - Signature item and what it lets the player do (19 Oct).
 - Chen Stormstout's first line at his stall (29 Oct).
 - A weapon hidden in an everyday farm object, and who carries it (3 Nov).
 - The goblin leader's name and what he wants (3 Nov).
 
 ## Suggestions the show has given
+- 4 Nov: top-down movement (CharacterBody2D, feet-only collision, Input Map, Input.get_vector, move_and_slide, short move_toward ramp, facing animations); try viewport stretch + nearest filter and the Compatibility renderer; Lanternfall night as falling star tears with chochin-obake red lanterns to avoid; a hidden house-luck value for a zashiki-warashi.
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
 - 23 Oct: radish spawn counter + AStarGrid2D chase; CanvasModulate day-night cycle; Resource save/load; fake-height cannon arc with a shrinking shadow.
 - 26 Oct: build the smallest radish in one evening (counter, threshold, a red-square CharacterBody2D that chases with move_and_slide, burrows after ten seconds); procedural scatter with a seeded RandomNumberGenerator and FastNoiseLite.

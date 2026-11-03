@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-04 | If a zashiki-warashi lived in your Lanternfall farmhouse, what would it love most, and what's the one thing that would make it pack up and leave? | Japanese yokai | Not yet | no |
+| 2026-11-04 | Lanternfall: what is it, really? What falls, why does it fall, and what does it mean for the farmer? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-04 | You played Demon's Crest and called it mixed. What held it back for you, and was there one part you really liked? | Retro games (SNES and Mega Drive) | Not yet | no |
 | 2026-11-03 | Lady Snowblood hides her sword inside an umbrella. If one character in your game hid a weapon inside an everyday farm object, what would the object be, and who's carrying it? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-03 | Snake survives on whatever the jungle gives him. If you could eat one thing from any game's world, what would it be, and which game is it from? | Metal Gear Solid | Not yet | no |
 | 2026-11-03 | Those goblins raiding your farm: if they had a leader, what's his name, and what does he want more than anything? | Godot and Scott's 2D game | Not yet | no |

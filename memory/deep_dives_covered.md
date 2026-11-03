@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-04 | Lore | Stardew Valley: one developer, four years (case study for Lanternfall; chochin obake idea) |
+| 2026-11-04 | Game tech | Top-down movement in Godot (CharacterBody2D, Input Map, get_vector, move_and_slide, acceleration, facing animations) |
+| 2026-11-04 | Effects | Oppenheimer's Trinity test without CGI |
+| 2026-11-04 | Director | Spielberg's Jaws |
+| 2026-11-04 | Workshop | Lanternfall build step: a farmer who walks |
+| 2026-11-04 | Chat | Yokai of the Week #2: the zashiki-warashi |
+| 2026-11-04 | Retro | Demon's Crest retrospective (Fujiwara/Kurokawa, Red Arremer, crests, Mode 7, SNES sound) |
 | 2026-11-03 | Lore | Metal Gear Solid 3: Snake Eater |
 | 2026-11-03 | Game tech | Day-night lighting in 2D (Godot CanvasModulate + Gradient, PointLight2D, LightOccluder2D, UI on CanvasLayer, TimeOfDay autoload, is_night for night-only recipes and star tears, save the time) |
 | 2026-11-03 | Effects | Mission: Impossible's motorbike cliff jump (Dead Reckoning) |

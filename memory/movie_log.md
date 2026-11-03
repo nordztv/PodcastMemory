@@ -6,6 +6,10 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- |
+| 2026-11-04 | Oppenheimer (2023) | Christopher Nolan | Cillian Murphy, Emily Blunt | Historical drama, USA/UK | Effects deep dive (Trinity test without CGI) | | | |
+| 2026-11-04 | Jaws (1975) | Steven Spielberg | Roy Scheider, Robert Shaw, Richard Dreyfuss | Thriller/horror, USA | Director deep dive | | | |
+| 2026-11-04 | Leviathan (2027) | Michihito Fujii, Ryohei Shingu | Shunsuke Michieda, Natsuki Deguchi | Sci-fi horror, Japan | Movies segment mention | | | |
+| 2026-11-04 | Beware Boiuna (2026) | Mike P. Nelson | | Creature horror, USA/Brazil | Movies segment mention | | | |
 | Park Chan-wook | Oldboy (2003) | Choi Min-sik | 2026-10-21 |
 | George Miller | Mad Max: Fury Road (2015) | Charlize Theron | 2026-10-21 |
 | Tsui Hark | The Blade (1995) | | 2026-10-21 |
@@ -89,5 +93,5 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
 | James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986, making-of 22 Oct) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis (also Road Games, mentioned 26 Oct), Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
-| Christopher Nolan | Inception (2010); Interstellar (2014) | | 2026-10-27 |
-| Steven Spielberg | Jurassic Park (1993) | Laura Dern | 2026-10-18 |
+| Christopher Nolan | Inception (2010); Interstellar (2014); Oppenheimer (2023, effects 4 Nov) | | 2026-11-04 |
+| Steven Spielberg | Jurassic Park (1993); Jaws (1975, director deep dive 4 Nov) | Laura Dern | 2026-11-04 |
