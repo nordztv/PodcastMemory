@@ -1,0 +1,6 @@
+.
+.editorconfig
+.gitattributes
+.gitignore
+icon.svg
+project.godot
