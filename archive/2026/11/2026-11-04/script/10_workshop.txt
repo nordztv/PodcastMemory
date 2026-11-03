@@ -1,0 +1,15 @@
+[happy] Workshop! Tonight's build step for Lanternfall, about an hour, and by the end your farmer walks. Here we go.
+
+[calm] Step one, the controls. Open Project Settings, then the Input Map tab. Type "move left" and press Add. Do the same for move right, move up and move down. Then click the plus next to each one and give it a key: A, D, W and S, or the arrows. Add the left stick of a controller too, if you have one nearby.
+
+[calm] Step two, the scene. Make a new scene. For the root node, choose CharacterBody2D, and rename it Player. Add a child: an AnimatedSprite2D. In its Sprite Frames, make one animation called "walk down", and drop in any test image for now. Even the Godot icon is fine. [teasing] Your farmer can be a robot head for a night. [punch] Very futuristic farming. [giggling while talking] We'll fix it later.
+
+[calm] Then add a second child, a CollisionShape2D. Give it a small capsule or circle shape, and move it down to the feet.
+
+[calm] Step three, the script. Attach a new script to Player. At the top, add an exported variable called speed, and set it to about eighty. Then add a physics process function, with three lines inside. First: a direction variable, equal to Input dot get vector, with your four action names in the order left, right, up, down. Second: velocity equals direction times speed. Third: move and slide.
+
+[calm] Step four, a world to walk in. Make another scene called Farm, with a Node2D at the root. Drag your Player scene into it. Add a StaticBody2D with a rectangle collision shape, as a test fence. Save it, and set Farm as the main scene.
+
+[excited] Step five: press play. Walk around. Bump into the fence and slide along it. Try a diagonal, and notice it isn't faster.
+
+[happy] And how do you know it works? Three checks. Your farmer moves in all eight directions. They stop dead when you let go. And they slide along the fence instead of sticking to it. If all three are true: you've done it. Commit it to Git, like we set up on Monday, with a message like "player walks". [warm] It's the first commit of Lanternfall. A small one... but every valley starts with one set of footprints.

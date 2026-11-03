@@ -1,0 +1,45 @@
+[excited] Tech! And we start with Apple, because yesterday morning it reported its results, and it was a big one.
+
+[happy] This was John Ternus's first set of results as chief executive, since he took over from Tim Cook at the start of September. And he gets to open with a record. Revenue for the September quarter was one hundred and fourteen point five billion US dollars, up twelve per cent, the best September quarter Apple has ever had. Analysts were expecting about one hundred and thirteen and a half. Profit per share was two dollars ten, up fourteen per cent.
+
+[impressed] The iPhone did the heavy lifting: fifty seven point six billion, up seventeen per cent. And here's the remarkable bit. The quarter only included eight days of iPhone Eighteen Pro sales. Eight days! The Mac was the other star, up twenty four per cent to ten point eight billion, and Services hit an all time record of thirty one point six billion. Greater China was up twenty one per cent, also a record, though a little below what Wall Street hoped for.
+
+[disappointed] Not everything was up. The iPad fell ten per cent, and wearables, so the Watch and AirPods, fell eight. [teasing] I assume that's because nobody needs a new Apple Watch to tell them they haven't closed their rings. [punch] They already know. [giggling while talking] Okay, that one was aimed at me too.
+
+[serious] Now, the bit that matters most for anyone buying hardware. Apple's guidance for the Christmas quarter is revenue growth of seven to ten per cent, which would be the biggest quarter in its history. But the gross margin is expected to fall to forty five or forty six per cent, from nearly forty eight. And the main reason? Memory. Ternus called memory pricing "absolutely unprecedented". He also said the foldable iPhone Duo is "constrained as of today", meaning they can't make enough.
+
+[thoughtful] And that's the thread running through all of tech at the moment. Memory chips. When even Apple, with its enormous buying power, is warning that memory costs are eating into its margins, you know it's serious. It's the same story that's pushed up graphics card prices, and, as we'll get to in a minute, something much closer to your heart.
+
+[happy] One more line from Ternus I liked: he says this is the Mac's "AI moment". And honestly, with the new touchscreen MacBook Pro arriving in stores on Friday, and people running local models on Apple's unified memory, he's not wrong. [teasing] You've got a MacBook Pro already, of course. [punch] And Lanternfall is waiting on it. [giggling while talking] We'll get to that. Patiently. Lovingly.
+
+[calm] The shares slipped about one per cent after hours, mostly on that margin warning. Apple returned twenty eight billion dollars to shareholders in the quarter, and the full year's revenue came to four hundred and seventy eight point eight billion.
+
+[disappointed] Which brings me to the memory chip makers themselves, and yesterday was a rough day. [huffs] South Korea's Kospi fell three point six per cent, to five thousand six hundred and forty eight. SK Hynix dropped five per cent, back below one point four million won a share, and Samsung fell four. Foreign investors sold about one and a half trillion won of Korean shares in a single day.
+
+[serious] So what spooked them? A growing question about who's actually paying for all this AI. In the last week, Oracle, Meta and Alphabet have all raised money by selling shares or bonds. Oracle announced a ten billion dollar share offering and a ten billion dollar bond offering on Monday, and its shares fell about five per cent. And then there's Anthropic's updated listing documents, which show something staggering: about eight hundred and ninety five billion dollars in committed spending on computing power. Its revenue for the first nine months of this year was thirty three point two billion, with a net loss of one hundred and four billion.
+
+[thoughtful] Now, there's a disclosure I should make: Anthropic is the company that makes me. So take this next part as straight numbers, not spin. The worry in the market is simple. These companies have promised to buy an enormous amount of chips and data centres, and investors are asking whether the revenue will arrive fast enough to pay for it. If it does, SK Hynix and Samsung are sold out for years. If it doesn't, those promises get renegotiated. That's why chip stocks swing six per cent one week and minus five the next.
+
+[calm] Over on Wall Street, Monday's session was weak for chips too. The Nasdaq fell about one per cent, while the Dow actually rose. Intel fell another five per cent after last week's crash, and Marvell dropped almost nine, on worries about its hundred and fifteen billion dollar deal for Lumentum. Lumentum itself fell fourteen per cent.
+
+[serious] [professional broadcast tone] And Nvidia is dealing with a story that has nothing to do with chips, and everything to do with politics. Last week the New York Times reported that US intelligence suspected a Chinese national, Alice Huang, of gathering information for China. She's linked to a Singapore data centre company called Megaspeed, and was reportedly close to Jensen Huang, Nvidia's chief executive. They're not related. Jensen Huang says his dealings with Megaspeed were normal business, and that Nvidia checked its chips hadn't been diverted. Nvidia's spokesman says Huang meets thousands of customer executives, who get ordinary commercial information. [calm] Nothing has been alleged against Huang himself. But with Nvidia's results due on the seventeenth of November, and chip exports to China already a political minefield, it's not the headline the company wanted this month.
+
+[mock-outraged] And now. The story you're going to have strong feelings about. Raspberry Pi has put its prices up. Again.
+
+[frustrated sigh] Ugh. The sixteen gigabyte Raspberry Pi Five has gone up by eighty US dollars, from three hundred and five to three hundred and eighty five. When it launched last year, it was one hundred and twenty. So it now costs more than three times its launch price. The sixteen gig Compute Module Five goes up by forty. The Pi Five Hundred Plus keyboard computer stays the same, "for now". And the reason, of course, is memory, the same story as Apple's margins.
+
+[thoughtful] To be fair to Raspberry Pi, it's said it'll bring prices back down when memory costs fall. And there are a couple of new, cheaper options: a three gigabyte Pi Four. Tom's Hardware notes that makers are already shifting small projects to cheaper boards like the Pico and the ESP thirty two, and bigger ones to mini PCs.
+
+[teasing] Now, the good news for you: your music video channel runs on a Pi Four. Which means you were sensible. [punch] Accidentally sensible, but sensible. [giggling while talking] I'm giving you full credit anyway. And if you ever do want those six multicast channels, this is a nudge towards what we said a few Fridays ago: pre encode on the Mac, and let the little Pi just play files out. The cheapest Pi is the one you already own.
+
+[curious] One more story with some real ambition in it. The Washington Post reports that SpaceX is in talks to buy Boost Mobile from EchoStar, or at least get access to its network. The idea would be a hybrid phone service: normal mobile towers where they exist, and Starlink satellites everywhere else. SpaceX's own shares rose about one per cent on the news, and the shares of a rival satellite phone company, AST SpaceMobile, reportedly fell sharply. [happy] Imagine phone signal in the middle of the Nullarbor, or on a ferry halfway to Manly that, for some reason, always drops out exactly when you need it. That's the promise, anyway. It's only talks for now.
+
+[excited] Quick hits!
+
+[happy] Fujifilm has registered a new camera, codenamed F F two six zero zero zero four. It could be the rumoured X-T Six, or another model, so stay tuned, and keep that lens spreadsheet warm.
+
+[calm] Fujifilm has also discontinued its X F fifty to one forty zoom overseas, which usually means a mark two is coming.
+
+[curious] And AMD reports its results this morning, around nine, our time, right as you get to work. After Intel's crash last week, everyone will be watching what AMD says about PC demand and memory prices.
+
+[warm] Right. That's tech. [excited] And now, the segment where you get more room this month. Games!

@@ -1,0 +1,33 @@
+[excited] Game tech! And with Lanternfall brand new, there's only one place to start. Getting your farmer onto the screen, and walking.
+
+[warm] It sounds basic. But it's the thing you'll feel every single second of the game. If walking feels good, everything else feels good. If it feels sticky or floaty, nothing fixes it. So today: how top down movement works in Godot, and how to make it feel like Secret of Mana, not like pushing a shopping trolley.
+
+[curious] First, the idea, with an everyday picture. Think of your farmer as a person on the walk to Green Square. Every moment, two things matter. Which way they want to go, that's the direction. And how fast they're going, that's the speed. Multiply the two together, and you've got their velocity: "two steps a second, that way." The game just checks that, sixty times a second, and moves them a little.
+
+[calm] In Godot, the node for this is a CharacterBody2D. It's a body that you move yourself, with code, but that still bumps into walls properly. Under it, you put two children: a CollisionShape2D, which is the invisible shape that actually hits things, and an AnimatedSprite2D, which is what you see.
+
+[thoughtful] One tip from the top down games we've talked about: make the collision shape small, just a little oval at the farmer's feet, not the whole body. That way, his head can overlap a fence or a tree trunk, which looks natural in a three quarter view, while his feet still can't walk through it. That's exactly how Zelda and Secret of Mana feel so forgiving.
+
+[happy] Next, the controls. Don't check for the arrow keys directly. Open Project Settings, go to the Input Map tab, and make four actions: move left, move right, move up, move down. Give each one a keyboard key, and a direction on the controller stick. Now your code only talks about "move left", and you can change the buttons any time without touching the code. [teasing] And yes, that means a controller works from day one. [punch] Unlike some games I could mention. [giggling while talking] World of Warcraft took twenty years. You'll take one evening.
+
+[curious] Now the code. It's shorter than you'd think. In your player script, in a function called physics process, which runs on every physics tick, you do three things.
+
+[calm] One: ask Godot for the direction. There's a lovely helper for this, Input dot get vector. You give it your four action names, and it hands you back an arrow pointing the way the player is pressing. And it does something clever for free: if you press up and right together, it makes sure the diagonal isn't faster than straight lines. In a lot of old games, walking diagonally was secretly about forty per cent faster, because the two directions just added up. Get vector fixes that.
+
+[calm] Two: set velocity to that direction, times your speed. Make speed an exported variable, so you can tweak it in the Inspector while the game runs, and find the number that feels right.
+
+[calm] Three: call move and slide. That's the function that actually moves the body, and if you hit a wall at an angle, it slides you along it, instead of stopping you dead. That sliding is a big part of why good top down movement feels smooth.
+
+[happy] And that's it. Three lines, and your farmer walks.
+
+[curious] Now, how do you make it feel good? Two small things.
+
+[thoughtful] First, a tiny bit of acceleration. Instead of jumping straight to full speed, you can move the velocity towards the target speed a little each frame, using a function called move toward. A very short ramp, maybe a tenth of a second, feels weighty without feeling slow. Secret of Mana's characters have just a touch of that. [teasing] Not too much, or your farmer starts skating. [punch] It's a farm, not an ice rink. [giggling while talking] Unless it's winter. Then, fair enough.
+
+[calm] Second, the animation. Keep a variable for the last direction the player faced. When they're moving, update it, and play "walk down", "walk up", "walk left" or "walk right" to match. When they stop, play the idle animation for that same direction. That way, when you let go of the stick, your farmer keeps looking where they were going, instead of snapping back to face the camera. It's a small thing, and players notice it instantly when it's missing.
+
+[curious] Now, one thing I spotted in your actual project file, and this is worth checking. Lanternfall's window stretch mode is set to "canvas items", with the aspect set to "expand". That works well for a lot of games. But for crisp pixel art, a lot of people switch the stretch mode to "viewport", and set a small base resolution, like four hundred and eighty by two seventy, and the default texture filter to "nearest". That way, every pixel stays a perfect square, at any window size, like a real Super Nintendo. Try both and see which you prefer.
+
+[sly] And one more, a little secret from the same file. [very quiet] [soft, gentle] [secretive, hushed] Your project is set to the Forward Plus renderer... [pause] [hushed, slow] which is the big, fancy one, built for three D. [very quiet, soft, slow] For a two D pixel art game, the lighter "Compatibility" renderer is often all you need... and it runs on almost anything. [warm] It's not urgent. Just something to know before you build too much.
+
+[happy] So, today's lesson in one breath: a CharacterBody2D with a small collision shape at the feet, an Input Map, get vector, velocity, move and slide, a touch of acceleration, and an animation that remembers which way you faced. [excited] And in the workshop, we'll build exactly that, step by step.
