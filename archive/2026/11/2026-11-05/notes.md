@@ -33,7 +33,7 @@
 - Callbacks: lens spreadsheet with tabs, the tier 25 radish "Sir", the nurikabe's cake (Chen and murlocs rested after 4 Nov).
 - News: only ABC, SBS and NSW ministerial releases were usable (Reuters/BBC/DW searches were rejected); no Iran item (nothing new found).
 - Weather: BoM Moore Park forecast page (Sydney forecast page couldn't be fetched).
-- Show notes artifact refused the republish (live version not viewable in this run); shownotes.html sent as a file instead.
+- Show notes published to the show-notes artifact (after a first refused attempt; republished on request).
 
 ## Hot topics
 - Major world news (until 7 Nov), Nintendo (Switch 2, Zelda) and Warcraft and Blizzard (until 8 Nov).
