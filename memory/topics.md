@@ -2,7 +2,7 @@
 
 The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
-Last daily update: 2026-11-04
+Last daily update: 2026-11-05
 
 ## Main topics (top 25)
 
@@ -16,9 +16,9 @@ Last daily update: 2026-11-04
 | GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards) | 100 | 2026-10-30 |  |
 | Horror films | 100 | 2026-10-29 |  |
 | Korean genre cinema | 100 | 2026-11-02 |  |
-| Major world news | 100 | 2026-11-02 | 2026-11-07 |
+| Major world news | 100 | 2026-11-02 | 2026-11-08 |
 | NSW politics and Sydney news | 100 | 2026-11-02 |  |
-| Warcraft and Blizzard | 100 | 2026-11-02 |  |
+| Warcraft and Blizzard | 100 | 2026-11-02 | 2026-11-08 |
 | Fujifilm X-M5, lenses and camera gear | 90 | 2026-10-30 |  |
 | Apple | 85 | 2026-11-02 |  |
 | Home server: Dell T330, TrueNAS, Jellyfin | 85 | 2026-10-26 |  |
@@ -30,7 +30,7 @@ Last daily update: 2026-11-04
 | Cult actresses and iconic characters | 75 | 2026-10-28 |  |
 | Japanese horror | 75 | 2026-11-02 |  |
 | Colour grading and Final Cut Pro | 70 | 2026-10-30 |  |
-| Nintendo (Switch 2, Zelda) | 70 | 2026-11-02 |  |
+| Nintendo (Switch 2, Zelda) | 70 | 2026-11-02 | 2026-11-08 |
 | Retro gaming projects (emulators, reverse engineering, mods) | 65 | 2026-10-30 |  |
 | Running AI models at home (model sizes, quantisation) | 65 | 2026-10-30 |  |
 
@@ -57,45 +57,45 @@ Last daily update: 2026-11-04
 | Film festivals | 40 | 2026-10-30 |  |
 | Kung fu and martial arts films | 40 | 2026-11-02 |  |
 | Tesla | 40 | 2026-10-28 |  |
-| Hong Kong and Chinese crime films | 38 | 2026-10-20 |  |
+| Hong Kong and Chinese crime films | 36 | 2026-10-20 |  |
 | Fantasy films | 35 | 2026-10-26 |  |
 | Square Enix and Dragon Quest | 35 | 2026-10-23 |  |
 | Europe protests and unrest | 30 | 2026-10-27 |  |
 | Russia-Ukraine war | 30 | 2026-11-02 |  |
 | Video game releases | 30 | 2026-10-29 |  |
-| Home dumbbell workouts | 29 | 2026-10-18 |  |
 | Secret of Mana | 28 | 2026-11-02 |  |
+| Home dumbbell workouts | 27 | 2026-10-18 |  |
 | Game-to-film adaptations | 25 | 2026-10-30 |  |
 | Sydney housing and planning | 25 | 2026-10-29 |  |
-| Dark horror-comedy humour (MeatCanyon style) | 24 | 2026-10-18 |  |
-| Asian sci-fi and fantasy films | 23 | 2026-10-20 |  |
+| Dark horror-comedy humour (MeatCanyon style) | 22 | 2026-10-18 |  |
+| Asian sci-fi and fantasy films | 21 | 2026-10-20 |  |
 | Asian horror | 20 | 2026-10-29 |  |
 | Call of Duty | 20 | 2026-10-26 |  |
 | Cybersecurity | 20 | 2026-10-26 |  |
 | Immigration policy | 20 | 2026-10-29 |  |
 | One Nation and Pauline Hanson | 20 | 2026-11-02 |  |
-| Arrow Video and boutique label releases | 19 | 2026-10-18 |  |
-| Crime and thriller films | 19 | 2026-10-18 |  |
+| Arrow Video and boutique label releases | 17 | 2026-10-18 |  |
+| Crime and thriller films | 17 | 2026-10-18 |  |
 | AI safety | 15 | 2026-10-26 |  |
 | Australian defence | 15 | 2026-10-30 |  |
 | Australian films | 15 | 2026-10-22 |  |
 | China and Taiwan | 15 | 2026-10-23 |  |
 | Film industry news | 15 | 2026-10-22 |  |
 | Weekend activities in Sydney | 15 | 2026-10-26 |  |
-| DJI Pocket and ND filters | 14 | 2026-10-16 |  |
-| Hyundai and Boston Dynamics | 14 | 2026-10-18 |  |
-| Metal Gear Solid | 14 | 2026-10-18 |  |
-| Network streaming and multicast | 14 | 2026-10-17 |  |
-| Stardew Valley | 14 | 2026-10-18 |  |
-| Travel video | 14 | 2026-10-18 |  |
-| Video encoding and bitrates (x264, remux sizes) | 14 | 2026-10-17 |  |
-| 10GbE home networking | 9 | 2026-10-17 |  |
-| Grand Theft Auto VI | 9 | 2026-10-18 |  |
-| Magic: The Gathering Final Fantasy cards | 9 | 2026-10-17 |  |
-| PS1 emulation (DuckStation) | 9 | 2026-10-17 |  |
-| The Lord of the Rings films | 9 | 2026-10-11 |  |
+| DJI Pocket and ND filters | 12 | 2026-10-16 |  |
+| Hyundai and Boston Dynamics | 12 | 2026-10-18 |  |
+| Metal Gear Solid | 12 | 2026-10-18 |  |
+| Network streaming and multicast | 12 | 2026-10-17 |  |
+| Stardew Valley | 12 | 2026-10-18 |  |
+| Travel video | 12 | 2026-10-18 |  |
+| Video encoding and bitrates (x264, remux sizes) | 12 | 2026-10-17 |  |
+| 10GbE home networking | 7 | 2026-10-17 |  |
+| Grand Theft Auto VI | 7 | 2026-10-18 |  |
+| Magic: The Gathering Final Fantasy cards | 7 | 2026-10-17 |  |
+| PS1 emulation (DuckStation) | 7 | 2026-10-17 |  |
+| The Lord of the Rings films | 7 | 2026-10-11 |  |
 | Canadian politics | 5 | 2026-10-22 |  |
-| Pi-hole | 4 | 2026-10-17 |  |
-| Street Fighter film | 4 | 2026-10-18 |  |
+| Pi-hole | 2 | 2026-10-17 |  |
+| Street Fighter film | 2 | 2026-10-18 |  |
 | Stranger Things | 0 | 2026-10-10 |  |
 | The NeverEnding Story | 0 | 2026-10-11 |  |

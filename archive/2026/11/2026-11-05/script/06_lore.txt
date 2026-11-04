@@ -1,0 +1,35 @@
+[warm] Lore! And today's story starts at a fair.
+
+[happy] Chrono Trigger, nineteen ninety five, on the Super Nintendo. You'll know the famous part: Square put together what everyone called the Dream Team. Hironobu Sakaguchi, the father of Final Fantasy. Yuji Horii, the creator of Dragon Quest. And Akira Toriyama, of Dragon Ball, drawing the characters. Masato Kato wrote most of the story, and Yasunori Mitsuda wrote most of that incredible music, with help from Nobuo Uematsu. [teasing] It's basically the Avengers of nineteen nineties game design. [punch] If the Avengers had a frog with a sword. [giggling while talking] Which, let's be honest, they should.
+
+[curious] But the part I want to talk about is the very beginning. The Millennial Fair.
+
+[calm] The game opens in the year one thousand A D, in Leene Square, at a festival. There are stalls and games and music. There's Leene's Bell, a giant bell you can hit for points. There's Gato, a singing robot, built by your friend Lucca, with a punching bag in his belly, who'll fight you for points. And Crono, your hero, bumps into a girl called Marle, and she drops her pendant.
+
+[curious] It feels like a tutorial. A little fair to wander around while the story gets going. You can pick up the pendant and give it back. Or keep it, or even try to sell it. You can help a little girl find her lost cat. You can find an old man's lunch sitting on a table... and eat it.
+
+[very quiet] [soft, gentle] [secretive, hushed] And here's the secret... [pause] [hushed, slow] the game is watching all of it.
+
+[happy] Because a few hours later, Crono is put on trial, accused of kidnapping the princess. And the prosecution brings up what you did at the fair. Did you eat that old man's lunch? That's theft, and it counts against you. Did you grab the pendant before even talking to her? Against you. Did you bring the little girl her cat? A witness speaks up for you. Seven jurors weigh it all up, along with how you answer in the dock. [teasing] Imagine being convicted over a sandwich. [punch] In a game about time travel. [giggling while talking] He could've just gone back and not eaten it.
+
+[thoughtful] And here's the twist. Even if you're found innocent... the Chancellor throws you in jail anyway, and schedules your execution. [chuckles] So what does your behaviour actually change? A small thing: how many jurors sided with you decides how many Ethers, little magic potions, your supporters slip you. But the real change is in you, the player. From that moment on, you know: this world remembers. Every small choice might matter. And that feeling carries you through the whole game, through thirteen different endings, and a New Game Plus that lets you fight the final boss at almost any time.
+
+[warm] That's the lesson for Lanternfall. A festival is the perfect place for a game to start watching you. Everyone's out. Everyone's paying attention. And nobody is suspicious of a festival.
+
+[curious] So let's build on what you already have. On Wednesday we said the Lanternfall could be a night when lanterns fall from the sky, the stars' tears, the ingredient for your moon cakes. What if the village holds a festival every year to welcome it? The Lanternfall Festival. Stalls, music, Chen Stormstout's stall in the middle, selling his Stout and making jokes about being hungry.
+
+[happy] And the festival is where the village decides who you are. Here are a few ideas, and you can take any or none of them.
+
+[calm] One. The lost lantern. A child at the festival has lost her paper lantern; it's floated off over the fields. If you find it and bring it back, people remember. If you keep it, because it's actually worth a lot, someone saw you. [short beat] Someone always sees you.
+
+[calm] Two. The radish contest. The village has a contest for the biggest radish. You can enter honestly, with what you've grown. Or you can enter that suspiciously large, plain white radish with the red top. [punch] The one the farmers call "Sir". [giggling while talking] He doesn't want to be judged. He wants to judge.
+
+[calm] Three. The nurikabe at the edge of the festival, the wall who's been waiting three hundred years for the right cake. If you bring it a radish cake, it moves, and the village sees you do it. If you just walk around it, it remembers that too.
+
+[thoughtful] And then, after the festival... a reckoning. Not a trial with a jury, that's Chrono Trigger's. But something that fits your world. Maybe the zashiki warashi in your farmhouse, the luck spirit we talked about yesterday, makes its decision about you on Lanternfall night. Maybe the village elder decides who gets the best field. Maybe Chen gives you a discount... or doubles his prices. [teasing] Chen doubling his prices is the scariest outcome. [punch] He knows you need that Stout. [giggling while talking] He's a businessman.
+
+[dark] [very sweet, innocent] [speaking slowly] Or maybe... [pause] the festival never really ended. [very softly, sweetly, slow] Maybe the villagers have been holding it every night, for years... [beat] [sweet, innocent, slow] waiting for a farmer to judge. [short beat] [very sweet] And it's your turn.
+
+[happy] And the technical side is simpler than it sounds. Every one of those moments is just a flag: a little true or false, like "returned the lantern", or "fed the nurikabe". You already have that idea from the dialogue system we talked about: flags in a GameState. Later, the festival reads them, and characters react. Which is exactly what today's game tech and workshop are about: getting your farmer to actually interact with something in the world. Because before the village can judge you... you need to be able to touch something.
+
+[curious] So here's my question. If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence? [playful] My answer? You talked to the scarecrow for forty five minutes. [punch] The scarecrow testified. [giggling while talking] He had a lot to say. Your answer page has a box for it.

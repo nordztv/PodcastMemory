@@ -1,0 +1,15 @@
+[happy] Workshop! Tonight's build step for Lanternfall, about an hour: a radish you can pull. Here we go.
+
+[calm] Step one, the button. Open Project Settings, then the Input Map. Add an action called "interact", and give it the E key, and the bottom face button on your controller.
+
+[calm] Step two, the radish. Make a new scene, and choose Area2D as the root. Rename it Radish. Add two children: a Sprite2D, with any little test image for now, and a CollisionShape2D, with a small circle. Then, in the Inspector, under Collision, turn off layer one, and turn on layer two. That's the "interactable" layer. And in the Node tab, under Groups, add it to a group called "interactable".
+
+[calm] Step three, the radish script. Attach a script. At the top, write signal pulled, and a variable called is pulled, set to false. Then a function called interact. Inside: if it's already pulled, return. Otherwise, set is pulled to true, call pulled dot emit, and then the pop: create a tween, tween its scale up to one point three over a tenth of a second, then down to zero over about point one five, and finally, tween callback, queue free. [teasing] Five lines, and a radish has a whole life story. [punch] Born, pulled, popped. [giggling while talking] Very moving. I might need a minute.
+
+[calm] Step four, the farmer's reach. Open your Player scene from yesterday. Add a child Area2D called Reach, with a circle collision shape, a bit bigger than the farmer's feet. In its Collision settings, turn off its layer, and set its mask to layer two only, so it only sees interactables.
+
+[calm] Step five, the player script. In physics process, after your movement lines, add: if Input dot is action just pressed, interact. Then loop over Reach dot get overlapping areas. For each one, if it's in the group "interactable", call its interact function, and break, so you only use one thing at a time.
+
+[excited] Step six. Drag three or four radishes into your Farm scene, press play, walk up to one, and press E.
+
+[happy] How do you know it works? Three checks. The radish pops and disappears. Pressing E when you're not near one does nothing. And mashing E on one radish only pulls it once. If nothing happens at all, it's almost always the layers: check the radish is on layer two, and the Reach mask is on layer two. And if you want a tiny bonus: in the Farm scene, connect one radish's pulled signal to a function that prints "pulled". [sly] Tomorrow, that print becomes a counter. [punch] And the counter becomes a monster. [warm] Then commit it to Git: "farmer pulls a radish". Day four, done.

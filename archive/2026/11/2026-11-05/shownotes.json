@@ -1,0 +1,511 @@
+{
+ "date": "2026-11-05",
+ "weekday": "Thursday",
+ "length": "",
+ "headline": "Democrats take Congress, banks pass on the rate rise, AMD's record quarter, Ocarina and WoW Forever launch day, Godzilla in Australia, and how Lady Snowblood was made",
+ "challenge": "Seventy dumbbell rows (thirty five each arm, 7.5 kg) and a two minute plank in total, broken up however you like, across the day (completion rate so far: 5 of 11, 45%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Democrats win both houses of Congress in the US midterms",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/democrats-claim-victory-over-republicans-2026-midterm-elections/107338138"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/us-midterms-democrats-win-majority-what-happens-next/107335330"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/donald-trump-no-lame-duck-despite-us-midterm-results/107339272"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/live-blog/us-midterm-elections-2026-live-results/1un8q7w91"
+      }
+     ]
+    },
+    {
+     "title": "Sydney weather: early showers clearing, sunny Friday; bus industrial action",
+     "links": [
+      {
+       "label": "BoM",
+       "url": "https://www.bom.gov.au/places/nsw/moore-park/forecast"
+      },
+      {
+       "label": "Transport NSW",
+       "url": "https://transportnsw.info/news/2026/sydney-bus-disruptions-due-to-industrial-action"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Big four banks pass on the rate rise from 13 November",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858"
+      }
+     ]
+    },
+    {
+     "title": "Albanese v Taylor on spending and rates; Burnham backpacker talks",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/federal-politics-live-blog-angus-taylor-rates/107342840"
+      }
+     ]
+    },
+    {
+     "title": "AFP charges five over $235 million alleged welfare and NDIS fraud",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/federal-police-five-charged-ndis-welfare-fraud/107344388"
+      }
+     ]
+    },
+    {
+     "title": "David Jones on the brink over unpaid Westfield rent",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/david-jones-could-collapse-behind-on-westfield-rent/107345094"
+      }
+     ]
+    },
+    {
+     "title": "High Court: Uber must pay $81 million in NSW payroll tax",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/high-court-rules-on-uber-81-million-tax-bill/107344014"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/high-court-of-australia-ruling-on-uber-and-payroll-taxes"
+      }
+     ]
+    },
+    {
+     "title": "NSW Liberals' MP exodus as One Nation surges",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/nsw-election-analysis-liberal-mp-exodus-amid-one-nation-surge/107342536"
+      }
+     ]
+    },
+    {
+     "title": "NSW Health cyber breach declared a major incident",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/cyber-security-nsw-police-investigate-cyber-breach-at-nsw-health/107344174"
+      }
+     ]
+    },
+    {
+     "title": "Call for a 7.5% short-stay rental levy",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406"
+      }
+     ]
+    },
+    {
+     "title": "Western Harbour Tunnel nears halfway; underquoting laws start 17 November",
+     "links": [
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/full-steam-ahead-on-western-harbour-tunnel-as-boring-machines-near-halfway-mark"
+      },
+      {
+       "label": "NSW Government",
+       "url": "https://www.nsw.gov.au/ministerial-releases/start-dates-set-for-minns-labor-governments-new-underquoting-laws"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "AMD's record quarter and '80% growth in 2027'; gaming down 40%",
+     "links": [
+      {
+       "label": "AMD",
+       "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
+      },
+      {
+       "label": "Investing.com",
+       "url": "https://www.investing.com/news/earnings/amd-stock-jumps-after-hours-as-quarterly-results-revenue-guidance-beat-estimates-4996344"
+      }
+     ]
+    },
+    {
+     "title": "Kospi's 7% swing and Nikkei slide on the US blue wave",
+     "links": [
+      {
+       "label": "Seoul Economic Daily",
+       "url": "https://en.sedaily.com/finance/2026/11/04/kospi-swings-7-percent-before-closing-higher-as-us"
+      },
+      {
+       "label": "XTB",
+       "url": "https://www.xtb.com/en/market-analysis/the-midterms-outcome"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia's reported 51% non-China rule for cloud partners",
+     "links": [
+      {
+       "label": "Free Malaysia Today",
+       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/nvidia-orders-data-center-clients-to-reduce-china-exposure"
+      }
+     ]
+    },
+    {
+     "title": "New Macs in stores Friday; first touchscreen MacBook Pro impressions",
+     "links": [
+      {
+       "label": "Switching to Mac",
+       "url": "https://www.switchingtomac.com/apple-five-new-products-november-6-touchscreen-macbook-pro/"
+      },
+      {
+       "label": "TheStreet",
+       "url": "https://www.thestreet.com/technology/mkbhd-review-apple-touchscreen-macbook-pro-proled-xdr-display"
+      }
+     ]
+    },
+    {
+     "title": "Qualcomm and Arm report this morning",
+     "links": [
+      {
+       "label": "Arm",
+       "url": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-second-quarter-fiscal-year-ending-2027"
+      }
+     ]
+    },
+    {
+     "title": "Kimi K3.1 Pro: a 2.8-trillion-parameter open model",
+     "links": [
+      {
+       "label": "The Next Web",
+       "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Tesla Korea FSD complaint, Grok in cars, HBM smuggling, Arc Pro B70 prices",
+     "links": [
+      {
+       "label": "Claims Journal (Reuters)",
+       "url": "https://www.claimsjournal.com/news/national/2026/11/04/341114.htm"
+      },
+      {
+       "label": "SBS Korea",
+       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008828674"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Ocarina of Time on Switch 2: Famitsu 37/40, the NPR leak, day-one update",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/the-first-review-for-zelda-ocarina-of-time-switch-2-is-in"
+      },
+      {
+       "label": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/Leaked-Zelda-Ocarina-of-Time-review-calls-Switch-2-game-safe-with-pacing-issues.1441138.0.html"
+      },
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever launches at 10am",
+     "links": [
+      {
+       "label": "Blizzard",
+       "url": "https://news.blizzard.com/en-us/article/24316094/prepare-for-forever-try-midnights-talebound-and-discover-sweet-treats-in-wow-weekly"
+      }
+     ]
+    },
+    {
+     "title": "Like a Dragon: Kenzan! gets an English fan translation",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/it-took-a-lot-of-work-the-elusive-ps3-title-like-a-dragon-kenzan-has-just-received-an-ai-free-fan-translation"
+      }
+     ]
+    },
+    {
+     "title": "Cancelled Sega Mega Drive games preserved: Jester, Segapede, Treasure Tails",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/former-sega-dev-shares-mega-drive-archive-inc-abandoned-code-for-segapede-jester-and-a-game-starring-sonics-pal-tails"
+      }
+     ]
+    },
+    {
+     "title": "Snake's Japanese voice wants 'one more Metal Gear'",
+     "links": [
+      {
+       "label": "Screen Rant",
+       "url": "https://screenrant.com/metal-gear-solid-6-no-kojima/"
+      }
+     ]
+    },
+    {
+     "title": "Godot 4.8 beta 2",
+     "links": [
+      {
+       "label": "Godot",
+       "url": "https://godotengine.org/blog/"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: GoldenEye leaves Game Pass, Dragon's Dogma 2 collab, Zero Parades, Witchbrook crossplay",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/goldeneye-007-is-surprisingly-among-14-titles-being-removed-from-xbox-game-pass"
+      },
+      {
+       "label": "Nintendo Life",
+       "url": "https://nintendolife.com/news/2026/11/dragons-dogma-2-dark-arisen-new-update-and-anime-collab-announced-here-are-the-full-patch-notes"
+      },
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/11/three-xbox-games-are-shutting-down-their-servers-in-november-and-december-2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Godzilla Minus Zero opens in Australia; record Japan opening, big US projections",
+     "links": [
+      {
+       "label": "Koimoi",
+       "url": "https://www.koimoi.com/box-office/godzilla-minus-zero-japan-box-office-delivers-a-monster-opening-day-sets-new-franchise-record/"
+      },
+      {
+       "label": "Slashfilm",
+       "url": "https://www.slashfilm.com/2298662/godzilla-minus-zero-box-office-preview/"
+      },
+      {
+       "label": "Metacritic",
+       "url": "https://www.metacritic.com/movie/godzilla-minus-zero/critic-reviews/"
+      }
+     ]
+    },
+    {
+     "title": "Tokyo festival top prize: Sister Brother Manhole Cover",
+     "links": [
+      {
+       "label": "Japan Times",
+       "url": "https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/"
+      },
+      {
+       "label": "Variety",
+       "url": "https://variety.com/2026/film/festivals/golden-lion-winner-sister-brother-manhole-cover-tokyo-1236893474/"
+      }
+     ]
+    },
+    {
+     "title": "Arrow's January 4K slate; Eureka's Scarlet Street 4K",
+     "links": [
+      {
+       "label": "No Bad Movie",
+       "url": "https://nobadmovie.com/2026/11/01/arrow-video-january-2027-titles-announced/"
+      },
+      {
+       "label": "Eureka",
+       "url": "https://eurekavideo.co.uk/category/news/"
+      }
+     ]
+    },
+    {
+     "title": "Actress of the Month: the making of Lady Snowblood",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Lady_Snowblood_(film)"
+      },
+      {
+       "label": "Criterion",
+       "url": "https://www.criterion.com/films/28589-lady-snowblood"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Chrono Trigger's Millennial Fair and the trial",
+     "links": [
+      {
+       "label": "StrategyWiki",
+       "url": "https://strategywiki.org/wiki/Chrono_Trigger/The_Millennial_Fair"
+      },
+      {
+       "label": "Chrono Compendium",
+       "url": "https://blackbird.chronocompendium.com/Term/Kingdom_Trial_Guide.html"
+      }
+     ]
+    },
+    {
+     "title": "Lanternfall: a festival that remembers what you did",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Interaction in Godot: Area2D reach zone, groups, signals, tween pop",
+     "links": [
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_area2d.html"
+      },
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/classes/class_tween.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Shin Godzilla: the first all-CG Toho Godzilla, performed by Mansai Nomura",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Shin_Godzilla_(character)"
+      },
+      {
+       "label": "Anime News Network",
+       "url": "https://www.animenewsnetwork.com/interest/2016-08-11/get-up-close-and-personal-with-godzilla-in-behind-the-scenes-cg-video/.105271"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Villeneuve and Deakins on Blade Runner 2049",
+     "links": [
+      {
+       "label": "American Cinematographer",
+       "url": "https://cdn.theasc.com/AC1217-Blade-Runner-2047.pdf"
+      },
+      {
+       "label": "ARRI",
+       "url": "https://arri.com/news-en/lighting-blade-runner-2049-"
+      },
+      {
+       "label": "British Cinematographer",
+       "url": "https://britishcinematographer.co.uk/roger-deakins-cbe-bsc-asc-blade-runner-2049/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Build step: a radish you can pull in Lanternfall",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Launch day as a visit to who you used to be",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Actress of the Month film",
+   "title": "Lady Snowblood (1973), Toshiya Fujita, with Meiko Kaji",
+   "note": "Thursday's making-of. Criterion's The Complete Lady Snowblood Blu-ray; check the Criterion Channel.",
+   "links": [
+    {
+     "label": "Criterion",
+     "url": "https://www.criterion.com/films/28589-lady-snowblood"
+    }
+   ]
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "Shin Godzilla (2016)",
+   "note": "Anno and Higuchi's all-CG Godzilla; check streaming.",
+   "links": []
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "Blade Runner 2049 (2017)",
+   "note": "Villeneuve and Deakins; check streaming or 4K.",
+   "links": []
+  },
+  {
+   "kind": "In cinemas today",
+   "title": "Godzilla Minus Zero",
+   "note": "Australian release Thursday 5 November.",
+   "links": []
+  },
+  {
+   "kind": "Retro Game of the Week",
+   "title": "Demon's Crest (SNES)",
+   "note": "Nintendo Switch Online SNES library.",
+   "links": []
+  }
+ ],
+ "questions": [
+  "If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence?",
+  "Did you get to watch Lady Snowblood this week, and which moment has stayed with you since?",
+  "If you lit one scene in your travel videos with a single colour, like Deakins' orange Las Vegas, where would you film it, and what colour would it be?"
+ ]
+}
