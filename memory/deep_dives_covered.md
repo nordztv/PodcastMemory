@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-05 | Lore | Chrono Trigger's Millennial Fair and trial (case study for the Lanternfall Festival) |
+| 2026-11-05 | Game tech | Interaction in Godot (Area2D reach zone, interact action, groups, custom signal, layers/masks, tween pop) |
+| 2026-11-05 | Effects | Shin Godzilla's all-CG Godzilla (forms, maquette, Mansai Nomura mocap, atomic breath) |
+| 2026-11-05 | Director | Villeneuve and Deakins on Blade Runner 2049 |
+| 2026-11-05 | Workshop | Lanternfall build step: a radish you can pull |
+| 2026-11-05 | Chat | Launch day as a visit to who you used to be (Ocarina, WoW Forever, Godzilla) |
 | 2026-11-04 | Lore | Stardew Valley: one developer, four years (case study for Lanternfall; chochin obake idea) |
 | 2026-11-04 | Game tech | Top-down movement in Godot (CharacterBody2D, Input Map, get_vector, move_and_slide, acceleration, facing animations) |
 | 2026-11-04 | Effects | Oppenheimer's Trinity test without CGI |

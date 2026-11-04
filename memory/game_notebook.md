@@ -46,6 +46,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - Given: none yet (first step due Friday 6 Nov, in the new project). Done: none reported.
 
 ## Open questions from the show (not answered yet)
+- What the Lanternfall village would bring up as evidence at a trial after the festival (5 Nov).
 - What the Lanternfall really is (4 Nov).
 - What a zashiki-warashi in the farmhouse loves, and what makes it leave (4 Nov).
 - Signature item and what it lets the player do (19 Oct).
@@ -54,6 +55,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - The goblin leader's name and what he wants (3 Nov).
 
 ## Suggestions the show has given
+- 5 Nov: interaction (a Reach Area2D on the farmer masking an interactable layer, interact action with is_action_just_pressed, get_overlapping_areas + an "interactable" group, interact() on each object, signal pulled, tween pop + queue_free); a pullable Radish scene ready for Friday's pull counter; a Lanternfall Festival where the village remembers what you did (lost lantern, radish contest, the nurikabe at the edge), Chrono Trigger style, stored as GameState flags.
 - 4 Nov: top-down movement (CharacterBody2D, feet-only collision, Input Map, Input.get_vector, move_and_slide, short move_toward ramp, facing animations); try viewport stretch + nearest filter and the Compatibility renderer; Lanternfall night as falling star tears with chochin-obake red lanterns to avoid; a hidden house-luck value for a zashiki-warashi.
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.
 - 23 Oct: radish spawn counter + AStarGrid2D chase; CanvasModulate day-night cycle; Resource save/load; fake-height cannon arc with a shrinking shadow.

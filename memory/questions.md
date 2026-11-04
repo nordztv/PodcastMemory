@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-05 | If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-05 | Did you get to watch Lady Snowblood this week, and which moment has stayed with you since? | Cult actresses and iconic characters | Not yet | no |
+| 2026-11-05 | If you lit one scene in your travel videos with a single colour, like Deakins' orange Las Vegas, where would you film it, and what colour would it be? | Colour grading and Final Cut Pro | Not yet | no |
 | 2026-11-04 | If a zashiki-warashi lived in your Lanternfall farmhouse, what would it love most, and what's the one thing that would make it pack up and leave? | Japanese yokai | Not yet | no |
 | 2026-11-04 | Lanternfall: what is it, really? What falls, why does it fall, and what does it mean for the farmer? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-04 | You played Demon's Crest and called it mixed. What held it back for you, and was there one part you really liked? | Retro games (SNES and Mega Drive) | Not yet | no |

@@ -6,6 +6,11 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- |
+| 2026-11-05 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Thursday (making-of) | | | |
+| 2026-11-05 | Shin Godzilla (2016) | Hideaki Anno, Shinji Higuchi | Hiroki Hasegawa, Satomi Ishihara | Kaiju, Japan | Effects deep dive (all-CG Godzilla, Mansai Nomura mocap) | | | |
+| 2026-11-05 | Blade Runner 2049 (2017) | Denis Villeneuve | Ryan Gosling, Ana de Armas, Sylvia Hoeks, Harrison Ford | Sci-fi noir, USA | Director deep dive (Roger Deakins) | | | |
+| 2026-11-05 | Godzilla Minus Zero (2026) | Takashi Yamazaki | | Kaiju, Japan | Movies segment (Australian release) | | | |
+| 2026-11-05 | Sister Brother Manhole Cover (2026) | Milcho Manchevski | | Satire, North Macedonia | Movies segment mention (Tokyo IFF top prize) | | | |
 | 2026-11-04 | Oppenheimer (2023) | Christopher Nolan | Cillian Murphy, Emily Blunt | Historical drama, USA/UK | Effects deep dive (Trinity test without CGI) | | | |
 | 2026-11-04 | Jaws (1975) | Steven Spielberg | Roy Scheider, Robert Shaw, Richard Dreyfuss | Thriller/horror, USA | Director deep dive | | | |
 | 2026-11-04 | Leviathan (2027) | Michihito Fujii, Ryohei Shingu | Shunsuke Michieda, Natsuki Deguchi | Sci-fi horror, Japan | Movies segment mention | | | |
@@ -70,11 +75,13 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Denis Villeneuve | Blade Runner 2049 (2017, director deep dive with Roger Deakins) | Ana de Armas, Sylvia Hoeks | 2026-11-05 |
+| Hideaki Anno and Shinji Higuchi | Shin Godzilla (2016, effects deep dive) | | 2026-11-05 |
 | Joseph Kosinski | Top Gun: Maverick (2022) | | 2026-11-02 |
 | David Fincher | Se7en (1995) | | 2026-11-02 |
 | Na Hong-jin | The Wailing (2016) | Chun Woo-hee, Kwak Do-won, Jun Kunimura | 2026-10-30 |
 | Yuta Shimotsu | New Group (2026, recommended); Best Wishes to All (mentioned) | | 2026-10-30 |
-| Takashi Yamazaki | Godzilla Minus One (2023) | | 2026-10-29 |
+| Takashi Yamazaki | Godzilla Minus One (2023); Godzilla Minus Zero (2026, news) | | 2026-11-05 |
 | Sam Raimi | The Evil Dead (1981) | | 2026-10-29 |
 | Hideo Nakata | Ringu (1998) | Nanako Matsushima | 2026-10-28 |
 | John Landis | An American Werewolf in London (1981) | | 2026-10-28 |
