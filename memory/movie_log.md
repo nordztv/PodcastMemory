@@ -3,9 +3,8 @@
 Every film the show has recommended or featured (Actress of the Month, effects and director deep dives, and any film the host specifically recommends), plus the directors behind them. Used to pick future actresses, directors and films with real connections, and to make sure no film is covered twice. Newest first. Scott can fill in Watched, Verdict and comments anytime (or tell any Claude chat).
 
 ## Films
-
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-11-05 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Thursday (making-of) | | | |
 | 2026-11-05 | Shin Godzilla (2016) | Hideaki Anno, Shinji Higuchi | Hiroki Hasegawa, Satomi Ishihara | Kaiju, Japan | Effects deep dive (all-CG Godzilla, Mansai Nomura mocap) | | | |
 | 2026-11-05 | Blade Runner 2049 (2017) | Denis Villeneuve | Ryan Gosling, Ana de Armas, Sylvia Hoeks, Harrison Ford | Sci-fi noir, USA | Director deep dive (Roger Deakins) | | | |
@@ -15,18 +14,10 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-11-04 | Jaws (1975) | Steven Spielberg | Roy Scheider, Robert Shaw, Richard Dreyfuss | Thriller/horror, USA | Director deep dive | | | |
 | 2026-11-04 | Leviathan (2027) | Michihito Fujii, Ryohei Shingu | Shunsuke Michieda, Natsuki Deguchi | Sci-fi horror, Japan | Movies segment mention | | | |
 | 2026-11-04 | Beware Boiuna (2026) | Mike P. Nelson | | Creature horror, USA/Brazil | Movies segment mention | | | |
-| Park Chan-wook | Oldboy (2003) | Choi Min-sik | 2026-10-21 |
-| George Miller | Mad Max: Fury Road (2015) | Charlize Theron | 2026-10-21 |
-| Tsui Hark | The Blade (1995) | | 2026-10-21 |
-| Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
-| Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 | --- | --- | --- | --- | --- |
 | 2026-11-03 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Tuesday (Kaji introduced) | | | |
 | 2026-11-03 | Mission: Impossible - Dead Reckoning Part One (2023) | Christopher McQuarrie | Tom Cruise, Hayley Atwell, Rebecca Ferguson | Action, USA | Effects deep dive (motorbike cliff jump) | | | |
 | 2026-11-03 | Hard Boiled (1992) | John Woo | Chow Yun-fat, Tony Leung Chiu-wai | Action/crime, Hong Kong | Director deep dive (hidden lift cut, multi-speed cameras) | | | |
-| 2026-11-02 | Top Gun: Maverick (2022) | Toshiya Fujita | Lady Snowblood (1973) | Meiko Kaji (Actress of the Month, Nov 2026; also Stray Cat Rock: Delinquent Girl Boss) | 2026-11-03 |
-| Christopher McQuarrie | Mission: Impossible - Dead Reckoning Part One (2023) | | 2026-11-03 |
-| John Woo | Hard Boiled (1992) | | 2026-11-03 |
-| Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
+| 2026-11-02 | Top Gun: Maverick (2022) | Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
 | 2026-11-02 | Se7en (1995) | David Fincher | Brad Pitt, Morgan Freeman, Gwyneth Paltrow | Crime thriller, USA | Director deep dive | | | |
 | 2026-11-02 | Police Story (1985) and trilogy | Jackie Chan | Jackie Chan, Maggie Cheung | Action, Hong Kong | Movies segment mention (Eureka 4K SteelBook, 18 Jan) | | | |
 | 2026-11-02 | Wheels on Meals (1984) | Sammo Hung | Jackie Chan, Sammo Hung, Yuen Biao | Kung fu comedy, Hong Kong | Movies segment mention (Eureka 4K, 23 Nov) | | | |
@@ -72,9 +63,16 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-10-18 | Jurassic Park (1993) | Steven Spielberg | Laura Dern, Sam Neill | Sci-fi adventure, USA | Effects deep dive (T. rex) | | | |
 
 ## Directors
-
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Park Chan-wook | Oldboy (2003) | Choi Min-sik | 2026-10-21 |
+| George Miller | Mad Max: Fury Road (2015) | Charlize Theron | 2026-10-21 |
+| Tsui Hark | The Blade (1995) | | 2026-10-21 |
+| Jeremy Saulnier | Green Room (2015) | Imogen Poots | 2026-10-21 |
+| Kenji Mizoguchi | Ugetsu (1953) | Machiko Kyō, Kinuyo Tanaka | 2026-10-21 |
+| Toshiya Fujita | Lady Snowblood (1973) | Meiko Kaji (Actress of the Month, Nov 2026; also Stray Cat Rock: Delinquent Girl Boss) | 2026-11-05 |
+| Christopher McQuarrie | Mission: Impossible - Dead Reckoning Part One (2023) | | 2026-11-03 |
+| John Woo | Hard Boiled (1992) | | 2026-11-03 |
 | Denis Villeneuve | Blade Runner 2049 (2017, director deep dive with Roger Deakins) | Ana de Armas, Sylvia Hoeks | 2026-11-05 |
 | Hideaki Anno and Shinji Higuchi | Shin Godzilla (2016, effects deep dive) | | 2026-11-05 |
 | Joseph Kosinski | Top Gun: Maverick (2022) | | 2026-11-02 |
