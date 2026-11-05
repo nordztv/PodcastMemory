@@ -4,6 +4,10 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
+- Australia (after a 3 on 5 Nov, a nine-item day): at most five stories; the top two or three told fully (what happened, why it matters, what's next), the rest a sentence each. Reason: 5 Nov Australia score 3 (down from 4), with his 28 Oct "fewer topics, more depth" note.
+- Travel: when Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
+- Lore and the game thread: keep them at the centre and story-led; Friday lore pulls the week's ideas into one drop-in design. Reason: lore scored 5 on 2 and 5 Nov.
+- Opening and world: keep the three-biggest-stories format. Reason: scored 5 on 5 Nov after being cut back.
 - World and Australia lighter, games and movies heavier (Scott's 2 Nov monthly check-in answer: "less world news and more games and movies"): opening and world about 650 to 800 words with only the two or three biggest world stories; Australia about 1,400 words (big stories still covered properly); games about 2,000 to 2,200 and movies about 1,500 including the actress segment. Reason: his 2 Nov answer.
 - Workshop: after a 3 (2 Nov, Git), keep it to one job he can finish in ten minutes, with exact clicks or commands. Since 3 Nov the workshop is the daily build step for his Game-Prototype weekly task (bible 5c): keep it to one evening-sized step with exact nodes and lines. Reason: 2 Nov workshop score and his 3 Nov request.
 - Game project thread (3 Nov): lore, game tech and workshop follow his Game-Prototype weekly task every weekday (bible 5c). Reason: his 3 Nov request.
@@ -30,6 +34,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-06 | Australia capped at five stories (two or three told fully); travel weeks follow his location; lore and opening kept as they are | 5 Nov scores (Australia 3; world and lore 5) and his 6 Nov Brisbane message |
 | 2026-11-03 (midweek) | Less world news, more games and movies; workshop kept to a ten-minute job | 2 Nov answer (monthly check-in) and workshop score 3 |
 | 2026-10-30 | Lore kept full and news-linked; workshop kept practical; chat around his answers and yokai; game tech tied to his own game ideas; Australian procedural items trimmed | 26-28 Oct section scores (lore 5/4/5, workshop 3/4/5, chat 4/4/5) and the 27 Oct dislike |
 | 2026-10-29 (midweek) | Fewer topics, more depth | 28 Oct note |

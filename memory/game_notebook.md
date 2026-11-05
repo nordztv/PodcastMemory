@@ -43,10 +43,14 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 ## Radish build-along (f1 approved 31 Oct; one step each Friday)
 - Steps: 1 pull counter, 2 spawn, 3 chase, 4 tiers (palette rows), 5 game over screen, 6 polish.
-- Given: none yet (first step due Friday 6 Nov, in the new project). Done: none reported.
+- Given: step 1 pull counter (6 Nov: GameState autoload, radish_pulls, random hidden threshold 8-15, register_pull() resets). Next: step 2 spawn (Fri 13 Nov). Done: none reported yet.
+
+## Lanternfall festival and the village's memory
+- 5 Nov (answer page): what the village would bring up as evidence at a trial after the festival: "Leaving dead goblins everywhere".
 
 ## Open questions from the show (not answered yet)
-- What the Lanternfall village would bring up as evidence at a trial after the festival (5 Nov).
+- Who in the village finds the goblins first, and what they say (6 Nov).
+- A film fight scene he'd turn into a Lanternfall boss fight (6 Nov).
 - What the Lanternfall really is (4 Nov).
 - What a zashiki-warashi in the farmhouse loves, and what makes it leave (4 Nov).
 - Signature item and what it lets the player do (19 Oct).

@@ -5,6 +5,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Films
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-06 | Crouching Tiger, Hidden Dragon (2000) | Ang Lee | Chow Yun-fat, Michelle Yeoh, Zhang Ziyi | Wuxia, Taiwan/China/Hong Kong/USA | Effects deep dive (bamboo forest wire-work) | | | |
+| 2026-11-06 | The Good, the Bad and the Ugly (1966) | Sergio Leone | Clint Eastwood, Lee Van Cleef, Eli Wallach | Western, Italy | Director deep dive | | | |
+| 2026-11-06 | Nervous (TBA) | Abner Pastoll | Sarah Bolger, Ko Asung | Psychological horror, South Korea/UK | Movies segment mention (AFM) | | | |
 | 2026-11-05 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Thursday (making-of) | | | |
 | 2026-11-05 | Shin Godzilla (2016) | Hideaki Anno, Shinji Higuchi | Hiroki Hasegawa, Satomi Ishihara | Kaiju, Japan | Effects deep dive (all-CG Godzilla, Mansai Nomura mocap) | | | |
 | 2026-11-05 | Blade Runner 2049 (2017) | Denis Villeneuve | Ryan Gosling, Ana de Armas, Sylvia Hoeks, Harrison Ford | Sci-fi noir, USA | Director deep dive (Roger Deakins) | | | |
@@ -14,7 +17,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-11-04 | Jaws (1975) | Steven Spielberg | Roy Scheider, Robert Shaw, Richard Dreyfuss | Thriller/horror, USA | Director deep dive | | | |
 | 2026-11-04 | Leviathan (2027) | Michihito Fujii, Ryohei Shingu | Shunsuke Michieda, Natsuki Deguchi | Sci-fi horror, Japan | Movies segment mention | | | |
 | 2026-11-04 | Beware Boiuna (2026) | Mike P. Nelson | | Creature horror, USA/Brazil | Movies segment mention | | | |
-| 2026-11-03 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Tuesday (Kaji introduced) | | | |
+| 2026-11-03 | Lady Snowblood (1973) | Toshiya Fujita | Meiko Kaji, Toshio Kurosawa | Revenge/chanbara, Japan | Actress of the Month, Tuesday (Kaji introduced) | Yes (answer page, 5 Nov) | Liked | I loved the fight scenes |
 | 2026-11-03 | Mission: Impossible - Dead Reckoning Part One (2023) | Christopher McQuarrie | Tom Cruise, Hayley Atwell, Rebecca Ferguson | Action, USA | Effects deep dive (motorbike cliff jump) | | | |
 | 2026-11-03 | Hard Boiled (1992) | John Woo | Chow Yun-fat, Tony Leung Chiu-wai | Action/crime, Hong Kong | Director deep dive (hidden lift cut, multi-speed cameras) | | | |
 | 2026-11-02 | Top Gun: Maverick (2022) | Joseph Kosinski | Tom Cruise, Miles Teller, Jennifer Connelly | Action, USA | Effects deep dive (real cockpit filming) | | | |
@@ -100,3 +103,5 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | John Carpenter | Halloween (1978); The Thing (1982) | Jamie Lee Curtis (also Road Games, mentioned 26 Oct), Adrienne Barbeau (frequent collaborator, not yet featured), Kurt Russell | 2026-10-20 |
 | Christopher Nolan | Inception (2010); Interstellar (2014); Oppenheimer (2023, effects 4 Nov) | | 2026-11-04 |
 | Steven Spielberg | Jurassic Park (1993); Jaws (1975, director deep dive 4 Nov) | Laura Dern | 2026-11-04 |
+| Ang Lee | Crouching Tiger, Hidden Dragon (2000) | Michelle Yeoh, Zhang Ziyi | 2026-11-06 |
+| Sergio Leone | The Good, the Bad and the Ugly (1966) | | 2026-11-06 |

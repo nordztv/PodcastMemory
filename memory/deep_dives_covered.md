@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-06 | Lore | Lanternfall in three acts (the week's story ideas pulled together) |
+| 2026-11-06 | Game tech | Week review: movement + interaction test checklist and common bugs |
+| 2026-11-06 | Effects | Crouching Tiger, Hidden Dragon's bamboo forest wire-work |
+| 2026-11-06 | Director | Sergio Leone's The Good, the Bad and the Ugly |
+| 2026-11-06 | Workshop | Camera follow, pop sound, radish build-along step 1 (pull counter) |
+| 2026-11-06 | Chat | Week in a nutshell, Brisbane weekend, defending the picks, T330 check-in (Jellyfin extras, snapshots, config backup) |
 | 2026-11-05 | Lore | Chrono Trigger's Millennial Fair and trial (case study for the Lanternfall Festival) |
 | 2026-11-05 | Game tech | Interaction in Godot (Area2D reach zone, interact action, groups, custom signal, layers/masks, tween pop) |
 | 2026-11-05 | Effects | Shin Godzilla's all-CG Godzilla (forms, maquette, Mansai Nomura mocap, atomic breath) |

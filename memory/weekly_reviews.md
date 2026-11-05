@@ -2,6 +2,13 @@
 
 Every Friday the run reviews the week's section scores, story votes, answers and notes, tunes `show/format_tuning.md`, and puts bigger proposals and feature ideas on Scott's answer page (bible section 9b). His replies (Yes, No, Not now, comments) are recorded here. Newest first.
 
+## Week ending 2026-11-06
+
+- **What the data showed:** two rated episodes (2 Nov and 5 Nov; 3 and 4 Nov not rated). 2 Nov: lore 5, workshop 3, the rest 4 (chat not scored). 5 Nov: opening and world 5, lore 5, Australia 3, the rest 4. Lore scored 5 both times (Secret of Mana, Chrono Trigger + Lanternfall Festival). Australia fell from 4 to 3 on a nine-item day. Votes: 54 stories liked, no dislikes. Answers: 2 Nov (tiger crest, NeverEnding Story 4K, less world/more games and movies) and 5 Nov (dead goblins as trial evidence, loved Lady Snowblood's fight scenes, "don't know" on colour). Challenges: 2 Nov no, 3-4 Nov not reported, 5 Nov yes (rate 6 of 12, 50%). Picks: Lady Snowblood watched and liked; Demon's Crest mixed; Beyond Oasis liked. The weekly task file from the Mac sync is still empty. 6 Nov: Scott in Brisbane until Sunday, asked for the episode to suit that location.
+- **Tuned (show/format_tuning.md):** Australia: at most five stories, the top two or three told fully with why-it-matters and what's-next, the rest a sentence each; lore and the game thread kept at the centre; opening and world kept at the three biggest stories; when Scott says he's travelling, weather, walk and weekend ideas follow his location.
+- **Proposed on the answer page:** c1 a shorter, sharper Australia segment (three stories told properly plus a one-minute round-up); f1 a "Where are you?" travel box; f2 pick next week's retro game from three candidates; f3 a backup weekly task for Lanternfall when no task file arrives.
+- **Outcome:** waiting.
+
 ## Week ending 2026-10-30
 
 - **What the data showed:** three rated episodes (26, 27, 28 Oct; 29 Oct not rated yet). 26 Oct: tech, games, lore, game tech, effects 5; workshop 3. 27 Oct: all 4s, effects 3. 28 Oct: Australia, lore, workshop, chat 5; the rest 4. Lore (5, 4, 5) and chat (4, 4, 5) were the most consistent; workshop climbed 3 to 4 to 5 once it went hands-on; effects dipped to 3 and recovered to 4 when made step by step. Votes: 159 stories liked across the three days, one dislike (27 Oct MP security/cartoons/duty of care). Answers: every question answered 26-28 Oct, almost all about his game and yokai (yokai summons, murlocs, big white radish, the cake-loving nurikabe). Notes: one yokai a week (27 Oct), fewer topics with more detail (28 Oct). Challenges: 26 yes, 27 no, 28 yes, 29 not reported (rate 4 of 7, 57%). Retro pick Beyond Oasis not played yet (busy at work).

@@ -4,9 +4,12 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
-| 2026-11-05 | If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence? | Godot and Scott's 2D game | Not yet | no |
-| 2026-11-05 | Did you get to watch Lady Snowblood this week, and which moment has stayed with you since? | Cult actresses and iconic characters | Not yet | no |
-| 2026-11-05 | If you lit one scene in your travel videos with a single colour, like Deakins' orange Las Vegas, where would you film it, and what colour would it be? | Colour grading and Final Cut Pro | Not yet | no |
+| 2026-11-06 | Your village has seen you leave goblins all over the place. Who in Lanternfall village is the first to find them, and what do they say? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-06 | If you could turn one fight scene from any film into a boss fight in Lanternfall, which scene would it be? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-06 | If your server could only keep one film forever, everything else gone, which film would it be, and why that one? | Home server: Dell T330, TrueNAS, Jellyfin | Not yet | no |
+| 2026-11-05 | If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence? | Godot and Scott's 2D game | 2026-11-05 (answer page): "Leaving dead goblins everywhere" | 2026-11-06 (suggestion given: goblin remains sprite + GameState goblins_defeated read by a villager the morning after Lanternfall) |
+| 2026-11-05 | Did you get to watch Lady Snowblood this week, and which moment has stayed with you since? | Cult actresses and iconic characters | 2026-11-05 (answer page): "I loved the fight scenes" (Watched it, Liked) | 2026-11-06 |
+| 2026-11-05 | If you lit one scene in your travel videos with a single colour, like Deakins' orange Las Vegas, where would you film it, and what colour would it be? | Colour grading and Final Cut Pro | 2026-11-05 (answer page): "Don't know" | 2026-11-06 |
 | 2026-11-04 | If a zashiki-warashi lived in your Lanternfall farmhouse, what would it love most, and what's the one thing that would make it pack up and leave? | Japanese yokai | Not yet | no |
 | 2026-11-04 | Lanternfall: what is it, really? What falls, why does it fall, and what does it mean for the farmer? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-04 | You played Demon's Crest and called it mixed. What held it back for you, and was there one part you really liked? | Retro games (SNES and Mega Drive) | Not yet | no |
