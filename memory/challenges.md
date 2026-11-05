@@ -4,7 +4,8 @@ One fitness challenge per episode (bible section 8). Scott reports Done on the d
 
 | Date | Challenge | Done |
 | --- | --- | --- |
-| 2026-11-05 | Seventy dumbbell rows (thirty five each arm, 7.5 kg) and a two minute plank in total, broken up however you like, across the day | Not yet |
+| 2026-11-06 | Walk five kilometres along the Brisbane River (a loop over the bridges counts) and forty push-ups, in as many sets as you like, across the day | Not yet |
+| 2026-11-05 | Seventy dumbbell rows (thirty five each arm, 7.5 kg) and a two minute plank in total, broken up however you like, across the day | Yes |
 | 2026-11-04 | Forty push-ups and a plank of one hundred and five seconds in total, broken up however you like, across the day | Not yet |
 | 2026-11-03 | Sixty dumbbell bicep curls (thirty each arm, 7.5 kg) and a ninety second plank in total, broken up however you like, across the day | Not yet |
 | 2026-11-02 | Thirty five push-ups and fifty bodyweight squats, in as many sets as you like, across the day | No |
