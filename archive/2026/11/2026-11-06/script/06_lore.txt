@@ -1,0 +1,23 @@
+[warm] Lanternfall time. And because it's Friday, I want to take everything we've dreamed up this week and pull it together into one thing. Something you could actually drop into the game. Think of it as a one-page design document, read out loud.
+
+[happy] Let's start with the name, because this week the name started to mean something. Lanternfall is a night. Once a year, lanterns fall from the sky over the valley. On Wednesday we wondered whether they're the stars' tears, the same tears that go into your night-only moon-cakes. So the falling lanterns are the ingredient. The festival is the harvest. [delighted] And suddenly your recipe from last week has a whole holiday built around it.
+
+[curious] Here's the shape of the year, in three acts.
+
+[calm] Act one: the ordinary days. Your farmer arrives, walks the fields, pulls radishes. Every pull counts. Every goblin you deal with counts. Every villager you help, or ignore, counts. The game is quietly writing it all down. That's the lesson from Stardew Valley, which we looked at on Wednesday: the daily rhythm is the story. Nobody tells you the story. You live it.
+
+[curious] Act two: the night of the festival. The lanterns come down. The village gathers. Chen Stormstout sets up his stall with a barrel and a very hopeful look. There's a radish-pulling contest, and somewhere at the edge of the square, the nurikabe is standing very still, waiting for someone to bring it the right cake. [teasing] Three hundred years it's been waiting. [punch] Nobody wants to tell it the bakery shut. [giggling while talking] Sorry. Poor nurikabe.
+
+[thoughtful] And among the warm paper lanterns, a few red ones that aren't quite right. The chochin obake. The lantern yokai with an eye and a long tongue. The rule could be simple: gold lanterns are gifts, red lanterns are trouble. Catch the gold ones. Let the red ones float past. [very sweet, innocent] [speaking slowly] And if you catch a red one by mistake... [pause] [very softly, sweetly] it remembers you. [beat] [sweet, innocent, slow] All year.
+
+[curious] Act three: the morning after. This is where Thursday's idea comes in, from Chrono Trigger's Millennial Fair, where the game watched everything you did at the fair and then put you on trial for it. In Lanternfall, the morning after the festival, the village remembers. Not a trial with a judge, necessarily. Just people talking. The baker mentions you never came by. The old farmer thanks you for clearing his field. A child points at something you'd rather she didn't. [sly] And I've seen your answer about what the village would bring up as evidence... [punch] and it is very, very you. I'm saving it for the end of the show.
+
+[warm] And in your farmhouse, all year, there's the zashiki-warashi from Wednesday's yokai of the week: the little house spirit that brings luck while it's happy, and leaves when it isn't. A hidden house-luck number, ticking up when you're kind and down when you're not. On Lanternfall night, it could even come out and watch the lanterns with you. [soft] Just for one night. Then it's gone again until next year.
+
+[happy] So, the whole thing in one breath. A farm game where the land quietly remembers what you do. A yearly festival where the stars cry lanterns. Good lanterns and bad ones. A cake-hungry wall. A pandaren merchant. A house spirit keeping score. And a village that tells you, the morning after, who you've been.
+
+[thoughtful] And the lovely thing about it, for building, is that almost all of it runs on one idea we touched on this week: flags. A little {record|rekkord} in a GameState script of what's happened. Radishes pulled. Goblins defeated. Lanterns caught. The festival is just the night the game reads those flags back to you.
+
+[warm] So, you could start very small. One flag. One villager who says one different line the morning after, depending on that flag. That's the whole system, in miniature. And next week, wherever the weekly task takes us, this is the story it can grow into.
+
+[curious] Which brings me to a question. Your village has seen you leave goblins all over the place. So, who in Lanternfall village is the first to find them, and what do they say? [playful] My answer? It's Chen. [punch] And he asks if they're for sale. [giggling while talking] He's a merchant. He sees opportunity everywhere. Your answer space is on today's sheet.

@@ -1,0 +1,27 @@
+[curious] Effects. And since you told me you loved Lady Snowblood's fight scenes, I've picked one of the most beautiful fights ever filmed. The bamboo forest, from Crouching Tiger, Hidden Dragon.
+
+[warm] Ang Lee's film came out in two thousand. Chow Yun-fat plays Li Mu Bai, a great swordsman. Zhang Ziyi plays Jen, a young aristocrat who has stolen his sword, the Green Destiny. And in one scene, he chases her into a bamboo forest, and they fight... at the very tops of the bamboo. Swaying. Balancing. Floating from stem to stem, as if they weigh nothing at all.
+
+[curious] So how do you do that without a computer-generated person?
+
+[calm] Step one: real bamboo. The scene was filmed in a real bamboo forest in China, with stems tall and thin enough to bend when someone stands near the top. The movement you see, the sway, the bounce, is mostly real. That's why it feels so different to a digital forest.
+
+[calm] Step two: wires. The actors wore harnesses under their costumes, attached to thin cables. The cables ran up to cranes, out of shot, and teams of crew on the ground pulled the lines, by hand and with pulleys, to lift, drop and swing them. This is wire-work, and it comes from the Hong Kong film tradition. The fights were choreographed by Yuen Woo-ping, a master of it, who also did the fights in The Matrix.
+
+[thoughtful] Step three, and this is the hard part: the performance. Hanging on a wire, high up among the treetops, your body wants to spin, flail and grab. The actors had to look calm, even graceful, and still do the sword moves. [impressed] And Chow Yun-fat looks like he's out for a stroll.
+
+[calm] Step four: removing the evidence. The wires were taken out afterwards, frame by frame, digitally. So the computer work isn't creating the magic. It's erasing the strings. Everything you see moving was really moving.
+
+[happy] And step five: the music and the sound. A soft, rushing wind in the leaves. Tan Dun's score, with Yo-Yo Ma's cello. The fight is almost quiet. It's closer to a dance than a battle.
+
+[thoughtful] The result: the film won four Oscars, including best foreign language film and best cinematography, for Peter Pau, and it introduced a whole generation outside Asia to wuxia, the Chinese tradition of martial heroes who can do the impossible.
+
+[delighted] And there's a link to this week. Lady Snowblood's fights are fast and bloody and grounded. Crouching Tiger's are slow and floating and dreamy. Two completely different answers to the same question: how do you make a sword fight feel like art?
+
+[warm] And here's the lesson for you, in two ways.
+
+[curious] For your camera: you don't need wires to borrow this. When you film someone moving, film the environment moving too. Leaves, grass, a scarf, water. Real motion around a person makes the scene feel alive, in a way a still background never does.
+
+[happy] And for Lanternfall: wire-work is really just a curve. A jump that rises fast, hangs for a moment at the top, then drifts down. In Godot, that's a tween with an ease-out on the way up and an ease-in on the way down. That little hang at the top... is the whole magic.
+
+[very quiet] [soft, gentle] [speaking slowly] [secretive, hushed] And one last thing... [pause] [hushed, slow] watch the bamboo fight again, and look at their feet... [pause] [very quiet, soft, slow] they almost never land. That was the point.
