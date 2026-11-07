@@ -481,7 +481,7 @@
   "\\bStøre\\b": "Store eh",
   "\\bInugami\\b": "Ee noo gah mee",
   "\\bKunimura\\b": "Koo nee moo rah",
-  "\\bGhidorah\\b": "Gee dor ah",
+  "\\bGhidorah\\b": "Ghee dor ah",
   "\\bOnyxia\\b": "Oh nicks ee ah",
   "\\bShinden\\b": "Sheen den",
   "\\bKioxia\\b": "Kee ox ee ah",
@@ -737,5 +737,9 @@
   "\\bRene Haas\\b": "Reh nay Hahss",
   "\\bGiheung\\b": "Ghee hung",
   "\\bAdvantest\\b": "Ad van test",
-  "\\bHakeem\\b": "Hah keem"
+  "\\bHakeem\\b": "Hah keem",
+  "\\bYuen Biao\\b": "Yoon Byow",
+  "\\bzashiki-warashi\\b": "zah shee kee wah rah shee",
+  "\\bNightdive\\b": "Night dive",
+  "\\bJagera\\b": "Jag er ah"
 }

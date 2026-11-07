@@ -4,6 +4,8 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-08 | (Sunday special) Your farmers use goblins as fertiliser. What grows best in goblin fertiliser, and what's the catch? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-08 | (Sunday special) If Lanternfall had its own Agent Smith, a rival who keeps coming back no matter how many times you beat him, who is he, and what does he want from your farm? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-06 | Your village has seen you leave goblins all over the place. Who in Lanternfall village is the first to find them, and what do they say? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-06 | If you could turn one fight scene from any film into a boss fight in Lanternfall, which scene would it be? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-06 | If your server could only keep one film forever, everything else gone, which film would it be, and why that one? | Home server: Dell T330, TrueNAS, Jellyfin | Not yet | no |

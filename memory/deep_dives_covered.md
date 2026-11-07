@@ -4,6 +4,7 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-08 | Special | Week in review: Brisbane/South Bank, yokai field guide (nurikabe, Byakko, zashiki-warashi, chochin obake, tsukumogami), the show and you |
 | 2026-11-06 | Lore | Lanternfall in three acts (the week's story ideas pulled together) |
 | 2026-11-06 | Game tech | Week review: movement + interaction test checklist and common bugs |
 | 2026-11-06 | Effects | Crouching Tiger, Hidden Dragon's bamboo forest wire-work |

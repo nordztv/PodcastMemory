@@ -4,6 +4,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
+- Questions that build the game (Scott's 6 Nov note: "Maybe you can ask questions that have answers that can integrate into my game project"): at least two of each day's questions are designed so his answer becomes a concrete piece of Lanternfall (a character, rule, item, recipe, line of dialogue), and the next day's lore or build step uses it. Promised on air in the 8 Nov special. Reason: his 6 Nov note.
 - Australia (after a 3 on 5 Nov, a nine-item day): at most five stories; the top two or three told fully (what happened, why it matters, what's next), the rest a sentence each. Reason: 5 Nov Australia score 3 (down from 4), with his 28 Oct "fewer topics, more depth" note.
 - Travel: when Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
 - Lore and the game thread: keep them at the centre and story-led; Friday lore pulls the week's ideas into one drop-in design. Reason: lore scored 5 on 2 and 5 Nov.

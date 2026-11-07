@@ -4,6 +4,8 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 
 | Bit | Where it came from | Last used |
 | --- | --- | --- |
+| Goblins as fertiliser: the tiger defends, the goblins don't make it, and next spring the radishes are enormous (nobody asks why) | Scott's answer, 6 Nov (who finds the goblins) | 2026-11-08 |
+| Neo v Agent Smith in the subway as his dream boss fight; John Wick as the one film the server keeps | Scott's answers, 6 Nov | 2026-11-08 |
 | Dead goblins everywhere: the evidence the Lanternfall village brings to the trial ("we need to talk about the turnip patch") | Scott's answer, 5 Nov (trial evidence) | 2026-11-06 |
 | He loved Lady Snowblood's fight scenes (fight scenes as boss fights) | Scott's answer, 5 Nov | 2026-11-06 |
 | The host's 4K film of rain (ninety minutes, no plot) | Host's running joke, 2 Nov | 2026-11-06 |

@@ -2,6 +2,14 @@
 
 Newest first. Older entries are condensed into `memory/monthly/` at the start of each month.
 
+## 2026-11-08 (Sunday special: the week in review)
+
+- **What:** a one-off, about an hour, made on request on Sunday morning while Scott was at South Bank, Brisbane (his last day there). No regular Sunday episodes; this was a special. Recap of 2-6 Nov only, no new news research (Brisbane and Sydney weather from BoM).
+- **Sections:** opening (Brisbane Sunday weather, Sydney Monday); Brisbane (Expo 88 site, Streets Beach, the Arbour, Neville Bonner and Kangaroo Point bridges, last day of the Rubber Duck, GOMA Art Box and Portrait Prize); world (Hormuz to midterms to "the war cost us", Israel, Ukraine, Spain); Australia (RBA 4.85, banks, Bullock, David Jones, schools, NSW); tech (Intel worst day, Apple and AMD records, Kospi trampoline, Thursday chip rout, memory as the week's theme); games (Ocarina 96 arc, WoW Forever arc, Fan Fest, Nagoshi Studio, Sentinel, retro projects, Demon's Crest); movies (Godzilla Minus Zero's week, Patrick Stewart, Lady Snowblood and the week's ten deep dives); Lanternfall week and his answers; yokai field guide (nurikabe, Byakko and cat-like Edo tigers, zashiki-warashi, chochin obake, tsukumogami as waking farm tools); the show and you (changes this week); awards and goodbye.
+- **Reacted to his 6 Nov answers** (goblins as fertiliser; Neo v Smith subway fight as a boss; John Wick to keep forever; note asking for questions that feed the game; built nothing, on holiday; challenge done). Monday's run should still file them (filed/2026-11-06 not yet written) but keep the on-air reaction brief, and give the ONE suggestion.
+- **Questions:** what grows best in goblin fertiliser and the catch; Lanternfall's own Agent Smith (a recurring rival) and what he wants from the farm.
+- **Promised on air:** from Monday at least two questions a day built so his answer becomes part of Lanternfall (format_tuning).
+
 ## 2026-11-06 (Friday)
 
 - **Length:** 72 min (11 chapters). Scheduled run at 8:30pm Thursday; Scott wrote in during the run: he's at South Bank, Brisbane until Sunday, so the episode used Brisbane weather, a river walk instead of the commute, and Brisbane weekend ideas. Script and sheet delivered about 9:15pm; audio rendered in the cloud and delivered about 9:30pm.
