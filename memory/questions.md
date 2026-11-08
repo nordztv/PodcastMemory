@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-09 | The mandrake had its dog on a rope. What's Lanternfall's version: one rule or trick that lets a careful farmer pull a radish safely? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-09 | When your radish bursts out of the ground, what's the very first thing it does, and what sound does it make? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-09 | If one animal from your farm followed your farmer around as a companion, Crusader of Centy style, what animal is it, and what's its one ability? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-08 | (Sunday special) Your farmers use goblins as fertiliser. What grows best in goblin fertiliser, and what's the catch? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-08 | (Sunday special) If Lanternfall had its own Agent Smith, a rival who keeps coming back no matter how many times you beat him, who is he, and what does he want from your farm? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-06 | Your village has seen you leave goblins all over the place. Who in Lanternfall village is the first to find them, and what do they say? | Godot and Scott's 2D game | 2026-11-06 (answer page): "Farmers and they use the bodies for fertiliser." | 2026-11-08 (reacted in the Sunday special); 2026-11-09 (suggestion given) |

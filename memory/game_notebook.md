@@ -43,9 +43,13 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 
 ## Radish build-along (f1 approved 31 Oct; one step each Friday)
 - Steps: 1 pull counter, 2 spawn, 3 chase, 4 tiers (palette rows), 5 game over screen, 6 polish.
-- Given: step 1 pull counter (6 Nov: GameState autoload, radish_pulls, random hidden threshold 8-15, register_pull() resets). Next: step 2 spawn (Fri 13 Nov). Done: none reported yet.
+- Given: step 1 pull counter (6 Nov: GameState autoload, radish_pulls, random hidden threshold 8-15, register_pull() resets). Next: steps 2-4 (spawn, chase, tiers) are this week's fallback task (9-12 Nov), so Friday 13 Nov skips the build-along; then step 5 game over screen. Done: none reported yet.
 
 ## Lanternfall festival and the village's memory
+- 6 Nov (answer page): who finds the goblins first: "Farmers and they use the bodies for fertiliser."
+- 6 Nov (answer page): a film fight scene as a Lanternfall boss fight: "The original Matrix movie, neo vs agent smith in the subway".
+- 6 Nov (answer page note): "Maybe you can ask questions that have answers that can integrate into my game project."
+- 6 Nov (built box): "Nothing I was on holidays".
 - 5 Nov (answer page): what the village would bring up as evidence at a trial after the festival: "Leaving dead goblins everywhere".
 
 ## Open questions from the show (not answered yet)
@@ -59,6 +63,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - The goblin leader's name and what he wants (3 Nov).
 
 ## Suggestions the show has given
+- 9 Nov: fallback week "The radish wakes up" (spawn, chase, bite, tiers); spawning via preload/instantiate and a GameState radish_awakened(where) signal; burst tween; story: goblin compost is why radishes wake (mandrake), Radish Rules, compost item; suggestion: a fertilised flag so compost-grown radishes count double in register_pull.
 - 5 Nov: interaction (a Reach Area2D on the farmer masking an interactable layer, interact action with is_action_just_pressed, get_overlapping_areas + an "interactable" group, interact() on each object, signal pulled, tween pop + queue_free); a pullable Radish scene ready for Friday's pull counter; a Lanternfall Festival where the village remembers what you did (lost lantern, radish contest, the nurikabe at the edge), Chrono Trigger style, stored as GameState flags.
 - 4 Nov: top-down movement (CharacterBody2D, feet-only collision, Input Map, Input.get_vector, move_and_slide, short move_toward ramp, facing animations); try viewport stretch + nearest filter and the Compatibility renderer; Lanternfall night as falling star tears with chochin-obake red lanterns to avoid; a hidden house-luck value for a zashiki-warashi.
 - 21 Oct: a tell before the radish monster spawns; randi_range threshold; scale stats.

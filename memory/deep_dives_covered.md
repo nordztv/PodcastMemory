@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-09 | Lore | The mandrake (case study) and "the soil remembers": goblin compost wakes the radishes |
+| 2026-11-09 | Game tech | Spawning scenes at runtime (PackedScene, instantiate, signals from GameState, call_deferred, burst tween) |
+| 2026-11-09 | Effects | Tremors (1990): the Graboids |
+| 2026-11-09 | Director | Michael Mann's Heat (the downtown shootout) |
+| 2026-11-09 | Workshop | Lanternfall build step: a radish monster bursts out of the ground |
+| 2026-11-09 | Chat | Dogs, mandrakes and John Wick |
+| 2026-11-09 | Retro | Crusader of Centy recommended (Mega Drive) |
 | 2026-11-08 | Special | Week in review: Brisbane/South Bank, yokai field guide (nurikabe, Byakko, zashiki-warashi, chochin obake, tsukumogami), the show and you |
 | 2026-11-06 | Lore | Lanternfall in three acts (the week's story ideas pulled together) |
 | 2026-11-06 | Game tech | Week review: movement + interaction test checklist and common bugs |
