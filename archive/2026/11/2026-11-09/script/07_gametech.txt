@@ -1,0 +1,35 @@
+[excited] Game tech! And it's Monday, so here's this week's task for Lanternfall.
+
+[happy] This week... the radish wakes up. By Friday, your radish monster should burst out of the ground, chase the farmer, bite, and come in different strengths. Four evening-sized steps. Tonight: the spawn. Tomorrow: the chase. Wednesday: the bite, so the farmer can actually get hurt. Thursday: the tiers, so a tier one radish looks different from a tier twenty five. And Friday we'll test it all together. [teasing] By the end of the week, your farm will finally have a reason to be afraid of vegetables. [punch] As nature intended. [giggling while talking] Right. Let's build a monster.
+
+[warm] Quick reminder of where we are. On Friday's build-along, the idea was a Game State autoload that counts radish pulls, with a hidden random number between eight and fifteen. Every pull calls a function called register pull, and when the count reaches that hidden number, it prints "Something stirs in the soil", and starts again. If you've built that, great. If you were too busy being in Brisbane, no problem, tonight's workshop gives you everything you need.
+
+[curious] Tonight's lesson is a big one in Godot, and you'll use it everywhere: making things appear while the game is running. Monsters, dropped items, dust puffs, falling star tears. They're all the same trick. It's called instancing a scene.
+
+[calm] Here's the everyday version. Think of a scene file as a cookie cutter. Your radish monster scene, saved as radish monster dot T S C N, isn't a monster. It's the cutter. Each time you press it into the dough, you get a new cookie: a new, separate monster, with its own health and its own position. Press it five times, five monsters.
+
+[calm] In Godot, it takes three steps. First, you load the cutter. At the top of a script, you write a constant called radish monster, in capitals, the way constants usually are, equals preload, and the path to the scene in quotes. Preload means Godot reads the file once, when the script loads, so there's no hiccup later.
+
+[calm] Second, you press the cutter. That's one line: a variable called monster equals radish monster dot instantiate, with brackets. Now you've got a brand new monster. But it's floating in nowhere. It's not in the game yet.
+
+[calm] Third, you put it in the world, with add child. And then you set where it is, with its global position. The order matters a little here. The safe habit is: add it first, then set global position, because global position means "position in the world", and it only really knows where the world is once it's in it.
+
+[curious] Now, the interesting design question: who does the spawning? The radish? Game State? The farm?
+
+[thoughtful] Here's what I'd do. Game State keeps doing the counting, because that's its job: it's the farm's memory. But it shouldn't be making monsters. Instead, when the count is reached, it sends a signal. Something like radish awakened, and it passes along a position, the spot where the last radish was pulled. Then your Farm scene listens for that signal, and it does the spawning, because the Farm is the one that owns the world.
+
+[warm] It's like a fire alarm. Game State is the smoke detector. It doesn't put out fires. It just shouts. The Farm hears it and decides what to do. And later, other things can listen to the same signal: a sound, a screen shake, a villager who says "I told you so".
+
+[calm] In code, in Game State, you'd write: signal radish awakened, and in brackets, where, colon, Vector two. When the counter hits the threshold, you call radish awakened dot emit, and pass in the position. In the Farm's ready function, you connect it: Game State dot radish awakened dot connect, and the name of a function on the farm. And that function is where you instantiate, add child, and set the position.
+
+[curious] One more thing to know. Sometimes Godot gets upset if you add things to the world while it's in the middle of working out physics, for example inside an area's body entered signal. You'll see an error about the tree being locked, or flushing queries. The fix is a little word: call deferred. Instead of add child, with the monster in brackets, you write add child dot call deferred, with the monster in brackets. It means: "do this at the end of the frame, when you're not busy". Tonight we're spawning from a key press, so you probably won't need it. But when you see that error, that's the fix.
+
+[happy] Now, the bit that makes it feel good: the burst. If the monster just appears, it feels like a glitch. It needs a moment of warning, and then a pop. Remember the lore segment: the mandrake had its scream. Your radish needs its tell.
+
+[calm] So, two tweens. First, the warning: about half a second where the pulled spot shakes. A tween that nudges the sprite left and right a couple of pixels, a few times. Then, the burst: the monster starts at a scale of zero, and a tween grows it to full size in about a fifth of a second, with the transition set to Back. Back is a curve that overshoots a little and settles, so the monster seems to spring out, then land. It's the same trick cartoon animators call overshoot.
+
+[sly] And one cheap trick that sells it: a frame or two of anticipation. Before it bursts, squash the soil down, so it looks like something underneath is pushing. Animators have done that for a hundred years. [punch] Your radish just has better reasons.
+
+[warm] Quick tips list for tonight. Keep the monster as its own scene, never build it inside the farm. Name your signal for what happened, radish awakened, not for what should happen next, spawn monster. And print something when the signal fires, so you know the alarm works before you worry about the fire.
+
+[happy] That's the lesson. The workshop will walk you through building it, step by step.
