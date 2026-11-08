@@ -6,9 +6,7 @@
 
 [curious] And tonight, US time, we find out how the money side looks. Take-Two, Rockstar's parent company, reports its results after the US market closes, which is about eight thirty on Tuesday morning for you. The interesting bit won't be the last three months. It'll be what they say about pre-orders, which management has already called "exceptional", and whether they're confident about that eighty dollar price. Guidance for the year is eight to eight point two billion US dollars of bookings, and most of that is one game. [sly] No pressure, Rockstar. [punch] Just the whole company.
 
-[happy] Nintendo, and a few things since the Ocarina of Time remake came out last week. Famitsu, the Japanese magazine, gave it thirty seven out of forty. That's three points below the original, which famously got a perfect forty. [chuckles] Still, losing to your own legend isn't much of a loss.
-
-[curious] Dataminers have also found references to Master Quest in the game's files: the harder, remixed dungeons from the GameCube days, with labels in the dungeon and save data. It's a rumour, Nintendo hasn't said anything, but it looks a lot like downloadable content waiting in the wings. And Nintendo's Nate Bihldorff told Polygon that remakes and new games are of "equal importance" to Nintendo now. The Star Fox remake from June has passed a million copies, so you can see why. The Zelda fortieth anniversary carries on all through next year, with the live-action movie "early next year", a worldwide concert, and more games.
+[happy] Nintendo, and a few things since the Ocarina of Time remake came out last week. Dataminers have found references to Master Quest in the game's files: the harder, remixed dungeons from the GameCube days, with labels in the dungeon and save data. It's a rumour, Nintendo hasn't said anything, but it looks a lot like downloadable content waiting in the wings. And Nintendo's Nate Bihldorff told Polygon that remakes and new games are of "equal importance" to Nintendo now. The Star Fox remake from June has passed a million copies, so you can see why. The Zelda fortieth anniversary carries on all through next year, with the live-action movie "early next year", a worldwide concert, and more games.
 
 [soft tone] One gentle bit of news: Shigeru Miyamoto, who's almost seventy four, missed Nintendo's results briefing last week because of a sudden illness. One well-connected reporter says he's stable and expected back at work within days, though Nintendo hasn't said more. Get well soon to the man who gave us Hyrule.
 
@@ -30,7 +28,7 @@
 
 [disappointed] Sony has cancelled its mobile Ratchet and Clank shooter. It leaves the stores on the twenty first of November.
 
-[excited] And the retro corner! Recomp Haven's release log had a busy week: new builds of the Wind Waker HD recompilation, the Ape Escape and Ninja Gaiden Black recomps, and the first test version of a Demon's Souls recomp. Someone has built a model viewer for Virtua Fighter Two on the Saturn, so you can step through every character's motion-captured animation frame by frame. And a fan group has finished a complete English translation of Ryu ga Gotoku Kenzan, the samurai-era Yakuza spin-off from twenty oh eight that never left Japan. [delighted] Kiryu as a samurai, in English, at last.
+[excited] And the retro corner! Recomp Haven's release log had a busy week: new builds of the Wind Waker HD recompilation, the Ape Escape and Ninja Gaiden Black recomps, and the first test version of a Demon's Souls recomp. Someone has built a model viewer for Virtua Fighter Two on the Saturn, so you can step through every character's motion-captured animation frame by frame.
 
 [excited] Okay. It's Monday, which means: your Retro Game of the Week!
 

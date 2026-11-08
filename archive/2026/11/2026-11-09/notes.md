@@ -3,9 +3,9 @@
 ## Running order
 - **Opening and world:** Cold, showery and windy: Sydney after the cold front; New Zealand election too close to call; special votes decide; Herzog asks Eisenkot, not Netanyahu, to form Israel's government; Stephen Miller replaces Susie Wiles; Iran, Hormuz mines and a US reward; Krakow market square shooting
 - **Australia:** Victoria Barracks sale scrapped; Albanese: Iran war and tariffs shaped the midterms; MYEFO savings ahead; Cooks River AI data centre scrapped after backlash; Round-up: Helen Haines stable, Eva Geller, NSW Health cyber incident, Bathla sites, T8 every four minutes
-- **Tech:** Kospi's Black Friday: down 6%, Hynix and Samsung slide again; The data-centre backlash, Nvidia's $450bn day and Friday's rebound; Report: TSMC drafting 3D DRAM plans for Nvidia; GPU prices: another Radeon rise reported; Pi 5 16GB up $80; First touchscreen Mac on sale; M6 MacBook Pro reviewed; Jensen Huang asked to meet House committee chairs; Tesla ends the Cybertruck; Starship Flight 15 targets Friday; Quick hits: Kimi K3.1 open weights, Godot 4.8 beta 2, Z2RAM, Hyundai
-- **Games:** GTA VI pre-load Tuesday, launch 19 Nov; Take-Two reports; Ocarina: Famitsu 37, Master Quest datamined, Star Fox remake passes 1M; Miyamoto unwell, expected back soon; Switch 2 third-party slate: FFVII Revelation dated 8 April 2027; SEGA Sammy results; Metaphor on Switch 2 Thursday; WoW Forever's first level 60; Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation; Retro Game of the Week: Crusader of Centy (Mega Drive)
-- **Movies:** Godzilla Minus Zero: record foreign-language opening in America; Korea: Final Interview ends foreign films' run at No. 1; 1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod; Discs: Arrow's January 4Ks, Eureka's Scarlet Street; Tokyo IFF acting prizes
+- **Tech:** Kospi's Black Friday: down 6%, Hynix and Samsung slide again; The data-centre backlash, Nvidia's $450bn day and Friday's rebound; Report: TSMC drafting 3D DRAM plans for Nvidia; Memory is the bottleneck: GPUs still 2 to 4 times MSRP; First touchscreen Mac on sale; M6 MacBook Pro reviewed; Jensen Huang asked to meet House committee chairs; Tesla ends the Cybertruck; Starship Flight 15 targets Friday; Quick hits: Z2RAM memory start-up, Hyundai
+- **Games:** GTA VI pre-load Tuesday, launch 19 Nov; Take-Two reports; Ocarina: Master Quest datamined, Star Fox remake passes 1M; Miyamoto unwell, expected back soon; Switch 2 third-party slate: FFVII Revelation dated 8 April 2027; SEGA Sammy results; Metaphor on Switch 2 Thursday; WoW Forever's first level 60; Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer; Retro Game of the Week: Crusader of Centy (Mega Drive)
+- **Movies:** Godzilla Minus Zero: record foreign-language opening in America; Korea: Final Interview ends foreign films' run at No. 1; 1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod
 - **Lore:** The mandrake, and why Lanternfall's radishes wake up
 - **Game tech:** The week's task (the radish wakes up) and spawning scenes with signals
 - **Effects:** Tremors: how the Graboids were built
@@ -63,26 +63,24 @@
 - [TechTarget: The data-centre backlash, Nvidia's $450bn day and Friday's rebound](https://www.techtarget.com/news/data-center-boom-could-hit-a-political-wall-after-midterms/874019/)
 - [Fox Business: The data-centre backlash, Nvidia's $450bn day and Friday's rebound](https://foxbusiness.com/markets/stocks-11-6-2026)
 - [hwbusters: Report: TSMC drafting 3D DRAM plans for Nvidia](https://hwbusters.com/news/tsmc-3d-dram-plans-reportedly-drafted-at-nvidias-request-as-the-memory-crunch-drags-on/)
-- [VideoCardz: GPU prices: another Radeon rise reported; Pi 5 16GB up $80](https://videocardz.com/newz/amd-reportedly-plans-another-radeon-gpu-and-gddr6-price-increase-in-november)
-- [Tom's Hardware: GPU prices: another Radeon rise reported; Pi 5 16GB up $80](https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking)
-- [OMG Ubuntu: GPU prices: another Radeon rise reported; Pi 5 16GB up $80](https://www.omgubuntu.co.uk/2026/11/raspberry-pi-5-price-goes-up-and-up)
+- [Tom's Hardware: Memory is the bottleneck: GPUs still 2 to 4 times MSRP](https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking)
 - [MacRumors: First touchscreen Mac on sale; M6 MacBook Pro reviewed](https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/)
 - [Engadget: First touchscreen Mac on sale; M6 MacBook Pro reviewed](https://www.engadget.com/2307614/apple-macbook-pro-m6-review/)
 - [Tom's Hardware: Jensen Huang asked to meet House committee chairs](https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security)
 - [Not a Tesla App: Tesla ends the Cybertruck; Starship Flight 15 targets Friday](https://notateslaapp.com/news/4954/tesla-will-end-cybertruck-production-to-make-more-cybercabs)
 - [Tesla North: Tesla ends the Cybertruck; Starship Flight 15 targets Friday](https://teslanorth.com/2026/11/05/starship-flight-15-nov-13)
-- [Tom's Hardware: Quick hits: Kimi K3.1 open weights, Godot 4.8 beta 2, Z2RAM, Hyundai](https://tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more)
+- [Tom's Hardware: Quick hits: Z2RAM memory start-up, Hyundai](https://tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more)
 - [Rockstar: GTA VI pre-load Tuesday, launch 19 Nov; Take-Two reports](https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10)
 - [VICE: GTA VI pre-load Tuesday, launch 19 Nov; Take-Two reports](https://www.vice.com/en/article/gta-6-midnight-release-times-file-size-preload/)
-- [Nintendo Life: Ocarina: Famitsu 37, Master Quest datamined, Star Fox remake passes 1M](https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc)
-- [VGC: Ocarina: Famitsu 37, Master Quest datamined, Star Fox remake passes 1M](https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/)
+- [Nintendo Life: Ocarina: Master Quest datamined, Star Fox remake passes 1M](https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc)
+- [VGC: Ocarina: Master Quest datamined, Star Fox remake passes 1M](https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/)
 - [Nintendo Life: Miyamoto unwell, expected back soon](https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery)
 - [Nintendo Life: Switch 2 third-party slate: FFVII Revelation dated 8 April 2027](https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027)
 - [Gaming.net: SEGA Sammy results; Metaphor on Switch 2 Thursday](https://www.gaming.net/sega-sammy-profit-jumps-as-pachislot-offsets-entertainment-decline/)
 - [VICE: WoW Forever's first level 60](https://www.vice.com/en/article/world-of-warcraft-forever-has-its-first-level-60-player/)
-- [VGC: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation](https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/)
-- [Recomp Haven: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation](https://recomphaven.com/releases/)
-- [Noisy Pixel: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation](https://noisypixel.net/ryu-ga-gotoku-kenzan-complete-english-fan-translation/)
+- [VGC: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer](https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/)
+- [Recomp Haven: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer](https://recomphaven.com/releases/)
+- [Noisy Pixel: Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer](https://noisypixel.net/ryu-ga-gotoku-kenzan-complete-english-fan-translation/)
 - [Time Extension: Retro Game of the Week: Crusader of Centy (Mega Drive)](https://www.timeextension.com/features/the-making-of-soleil-crusader-of-centy-segas-answer-to-zelda)
 - [Gematsu: Retro Game of the Week: Crusader of Centy (Mega Drive)](https://gematsu.com/2023/06/sega-genesis-nintendo-switch-online-adds-crusader-of-centy-ghouls-n-ghosts-landstalker-and-the-revenge-of-shinobi)
 - [Variety: Godzilla Minus Zero: record foreign-language opening in America](https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/)
@@ -91,9 +89,6 @@
 - [JoBlo: 1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod](https://www.joblo.com/1408-sequel/)
 - [Dread Central: 1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod](https://www.dreadcentral.com/box-office/597009/paranormal-activity-moves-to-october-2027-taking-us-back-to-the-original-house-for-halloween/)
 - [Fangoria: 1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod](https://www.fangoria.com/)
-- [Comicon: Discs: Arrow's January 4Ks, Eureka's Scarlet Street](https://comicon.com/2026/11/04/arrow-video-kicking-off-the-new-year-with-4k-uhd-steven-seagal-cannonball-run-and-more/)
-- [Eureka: Discs: Arrow's January 4Ks, Eureka's Scarlet Street](https://eurekavideo.co.uk/category/news/)
-- [Asian Movie Pulse: Tokyo IFF acting prizes](https://asianmoviepulse.com/2026/11/tokyo-international-film-festival-2026-winners/)
 - [Wikipedia: The mandrake, and why Lanternfall's radishes wake up](https://en.wikipedia.org/wiki/Mandrake)
 - [Godot docs: The week's task (the radish wakes up) and spawning scenes with signals](https://docs.godotengine.org/en/stable/tutorials/scripting/nodes_and_scene_instances.html)
 - [Monster Legacy: Tremors: how the Graboids were built](https://monsterlegacy.net/2014/09/20/subterranean-terror-tremors/)

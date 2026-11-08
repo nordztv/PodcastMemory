@@ -8,7 +8,6 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | 2026-11-09 | Tremors (1990) | Ron Underwood | Kevin Bacon, Fred Ward, Finn Carter, Reba McEntire | Creature feature, USA | Effects deep dive (Graboids, Amalgamated Dynamics) | | | |
 | 2026-11-09 | Heat (1995) | Michael Mann | Al Pacino, Robert De Niro, Val Kilmer, Ashley Judd | Crime thriller, USA | Director deep dive (downtown shootout) | | | |
 | 2026-11-09 | Final Interview (2026) | (not named) | Cho I-hyeon, Kim Jae-won | Thriller, South Korea | Movies segment mention (box office) | | | |
-| 2026-11-09 | Scarlet Street (1945) | Fritz Lang | Edward G. Robinson, Joan Bennett | Film noir, USA | Movies segment mention (Eureka 4K, 23 Nov) | | | |
 | 2026-11-06 | Crouching Tiger, Hidden Dragon (2000) | Ang Lee | Chow Yun-fat, Michelle Yeoh, Zhang Ziyi | Wuxia, Taiwan/China/Hong Kong/USA | Effects deep dive (bamboo forest wire-work) | | | |
 | 2026-11-06 | The Good, the Bad and the Ugly (1966) | Sergio Leone | Clint Eastwood, Lee Van Cleef, Eli Wallach | Western, Italy | Director deep dive | | | |
 | 2026-11-06 | Nervous (TBA) | Abner Pastoll | Sarah Bolger, Ko Asung | Psychological horror, South Korea/UK | Movies segment mention (AFM) | | | |

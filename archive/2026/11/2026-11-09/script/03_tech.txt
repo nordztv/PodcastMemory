@@ -16,17 +16,13 @@
 
 [calm] What it means for you: nothing soon. Any memory TSMC made would be years away, and would go straight into AI accelerators, not graphics cards. And we'll get a real number this week: TSMC reports its October sales on Tuesday afternoon, Sydney time, the first look at how its December quarter is going.
 
-[disappointed] Which brings us to graphics cards. And it's not good news. PC Games Hardware in Germany reports that AMD plans another Radeon price rise this month, its fourth this year, on the GPU and memory kits it sells to card makers. AMD hasn't confirmed it. But the earlier rises this year were five to ten per cent in January, about ten in August, and about ten in October. And GDDR6 memory spot prices have roughly tripled since late last year.
-
-[calm] So where are prices now? In the US, Tom's Hardware's price tracker has flagship cards selling for somewhere between two and four times their launch price. The figures jump around week to week, but an RTX fifty eighty has been around seventeen hundred US dollars against a launch price under a thousand. The Arc B five eighty is out of stock. [frustrated sigh] Ugh. And it's even reached the Raspberry Pi. The sixteen gigabyte Pi five has gone up eighty dollars, to three hundred and eighty five US dollars. It launched last year at a hundred and twenty. Eben Upton blamed AI-driven memory costs, and promised to bring prices back down when memory gets cheaper.
-
-[teasing] You were asking about a thirty two gigabyte card for local AI a few weeks ago. [punch] Have you considered... a thirty two gigabyte Raspberry Pi? [giggling while talking] No, no, I'm kidding. It would take a week to say hello.
+[thoughtful] And for anyone shopping for graphics cards, that's the real takeaway. Memory is the bottleneck behind this year's GPU price rises, and Tom's Hardware's price tracker still has flagship cards selling for somewhere between two and four times their launch price in the US. A new memory maker years from now won't change that this Christmas. [frustrated sigh] Ugh.
 
 [happy] Apple now, and a bit of history: the first touchscreen Mac went on sale on Friday. The fourteen and sixteen inch MacBook Pros with the new OLED touchscreen, which Apple calls Pro LED XDR, start at two thousand eight hundred and ninety nine US dollars. That's about four hundred more than the regular models. There's a Dynamic Island instead of the notch, and the sixteen inch is noticeably lighter. Interesting detail: they use the M5 Pro and M5 Max chips, because, as MacRumors put it, the new chips weren't ready in time. MacRumors also calls the touch screen "a bonus", rather than a reason to buy.
 
 [calm] The M6 MacBook Pro and M6 iMac shipped the same day. Engadget gave the M6 MacBook Pro nine out of ten: around thirty per cent faster than last year in multi-core tests, a much faster GPU, almost ten hours of battery. But the price went up, from fifteen ninety nine to nineteen ninety nine US dollars, which, as you'll guess, is the memory crunch again. Still no news on Final Cut Pro thirteen, so you can keep editing in twelve with a clear conscience.
 
-[serious] Nvidia, and a strange one. Three senior Republican committee chairs in the US House have asked Jensen Huang to come in for a closed-door meeting. It follows a New York Times report, citing unnamed intelligence officials, which alleges that an executive at a Singapore data-centre company, which has bought billions of dollars of Nvidia chips, is a Chinese intelligence asset. She shares his surname but isn't related. The company has been accused by the US Commerce department of smuggling chips into China. Nvidia says meeting customers is part of a chief executive's job. No date's been set. And Nvidia reports earnings next week, on Wednesday the eighteenth, at nine in the morning Sydney time. [sly] I suspect the questions on that call won't all be about gaming.
+[serious] Nvidia, and a new development in a strange story. You'll remember last week's report about Nvidia and a Singapore data-centre company. Now three senior Republican committee chairs in the US House have asked Jensen Huang to come in for a closed-door meeting. It follows a New York Times report, citing unnamed intelligence officials, which alleges that an executive at a Singapore data-centre company, which has bought billions of dollars of Nvidia chips, is a Chinese intelligence asset. She shares his surname but isn't related. The company has been accused by the US Commerce department of smuggling chips into China. Nvidia says meeting customers is part of a chief executive's job. No date's been set. And Nvidia reports earnings next week, on Wednesday the eighteenth, at nine in the morning Sydney time. [sly] I suspect the questions on that call won't all be about gaming.
 
 [calm] Elon Musk's companies, quickly. Tesla is ending the Cybertruck. Musk says production at Giga Texas will wind down around the middle of next year, to make room for more Cybercab, its self-driving taxi. Australian and New Zealand reservations had already been cancelled in October. [deadpan] It's a sad day for anyone who wanted a car shaped like a doorstop. [punch] Both of them are taking it very hard. [giggling while talking] Okay, that was mean. It's a very brave doorstop.
 
@@ -34,12 +30,8 @@
 
 [happy] Quick hits!
 
-[calm] Moonshot in China has released the open weights for Kimi K three point one Pro, a two point eight trillion parameter model, and it tops the open models on one agent leaderboard. The download is one point five six terabytes. [teasing] Your server could hold it. [punch] Your server could hold it about forty times. Running it is another matter.
-
-[calm] Godot four point eight is at beta two, described as feature-complete, with about a hundred and fifty bugs fixed. Four point seven, the one Lanternfall's on, is still the stable version, so no need to move.
-
 [calm] A start-up backed by former Intel boss Pat Gelsinger showed a new kind of memory it says has the speed of SRAM at the density of DRAM. Very early days, but everyone wants a way round this memory squeeze.
 
-[calm] Hyundai's shares jumped as much as eight per cent intraday last week, on hopes a Democratic Congress means friendlier rules for electric cars and tariffs. It had a record October in US sales.
+[calm] Hyundai's shares jumped as much as eight per cent intraday last week, on hopes a Democratic Congress means friendlier rules for electric cars and tariffs.
 
 [calm] And coming up this week: TSMC's October sales on Tuesday, and Applied Materials results on Friday morning, Sydney time.

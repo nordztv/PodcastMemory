@@ -90,17 +90,13 @@ Why would Nvidia want this? Because memory is now the bottleneck. Nvidia's suppl
 
 What it means for you: nothing soon. Any memory TSMC made would be years away, and would go straight into AI accelerators, not graphics cards. And we'll get a real number this week: TSMC reports its October sales on Tuesday afternoon, Sydney time, the first look at how its December quarter is going.
 
-Which brings us to graphics cards. And it's not good news. PC Games Hardware in Germany reports that AMD plans another Radeon price rise this month, its fourth this year, on the GPU and memory kits it sells to card makers. AMD hasn't confirmed it. But the earlier rises this year were five to ten per cent in January, about ten in August, and about ten in October. And GDDR6 memory spot prices have roughly tripled since late last year.
-
-So where are prices now? In the US, Tom's Hardware's price tracker has flagship cards selling for somewhere between two and four times their launch price. The figures jump around week to week, but an RTX fifty eighty has been around seventeen hundred US dollars against a launch price under a thousand. The Arc B five eighty is out of stock. Ugh. And it's even reached the Raspberry Pi. The sixteen gigabyte Pi five has gone up eighty dollars, to three hundred and eighty five US dollars. It launched last year at a hundred and twenty. Eben Upton blamed AI-driven memory costs, and promised to bring prices back down when memory gets cheaper.
-
-You were asking about a thirty two gigabyte card for local AI a few weeks ago. Have you considered... a thirty two gigabyte Raspberry Pi? No, no, I'm kidding. It would take a week to say hello.
+And for anyone shopping for graphics cards, that's the real takeaway. Memory is the bottleneck behind this year's GPU price rises, and Tom's Hardware's price tracker still has flagship cards selling for somewhere between two and four times their launch price in the US. A new memory maker years from now won't change that this Christmas. Ugh.
 
 Apple now, and a bit of history: the first touchscreen Mac went on sale on Friday. The fourteen and sixteen inch MacBook Pros with the new OLED touchscreen, which Apple calls Pro LED XDR, start at two thousand eight hundred and ninety nine US dollars. That's about four hundred more than the regular models. There's a Dynamic Island instead of the notch, and the sixteen inch is noticeably lighter. Interesting detail: they use the M5 Pro and M5 Max chips, because, as MacRumors put it, the new chips weren't ready in time. MacRumors also calls the touch screen "a bonus", rather than a reason to buy.
 
 The M6 MacBook Pro and M6 iMac shipped the same day. Engadget gave the M6 MacBook Pro nine out of ten: around thirty per cent faster than last year in multi-core tests, a much faster GPU, almost ten hours of battery. But the price went up, from fifteen ninety nine to nineteen ninety nine US dollars, which, as you'll guess, is the memory crunch again. Still no news on Final Cut Pro thirteen, so you can keep editing in twelve with a clear conscience.
 
-Nvidia, and a strange one. Three senior Republican committee chairs in the US House have asked Jensen Huang to come in for a closed-door meeting. It follows a New York Times report, citing unnamed intelligence officials, which alleges that an executive at a Singapore data-centre company, which has bought billions of dollars of Nvidia chips, is a Chinese intelligence asset. She shares his surname but isn't related. The company has been accused by the US Commerce department of smuggling chips into China. Nvidia says meeting customers is part of a chief executive's job. No date's been set. And Nvidia reports earnings next week, on Wednesday the eighteenth, at nine in the morning Sydney time. I suspect the questions on that call won't all be about gaming.
+Nvidia, and a new development in a strange story. You'll remember last week's report about Nvidia and a Singapore data-centre company. Now three senior Republican committee chairs in the US House have asked Jensen Huang to come in for a closed-door meeting. It follows a New York Times report, citing unnamed intelligence officials, which alleges that an executive at a Singapore data-centre company, which has bought billions of dollars of Nvidia chips, is a Chinese intelligence asset. She shares his surname but isn't related. The company has been accused by the US Commerce department of smuggling chips into China. Nvidia says meeting customers is part of a chief executive's job. No date's been set. And Nvidia reports earnings next week, on Wednesday the eighteenth, at nine in the morning Sydney time. I suspect the questions on that call won't all be about gaming.
 
 Elon Musk's companies, quickly. Tesla is ending the Cybertruck. Musk says production at Giga Texas will wind down around the middle of next year, to make room for more Cybercab, its self-driving taxi. Australian and New Zealand reservations had already been cancelled in October. It's a sad day for anyone who wanted a car shaped like a doorstop. Both of them are taking it very hard. Okay, that was mean. It's a very brave doorstop.
 
@@ -108,13 +104,9 @@ And Starship! SpaceX's vice president of launch says Flight fifteen is targeting
 
 Quick hits!
 
-Moonshot in China has released the open weights for Kimi K three point one Pro, a two point eight trillion parameter model, and it tops the open models on one agent leaderboard. The download is one point five six terabytes. Your server could hold it. Your server could hold it about forty times. Running it is another matter.
-
-Godot four point eight is at beta two, described as feature-complete, with about a hundred and fifty bugs fixed. Four point seven, the one Lanternfall's on, is still the stable version, so no need to move.
-
 A start-up backed by former Intel boss Pat Gelsinger showed a new kind of memory it says has the speed of SRAM at the density of DRAM. Very early days, but everyone wants a way round this memory squeeze.
 
-Hyundai's shares jumped as much as eight per cent intraday last week, on hopes a Democratic Congress means friendlier rules for electric cars and tariffs. It had a record October in US sales.
+Hyundai's shares jumped as much as eight per cent intraday last week, on hopes a Democratic Congress means friendlier rules for electric cars and tariffs.
 
 And coming up this week: TSMC's October sales on Tuesday, and Applied Materials results on Friday morning, Sydney time.
 
@@ -128,9 +120,7 @@ On PlayStation, you'll need about two hundred and twelve gigabytes free. Rocksta
 
 And tonight, US time, we find out how the money side looks. Take-Two, Rockstar's parent company, reports its results after the US market closes, which is about eight thirty on Tuesday morning for you. The interesting bit won't be the last three months. It'll be what they say about pre-orders, which management has already called "exceptional", and whether they're confident about that eighty dollar price. Guidance for the year is eight to eight point two billion US dollars of bookings, and most of that is one game. No pressure, Rockstar. Just the whole company.
 
-Nintendo, and a few things since the Ocarina of Time remake came out last week. Famitsu, the Japanese magazine, gave it thirty seven out of forty. That's three points below the original, which famously got a perfect forty. Still, losing to your own legend isn't much of a loss.
-
-Dataminers have also found references to Master Quest in the game's files: the harder, remixed dungeons from the GameCube days, with labels in the dungeon and save data. It's a rumour, Nintendo hasn't said anything, but it looks a lot like downloadable content waiting in the wings. And Nintendo's Nate Bihldorff told Polygon that remakes and new games are of "equal importance" to Nintendo now. The Star Fox remake from June has passed a million copies, so you can see why. The Zelda fortieth anniversary carries on all through next year, with the live-action movie "early next year", a worldwide concert, and more games.
+Nintendo, and a few things since the Ocarina of Time remake came out last week. Dataminers have found references to Master Quest in the game's files: the harder, remixed dungeons from the GameCube days, with labels in the dungeon and save data. It's a rumour, Nintendo hasn't said anything, but it looks a lot like downloadable content waiting in the wings. And Nintendo's Nate Bihldorff told Polygon that remakes and new games are of "equal importance" to Nintendo now. The Star Fox remake from June has passed a million copies, so you can see why. The Zelda fortieth anniversary carries on all through next year, with the live-action movie "early next year", a worldwide concert, and more games.
 
 One gentle bit of news: Shigeru Miyamoto, who's almost seventy four, missed Nintendo's results briefing last week because of a sudden illness. One well-connected reporter says he's stable and expected back at work within days, though Nintendo hasn't said more. Get well soon to the man who gave us Hyrule.
 
@@ -152,7 +142,7 @@ Bill Skarsgard says Hideo Kojima's Xbox game, Physint, is "inventing a new mediu
 
 Sony has cancelled its mobile Ratchet and Clank shooter. It leaves the stores on the twenty first of November.
 
-And the retro corner! Recomp Haven's release log had a busy week: new builds of the Wind Waker HD recompilation, the Ape Escape and Ninja Gaiden Black recomps, and the first test version of a Demon's Souls recomp. Someone has built a model viewer for Virtua Fighter Two on the Saturn, so you can step through every character's motion-captured animation frame by frame. And a fan group has finished a complete English translation of Ryu ga Gotoku Kenzan, the samurai-era Yakuza spin-off from twenty oh eight that never left Japan. Kiryu as a samurai, in English, at last.
+And the retro corner! Recomp Haven's release log had a busy week: new builds of the Wind Waker HD recompilation, the Ape Escape and Ninja Gaiden Black recomps, and the first test version of a Demon's Souls recomp. Someone has built a model viewer for Virtua Fighter Two on the Saturn, so you can step through every character's motion-captured animation frame by frame.
 
 Okay. It's Monday, which means: your Retro Game of the Week!
 
@@ -176,7 +166,7 @@ Godzilla Minus Zero opened in the US and Canada on Friday, and it's set to be th
 
 For scale: the old record was Hero, Zhang Yimou's martial arts film, with seventeen point eight million back in twenty oh four. Godzilla Minus One opened with eleven point four. So Minus Zero has roughly tripled its own predecessor. Audiences gave it an A CinemaScore, and it's around ninety per cent with critics and ninety six with audiences on Rotten Tomatoes. Worldwide, the opening is expected to be sixty to seventy million dollars.
 
-In Japan it opened last Tuesday with the biggest opening day ever for a live-action film there: nine hundred and ten million yen, from more than five hundred and ninety thousand tickets. And Fangoria has put it on the cover of its newest issue. Second place in America, by the way, went to The Cat in the Hat, with about eighteen million. Never stand next to a giant lizard on opening weekend. Poor cat. He never stood a chance.
+And Fangoria has put it on the cover of its newest issue. Second place in America, by the way, went to The Cat in the Hat, with about eighteen million. Never stand next to a giant lizard on opening weekend. Poor cat. He never stood a chance.
 
 What I love about this: a subtitled Japanese film, made by a team that's tiny by Hollywood standards, is out-opening big American family films. Takashi Yamazaki's little effects team, the one we talked about in the deep dive a couple of weeks ago, just keeps winning.
 
@@ -187,12 +177,6 @@ Now, horror news. There's a sequel coming to fourteen oh eight, the Stephen King
 Paramount has pushed the new Paranormal Activity film back five months, from May to the twenty second of October twenty twenty seven. It's directed by Ian Tuason, produced by James Wan, Jason Blum and Oren Peli, and it goes back to the house from the original film. Of course they did. A Halloween release does make sense, though.
 
 And Sydney Sweeney's Sleepy Hollow film has found its Ichabod Crane: Nicholas Galitzine. Ichabod Crane is famously a nervous schoolteacher who gets chased by a headless horseman. Which is still a better date than most rom-coms.
-
-The physical media corner! Arrow has announced its January slate, with four K discs of The Book of Eli, Under Siege Two and the Cannonball Run films. Steven Seagal on a train, in four K. Your shelf can finally see every expression. Both of them. Okay, I'm sorry, Steven.
-
-Eureka has the first UK four K of Fritz Lang's Scarlet Street, the nineteen forty five film noir, out on the twenty third of November, alongside a box set of Swedish noir. And Criterion's February announcements usually arrive mid-month, so more next week.
-
-And from the Tokyo International Film Festival, the acting prizes went to Ryo Narita for Two Cigarettes, Three Nights, and to Ling Hu, for the French and Hong Kong film The Night That Binds Us. That's one to keep an eye on for your Hong Kong side.
 
 That's movies. Now, Lanternfall. And today, something stirs in the soil.
 

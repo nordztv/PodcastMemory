@@ -79,7 +79,7 @@
     },
     {
      "id": "tech-4",
-     "title": "GPU prices: another Radeon rise reported; Pi 5 16GB up $80",
+     "title": "Memory is the bottleneck: GPUs still 2 to 4 times MSRP",
      "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
      "id": "tech-8",
-     "title": "Quick hits: Kimi K3.1 open weights, Godot 4.8 beta 2, Z2RAM, Hyundai",
+     "title": "Quick hits: Z2RAM memory start-up, Hyundai",
      "topic": "Running AI models at home (model sizes, quantisation)"
     }
    ]
@@ -115,7 +115,7 @@
     },
     {
      "id": "games-2",
-     "title": "Ocarina: Famitsu 37, Master Quest datamined, Star Fox remake passes 1M",
+     "title": "Ocarina: Master Quest datamined, Star Fox remake passes 1M",
      "topic": "Nintendo (Switch 2, Zelda)"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
      "id": "games-7",
-     "title": "Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation",
+     "title": "Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer",
      "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
     },
     {
@@ -168,16 +168,6 @@
      "id": "movies-3",
      "title": "1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod",
      "topic": "Horror films"
-    },
-    {
-     "id": "movies-4",
-     "title": "Discs: Arrow's January 4Ks, Eureka's Scarlet Street",
-     "topic": "4K Blu-ray, physical media and restorations"
-    },
-    {
-     "id": "movies-5",
-     "title": "Tokyo IFF acting prizes",
-     "topic": "Film festivals"
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-09",
  "weekday": "Monday",
- "length": "",
+ "length": "81 min",
  "headline": "Monday back in Sydney: New Zealand and Israel in the balance, Victoria Barracks saved, Kospi's Black Friday, GTA VI pre-loads, Godzilla's record US opening, and the radish wakes up",
  "challenge": "Forty five push-ups and sixty bodyweight squats, in as many sets as you like, across the day (completion rate so far: 9 of 13, 69%)",
  "segments": [
@@ -167,19 +167,11 @@
      ]
     },
     {
-     "title": "GPU prices: another Radeon rise reported; Pi 5 16GB up $80",
+     "title": "Memory is the bottleneck: GPUs still 2 to 4 times MSRP",
      "links": [
-      {
-       "label": "VideoCardz",
-       "url": "https://videocardz.com/newz/amd-reportedly-plans-another-radeon-gpu-and-gddr6-price-increase-in-november"
-      },
       {
        "label": "Tom's Hardware",
        "url": "https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking"
-      },
-      {
-       "label": "OMG Ubuntu",
-       "url": "https://www.omgubuntu.co.uk/2026/11/raspberry-pi-5-price-goes-up-and-up"
       }
      ]
     },
@@ -219,7 +211,7 @@
      ]
     },
     {
-     "title": "Quick hits: Kimi K3.1 open weights, Godot 4.8 beta 2, Z2RAM, Hyundai",
+     "title": "Quick hits: Z2RAM memory start-up, Hyundai",
      "links": [
       {
        "label": "Tom's Hardware",
@@ -246,15 +238,11 @@
      ]
     },
     {
-     "title": "Ocarina: Famitsu 37, Master Quest datamined, Star Fox remake passes 1M",
+     "title": "Ocarina: Master Quest datamined, Star Fox remake passes 1M",
      "links": [
       {
        "label": "Nintendo Life",
        "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc"
-      },
-      {
-       "label": "VGC",
-       "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/"
       }
      ]
     },
@@ -295,7 +283,7 @@
      ]
     },
     {
-     "title": "Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, Kenzan translation",
+     "title": "Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer",
      "links": [
       {
        "label": "VGC",
@@ -306,8 +294,8 @@
        "url": "https://recomphaven.com/releases/"
       },
       {
-       "label": "Noisy Pixel",
-       "url": "https://noisypixel.net/ryu-ga-gotoku-kenzan-complete-english-fan-translation/"
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/virtua-fighter-2-model-viewer-lets-you-see-stupid-lions-stupid-lifejacket-in-all-its-stupid-polygonal-glory"
       }
      ]
     },
@@ -365,28 +353,6 @@
       {
        "label": "Fangoria",
        "url": "https://www.fangoria.com/"
-      }
-     ]
-    },
-    {
-     "title": "Discs: Arrow's January 4Ks, Eureka's Scarlet Street",
-     "links": [
-      {
-       "label": "Comicon",
-       "url": "https://comicon.com/2026/11/04/arrow-video-kicking-off-the-new-year-with-4k-uhd-steven-seagal-cannonball-run-and-more/"
-      },
-      {
-       "label": "Eureka",
-       "url": "https://eurekavideo.co.uk/category/news/"
-      }
-     ]
-    },
-    {
-     "title": "Tokyo IFF acting prizes",
-     "links": [
-      {
-       "label": "Asian Movie Pulse",
-       "url": "https://asianmoviepulse.com/2026/11/tokyo-international-film-festival-2026-winners/"
       }
      ]
     }
