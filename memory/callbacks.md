@@ -4,6 +4,8 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 
 | Bit | Where it came from | Last used |
 | --- | --- | --- |
+| Bush cat ("like a cat, but bigger"): asleep across the farmhouse door, holds the player prisoner like every real cat; the cat is in charge of the farm | Scott's answer, 9 Nov (companion) | 2026-11-10 |
+| Good radishes pop out with a happy squishy noise; bad ones with a cheeky "hehe" | Scott's answer, 9 Nov | 2026-11-10 |
 | Goblin compost in a cheerful sack with a smiling goblin on the front ("he's smiling because he doesn't know"); why Lanternfall's radishes wake up | Host, from his 6 Nov fertiliser answer, 9 Nov | 2026-11-09 |
 | John Wick: the whole plot happens because someone was unkind to a dog (and the mandrake's dog on a rope) | His 6 Nov answer, host 9 Nov | 2026-11-09 |
 | Goblins as fertiliser: the tiger defends, the goblins don't make it, and next spring the radishes are enormous (nobody asks why) | Scott's answer, 6 Nov (who finds the goblins) | 2026-11-08 |
@@ -37,5 +39,5 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 | Tifa Lockhart as the guest party member who punches the final boss into reconsidering his life | Scott's answer, 20 Oct (classic FF guest in Resonance) | 2026-10-27 |
 | His dream for a 32 GB card is a "really sexy AI voice"; the host takes it as professional competition | Scott's answer, 20 Oct (first job for local AI) | 2026-10-26 |
 | The host's turnip with teeth that grows when watered (Scott's radish monster grew out of it) | Host's joke answer, 20 Oct | 2026-10-21 |
-| His server has more storage than some small countries | Show running joke | 2026-11-09 |
-| The lens comparison spreadsheet that has tabs | Show running joke, 21 Oct | 2026-11-05 |
+| His server has more storage than some small countries (GTA VI's 212GB a rounding error) | Show running joke | 2026-11-10 |
+| The lens comparison spreadsheet that has tabs (and the AI model list grows another tab) | Show running joke, 21 Oct | 2026-11-10 |

@@ -4,6 +4,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
+- Radish and the game's real state (Scott's 9 Nov note: "Talk about the radish too much just once an episode or a couple times as a quick joke. Remember the new game project isn't even made yet"): the radish monster gets at most one quick mention or joke per episode (not every segment), and the game thread teaches from where Lanternfall actually is (an empty Godot project) rather than assuming scenes or scripts exist. From 10 Nov the week was restarted from an empty folder (project shape, walking farmer, diggable ground, first-morning test). Reason: his 9 Nov note and lore/game tech scored 3 on 9 Nov.
 - Questions that build the game (Scott's 6 Nov note: "Maybe you can ask questions that have answers that can integrate into my game project"): at least two of each day's questions are designed so his answer becomes a concrete piece of Lanternfall (a character, rule, item, recipe, line of dialogue), and the next day's lore or build step uses it. Promised on air in the 8 Nov special. Reason: his 6 Nov note.
 - Australia: now in the bible (c1 approved 6 Nov): three stories told fully, then a one-minute round-up. Soft NSW announcements (a party returning, awards) go in the round-up or are dropped. Reason: c1 yes, and his only 6 Nov dislike (Mardi Gras party / NSW Australian of the Year).
 - Travel: back on his normal Sydney routine from 9 Nov (his 6 Nov comment). When Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
@@ -35,6 +36,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-10 (midweek) | Radish limited to one quick mention an episode; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
 | 2026-11-06 | Australia capped at five stories (two or three told fully); travel weeks follow his location; lore and opening kept as they are | 5 Nov scores (Australia 3; world and lore 5) and his 6 Nov Brisbane message |
 | 2026-11-03 (midweek) | Less world news, more games and movies; workshop kept to a ten-minute job | 2 Nov answer (monthly check-in) and workshop score 3 |
 | 2026-10-30 | Lore kept full and news-linked; workshop kept practical; chat around his answers and yokai; game tech tied to his own game ideas; Australian procedural items trimmed | 26-28 Oct section scores (lore 5/4/5, workshop 3/4/5, chat 4/4/5) and the 27 Oct dislike |

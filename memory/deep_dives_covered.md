@@ -4,6 +4,12 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-10 | Lore | Dragon Quest (1986): the locked throne room as a tutorial; Lanternfall's first morning (lantern, bush cat in the doorway, hoe and seeds, festival notice on the gate) |
+| 2026-11-10 | Game tech | How a Godot project fits together (nodes, scenes, scene tree and draw order, main scene, F5/F6, folders) and pixel-perfect settings (Nearest filter, 320x180, viewport stretch, integer scale) |
+| 2026-11-10 | Effects | Train to Busan (2016): zombie choreography, bone-breaking dancers, Cell make-up, KTX set with LED rear projection |
+| 2026-11-10 | Director | Johnnie To's Election (2005) |
+| 2026-11-10 | Workshop | Lanternfall build step: the first frame (folders, pixel settings, Main scene, stand-in farmer, first commit) |
+| 2026-11-10 | Chat | First rooms: how games and films tell you what they are in the first thirty seconds; the bush cat |
 | 2026-11-09 | Lore | The mandrake (case study) and "the soil remembers": goblin compost wakes the radishes |
 | 2026-11-09 | Game tech | Spawning scenes at runtime (PackedScene, instantiate, signals from GameState, call_deferred, burst tween) |
 | 2026-11-09 | Effects | Tremors (1990): the Graboids |

@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | On the very first morning, when your farmer walks through the gate and down to the village, who's the first person they meet, and what's the first thing they say? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-10 | If Lanternfall village chose a new mayor every festival, what would the mayor's badge of office be, and what's the one strange rule that comes with it? | Godot and Scott's 2D game | Not yet | no |
+| 2026-11-10 | Your bush cat: what's its name, and what's the one little thing it does that'll make players fall in love with it? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-09 | The mandrake had its dog on a rope. What's Lanternfall's version: one rule or trick that lets a careful farmer pull a radish safely? | Godot and Scott's 2D game | 2026-11-09 (answer page): "More like random radish will grow in the ground and visually seem different. Then you have a chance of a good radish or a bad radish" | 2026-11-10 |
 | 2026-11-09 | When your radish bursts out of the ground, what's the very first thing it does, and what sound does it make? | Godot and Scott's 2D game | 2026-11-09 (answer page): "Good radish, Jump out and make a cute happy squishy noise. Bad radish will jump out and make a cheeky scary 'hehe' noise" | 2026-11-10 |
 | 2026-11-09 | If one animal from your farm followed your farmer around as a companion, Crusader of Centy style, what animal is it, and what's its one ability? | Godot and Scott's 2D game | 2026-11-09 (answer page): "Bush cat, like a cat but bigger." | 2026-11-10 (suggestion given) |

@@ -5,6 +5,11 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Films
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-10 | Female Prisoner #701: Scorpion (1972) | Shunya Ito | Meiko Kaji, Isao Natsuyagi, Fumio Watanabe | Women-in-prison revenge, Japan | Actress of the Month, Tuesday | | | |
+| 2026-11-10 | Train to Busan (2016) | Yeon Sang-ho | Gong Yoo, Jung Yu-mi, Ma Dong-seok | Zombie horror, South Korea | Effects deep dive (zombie choreography, LED rear projection); 10th anniversary 4K 15 Dec (Well Go USA) | | | |
+| 2026-11-10 | Election (2005) | Johnnie To | Simon Yam, Tony Leung Ka-fai, Louis Koo | Triad crime, Hong Kong | Director deep dive | | | |
+| 2026-11-10 | The Invisible Half (2026) | Masaki Nishiyama | | Horror, Japan | Movies segment mention (Fangoria list) | | | |
+| 2026-11-10 | Inherit (2026) | Banjong Pisanthanakun | Davika Hoorne | Horror, Thailand | Movies segment mention (Thai release 19 Nov, reported) | | | |
 | 2026-11-09 | Tremors (1990) | Ron Underwood | Kevin Bacon, Fred Ward, Finn Carter, Reba McEntire | Creature feature, USA | Effects deep dive (Graboids, Amalgamated Dynamics) | | | |
 | 2026-11-09 | Heat (1995) | Michael Mann | Al Pacino, Robert De Niro, Val Kilmer, Ashley Judd | Crime thriller, USA | Director deep dive (downtown shootout) | | | |
 | 2026-11-09 | Final Interview (2026) | (not named) | Cho I-hyeon, Kim Jae-won | Thriller, South Korea | Movies segment mention (box office) | | | |
@@ -71,6 +76,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Directors
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Shunya Ito | Female Prisoner #701: Scorpion (1972) | Meiko Kaji | 2026-11-10 |
 | Michael Mann | Heat (1995) | Al Pacino, Robert De Niro | 2026-11-09 |
 | Ron Underwood | Tremors (1990) | Kevin Bacon, Fred Ward | 2026-11-09 |
 | Park Chan-wook | Oldboy (2003) | Choi Min-sik | 2026-10-21 |
@@ -95,13 +101,13 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Ivan Reitman | Ghostbusters (1984) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-29 |
 | Alfred Hitchcock | Rear Window (1954) | Grace Kelly | 2026-10-27 |
 | Takashi Miike | Audition (1999) | Eihi Shiina | 2026-10-26 |
-| Yeon Sang-ho | Paradise Lost (2026) | Kim Hyun-joo | 2026-10-26 |
+| Yeon Sang-ho | Paradise Lost (2026); Train to Busan (2016, effects deep dive) | Kim Hyun-joo, Gong Yoo, Jung Yu-mi | 2026-11-10 |
 | Akira Kurosawa | Seven Samurai (1954) | Toshiro Mifune, Takashi Shimura | 2026-10-23 |
 | The Wachowskis | The Matrix (1999) | Carrie-Anne Moss | 2026-10-23 |
 | Ken Russell | The Devils (1971) | Vanessa Redgrave | 2026-10-23 |
 | Bong Joon-ho | Memories of Murder (2003); The Host (2006, mentioned) | Song Kang-ho, Bae Doona | 2026-10-27 |
 | Peter Jackson | The Lord of the Rings (2001-03); The Two Towers Gollum deep dive | Andy Serkis | 2026-10-26 |
-| Johnnie To | Exiled (2006) | | 2026-10-22 |
+| Johnnie To | Exiled (2006); Election (2005, director deep dive) | Simon Yam, Tony Leung Ka-fai, Louis Koo | 2026-11-10 |
 | Ridley Scott | Alien (1979); Blade Runner (1982, effects deep dive 30 Oct) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |
 | Stanley Kubrick | The Shining (1980) | Shelley Duvall (on the Actress of the Month shortlist) | 2026-10-19 |
 | James Cameron | Terminator 2: Judgment Day (1991); Aliens (1986, making-of 22 Oct) | Linda Hamilton (on the Actress of the Month shortlist); Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |

@@ -3,6 +3,7 @@
 Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (Secret of Mana meets Stardew Valley), in his words where possible, so he has one place to design from. Started 26 Oct 2026 (weekly review f1, approved). Updated by the daily run from his answers, notes, the "What I built this week" box and chats. Scott can edit anything here. Never delete his ideas.
 
 ## Status
+- 9 Nov 2026 (answer page note): "Talk about the radish too much just once an episode or a couple times as a quick joke. Remember the new game project isn't even made yet" (Lanternfall is still an empty project).
 - 2 Nov 2026: Scott scrapped his game_prototype project to start again, but wants everything about it remembered (this whole notebook is kept). He wants the radish monster and the yokai ideas carried into the new game: keep recommending them.
 
 - 3 Nov 2026: the current project is Game-Prototype, which has a weekly task. The show now follows it daily (bible 5c); weekly snapshots land in memory/game_project/.
@@ -12,6 +13,8 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - A 2D top-down action RPG in Godot 4 on his MacBook Pro: Secret of Mana meets Stardew Valley (chose Godot over SpriteKit).
 
 ## Monsters
+- Radish variety (9 Nov, answer page): "More like random radish will grow in the ground and visually seem different. Then you have a chance of a good radish or a bad radish".
+- Radish sounds (9 Nov, answer page): "Good radish, Jump out and make a cute happy squishy noise. Bad radish will jump out and make a cheeky scary 'hehe' noise".
 - Strongest radish, tier 25 (27 Oct): "Big white radish with a red top".
 - The radish monster (20 Oct): the more radishes you pull while farming, the likelier a radish monster bursts out; it scales from weak (1) to strong (25); a random hidden counter that resets after it appears. Liked the host's turnip-with-teeth idea it grew from.
 - 23 Oct: liked the "You've been harvested" game over screen idea; the radish monster isn't implemented yet.
@@ -32,6 +35,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - Night-only crafting recipe (30 Oct): "Moon-cakes, tears from stars".
 
 ## Characters and merchants
+- Companion (9 Nov, answer page): "Bush cat, like a cat but bigger."
 - Nurikabe (28 Oct): "i would make him barrier between treasure so you would need to make him a recipe of a cake or something."
 - Travelling merchant (23 Oct): Chen Stormstout (Warcraft), selling Stout and telling jokes about being hungry.
 
@@ -53,8 +57,9 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - 5 Nov (answer page): what the village would bring up as evidence at a trial after the festival: "Leaving dead goblins everywhere".
 
 ## Open questions from the show (not answered yet)
-- Who in the village finds the goblins first, and what they say (6 Nov).
-- A film fight scene he'd turn into a Lanternfall boss fight (6 Nov).
+- The first villager the farmer meets and their first line (10 Nov).
+- The mayor's badge of office and its strange rule (10 Nov).
+- The bush cat's name and its lovable habit (10 Nov).
 - What the Lanternfall really is (4 Nov).
 - What a zashiki-warashi in the farmhouse loves, and what makes it leave (4 Nov).
 - Signature item and what it lets the player do (19 Oct).
@@ -63,6 +68,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - The goblin leader's name and what he wants (3 Nov).
 
 ## Suggestions the show has given
+- 10 Nov: week restarted from an empty folder (project shape, pixel settings, Main scene, first commit); Lanternfall's first morning designed like Dragon Quest's throne room (lantern, bush cat in the doorway, hoe and seeds, festival notice on the gate); suggestion: bush cat follower (CharacterBody2D that follows when more than ~40 px away, slightly slower than the farmer, sits when close, flips its sprite).
 - 9 Nov: fallback week "The radish wakes up" (spawn, chase, bite, tiers); spawning via preload/instantiate and a GameState radish_awakened(where) signal; burst tween; story: goblin compost is why radishes wake (mandrake), Radish Rules, compost item; suggestion: a fertilised flag so compost-grown radishes count double in register_pull.
 - 5 Nov: interaction (a Reach Area2D on the farmer masking an interactable layer, interact action with is_action_just_pressed, get_overlapping_areas + an "interactable" group, interact() on each object, signal pulled, tween pop + queue_free); a pullable Radish scene ready for Friday's pull counter; a Lanternfall Festival where the village remembers what you did (lost lantern, radish contest, the nurikabe at the edge), Chrono Trigger style, stored as GameState flags.
 - 4 Nov: top-down movement (CharacterBody2D, feet-only collision, Input Map, Input.get_vector, move_and_slide, short move_toward ramp, facing animations); try viewport stretch + nearest filter and the Compatibility renderer; Lanternfall night as falling star tears with chochin-obake red lanterns to avoid; a hidden house-luck value for a zashiki-warashi.
