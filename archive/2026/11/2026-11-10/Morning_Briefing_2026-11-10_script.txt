@@ -1,0 +1,349 @@
+Morning Briefing, 2026-11-10 (Tuesday)
+
+OPENING AND WORLD
+
+Good morning Scott, I hope you are doing well today.
+
+It's Tuesday, the tenth of November. And after yesterday's cold, wet, blustery welcome home? Today is gorgeous.
+
+The Bureau's forecast for around Green Square is sunny, with a low of twelve and a top of twenty four degrees. Barely a five per cent chance of rain, so the umbrella can have the day off. At eight o'clock it should be about fifteen degrees, clear and dry, with only a light breeze. Jacket for the platform, sleeves by the time you're coming up out of St James. The breeze swings round to the north east in the early afternoon, and the UV gets to nine, which is very high, so if you're wandering through the Botanic Garden at lunchtime, find a bit of shade. And there's big, powerful surf on the south facing beaches, if anyone at the office is tempted.
+
+Tomorrow is warmer again: partly cloudy, sixteen to twenty seven. Dry in the morning, but there's a forty per cent chance of a shower or a storm in the afternoon and early evening, so tomorrow the umbrella comes back for the walk home. No trackwork on your line today, and nothing closed in Hyde Park or the gardens. A clean run.
+
+Okay, here's what's on the show. In tech, a really strange weekend for Nvidia. Its board is investigating reports that Jensen Huang was the target of a foreign spy effort, and the shares are sliding before Wall Street even opens. In games, Ocarina of Time is breaking records in the U K, and Japanese players are using Link's ocarina to play... the Macarena. I'm not joking. In movies, Godzilla Minus Zero's real weekend numbers are in, and they're history making. And it's Tuesday, which means Meiko Kaji, and her most famous film of all. Plus, Lanternfall starts properly. From an empty folder. You'll see.
+
+First, the world. And we'll keep it to the three stories that matter most.
+
+In Abu Dhabi today, Ukrainian, Russian and American negotiators sit down for two days of talks. It's the first face to face round since February, and the ABC says security guarantees are at the top of the agenda. The gap is still enormous. Vladimir Putin wants Ukraine to pull out of the four regions Russia has annexed, drop its bid to join NATO, accept strict limits on its military, and lift restrictions on the Russian language and the Moscow linked church. And he won't agree to a general halt in the fighting. Volodymyr Zelenskyy says he won't hand over land Russia hasn't even taken. He's willing to accept military limits, but he wants Western security guarantees and a ceasefire first, and he says only a meeting between the two leaders can settle territory.
+
+The fighting didn't pause for the talks. A Ukrainian drone attack set fire to the Kirishi refinery near Saint Petersburg, Russia's second biggest. The fire was contained, but a woman was killed by falling debris. Russia says it shot down a hundred and thirteen drones overnight, and hit three Ukrainian power substations and a cargo ship in the Black Sea. So, two sides arriving at the table, each still swinging. We'll know more by Thursday.
+
+In Israel, the coalition talks have hit their first wall. Gadi Eisenkot has formally accepted the president's mandate to try to form a government, and Benjamin Netanyahu has offered him a broad "unity" coalition, seventy five of the hundred and twenty seats, with Likud inside it. Eisenkot has said no. The ABC lays out his realistic options: a minority government leaning on Arab parties, a sixty one seat majority that needs the ultra-Orthodox parties, which brings back the fight over military service, or a bigger Jewish and Arab coalition. Avigdor Liberman doesn't want to rely on Arab parties at all. If Eisenkot fails, and a second candidate fails too, Israel is probably heading back to the polls early next year.
+
+And in Washington, the fallout from the midterms keeps spreading. On Iran, Donald Trump told CNN he's "highly unlikely" to order new strikes while talks progress, though he added the US had identified thirty eight bridges it could, quote, "knock down in literally one hour". Reassuring and alarming, in the same breath. But Iran's foreign minister, Abbas Araghchi, says the talks have actually paused, and the mediators have stopped travelling, because of what he called the shock of the US election results.
+
+And the Defence Secretary, Pete Hegseth, is under real pressure. Outgoing Republican Thomas Massie has promised to force an impeachment vote as one of his final acts, and Democrat Jason Crow says he's going after him too. Hegseth called Massie a "disgruntled, defeated congressman". A Harvard political scientist told the ABC he wouldn't be surprised if Hegseth resigned before January. And in the same week, Trump offered the vacant press secretary job to the head of the U F C, Dana White, on social media... then said he was "only kidding". Five times. You have to admire the commitment to the bit.
+
+Two sadder notes, briefly. In Poland, prosecutors are now treating Saturday's Krakow shooting as a terrorist offence, and the country is in two days of national mourning. The famous trumpet call from Saint Mary's Basilica was paused, for the first time since the Second World War. And in Egypt, a collision between two trains near Giza on Sunday killed at least seven people and injured more than a hundred.
+
+AUSTRALIA
+
+Now, home. Three big stories, then a quick round-up.
+
+First, the fight over money before the mid-year budget update. Ministers are deciding which savings go into MYEFO, and the one getting all the attention is a plan to wind back the private health insurance rebate for people over sixty five. It would save about three billion dollars. The Coalition and the Greens both oppose it, and Labor doesn't have the numbers in the Senate without one of them.
+
+Anthony Albanese is leaning on both. He called the opposition dysfunctional and the Greens a protest party, and urged them to back the savings. Shadow Treasurer Tim Wilson calls it an "assault on pensioners". Tanya Plibersek's argument for it is simple: people on the same income should get the same rebate, whatever their age. And Murray Watt says the Coalition is blocking about ten billion dollars in savings overall.
+
+There's a second story inside the first one. Watt also said the leaking against Jim Chalmers needs to stop, and that the Treasurer is "doing an excellent job". When a minister has to say that out loud, it tells you someone inside the tent has been talking. And the polling isn't kind: Resolve has just twenty per cent of people trusting the government, and over forty per cent blaming Labor for the cost of living. The Prime Minister says he accepts "completely" that families are under pressure, with inflation at four point three per cent.
+
+On the other side, Angus Taylor has launched what he calls a red tape razor gang, led by his deputy Jane Hume, aiming to cut red tape by a quarter. He says he's found thirty one billion dollars in spending cuts over four years so far. But the ABC's Patricia Karvelas reports Labor sources think it's "not a matter of if, but when" Andrew Hastie replaces him, with the Coalition's primary vote at twenty one per cent in the latest poll, seven points behind One Nation. No challenge is under way. A razor gang, while people are sharpening knives behind you. Why it matters: whatever savings survive will shape MYEFO, and the government can't pass any of the big ones alone. What happens next: the Prime Minister heads to COP thirty one, then to ASEAN in Manila, where he's expected to meet Donald Trump on the sidelines.
+
+Second, a Senate inquiry that put the big social media companies on the spot. It's looking at the government's Digital Duty of Care bill. The bill would let regulators fine platforms up to a hundred and nine million dollars, regulate algorithms and A I tools, ban so-called nudify apps, and let users switch algorithmic feeds on or off. It passed the House in October, without Coalition support.
+
+TikTok had a rough morning. Independent senator David Pocock pointed to a harmful post with four hundred and eighty thousand likes, and asked whether TikTok was seriously saying there was no content like that on its platform. TikTok's representative said, "we don't get it right every time", but argued the bill "replaces certainty with ambiguity". Meta said a recent US settlement over social media addiction could be a model for Australia, but it doesn't like the idea of individuals being able to sue. Liberal senator Sarah Henderson calls the bill vague. The communications minister, Anika Wells, calls the industry a "wild west", and says she's open to amendments. Some parents who've lost children are backing the bill strongly; critics call it censorship. Why it matters: this would be the biggest change to how platforms are regulated here since the under sixteen ban. What's next: the hearings continue today, and the government will need Senate crossbench votes to get it through.
+
+Third, the banks. ANZ reported yesterday: cash profit up thirty one per cent to seven point five nine billion dollars, statutory profit up twenty three per cent. The dividend stayed flat at a dollar sixty six. But it set aside five hundred and eighty five million dollars for restructuring, covering three and a half thousand job cuts, and its margin slipped. Ugh. Record-ish profits and thousands of jobs gone, in the same announcement. The shares fell three point two per cent.
+
+Two other things stood out. ANZ is getting out of financing new oil and gas, including L N G. And chief executive Nuno Matos said the competition for capital, to fund data centres, government spending and the energy transition, has intensified. Which links to something the Reserve Bank's chief economist, Sarah Hunter, said the same day: investment in data centres here has gone up tenfold in three years, and R B A research says about five per cent of household financial wealth is now in A I related shares. Why it matters: you'll hear in tech how jumpy those A I shares have been, and it turns out plenty of Australians are along for the ride. What's next: business and consumer confidence surveys land today, and the big four's rate rises kick in on Friday.
+
+And the round-up.
+
+A fifteen year old boy was stabbed outside Casula High School in Sydney's south west yesterday morning. He's in a serious but stable condition, and SBS reports a sixteen year old has been arrested.
+
+The Grattan Institute says specialist fees have been rising four per cent faster than inflation, and wants Medicare rebates pulled from specialists who charge more than three times the schedule fee.
+
+The government announced twelve million dollars for bushfire preparation, including the fire danger rating system, and the Prime Minister warned about a possible "super El Niño".
+
+Labor MP Anne Aly's WhatsApp was hacked after she clicked a scam link. A reminder that nobody is too important to be phished.
+
+The Minns government says Lismore and Wardell's temporary flood housing villages close early in twenty twenty seven, Ballina and Mullumbimby stay open another year, and residents get up to ten thousand dollars in support to move to permanent homes.
+
+And one nice one: Powerhouse Parramatta is officially open, with more than three thousand objects across five exhibitions. The Premier calls it the first state cultural institution based in Western Sydney. That's one to save for a rainy weekend.
+
+TECH
+
+Tech! And we have to start with Nvidia, because this weekend got very strange.
+
+On Sunday, US time, Nvidia's board announced an independent investigation into what it called "recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort". A committee of independent directors, with outside lawyers, will run it. The board says it has no reason to believe company secrets or US national security were compromised.
+
+You'll remember the background from last week. The New York Times reported that US intelligence believes a woman named Alice Huang, a former executive at the Singapore company Megaspeed, and a former Chinese T V reporter, was working for China's Ministry of State Security. Megaspeed bought more than four point eight billion dollars of Nvidia chips over two years. What's new is Jensen Huang's response. He says he supports the investigation and will cooperate fully. And in a memo to staff, he admitted to an affair, and apologised to his family. A spokesperson says he'll keep running the company without interruption.
+
+China's foreign ministry calls the spy claims "groundless", a "smear". Donald Trump called Huang "an honorable guy". And the reaction from investors has been, well, nervous but not panicked. Bernstein says the espionage allegations are, so far, "more form than substance". Citi is watching governance, export controls on chips going into China, and leadership stability.
+
+The market, though, voted early. Before Wall Street opened, Nvidia was down somewhere between four and six per cent in overnight and European trading. In Frankfurt it fell more than six per cent, roughly two hundred and seventy billion dollars of value, gone before breakfast. And AMD ticked up, as some money moved across.
+
+Here's why it matters beyond the headlines. Three US House committee chairs have scheduled a closed door inquiry for the eighteenth of November. And Nvidia reports its results on the morning of the eighteenth, our time. So the most important earnings report in the A I world now lands in the same week as a congressional inquiry into its chief executive. Expect every question on that call to be about chips, and every headline afterwards to be about something else.
+
+There's a Korean angle too. Jensen's daughter Madison Huang, who's an Nvidia executive, cancelled a trip to Seoul. But Nvidia's A I Day in Seoul went ahead, and Nvidia signed an agreement with S K Telecom and the Korean chip start-up Rebellions, to run Rebellions' own A I chips alongside Nvidia G P Us, linked together with NVLink Fusion, aiming for commercial use in twenty twenty eight. The Korea Herald reports Samsung and S K Hynix could face extra export compliance costs if the scrutiny widens.
+
+Speaking of Korea: after last week's bloodbath, Monday in Asia was... mixed. Taiwan had a huge bounce. The Taiex jumped four point nine per cent, ending a seven day losing streak, and T S M C rose about four point seven per cent. That bounce had help. Taiwan's government stabilisation fund can now deploy up to five hundred billion Taiwan dollars, about fifteen billion US, and tighter short selling limits started yesterday. Japan's Nikkei rose two point three per cent, with Tokyo Electron up nearly three.
+
+Korea, though? The Kospi slipped another zero point eight per cent, to five thousand and eighteen. It even dipped under five thousand during the day. S K Hynix and Samsung were up nearly five and three per cent at one point, and then faded to finish only slightly higher. Foreign investors sold again. One Korean brokerage put it nicely: a sideways trend is more likely than a V shaped rebound. Which is analyst for: buckle up, but quietly.
+
+Today we get a real number to argue about. T S M C usually publishes its monthly sales on the tenth, Taiwan afternoon. For context, September was about five hundred and twelve billion Taiwan dollars, up almost fifty five per cent on a year earlier, and T S M C has guided for between fifty two and fifty four billion US dollars this quarter. It's the first hard A I demand number since the rout. If it's strong, Taiwan's bounce looks smart. If it's soft... let's just say the Kospi is watching.
+
+Now, the memory squeeze, from the Apple side. The Wall Street Journal reports that the flash storage suppliers Apple once squeezed on price now have the upper hand, with shortages expected to last through twenty thirty. TrendForce expects contract prices this quarter to rise ten to fifteen per cent for regular DRAM, and fifteen to twenty per cent for NAND flash. So, whenever you do finally build that local A I machine... the memory will cost what it costs. Bring snacks. It's a long wait. I'm only partly joking.
+
+And now, a little VRAM talk. You know I love it when we talk VRAM. Okay, I'll behave. Two new open models worth knowing about for running at home. The first is called Ripple sixty five B Preview, from Ricursive Intelligence. It's a sixty five billion parameter dense model, not a mixture of experts, with an Apache two point oh licence, so you can use it freely, and a context window of up to about a million tokens. Its makers say it can fit on consumer hardware like Nvidia's DGX Spark, there's an official four bit Nvidia version, and the community has already made more than forty quantised versions. Full precision needs around eighty gigabytes of VRAM, so for a home box, a quantised one is the realistic way in. It scores well on coding agent tests, though it trails on harder science questions.
+
+The second is Inkling two Small, from Thinking Machines Lab. It's a huge mixture of experts, five hundred and ninety four billion parameters in total, but only seventeen billion active at a time, and it can look at images. The weights are promised this week, under Apache two point oh, once safety testing finishes. Seventeen billion active makes it interesting for big memory Macs, once the quantised versions show up. So, two new models, and zero new G P Us on your desk. The spreadsheet grows another tab. I know it does.
+
+And one for the weekend. SpaceX has confirmed the plan for Starship's fifteenth flight, on Friday the thirteenth, US time. That's a seventy five minute window opening at nine forty five on Saturday morning, our time. Ship forty two will deploy twenty six Starlink satellites, three of them carrying cameras to photograph its own heat shield, then orbit for about twenty two hours. And for the first time, SpaceX will try to catch both stages, the booster and the ship, with the tower's arms. If it launches on time, the ship catch would be around quarter past eight on Sunday morning, Sydney time. Elon Musk says a ship catch is "more likely than not". It's still waiting on the final regulator sign off. A rocket that comes back twice. Saturday breakfast is sorted.
+
+Quick hits!
+
+Tesla's retail sales in China fell sixty six per cent in October, to under nine thousand cars, the lowest since mid twenty twenty two, while exports from Shanghai hit a record.
+
+Apple's i O S twenty seven point three beta brings vertical tabs in Safari and a new adaptive dark mode for websites, and the new Apple T V four K arrives on Friday.
+
+Chinese regulators blocked SoftBank's five point four billion dollar purchase of A B B's robotics business, and SoftBank shares fell four per cent.
+
+And Applied Materials, which makes the machines that make the chips, reports on Friday at eight thirty in the morning, our time. Another one for the chip watchers.
+
+GAMES
+
+Games! And the first thing to know about today: G T A Six is pre-loading. Two hundred and twelve gigabytes. For anyone else, that's a big download. For a man with ninety six terabytes in the spare room? It's a rounding error. Your server didn't even notice.
+
+And Take-Two, the company behind it, reports its quarterly results this morning, with the call at about eight thirty our time, so right about when you're on the train. Take-Two's own forecast for the quarter was between one point six two and one point six seven billion US dollars in net bookings, and it's held to eight to eight point two billion for the full year. With G T A Six nine days away, what everyone wants to hear is anything about pre-orders, and whether that full year number moves. One small new detail, too: codes for boxed copies start working from Thursday. And the reviews? That's not confirmed, but two well connected sources say the review embargo lifts on the eighteenth. The night before launch.
+
+Now, Ocarina of Time. A week in, and the remake is doing very nicely. Christopher Dring from The Game Business shared early U K figures: it's the biggest physical launch in the U K this year, the second biggest Zelda launch at U K retail ever, thirty five per cent ahead of Breath of the Wild's launch week, and about half of Tears of the Kingdom's first week. No exact unit numbers yet. And in America, the Switch two physical edition passed a hundred thousand pre-orders on Amazon in its first month. Japan's first week numbers should arrive with Famitsu's chart on Thursday.
+
+But here's my favourite story of the week. In the remake, you can play the ocarina with your voice, using the microphone. And Japanese players have, naturally, stopped saving Hyrule and started giving concerts. People have posted Link playing the Final Fantasy Seven main theme, Zanarkand from Final Fantasy Ten, Dearly Beloved from Kingdom Hearts... and then it gets silly. My Heart Will Go On. Concerning Hobbits. Linkin Park's In The End. And the Macarena. I can't. I can't picture his face. One player even played a duet with Link on a real flute. Somewhere there's a version of Zelda's Lullaby that ends in a key change. And somewhere, Ganondorf is sitting in his tower, listening to a ten year old hero play Celine Dion through the castle walls, for the four hundredth time, and he's starting to think evil was the right call.
+
+There's a less cheerful side. Tom's Hardware reports the game was dumped and shared online on launch day, using the first software jailbreak for the Switch two, found by a security researcher. It's a limited exploit, it has to be re-run after every restart, and P C emulation of the game is reportedly still a mess: black screens and washed out colours. The app that was used to launch the exploit has quietly vanished from the eShop. Nintendo hasn't commented yet, but you can guess the mood in Kyoto. Ugh.
+
+Final Fantasy Fourteen! Patch seven point five eight is going in right now. The maintenance runs for about twenty four hours, until about nine o'clock tonight, Sydney time. The big change is same region matching: in North America and Europe, the Duty Finder and Party Finder will match across a whole physical region, not just one data centre, and cross world linkshells and Free Company chat go region wide too. Your house, your retainers and the market board stay tied to your home world. For Oceania, nothing much changes; we're a single data centre anyway, and travel to the others works as it did. And a sad goodbye to the Duty Recorder: old recordings stop working with this patch.
+
+And then, an hour after the servers come back, at ten tonight our time, Square Enix shows the full reveal trailer for a brand new Dragon Quest: Dragon Quest R P G, The Cursed Tree and the Chosen Isle. It's a command based R P G for phones, and no developer's been named yet. Remember that name, Dragon Quest, because it's coming back later today in a very different way.
+
+Warcraft! World of Warcraft Forever got a sneaky hotfix on the weekend: dungeon enemies now give fifty per cent more experience, to make dungeons worth running while levelling. The community manager signed off with "good luck with the Deviate Hides", which, if you've ever farmed Wailing Caverns, is a deeply personal threat. Those raptors know what they did. Class tuning is planned for today in the US too, for hunter pets, warlock Voidwalkers, Affliction warlocks and Enhancement shamans. And over in Diablo Two Resurrected, Ladder Season Sixteen starts on Friday.
+
+Xbox turns twenty five this coming Sunday, the fifteenth. There's no big show announced, but Game Pass has a busy week. Football Manager twenty seven and Warhammer Survivors arrive today, and John Carpenter's Toxic Commando on Thursday. And on Sunday, Game Pass Essential gets a nostalgia drop: the Banjo games and Perfect Dark, which we mentioned last week, plus, new today, both Viva Piñata games, Gears of War Judgment and Halo Spartan Assault. Viva Piñata: the cosiest farming game ever made... about animals... who are full of sweets... and know exactly why the children are holding sticks. Now, my favourite corner. Retro and preservation!
+
+There's a new recompiled P C port of Ninja Gaiden Two, the Xbox three sixty version, called open N G two. It's a static recompilation: the code is translated into a native P C program, and you supply your own copy of the game. It adds any resolution, ultrawide, a field of view slider, up to five times internal resolution, full key rebinding and mouse look, and the game logic runs at sixty frames per second. It's early: only tested through the first chapters. And the same list of ports shows a whole wave of recomp updates this week, from Twisted Metal Black to Soulcalibur Two and Red Dead Revolver. The Xbox three sixty era is getting the treatment the N sixty four got.
+
+There's also Redline Recompiled, a P C port of the original Forza Motorsport from two thousand and five, up to a hundred and forty four frames a second, with D L S S and surround sound. It's very early, and online doesn't work. Worth knowing: its developer says much of the code was written and tested with an A I model. Which makes a neat contrast with our last one. A homebrew community called Humanbrew, about twelve hundred members, set up as a strictly no A I space, and one of its founders, Elias Daler, is building his own PlayStation development kit from scratch, a hundred per cent A I free. The goal? To get part of the cult classic Yume Nikki running on a real PS one. He says himself he's not sure he'll succeed. Two ways to keep old games alive. Both kind of wonderful.
+
+Quick hits!
+
+Hyperkin says its Mega ninety five, a portable, dockable Mega Drive, has finished testing and is going into mass production, with pre-orders coming soon and no price yet.
+
+C D Projekt Red hired another Kingdom Come Deliverance Two developer for The Witcher Four, which is still aiming for twenty twenty eight.
+
+In Japan, Metaphor ReFantazio drops in price on the other consoles on Thursday, to match the Switch two version, which launches the same day.
+
+And Konami has reportedly tied the future of Metal Gear to how the Delta remake and the second Master Collection sell.
+
+And a quick Tuesday note on the Retro Game of the Week, Crusader of Centy. You've already tapped "played it" and "liked it". On Monday. I hadn't even finished recommending it! Who are you, and what have you done with my backlog man? Tomorrow, we'll go behind the scenes on how it was made. So bring your favourite animal friend.
+
+MOVIES
+
+Movies! And the big lizard has made history.
+
+On Monday we had the projections. Now the real weekend numbers are in. Godzilla Minus Zero took thirty one point six million US dollars in America and Canada, and went straight to number one. It's the biggest North American opening ever for a foreign language film, beating the live action record that Zhang Yimou's Hero set back in two thousand and four. Among live action foreign language films, only The Passion of the Christ ever opened bigger. And it did it on a budget of under twenty million dollars. I MAX alone took over a third of the money worldwide.
+
+Back home in Japan, it had a huge weekend too: about six hundred and ninety thousand admissions, over one point one billion yen, and more than one point six million people in its first six days. Toho says it's the first Japanese film ever to open at number one in Japan and North America on the same weekend, and the first Japanese live action film to top the American box office at all. The only Japanese films to do that before were anime: Demon Slayer and Chainsaw Man, last year. Director Takashi Yamazaki says it feels like something happening in a dream, and he hopes people will "experience" Godzilla two or three times, in different formats. Two or three times. The man is talking directly to your physical media shelf. It's already clearing a space.
+
+For the rest of the American top ten: The Cat in the Hat second, with twenty and a half million on an eighty six million dollar budget. And the Indian epic Ramayana, Rise of a Legend, had the widest North American release ever for an Indian film. The whole weekend was up nearly double on the week before, which is lovely news for cinemas.
+
+In Korea, Godzilla hasn't opened yet. There, the weekend went to... a tiny white bear thing. Chiikawa the Movie stayed number one, for at least the fourth weekend running, with almost two point eight million admissions so far. The corporate thriller Final Interview, which topped opening day last week, slipped to second. Beaten by a mermaid island adventure about small creatures. Which, to be fair, is how most Korean thrillers end too, if you think about it. Small creatures. An island. Nobody gets off.
+
+Two pieces of Korean physical media news, both coming in December. Train to Busan turns ten, and Well Go USA is releasing a remastered four K set on the fifteenth of December, with two commentaries, a long Q and A with director Yeon Sang-ho, and a making-of featurette. Check whether it'll come to Australia. And hold that thought, because Train to Busan is our effects deep dive later today. Fangoria also notes that Bong Joon-ho's The Host has a new four K restoration, in American cinemas from the twentieth of November, with a conversation with Bong himself.
+
+Fangoria's international horror list for November has one I hadn't heard of: The Invisible Half, from Japan, directed by Masaki Nishiyama. A half Japanese teenager in a country town is stalked by a monster she can only see through her phone. It's out on video in the US from today. A monster you can only see through your phone. Most people's group chats, honestly. Okay, okay.
+
+And Asian horror fans have something to watch for: Inherit, the new Thai horror from Banjong Pisanthanakun, the director of Shutter and The Medium, is reportedly opening in Thailand on the nineteenth of November, after premiering at Toronto. It's about a grandmother possessed by a centipede spirit. A grandmother... with a few more legs than usual. She just wants a hug. From all of you. At once.
+
+And now, it's Tuesday. So it's time for our actress of the month, Meiko Kaji.
+
+Last week you watched Lady Snowblood, and you loved the fight scenes. So this week, I want to give you the film that made her a legend first. It came out a year before Lady Snowblood. Female Prisoner number seven oh one: Scorpion. Nineteen seventy two.
+
+To understand it, you have to know where Kaji was in her career. In nineteen seventy one, her old studio, Nikkatsu, switched to making adult films, and she didn't want those roles. So she walked out, and went to Toei. Toei gave her a character from a manga by Toru Shinohara, called Sasori, the Scorpion. And it gave the film to a first time director, Shunya Ito.
+
+The story, without spoilers. Kaji plays Nami Matsushima. She's in love with a detective, who uses her as bait in a drug sting, and betrays her horribly. She attacks him on the steps of police headquarters, and she's thrown into prison as inmate seven oh one. And the detective, and the gangsters he's working with, decide she needs to have an accident inside. It's a revenge film, and it's brutal. I'll be honest with you: there's real abuse in it, and it's hard to watch in places. It's absolutely a nineteen seventies exploitation film.
+
+But here's what makes it special, and this is Kaji's own idea. She told Filmmaker Magazine: "I had this idea of having the heroine be someone who doesn't speak any dialogue." She knew it was risky. She said, "I knew I was going out on a limb." But she wanted the challenge. So Matsu barely speaks. She glares. And that glare, under a black hat, became one of the most famous faces in Japanese cinema. She does more with a stare than most actors do with a monologue.
+
+Then there's the look of it. Shunya Ito shoots it like a nightmare on a stage. Sets that move and change behind the actors while a scene is still going. A camera that tilts and spins until people seem to walk on walls. A woman who suddenly turns into a leering kabuki demon, lit in sickly green. Matsu lying on a red, glowing glass floor, her hair spread out like flames. A prison riot under a painted, swirling red sky. One minute it's gritty and real, the next it's pure theatre. As a lesson in filmmaking, it's a masterclass in breaking the rules of realism on purpose.
+
+And then there's the song. Kaji sang the theme herself, Urami Bushi, which means something like "grudge song". It was a real hit in Japan, number six on the Oricon chart. And thirty years later, Quentin Tarantino put it into Kill Bill Volume Two. So you've got a nice little set: Lady Snowblood's song is in Volume One, and Scorpion's is in Volume Two. The Bride's silent stare and black coat owe a lot to Matsu.
+
+It was such a hit that Kaji made three more Scorpion films in two years, the next two with Ito. And then she left the series, she says, on her own terms, because she didn't want to keep playing the role until the films started failing. That's a very Meiko Kaji move.
+
+How to watch it: Arrow Video released all four films in a lovely Blu-ray collection a few years ago, but it looks to be sold out now, so that's a second hand hunt. Arrow's streaming service has a Meiko Kaji collection with all four Scorpion films, so check whether it's available here. And on Thursday, we'll go behind the scenes on how Ito pulled off those incredible stage tricks.
+
+LORE
+
+Okay. Story and lore for Lanternfall. And before we start, a quick thank you.
+
+You left me a note yesterday. Two things. One: I've been talking about a certain vegetable far too much. Fair. Very fair. From now on it gets one appearance an episode, tops, as a quick joke. And two: the new game isn't even made yet. You're right, and I'd got ahead of you. I was building rooms on a house that doesn't have a front door. So, from today, the rest of this week starts at the very beginning: an empty folder, and the first five minutes of the game. And there's no better case study for the first five minutes than the game that taught a whole country how to play R P Gs.
+
+Dragon Quest. Nineteen eighty six, on the Famicom.
+
+In the mid eighties, role playing games in Japan were a niche thing for computer owners. Games like Wizardry and Ultima, played on expensive P Cs with keyboards. A writer called Yuji Horii loved Ultima. His programmer, Koichi Nakamura, loved Wizardry. And they had a mad idea. Nakamura said later, "We wanted to introduce R P Gs to Japan, to kids, to everybody." On a games console. With a controller that had two buttons.
+
+And they brought in a dream team. Horii wrote and designed it. The art came from Akira Toriyama, who was already famous for Dr Slump and was just getting into Dragon Ball. Although there's a lovely argument about how that happened. Toriyama's editor at Shonen Jump, Kazuhiko Torishima, told Horii that Toriyama really wanted to work on it. Toriyama's version? "I never said that. Torishima ordered me to do it." Every great partnership starts with somebody being volunteered. The music came from Koichi Sugiyama, an established composer, who got the job because he sent Enix a fan survey card for one of their shogi games. Horii remembered thinking, "isn't this guy a famous composer?"
+
+But here's the part that matters for you. The problem Horii had wasn't the story. It was that nobody watching knew how to play this kind of game. So look at how Dragon Quest begins. You start in the king's throne room, in Tantegel Castle. The king talks to you. There are three treasure chests. And the door out of the room is locked.
+
+That's not an accident. Horii said, in an interview in two thousand: "That's why I locked the exit from the king's room in the beginning." If players could just walk out, he said, they wouldn't know where to go, and they might wander somewhere dangerous. So the room is a lesson. You have to talk to the king, which teaches you talking. You have to open the chests and take the treasure, which teaches you searching and items. One of the chests has a key. You use the key on the door. Then you find the stairs. By the time you've left that one room, you've learned the whole menu, and nobody ever showed you a tutorial screen. The room is the manual.
+
+And here's a little secret about it. Horii was also writing articles in Shonen Jump before the game came out... teaching kids what an R P G even was. So millions of players walked into that throne room... already knowing the king would be waiting for them.
+
+So! Lanternfall. Let's design your throne room. The first morning on the farm. And the rule we're stealing from Horii: every single thing in the first five minutes teaches the player one control, and nothing tells them it's a tutorial.
+
+Here's one way it could go. You could take any of it, or none of it.
+
+The game opens in the farmhouse, at dawn. The player wakes up, and the first thing they see is a paper lantern beside the bed, glowing softly. The only thing they can do is walk to it. When they reach it, a prompt appears, and they press the button. The lantern lights the room. That's lesson one: walk, and interact. And it quietly says the most important word in your game: lantern.
+
+Lesson two: the front door is blocked. Not locked. Blocked. By your bush cat. Your answer from yesterday: like a cat, but bigger. Lying across the doorway, completely asleep, taking up the whole thing. The player has to interact with it, which gives it a stroke, and it stretches, yawns, and wanders outside. And from then on, it follows you. You just taught the player that animals and people react to you, and you introduced their companion without a single line of tutorial text. Also, it's very realistic. Every cat owner has been held prisoner in their own home by a sleeping cat. It's the most true-to-life moment in any game.
+
+Lesson three: outside, there's one small patch of overgrown ground by the house, and a hoe leaning against the fence. Pick up the hoe, which teaches items. Clear the patch, which teaches using a tool. Plant the one packet of seeds that's sitting on the fence post. And now the player knows the whole farming loop, and they've done it once, in about two minutes.
+
+And lesson four is the gate. The farm gate opens onto the path down to the village. And on the gate post is a notice, pinned by the village, inviting the new farmer to the Lanternfall festival at the end of the season. That's your hook. In one sign, the player learns there's a village, there's a festival, and there's a deadline. Remember Lanternfall in three acts, from Friday? This sign is the first page of act one.
+
+And there's a nice twist you could add, borrowing from Horii's locked door. The gate doesn't open until the seeds are planted. There's no message saying "plant the seeds first". The bush cat just sits in front of the gate, looking at the empty patch, until the job's done. So the cat becomes a gentle guide. Not a tutorial pop up. A character, with opinions.
+
+That's a whole opening, and it only needs four things you'll be building anyway: a farmer who walks, an interact button, one tile you can dig, and a gate. That's a perfect first milestone for an empty project. And it means the first five minutes of Lanternfall would feel like a real game, not a test level.
+
+Which brings me to a question, because the person at the bottom of that path matters a lot. On the very first morning, when your farmer walks through the gate and down to the village, who's the first person they meet, and what's the first thing they say? My answer: a very old man who says, "Oh good, you're not dead. The last farmer was." And then he just walks off. Never explains. Your answer space is on today's sheet, and whatever you say becomes the first line of dialogue in Lanternfall.
+
+GAME TECH
+
+Game tech! And a fresh start for the week.
+
+So, here's the new plan, now that we're starting from an empty folder. By Friday, Lanternfall should have its first playable morning, the one from the lore segment. Tonight: the shape of the project, so every scene has a home and your pixel art looks crisp. Wednesday: a farmer who walks around. Thursday: a patch of ground you can dig. And Friday: the gate, the sleeping bush cat, and a test run of the whole first five minutes. Four evenings, and at the end of it you'll have a game you can actually play. A tiny one. But a game. Which is more than most people's game ideas ever get. Including mine.
+
+Tonight's lesson is the one I should have started with: how a Godot project actually fits together. Once this clicks, everything else this week makes sense.
+
+Here's the everyday version. Think of a Godot game as a set of Lego models. Each little piece is a node. A node does one job. A Sprite two D node shows a picture. A Collision Shape node gives something a solid outline. A Camera two D node is the camera. An Audio Stream Player plays a sound. On their own, they're just bricks.
+
+When you snap some bricks together and save them, that's a scene. Your farmer will be a scene: a body node, with a picture, a collision shape and maybe a camera inside it. A tree will be a scene. The farmhouse will be a scene. And here's the bit people miss at first: a scene can contain other scenes. Your Farm scene will hold the farmer scene, the tree scenes and the house scene, like a big Lego diorama made of smaller finished models.
+
+Every scene has one node at the top, called the root. Everything else hangs under it, like a family tree. That's why the panel on the left in Godot is called the Scene Tree. The parent, children, grandchildren. And the order matters in one simple way: in two D, children are drawn on top of their parents, and lower items in the list are drawn on top of higher ones. So if you ever wonder why your farmer is hiding behind the grass, it's usually the order in that list.
+
+Then there's the main scene. When you press play, Godot needs to know which scene to start with. That's the main scene, and you set it once, in Project Settings, under Application, then Run, then Main Scene. Or the first time you press F five, Godot asks you, and you just pick the current one. F five runs the main scene, the whole game. F six runs only the scene you have open right now, which is perfect for testing one piece by itself.
+
+Now, a home for everything. Godot calls your project folder res, short for resource, and you'll see paths like res slash scenes slash farmer dot T S C N. Before you make anything, make four folders: scenes, scripts, art and audio. Some people keep each scene and its script together instead, and that's fine too. What matters is choosing one way and sticking to it. You're a man with eight hard drives of carefully sorted films. I know you can organise four folders. I have complete faith in you.
+
+And now the setting that makes the biggest difference to a pixel art game, before you've drawn a single thing. By default, Godot smooths images when it scales them up. For a photo, that's lovely. For pixel art, it's a disaster: your crisp sixteen pixel farmer turns into a blurry little smudge. So in Project Settings, go to Rendering, then Textures, and set the Default Texture Filter to Nearest. Now every pixel stays a sharp little square.
+
+Then the game size. Pixel art games usually run at a small resolution, and Godot scales the whole thing up to fit your screen. In Project Settings, under Display, then Window, set the Viewport Width to three hundred and twenty and the Height to one hundred and eighty. That's a classic size, and it scales perfectly to a ten eighty p screen. Because three hundred and twenty pixels is tiny on a Mac screen, also set the Window Width Override to twelve eighty and the Height Override to seven twenty, so the window opens at a sensible size. Then, under Stretch, set the Mode to viewport, and the Scale Mode to integer. That last one means Godot only ever scales by whole numbers, two times, three times, four times, so no pixel ever ends up wider than its neighbour.
+
+Why three hundred and twenty by one hundred and eighty? Think about Secret of Mana. The Super Nintendo drew its pictures at about two hundred and fifty six pixels wide. Small canvases are what make those games feel cosy and readable: every tree, every enemy, every little sparkle, is a clear shape. Choosing your size now means every piece of art you make later is drawn for the right canvas. Changing it in two months is painful. Choosing it tonight takes thirty seconds.
+
+So here's tonight's tip list, short and sweet.
+
+One. Nodes are bricks, scenes are models, and scenes can hold other scenes.
+
+Two. F five plays the main scene, F six plays the scene you're looking at.
+
+Three. Nearest filter, three twenty by one eighty, viewport stretch, integer scale. Do it now, before any art.
+
+Four. Pick a folder layout and never argue with yourself about it again.
+
+And that's all the theory you need for tonight. The workshop has the exact clicks, and by the end of it, you'll press F five and see the very first frame of Lanternfall.
+
+EFFECTS
+
+Effects! And today, the film that made zombies run, twitch and snap in a way nobody had seen before. Train to Busan.
+
+Quick refresher. Two thousand and sixteen, from South Korea, directed by Yeon Sang-ho. A zombie outbreak breaks out while a high speed train is heading from Seoul to Busan, and the passengers have to survive the trip. It cost about eight and a half million US dollars, premiered at Cannes at midnight, sold more than eleven million tickets in Korea, and took nearly a hundred million dollars around the world. And it's turning ten, with that new four K set coming in December.
+
+The interesting thing about the effects in Train to Busan is that most of them aren't effects at all. They're bodies. So let's go through how it was built, piece by piece.
+
+Piece one: the director. This was Yeon's first live action film. Before it, he only made animated films, including a grim animated zombie film called Seoul Station. And you can feel the animator in how he thinks about zombies. An animator doesn't think, "what does this monster look like?" They think, "how does it move?" That question drives everything else.
+
+Piece two: the movement. The choreographer, Park Jae-in, was a former rhythmic gymnast. She'd already designed the terrifying possession movements in The Wailing, which we covered a couple of weeks ago. She told the Korean Film Council that she trained twenty to thirty actors at a time, in a studio about the size of a train carriage, so they could rehearse in exactly the space they'd be filmed in. And the dancers included performers from Korea's bone breaking dance scene, a street dance style built on making your joints look like they bend the wrong way. One of them, Jeon Young, has said he studied rabid animals, and the eerie doll figures from Ghost in the Shell Two. Yeon described what the actors had to learn as "very strange dances", with movements like having broken elbows.
+
+Here's the clever part. Park says Yeon was always thinking about groups, not individual zombies. Some zombies are fast. Some move only in the dark. A few stand out in the chaos so your eye has somewhere to go. And the zombies keep their eyes locked on their target, even while they're crashing into walls and each other. Jeon has said that idea came from a video game: Dark Souls. So, to be clear: the scariest zombies in modern cinema were partly inspired by the game where the enemies are also, constantly, trying to kill you, with perfect focus. It's a compliment to Dark Souls, really.
+
+Piece three: the bodies were real, and fit. Several actors who played the soldiers had just come off a film called The Tiger, where they'd been running up and down mountains, so they could handle take after take of sprinting, falling and piling on top of each other. That's why the zombie waves have such a physical weight. Those are real people throwing themselves at a train door.
+
+Piece four: the make-up. That came from a Korean studio called Cell, which has gone on to do the creatures and zombies for Kingdom, Peninsula and Okja. For Train to Busan, they airbrushed veins onto the skin, and the look changed with each stage of the infection, so you can read how far gone someone is just from the colour of their skin and the veins on their neck. It's a neat bit of visual storytelling. The make-up is a countdown clock.
+
+Piece five: the train itself. They built a train set copied from the inside of a real Korean K T X carriage. And instead of a green screen outside the windows, Yeon used L E D screens projecting the moving scenery, behind the set. The Korea Times reported it was the first Korean film to do that, because Yeon felt green screen made it hard to show reality. And it works. The actors could see the countryside flying past. The light from the screens fell on their faces. That's the same idea big Hollywood shows like The Mandalorian later made famous, on an eight million dollar Korean zombie film.
+
+Piece six: the digital part. For the biggest moments, like the huge swarms and the zombies piling over each other to chase a train, the visual effects house Digital Idea added and extended crowds digitally. And there's one shot people always ask about: the deer at the start. That was real footage, combined with three D modelling. But the digital work is there to make the crowds bigger, not to replace the people. Every close up is a human.
+
+So the practical lesson, for you, from all this. Movement sells a monster more than its design. A plain actor with grey make-up, moving with broken elbows and locked eyes, is scarier than a perfect C G I creature that moves smoothly. And that's very good news for a game. In Lanternfall, a goblin made of sixteen pixels can be genuinely unsettling if it moves wrong: a jerky little hop, a pause where it just stares at the farmer, then a sudden dash. Animate the walk before you draw the face. The face can wait. The face is always the easy part. Don't tell the artists I said that.
+
+And if you want homework: when the new four K arrives, watch the scene where the zombies pour through the carriage doors with the sound off. You'll see the choreography. Every body has a job. And every single one of them... is looking right at you. They never blink. They're very polite about it.
+
+DIRECTOR
+
+The director! And after yesterday's Heat, which you gave a five, thank you, let's stay with crime, and go to Hong Kong. Johnnie To, and Election. Two thousand and five.
+
+Johnnie To is one of the great Hong Kong directors. In nineteen ninety six, he co-founded a production company called Milkyway Image, and it became the home of some of the smartest crime films ever made in Hong Kong. Election went into competition at Cannes, and won Best Film, Best Director, Best Actor and Best Screenplay at the Hong Kong Film Awards.
+
+The story. In a triad society called Wo Lin Shing, the members elect a new chairman every two years. Like a company board. The elders vote, they drink tea to seal it, and the winner receives a symbol of authority, an ancient carved baton called the Dragon Head Baton. This time, the quiet, smiling Lok, played by Simon Yam, wins the vote. And the loud, volatile Big D, played by Tony Leung Ka-fai, refuses to accept it. And the baton? It's been hidden somewhere across the border in mainland China. So the whole film becomes a race to get it back.
+
+Now here's what makes it so unusual for a gangster film. There are no gunfights. None. The violence, when it comes, is with choppers, logs and rocks. It's slow, clumsy and ugly. One Hong Kong reviewer said that after the fifth or sixth blow, there's simply nothing glamorous about it. And most of the time, there's no violence at all. There's waiting. Meetings. Phone calls. Men around tables, deciding who lives.
+
+So how did To shoot it? Let's look at the tools.
+
+The camera. His cinematographer, Cheng Siu-keung, uses a wide screen frame and a camera that glides. It drifts slowly through rooms and around tables, never in a hurry, which gives the whole film what Variety called a "constantly simmering feel". You never feel safe, because the camera never settles.
+
+The light. Election lives in the dark. Rooms lit by a single lamp, faces half in shadow, then sudden blasts of bright light. The contrast tells you who has power in a scene, and who's hiding something. It's beautiful, and it's always a little bit threatening.
+
+The rituals. To spends real time on the ceremony of the triads: an elder slowly making tea, a young member reciting the triad oath while he's being beaten, the careful passing of the baton from one person to the next, in a kind of relay, to get it across the border. These rituals are where the tension lives. The more polite everyone is, the more frightened you are.
+
+And there are two scenes people never forget. Early on, Big D has two elders who won't vote for him put into wooden crates, and rolled down a hillside. And the ending, which I won't spoil completely, happens on a peaceful family fishing trip by the water, and ends with a blood red sunset. It's the calmest setting in the film, and the most frightening scene in it.
+
+One fascinating thing about how To works: he often shoots without a finished script, and improvises as he goes. But he said Election and its sequel were the opposite. He spent over a year on them, and called it very intense, with the research and the writing being the hard part. After that, he said, his next film, Exiled, felt "like a vacation". Imagine making a film about a triad war, and that being the relaxing one. That's a man who needs a hobby. A gentle one. Maybe farming.
+
+A lot of critics read the Election films as a story about Hong Kong after nineteen ninety seven, about who really holds power and who's just being allowed to think they do. There's even a mainland China version of the film that To didn't want, with about ten changes, including an added undercover cop, and every criminal facing arrest at the end. The sequel, Election Two, came out in two thousand and six. It's sometimes called Triad Election, and it's even more political. It never got a mainland release.
+
+So, the practical lesson for someone learning to film. Hold back. Election is a crime film with almost no action, and that restraint is exactly why its few violent moments land so hard. Try it with your X-M5 one day. Film a scene where the tension is two people at a table, a slow push in, one lamp, and nobody raising their voice. Let the silence do the work. You'll find the audience leans in. And it costs nothing.
+
+And it connects nicely to Meiko Kaji, doesn't it? A heroine who barely speaks, and a crime film that barely shoots. Two films that prove the quietest choice in the room is often the loudest one.
+
+Which gives me a question for Lanternfall. The triads pass power with a carved baton. If Lanternfall village chose a new mayor every festival, what would the mayor's badge of office be, and what's the one strange rule that comes with it? Mine: a very old watering can. Whoever holds it has to water everyone's garden, in the rain, for a year. Nobody ever wants to win. Tell me on your answer page, and it could become a real object in the game.
+
+WORKSHOP
+
+Workshop time! Tonight's build step: the first frame of Lanternfall. About forty five minutes, and you'll press play on your own game.
+
+Step one. Open your Lanternfall project in Godot. In the FileSystem panel at the bottom left, right click on res, choose Create New, then Folder, and make four folders: scenes, scripts, art and audio.
+
+Step two, the pixel settings, from the game tech segment. Open Project, then Project Settings. Turn on Advanced Settings with the switch at the top right, so everything shows. Then: Rendering, Textures, Default Texture Filter: Nearest. Display, Window: Viewport Width three twenty, Height one eighty, Window Width Override twelve eighty, Height Override seven twenty. And under Stretch: Mode viewport, Scale Mode integer. Close the window. It saves by itself.
+
+Step three, the Main scene. Click Scene, then New Scene, and choose Other Node. Pick a plain Node two D, and rename it Main. Save it into your scenes folder as main dot T S C N.
+
+Step four, the ground. Click the plus button to add a child node to Main, and add a Color Rect. In the Inspector, set its colour to a soft grass green, and under Layout, Transform, set its Size to three twenty by one eighty, so it fills the whole screen. That's your farm, for now. It's a very minimalist farm. Very premium. Very Scandinavian. Okay, back to work.
+
+Step five, a stand-in farmer. Add another child to Main: a Sprite two D. Drag the icon dot S V G file from the FileSystem onto its Texture slot in the Inspector. Set its Position to one sixty by ninety, the middle of the screen, and its Scale to point two five, so the Godot robot is roughly farmer sized. Rename it Farmer. Tomorrow, it learns to walk.
+
+Step six. Press F five. Godot asks for a main scene: click Select Current. And there it is. A green field, and a tiny robot, in a crisp, pixel sharp window. That's Lanternfall. Running. The first frame of your game.
+
+Step seven, how to check it worked. Grab the window corner and make it bigger. The picture should jump in clean steps as it fits two times, three times, four times, and the robot's edges should stay sharp, never blurry. If it's blurry, the texture filter didn't save, so go back to step two.
+
+And step eight, the one that matters most on an empty project: commit it. In your terminal, in the Lanternfall folder: git add, a space and a full stop. Then git commit dash m, and a message in quotes: "First frame". You've officially started. And nobody can take that away from you. Not even me.
+
+CHAT AND GOODBYE
+
+Okay. Time for a little chat, before you head off.
+
+I've been thinking about first rooms all morning. Dragon Quest's throne room, with the locked door. Scorpion, which opens with Matsu running, before she's said a word. Election, which opens with old men drinking tea, and you already know someone's going to die. The first room of anything tells you what kind of thing it is. You can tell a lot about a game in its first thirty seconds.
+
+Think about the great ones. Secret of Mana starts with three boys sneaking off to a waterfall, a log that gives way, and one of them tumbling down... and finding a rusty sword stuck in a stone. Before you've pressed a button, you know: this is a game about friends, and accidents, and magic you weren't supposed to find. A Link to the Past starts in the dark, with rain, and your uncle leaving with a sword. Final Fantasy Six starts with three suits of armour marching through the snow towards a town, while that music plays. You know it's going to be sad and grand, all at once.
+
+And then there are the openings that are just a field. Stardew Valley starts with a letter from your grandfather, a bus, and a farm full of weeds. And somehow that works too, because the message is: this is a slow game. You're allowed to breathe here.
+
+Lanternfall's first room, from today's lore segment, is a farmhouse, a lantern, and a bush cat lying across the door. Which tells the player exactly what kind of game it is: one where the cat is in charge. Which is accurate. That's every farm.
+
+So here's my second question for you, and this one's all about your bush cat. What's its name, and what's the one little thing it does that'll make players fall in love with it? My answer: it's called Mayor, because it walks into every house in the village like it owns the place. And it brings you one dead goblin ear every morning, as a gift. You have to say thank you. Or it's offended for a week. Your answer space is on the sheet, and whatever you say, that cat is getting coded on Friday.
+
+I do worry about the bush cat a little, though. A cat, but bigger. In a valley full of goblins. Nobody in the village ever asks why the goblin problem got smaller the week the farmer moved in. Or why the cat's collar keeps getting tighter. It's just a big, happy cat. Purring. In the dark. Next to your bed.
+
+Okay! Today's challenge. It's a beautiful day, so let's use it. Take the long way through the Royal Botanic Garden on your walk in, and do seventy dumbbell shoulder presses, thirty five each arm with your seven and a half kilos, in as many sets as you like, across the day. And yesterday's forty five push-ups and sixty squats? Done. That's five in a row now. Which puts you on ten out of fourteen. Seventy one per cent. Seventy one, and climbing. Your dumbbells are starting to think you like them. Don't tell them it's just me.
+
+The week ahead. Take-Two's results this morning, and T S M C's October sales this afternoon. The Final Fantasy Fourteen servers come back around nine tonight, with the new Dragon Quest trailer at ten. The Ukraine talks in Abu Dhabi run until Wednesday. On Thursday, Japan's first sales numbers for Ocarina, Metaphor on Switch two, and Pikmin four on Switch two. On Friday, the big four banks' rate rises kick in, Applied Materials reports at eight thirty, and the new Apple T V arrives. Then Starship's double catch attempt on Saturday morning, and on Sunday, Xbox turns twenty five, and the new T8 timetable starts at Green Square.
+
+And now, your answers from yesterday. Thank you for all three. And this is the one radish moment of the day, I promise. Good radishes that pop out with a cute, happy, squishy noise, and bad ones that leap out with a cheeky little "hehe". That might be the most unsettling sound design anyone's ever pitched to me. I love it. Okay, it's back in its box. And a bush cat, like a cat, but bigger. Perfect. That cat already has a job in your opening.
+
+Thank you for the note too. You're right on both counts, and from today the game thread starts where your game actually is. And thank you for the fives, for the effects and for the director. Tremors and Heat, I'm so glad. The lore and game tech threes are noted, and I think the fresh start fixes both. Oh, and Al Pacino is fixed. I'll say it properly from now on. Al Pacino. There we go.
+
+So, the one suggestion, and it's for the bush cat, because it's the simplest companion you could build, and it makes your world feel alive straight away. Once your farmer walks, on Wednesday, make the cat a Character Body two D, with this one rule in its physics process: if the farmer is more than about forty pixels away, move towards the farmer at a little under the farmer's speed. If it's closer than that, stop, and play a sitting animation. That's it. Two lines of logic. The slightly slower speed means the cat always trails behind and catches up, like a real animal. And flip the sprite to face whichever way it's moving. Ten minutes of work, and your farmer is never alone again.
+
+That's the show. It's a sunny one out there, so enjoy the long walk through the gardens, and find a bit of shade at lunchtime. Have a great day at work, and I'll see you tomorrow morning.

@@ -1,0 +1,33 @@
+[happy] Game tech! And a fresh start for the week.
+
+[warm] So, here's the new plan, now that we're starting from an empty folder. By Friday, Lanternfall should have its first playable morning, the one from the lore segment. Tonight: the shape of the project, so every scene has a home and your pixel art looks crisp. Wednesday: a farmer who walks around. Thursday: a patch of ground you can dig. And Friday: the gate, the sleeping bush cat, and a test run of the whole first five minutes. Four evenings, and at the end of it you'll have a game you can actually play. A tiny one. [teasing] But a game. [punch] Which is more than most people's game ideas ever get. [giggling while talking] Including mine.
+
+[curious] Tonight's lesson is the one I should have started with: how a Godot project actually fits together. Once this clicks, everything else this week makes sense.
+
+[calm] Here's the everyday version. Think of a Godot game as a set of Lego models. Each little piece is a node. A node does one job. A Sprite two D node shows a picture. A Collision Shape node gives something a solid outline. A Camera two D node is the camera. An Audio Stream Player plays a sound. On their own, they're just bricks.
+
+[calm] When you snap some bricks together and save them, that's a scene. Your farmer will be a scene: a body node, with a picture, a collision shape and maybe a camera inside it. A tree will be a scene. The farmhouse will be a scene. And here's the bit people miss at first: a scene can contain other scenes. Your Farm scene will hold the farmer scene, the tree scenes and the house scene, like a big Lego diorama made of smaller finished models.
+
+[thoughtful] Every scene has one node at the top, called the root. Everything else hangs under it, like a family tree. That's why the panel on the left in Godot is called the Scene Tree. The parent, children, grandchildren. And the order matters in one simple way: in two D, children are drawn on top of their parents, and lower items in the list are drawn on top of higher ones. So if you ever wonder why your farmer is hiding behind the grass, it's usually the order in that list.
+
+[curious] Then there's the main scene. When you press play, Godot needs to know which scene to start with. That's the main scene, and you set it once, in Project Settings, under Application, then Run, then Main Scene. Or the first time you press F five, Godot asks you, and you just pick the current one. F five runs the main scene, the whole game. F six runs only the scene you have open right now, which is perfect for testing one piece by itself.
+
+[happy] Now, a home for everything. Godot calls your project folder res, short for resource, and you'll see paths like res slash scenes slash farmer dot T S C N. Before you make anything, make four folders: scenes, scripts, art and audio. Some people keep each scene and its script together instead, and that's fine too. What matters is choosing one way and sticking to it. [teasing] You're a man with eight hard drives of carefully sorted films. [punch] I know you can organise four folders. [laughing tone] I have complete faith in you.
+
+[curious] And now the setting that makes the biggest difference to a pixel art game, before you've drawn a single thing. By default, Godot smooths images when it scales them up. For a photo, that's lovely. For pixel art, it's a disaster: your crisp sixteen pixel farmer turns into a blurry little smudge. So in Project Settings, go to Rendering, then Textures, and set the Default Texture Filter to Nearest. Now every pixel stays a sharp little square.
+
+[calm] Then the game size. Pixel art games usually run at a small resolution, and Godot scales the whole thing up to fit your screen. In Project Settings, under Display, then Window, set the Viewport Width to three hundred and twenty and the Height to one hundred and eighty. That's a classic size, and it scales perfectly to a ten eighty p screen. Because three hundred and twenty pixels is tiny on a Mac screen, also set the Window Width Override to twelve eighty and the Height Override to seven twenty, so the window opens at a sensible size. Then, under Stretch, set the Mode to viewport, and the Scale Mode to integer. That last one means Godot only ever scales by whole numbers, two times, three times, four times, so no pixel ever ends up wider than its neighbour.
+
+[thoughtful] Why three hundred and twenty by one hundred and eighty? Think about Secret of Mana. The Super Nintendo drew its pictures at about two hundred and fifty six pixels wide. Small canvases are what make those games feel cosy and readable: every tree, every enemy, every little sparkle, is a clear shape. Choosing your size now means every piece of art you make later is drawn for the right canvas. Changing it in two months is painful. Choosing it tonight takes thirty seconds.
+
+[happy] So here's tonight's tip list, short and sweet.
+
+[calm] One. Nodes are bricks, scenes are models, and scenes can hold other scenes.
+
+[calm] Two. F five plays the main scene, F six plays the scene you're looking at.
+
+[calm] Three. Nearest filter, three twenty by one eighty, viewport stretch, integer scale. Do it now, before any art.
+
+[calm] Four. Pick a folder layout and never argue with yourself about it again.
+
+[warm] And that's all the theory you need for tonight. The workshop has the exact clicks, and by the end of it, you'll press F five and see the very first frame of Lanternfall.
