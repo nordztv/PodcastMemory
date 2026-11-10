@@ -5,6 +5,9 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Films
 | Date | Film (year) | Director | Lead actress / cast | Genre, country | Featured in | Watched? | Verdict | Scott's comment |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-11 | The Host (2006) | Bong Joon-ho | Song Kang-ho, Bae Doona | Monster film, South Korea | Effects deep dive (Jang Hee-chul design, Weta maquette, The Orphanage CG, Creature Workshop Qld animatronic head; Magnolia 4K in US cinemas 20 Nov) | | | |
+| 2026-11-11 | Chungking Express (1994) | Wong Kar-wai | Brigitte Lin, Faye Wong, Takeshi Kaneshiro, Tony Leung Chiu-wai | Romantic crime drama, Hong Kong | Director deep dive (Doyle and Andrew Lau, handheld, step-printing, wide and 200mm lenses) | | | |
+| 2026-11-11 | Planet of the Vampires (1965) | Mario Bava | Barry Sullivan, Norma Bengell | Sci-fi horror, Italy | Movies segment recommendation (Radiance 4K; Alien link) | | | |
 | 2026-11-10 | Female Prisoner #701: Scorpion (1972) | Shunya Ito | Meiko Kaji, Isao Natsuyagi, Fumio Watanabe | Women-in-prison revenge, Japan | Actress of the Month, Tuesday | | | |
 | 2026-11-10 | Train to Busan (2016) | Yeon Sang-ho | Gong Yoo, Jung Yu-mi, Ma Dong-seok | Zombie horror, South Korea | Effects deep dive (zombie choreography, LED rear projection); 10th anniversary 4K 15 Dec (Well Go USA) | | | |
 | 2026-11-10 | Election (2005) | Johnnie To | Simon Yam, Tony Leung Ka-fai, Louis Koo | Triad crime, Hong Kong | Director deep dive | | | |
@@ -76,6 +79,8 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 ## Directors
 | Director | Films featured | Actresses or actors linked | Last featured |
 | --- | --- | --- | --- |
+| Wong Kar-wai | Chungking Express (1994) | Faye Wong, Brigitte Lin, Tony Leung Chiu-wai, Takeshi Kaneshiro (DP Christopher Doyle) | 2026-11-11 |
+| Mario Bava | Planet of the Vampires (1965, recommended) | Barbara Steele (Black Sunday, not yet featured) | 2026-11-11 |
 | Shunya Ito | Female Prisoner #701: Scorpion (1972) | Meiko Kaji | 2026-11-10 |
 | Michael Mann | Heat (1995) | Al Pacino, Robert De Niro | 2026-11-09 |
 | Ron Underwood | Tremors (1990) | Kevin Bacon, Fred Ward | 2026-11-09 |
@@ -105,7 +110,7 @@ Every film the show has recommended or featured (Actress of the Month, effects a
 | Akira Kurosawa | Seven Samurai (1954) | Toshiro Mifune, Takashi Shimura | 2026-10-23 |
 | The Wachowskis | The Matrix (1999) | Carrie-Anne Moss | 2026-10-23 |
 | Ken Russell | The Devils (1971) | Vanessa Redgrave | 2026-10-23 |
-| Bong Joon-ho | Memories of Murder (2003); The Host (2006, mentioned) | Song Kang-ho, Bae Doona | 2026-10-27 |
+| Bong Joon-ho | Memories of Murder (2003); The Host (2006, effects deep dive 11 Nov) | Song Kang-ho, Bae Doona | 2026-11-11 |
 | Peter Jackson | The Lord of the Rings (2001-03); The Two Towers Gollum deep dive | Andy Serkis | 2026-10-26 |
 | Johnnie To | Exiled (2006); Election (2005, director deep dive) | Simon Yam, Tony Leung Ka-fai, Louis Koo | 2026-11-10 |
 | Ridley Scott | Alien (1979); Blade Runner (1982, effects deep dive 30 Oct) | Sigourney Weaver (Actress of the Month, Oct 2026) | 2026-10-20 |

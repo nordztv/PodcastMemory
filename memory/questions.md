@@ -4,6 +4,9 @@ Open questions the host has asked, newest first. Never ask the same one twice. K
 
 | Date asked | Question | Topic | Scott's answer | Handled |
 | --- | --- | --- | --- | --- |
+| 2026-11-11 | You liked Crusader of Centy. What clicked for you, especially after Demon's Crest left you lukewarm, and which of its animals would you take home? | Retro games (SNES and Mega Drive) | Not yet | no |
+| 2026-11-11 | If you shot one scene in Sydney Chungking Express style, one still person while the city streaks past, where would you film it, and who's the person standing still? | Nikon ZR, lenses and camera gear | Not yet | no |
+| 2026-11-11 | If a bakeneko moved into your farmhouse and your bush cat found out, who would win, and what are they fighting over? | Japanese yokai | Not yet | no |
 | 2026-11-10 | On the very first morning, when your farmer walks through the gate and down to the village, who's the first person they meet, and what's the first thing they say? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-10 | If Lanternfall village chose a new mayor every festival, what would the mayor's badge of office be, and what's the one strange rule that comes with it? | Godot and Scott's 2D game | Not yet | no |
 | 2026-11-10 | Your bush cat: what's its name, and what's the one little thing it does that'll make players fall in love with it? | Godot and Scott's 2D game | Not yet | no |

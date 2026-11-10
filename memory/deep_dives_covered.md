@@ -4,6 +4,13 @@ Never repeat a topic listed here. Newest first.
 
 | Date | Segment | Topic |
 | --- | --- | --- |
+| 2026-11-11 | Lore | Resident Evil 4 (2005): the game made four times (Devil May Cry prototype, castle and hallucination versions, Mikami's over-the-shoulder reboot, Ganados, the merchant, GameCube deal) |
+| 2026-11-11 | Game tech | Shaders for 2D pixel art (Godot canvas_item: hit flash uniform + tween, Local to Scene, outline via TEXTURE_PIXEL_SIZE, vertex sway, water wobble) |
+| 2026-11-11 | Effects | The Host (2006): the Han River creature |
+| 2026-11-11 | Director | Wong Kar-wai and Christopher Doyle's Chungking Express |
+| 2026-11-11 | Workshop | Nikon ZR: the Chungking Express neon smear (25p, 1/25 shutter, handheld, Dixon Street) |
+| 2026-11-11 | Chat | Yokai of the Week #3: the bakeneko and nekomata (lamp oil, Totsuka cat dance, Nabeshima cat, Tsurezuregusa monk and his dog) |
+| 2026-11-11 | Retro | Crusader of Centy retrospective (Nextech, Shining Rogue origin, Tani's multi-part hero sprite, sixteen animals, Mega Drive hardware) |
 | 2026-11-10 | Lore | Dragon Quest (1986): the locked throne room as a tutorial; Lanternfall's first morning (lantern, bush cat in the doorway, hoe and seeds, festival notice on the gate) |
 | 2026-11-10 | Game tech | How a Godot project fits together (nodes, scenes, scene tree and draw order, main scene, F5/F6, folders) and pixel-perfect settings (Nearest filter, 320x180, viewport stretch, integer scale) |
 | 2026-11-10 | Effects | Train to Busan (2016): zombie choreography, bone-breaking dancers, Cell make-up, KTX set with LED rear projection |

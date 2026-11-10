@@ -110,3 +110,15 @@ The daily run uses the first unused item in each pool (used = listed in `memory/
 - George Miller
 - Kim Jee-woon's I Saw the Devil
 - Sam Raimi's Evil Dead camera
+- Bong Joon-ho's Parasite: the staircase house set
+- Kim Jee-woon's A Tale of Two Sisters: colour and wallpaper
+- Ringo Lam's City on Fire
+- Tsui Hark's A Chinese Ghost Story and Hong Kong wire-work
+- Kiyoshi Kurosawa's Cure: the long, still takes
+- Takeshi Kitano's Sonatine
+- Seijun Suzuki's Branded to Kill
+- John Carpenter's The Thing: widescreen dread with Dean Cundey
+- James Cameron's Aliens: building tension on a budget
+- Denis Villeneuve's Sicario: the border crossing
+- Roger Deakins and the Coens' No Country for Old Men
+- Chang Cheh and the Shaw Brothers studio system

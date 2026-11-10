@@ -12,18 +12,18 @@ Material from Scott's answers (and the show's own running bits) the host can cal
 | Neo v Agent Smith in the subway as his dream boss fight; John Wick as the one film the server keeps | Scott's answers, 6 Nov | 2026-11-08 |
 | Dead goblins everywhere: the evidence the Lanternfall village brings to the trial ("we need to talk about the turnip patch") | Scott's answer, 5 Nov (trial evidence) | 2026-11-06 |
 | He loved Lady Snowblood's fight scenes (fight scenes as boss fights) | Scott's answer, 5 Nov | 2026-11-06 |
-| The host's 4K film of rain (ninety minutes, no plot) | Host's running joke, 2 Nov | 2026-11-06 |
+| The host's 4K film of rain (ninety minutes, no plot) | Host's running joke, 2 Nov | 2026-11-11 |
 | His tiger crest: the hero turns into a tiger that defends the farm from goblins (goblins with a leader called Gerald who wants a pension; the goblins end up with a tiger) | Scott's answer, 2 Nov (crest form) | 2026-11-09 |
 | The NeverEnding Story for the full 4K treatment, for its metaphors and the story behind it | Scott's answer, 2 Nov (4K film) | 2026-11-03 |
 | Moon-cakes made with tears from stars (his night-only recipe; falling stars on lucky nights) | Scott's answer, 30 Oct (night recipe) | 2026-11-04 |
-| He wanted a Necromancer with corpse explosion; Square Enix gave him a crossbow with a bird ("nobody at Square Enix listens to this show") | Scott's answer, 30 Oct (FFXIV job) | 2026-11-04 |
+| He wanted a Necromancer with corpse explosion; Square Enix gave him a crossbow with a bird ("nobody at Square Enix listens to this show") | Scott's answer, 30 Oct (FFXIV job) | 2026-11-11 |
 | Sailors Sorrows, the Pi channel's midnight horror block, opening with the Monster Mash (sad and spooky, then a dance party) | Scott's answer, 30 Oct (Pi horror block) | 2026-11-02 |
 | The nurikabe who just wants cake (a radish cake, lo bak go); a wall that's waited 300 years for the right flavour | Scott's answer, 28 Oct (nurikabe) | 2026-11-06 |
 | Opening / Bombing Mission at the Sydney Opera House | Scott's answer, 28 Oct (orchestra) | 2026-10-29 |
 | The strongest radish is the plainest: a big white radish with a red top ("the most ordinary radish in the world, and the one that kills you") | Scott's answer, 27 Oct (tier 25 palette) | 2026-10-28 |
 | Joel gets the happy ending: a quiet farm, a porch, a guitar, nobody coming up the road (possibly a small radish problem) | Scott's answer, 27 Oct (happy ending) | 2026-10-28 |
 | He doesn't know yokai names, he just enjoys their existence (hence Yokai of the Week) | Scott's answer, 27 Oct | 2026-10-28 |
-| Murlocs gurgling at the farmers: the most terrifying thing anyone's said on the show | Scott's answer, 26 Oct (monster from another sphere) | 2026-11-04 |
+| Murlocs gurgling at the farmers: the most terrifying thing anyone's said on the show | Scott's answer, 26 Oct (monster from another sphere) | 2026-11-11 |
 | Summoned yokai with random personalities ("you wouldn't know what to expect"); the prankster moves your hoe somewhere stupid | Scott's answer, 26 Oct (farm spirit) | 2026-10-27 |
 | Secret of Mana in HD-2D: "you know who's already building something close to it" | Scott's answer, 26 Oct (decomp wish) | 2026-11-02 |
 | The tier 25 radish the farmers just call "Sir" | Host's joke answer, 27 Oct | 2026-11-05 |
