@@ -1,0 +1,514 @@
+{
+ "date": "2026-11-11",
+ "weekday": "Wednesday",
+ "length": "",
+ "headline": "Wednesday: Hegseth impeachment bid, AI safety rules after the OpenAI Medicare breach, TSMC's record month and Nvidia's rough one, Take-Two before GTA VI, WoW Forever's record, Crusader of Centy retrospective, Resident Evil 4, The Host's creature, Chungking Express and the bakeneko",
+ "challenge": "Sixty walking lunges (thirty each leg) and a two minute plank in total, broken up however you like, across the day (completion rate so far: 10 of 15, 67%)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Warm, 27, storms possible this afternoon",
+     "links": [
+      {
+       "label": "BoM",
+       "url": "https://www.bom.gov.au/nsw/forecasts/sydney.shtml"
+      }
+     ]
+    },
+    {
+     "title": "Massie moves to impeach Hegseth",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/trump-defends-pete-hegseth-as-impeachment-vote-looms/5z78qap8y"
+      }
+     ]
+    },
+    {
+     "title": "Abu Dhabi talks under way; Australian feared dead fighting for Russia",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/australian-daryl-fladung-feared-dead-fighting-for-russia/107365110"
+      }
+     ]
+    },
+    {
+     "title": "France blames Iran's Guard for the supermarket fridge hack",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/irgc-iran-fridges-france/107366730"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Mandatory AI safety rules after the OpenAI Medicare breach",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/article/ai-safeguards-open-ai-medicare-breach-albanese/2pbsdc5nr"
+      },
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-11-10/federal-politics-live-blog-chris-bowen-nov-10/107366854"
+      }
+     ]
+    },
+    {
+     "title": "Qantas cuts 850 corporate jobs in Accenture deal",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
+      }
+     ]
+    },
+    {
+     "title": "Minns bill to let Mount Pleasant mine expand after the High Court ruling",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/mount-pleasant-mine-expansion-laws-chris-minns/107369370"
+      }
+     ]
+    },
+    {
+     "title": "Round-up: Chalmers backed, Westmead waits, Baldon wind farm, Todd Russell, aged care, PM to COP31, petrol and ASX",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/sydney-westmead-hospital-mental-health-emergency-wait-times/107365646"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/baldon-wind-farm-approved-south-west-rez/107368696"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/todd-russell-beaconsfield-mine-disaster-survivor-dies/105147924"
+      },
+      {
+       "label": "ABC markets",
+       "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "TSMC's record October: NT$586.9 billion",
+     "links": [
+      {
+       "label": "Focus Taiwan",
+       "url": "https://focustaiwan.tw/business/202611100014"
+      },
+      {
+       "label": "Hardware Busters",
+       "url": "https://hwbusters.com/news/tsmc-posts-record-nt586-9-billion-october-already-a-third-of-the-way-to-its-q4-target/"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia's rough Monday: FBI, class action, House briefing",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-10/nvidia-share-price-falls-ceo-jensen-huang-investigated/107366868"
+      },
+      {
+       "label": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence"
+      },
+      {
+       "label": "Business Recorder",
+       "url": "https://www.brecorder.com/news/40448249/trump-says-fbi-probing-nvidia-ceo-huang-as-china-controversy-deepens"
+      }
+     ]
+    },
+    {
+     "title": "Asian chips bounce; Morgan Stanley sees memory prices easing from 2028",
+     "links": [
+      {
+       "label": "JoongAng Daily",
+       "url": "https://www.koreajoongangdaily.com/business/kospi-gains-439-driven-by-technology-shares-hopes-of-end-to-iran-war/12965633"
+      },
+      {
+       "label": "Seoul Economic Daily",
+       "url": "https://en.sedaily.com/market/2026/11/10/morgan-stanley-cuts-samsung-sk-hynix-targets-by-up-to-38"
+      }
+     ]
+    },
+    {
+     "title": "AMD Epyc chips for Google Cloud's TPU 8tx",
+     "links": [
+      {
+       "label": "GuruFocus",
+       "url": "https://www.gurufocus.com/news/9185253/amd-shares-rise-as-google-cloud-adopts-epyc-cpus-for-tpu-8tx-systems"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15 double catch set for Saturday 9:45am AEDT",
+     "links": [
+      {
+       "label": "Space.com",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13"
+      }
+     ]
+    },
+    {
+     "title": "Apple TV and HomeView on Friday; Apple Intelligence clears China hurdle",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/"
+      },
+      {
+       "label": "Digital Trends",
+       "url": "https://digitaltrends.com/computing/apple-intelligence-just-cleared-another-major-roadblock-in-china-and-macs-are-next"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Tesla San Antonio robotaxi, Inkling 2 Small weights wait, ASML unions, Nikon ZR firmware 2.0",
+     "links": [
+      {
+       "label": "DPReview",
+       "url": "https://www.dpreview.com/news/nikon-zr-v2-update-release-announcement/"
+      },
+      {
+       "label": "NL Times",
+       "url": "https://nltimes.nl/2026/11/10/trade-unions-abandon-talks-asml-reorganization-drags"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Take-Two results: GTA VI pre-orders 'far in excess' of expectations",
+     "links": [
+      {
+       "label": "Take-Two release",
+       "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm"
+      },
+      {
+       "label": "Call transcript",
+       "url": "https://www.fool.com/earnings/call-transcripts/2026/11/10/take-two-ttwo-q2-2027-earnings-call-transcript/"
+      },
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-the-festival-live-event-set-for-november-21"
+      }
+     ]
+    },
+    {
+     "title": "WoW Forever: biggest launch in WoW history",
+     "links": [
+      {
+       "label": "GamesRadar",
+       "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-brought-back-a-record-number-of-lapsed-players-and-has-the-biggest-concurrent-player-launch-in-the-mmos-history/"
+      }
+     ]
+    },
+    {
+     "title": "Diablo 30th: Legacy of Terror event in D2R",
+     "links": [
+      {
+       "label": "Blizzard",
+       "url": "https://news.blizzard.com/article/24315743/"
+      }
+     ]
+    },
+    {
+     "title": "FFXIV 7.58 is live; Evercold on 23 February",
+     "links": [
+      {
+       "label": "Lodestone",
+       "url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/27a249e737d7b041332c7018949035b03d62c081"
+      }
+     ]
+    },
+    {
+     "title": "Capcom million sellers: RE4 remake at 17.1 million",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina Master Quest: DLC data claim, Aonuma stays quiet",
+     "links": [
+      {
+       "label": "tbreak",
+       "url": "https://tbreak.com/ocarina-of-time-master-quest-dlc-datamine/"
+      }
+     ]
+    },
+    {
+     "title": "Quick hits: Pikmin 4 S2, Nagoshi Studio dissolved, Dragon's Dogma 2 update; Game and Watch on the ZX Spectrum, Hungry Ghosts translation",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/18-nintendo-game-and-watch-classics-inc-mario-bros-and-donkey-kong-come-to-zx-spectrum-via-sm510-emulator"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/hellish-ps2-horror-hungry-ghosts-could-be-getting-a-definitive-ai-free-fan-translation"
+      }
+     ]
+    },
+    {
+     "title": "Retro retrospective: how Crusader of Centy was made",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/features/the-making-of-soleil-crusader-of-centy-segas-answer-to-zelda"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Crusader_of_Centy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Godzilla Minus Zero near $62m worldwide; Ramayana tops Australia",
+     "links": [
+      {
+       "label": "Deadline",
+       "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/"
+      },
+      {
+       "label": "Japan Times",
+       "url": "https://www.japantimes.co.jp/culture/2026/11/09/entertainment-news/godzilla-film-box-office-figures/"
+      }
+     ]
+    },
+    {
+     "title": "Planet of the Vampires in 4K (Radiance)",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39300"
+      }
+     ]
+    },
+    {
+     "title": "The Big Combo 4K and The Wild Geese 4K",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39295"
+      },
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39306"
+      }
+     ]
+    },
+    {
+     "title": "Korea: Chiikawa's fifth week, Final Interview opens; China's crime films",
+     "links": [
+      {
+       "label": "SBS Star",
+       "url": "https://sbsstar.net/article/N1008836677/chiikawa-the-movie-tops-weekend-box-office-for-5th-consecutive-week-in-korea"
+      }
+     ]
+    },
+    {
+     "title": "Vera Farmiga's Black Branch occult thriller",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/inferno-vera-farmiga/"
+      }
+     ]
+    },
+    {
+     "title": "The Host 4K in US cinemas from 20 November",
+     "links": [
+      {
+       "label": "Rue Morgue",
+       "url": "https://rue-morgue.com/bong-joon-hos-the-host-returning-to-theaters-in-new-4k-restoration-teaser-release-date/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/7-new-international-horror-movies-november-2026/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lore",
+   "items": [
+    {
+     "title": "Resident Evil 4 (2005): the game made four times",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Game tech",
+   "items": [
+    {
+     "title": "Shaders for 2D pixel art in Godot: hit flash, outline, sway, water",
+     "links": [
+      {
+       "label": "Godot docs",
+       "url": "https://docs.godotengine.org/en/stable/tutorials/shaders/shader_reference/canvas_item_shader.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "The Host (2006): building the Han River creature",
+     "links": [
+      {
+       "label": "AWN",
+       "url": "https://www.awn.com/vfxworld/host-creepie-korean-creatures"
+      },
+      {
+       "label": "Studio Daily",
+       "url": "https://studiodaily.com/2007/03/the-orphanages-transpacific-creature-effects-for-the-host"
+      },
+      {
+       "label": "SciFi Japan",
+       "url": "https://scifijapan.com/the-host-an-interview-with-animation-supervisor-webster-colcord/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Wong Kar-wai and Christopher Doyle: Chungking Express",
+     "links": [
+      {
+       "label": "BFI",
+       "url": "https://www.bfi.org.uk/interviews/christopher-doyle-shooting-chungking-express"
+      },
+      {
+       "label": "TCM",
+       "url": "https://www.tcm.com/articles/1319024/chungking-express"
+      },
+      {
+       "label": "SCMP",
+       "url": "https://amp.scmp.com/lifestyle/entertainment/article/3218695/how-wong-kar-wais-1994-quickie-film-chungking-express-made-faye-wong-movie-star-and-chungking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Nikon ZR: the Chungking Express neon smear in ten minutes",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Yokai of the Week #3: the bakeneko and the nekomata",
+     "links": []
+    },
+    {
+     "title": "The week ahead",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Retro Game of the Week",
+   "title": "Crusader of Centy (Mega Drive)",
+   "note": "Retrospective today; on Nintendo Switch Online + Expansion Pack (Sega Genesis library)",
+   "links": [
+    {
+     "label": "Gematsu",
+     "url": "https://gematsu.com/2023/06/sega-genesis-nintendo-switch-online-adds-crusader-of-centy-ghouls-n-ghosts-landstalker-and-the-revenge-of-shinobi"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "Chungking Express (1994)",
+   "note": "Wong Kar-wai; Criterion release (check availability)",
+   "links": [
+    {
+     "label": "Criterion",
+     "url": "https://www.criterion.com/current/posts/686"
+    }
+   ]
+  },
+  {
+   "kind": "Deep-dive film",
+   "title": "The Host (2006)",
+   "note": "Bong Joon-ho; 4K restoration in US cinemas from 20 Nov",
+   "links": []
+  },
+  {
+   "kind": "4K pick",
+   "title": "Planet of the Vampires (1965)",
+   "note": "Radiance 4K, out now",
+   "links": [
+    {
+     "label": "Blu-ray.com",
+     "url": "https://www.blu-ray.com/news/?id=39300"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "You liked Crusader of Centy. What clicked for you, especially after Demon's Crest left you lukewarm, and which of its animals would you take home?",
+  "If you shot one scene in Sydney Chungking Express style, one still person while the city streaks past, where would you film it, and who's the person standing still?",
+  "If a bakeneko moved into your farmhouse and your bush cat found out, who would win, and what are they fighting over?"
+ ]
+}

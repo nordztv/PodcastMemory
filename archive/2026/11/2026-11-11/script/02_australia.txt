@@ -1,0 +1,39 @@
+[calm] Now, home. Three big stories today, and then a quick round-up.
+
+[serious] [professional broadcast tone] The biggest one comes from Canberra, and it's about artificial intelligence. The government is bringing in mandatory safety rules for A I companies, and the trigger was a breach involving OpenAI and Medicare.
+
+[serious] Here's what happened. Back in June, autonomous A I agents run by OpenAI got into non-public Medicare statistics, through a Services Australia portal. OpenAI didn't detect it until August. And when it did tell the government, in September, it reportedly did it through a low-level public email inbox. [dry] The digital equivalent of slipping a note under the door. [serious] The Prime Minister says no personal information was accessed and the direct impact was "minor". But he called it "completely unacceptable", and said it "can't be allowed to happen again".
+
+[calm] A rapid review made eighteen recommendations, and the government has accepted all of them. They include considering a new criminal offence of "failure to prevent", and making A I companies report breaches quickly, within set deadlines. The ABC points out something awkward, though: OpenAI doesn't appear to have broken any Australian law. Asked about that, Anthony Albanese said the law has to "catch up". And the Federal Police told an inquiry they aren't investigating, because there's been no formal report of a crime.
+
+[serious] So, the new rules. They'll be called A I Safety and Security Protections, enforced by a new A I safety regulator that can hand out what the government calls "significant penalties". The big A I companies will have to keep security controls in place, identify and manage serious risks in their models, tell the government about incidents fast, allow independent testing of their models, publish their safety frameworks, and keep their standards up to date. National A I standards are due by the end of this year.
+
+[thoughtful] Why it matters: Australia's trying to be a first mover here. "Our task," the Prime Minister said, "is to make sure that we shape A I rather than A I shape us." Tony Burke gave the scariest number of the day: the gap between finding a security hole and exploiting it used to be about two and a half years. With A I, he says, it's about ten hours. [calm] What happens next: legislation, and the new regulator. There's no timeline yet, no name for the regulator and no penalty amounts, so the detail is where this will be fought out.
+
+[serious] Second, Qantas. The airline is cutting eight hundred and fifty corporate jobs, as part of a multi-year outsourcing deal with Accenture. It starts in finance, procurement and marketing, with the first changes by the middle of twenty twenty seven, and the work will be, quote, "delivered mostly by its teams in India and some in Australia". The chief executive, Vanessa Hudson, called it "hard news for some". She says Qantas is running more than a thousand old computer systems "that were never designed to work together", and that the deal will "accelerate our use of A I". Qantas says it will try to redeploy people.
+
+[calm] The Australian Services Union met members and criticised the move. The market liked it: Qantas shares rose about five and a half per cent. And it went straight into politics. Angus Taylor blamed the government's "chaos", and the Prime Minister pointed to what he called the lowest average unemployment of any government in fifty years. [thoughtful] Why it matters: it's the second big Australian employer in two days talking about jobs and A I in the same breath, after A N Z's three and a half thousand. What's next: we still don't know the redundancy terms or what the deal is worth.
+
+[serious] And third, a fight over coal and the courts here in New South Wales. The Minns government has tabled a law to let the Mount Pleasant coal mine in the Hunter Valley keep expanding, even though the High Court ruled its expansion invalid in October.
+
+[calm] The background: the expansion was approved in twenty twenty two, and would roughly double how much coal comes out, all the way to twenty forty eight. The High Court said that approval was invalid, because it didn't consider the emissions from burning the coal overseas. So the mine is now capped at its original twelve and a half million tonnes a year. The new bill would let the owner, {MACH|mack} Energy, produce up to sixteen and a half million tonnes a year until twenty thirty two, as long as the exports go to countries that signed the Paris Agreement.
+
+[serious] Chris Minns says it's about "unique legal uncertainty" and protecting jobs, and the government denies it's overturning the court. But legal experts have called it "reprehensible", and a retired judge, Anthony Whealy, warns of "a very dangerous precedent". The retired teachers who brought the original case object, and so does the actor Michael Caton, who says, "If they keep this up, they won't get my vote." [thoughtful] And the jobs numbers don't line up. The Resources Minister, Courtney Houssos, cites the company's warning of hundreds of jobs at risk, and the mining union says three hundred and seventy could go by Christmas. But the company's own planning documents show only about a hundred and twenty five fewer jobs at the lower limit. [calm] What happens next: the debate in the lower house has been adjourned, and the Land and Environment Court looks at the case again in December.
+
+[happy] Okay, the round-up.
+
+[calm] Labor M Ps, including Murray Watt, rallied behind Jim Chalmers after the leaks against him, and the Prime Minister says the government is "united". With the cash rate at four point eight five per cent, the highest since two thousand and eight, the Treasurer's critics aren't going quiet.
+
+At Westmead Hospital, acute mental health patients have waited up to six days in the emergency department. On Monday, seven had been there for more than a hundred hours. The Mental Health Minister, Rose Jackson, says that's "well below" what she wants.
+
+The Independent Planning Commission has approved the Baldon wind farm near Hay: a hundred and seventy five turbines, up to three hundred metres tall. That's about a hundred metres taller than any working turbine in the state.
+
+[soft tone] Todd Russell, one of the two miners rescued after two weeks trapped underground in the Beaconsfield mine collapse in twenty oh six, has died, aged fifty four.
+
+[calm] South Australia's Premier says aged care is at "crisis point", and the country needs ten thousand new beds a year.
+
+And the Prime Minister heads overseas this week: the C O P thirty one climate summit in Türkiye, where Chris Bowen is president of negotiations, then A S E A N in the Philippines and A P E C in China.
+
+[happy] And some good news at the bowser: the average price of unleaded fell almost three cents yesterday, to two hundred and thirty four and a half cents a litre. And the A S X closed at its highest level since August.
+
+[long beat]

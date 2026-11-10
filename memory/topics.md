@@ -2,7 +2,7 @@
 
 The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
-Last daily update: 2026-11-10
+Last daily update: 2026-11-11
 
 ## Main topics (top 25)
 
@@ -53,49 +53,49 @@ Last daily update: 2026-11-10
 | Xbox | 55 | 2026-10-29 |  |
 | Capcom and Resident Evil | 50 | 2026-10-30 |  |
 | Video game industry | 50 | 2026-11-09 |  |
-| Game tech explained (DLSS, rendering, parallax) | 46 | 2026-10-23 |  |
 | Film festivals | 45 | 2026-11-05 |  |
 | Kung fu and martial arts films | 45 | 2026-11-09 |  |
 | Video game releases | 45 | 2026-11-10 |  |
+| Game tech explained (DLSS, rendering, parallax) | 44 | 2026-10-23 |  |
 | Square Enix and Dragon Quest | 40 | 2026-11-05 |  |
 | Tesla | 40 | 2026-10-28 |  |
 | Russia-Ukraine war | 35 | 2026-11-09 |  |
-| Fantasy films | 33 | 2026-10-26 |  |
-| Europe protests and unrest | 30 | 2026-10-27 |  |
-| Hong Kong and Chinese crime films | 30 | 2026-10-20 |  |
+| Fantasy films | 31 | 2026-10-26 |  |
+| Europe protests and unrest | 28 | 2026-10-27 |  |
+| Hong Kong and Chinese crime films | 28 | 2026-10-20 |  |
 | Secret of Mana | 28 | 2026-11-02 |  |
 | Cybersecurity | 25 | 2026-11-05 |  |
 | Game-to-film adaptations | 25 | 2026-10-30 |  |
 | Sydney housing and planning | 25 | 2026-10-29 |  |
 | Weekend activities in Sydney | 25 | 2026-11-09 |  |
-| Home dumbbell workouts | 21 | 2026-10-18 |  |
 | Asian horror | 20 | 2026-10-29 |  |
 | Immigration policy | 20 | 2026-10-29 |  |
 | One Nation and Pauline Hanson | 20 | 2026-11-02 |  |
-| Call of Duty | 18 | 2026-10-26 |  |
-| Dark horror-comedy humour (MeatCanyon style) | 16 | 2026-10-18 |  |
-| Asian sci-fi and fantasy films | 15 | 2026-10-20 |  |
+| Home dumbbell workouts | 19 | 2026-10-18 |  |
+| Call of Duty | 16 | 2026-10-26 |  |
 | Australian defence | 15 | 2026-10-30 |  |
-| AI safety | 13 | 2026-10-26 |  |
-| Arrow Video and boutique label releases | 11 | 2026-10-18 |  |
-| China and Taiwan | 11 | 2026-10-23 |  |
-| Crime and thriller films | 11 | 2026-10-18 |  |
-| Australian films | 9 | 2026-10-22 |  |
-| Film industry news | 9 | 2026-10-22 |  |
-| DJI Pocket and ND filters | 6 | 2026-10-16 |  |
-| Hyundai and Boston Dynamics | 6 | 2026-10-18 |  |
-| Metal Gear Solid | 6 | 2026-10-18 |  |
-| Network streaming and multicast | 6 | 2026-10-17 |  |
-| Stardew Valley | 6 | 2026-10-18 |  |
-| Travel video | 6 | 2026-10-18 |  |
-| Video encoding and bitrates (x264, remux sizes) | 6 | 2026-10-17 |  |
-| 10GbE home networking | 1 | 2026-10-17 |  |
-| Grand Theft Auto VI | 1 | 2026-10-18 |  |
-| Magic: The Gathering Final Fantasy cards | 1 | 2026-10-17 |  |
-| PS1 emulation (DuckStation) | 1 | 2026-10-17 |  |
-| The Lord of the Rings films | 1 | 2026-10-11 |  |
+| Dark horror-comedy humour (MeatCanyon style) | 14 | 2026-10-18 |  |
+| Asian sci-fi and fantasy films | 13 | 2026-10-20 |  |
+| AI safety | 11 | 2026-10-26 |  |
+| Arrow Video and boutique label releases | 9 | 2026-10-18 |  |
+| China and Taiwan | 9 | 2026-10-23 |  |
+| Crime and thriller films | 9 | 2026-10-18 |  |
+| Australian films | 7 | 2026-10-22 |  |
+| Film industry news | 7 | 2026-10-22 |  |
+| DJI Pocket and ND filters | 4 | 2026-10-16 |  |
+| Hyundai and Boston Dynamics | 4 | 2026-10-18 |  |
+| Metal Gear Solid | 4 | 2026-10-18 |  |
+| Network streaming and multicast | 4 | 2026-10-17 |  |
+| Stardew Valley | 4 | 2026-10-18 |  |
+| Travel video | 4 | 2026-10-18 |  |
+| Video encoding and bitrates (x264, remux sizes) | 4 | 2026-10-17 |  |
+| 10GbE home networking | 0 | 2026-10-17 |  |
 | Canadian politics | 0 | 2026-10-22 |  |
+| Grand Theft Auto VI | 0 | 2026-10-18 |  |
+| Magic: The Gathering Final Fantasy cards | 0 | 2026-10-17 |  |
 | Pi-hole | 0 | 2026-10-17 |  |
+| PS1 emulation (DuckStation) | 0 | 2026-10-17 |  |
 | Stranger Things | 0 | 2026-10-10 |  |
 | Street Fighter film | 0 | 2026-10-18 |  |
+| The Lord of the Rings films | 0 | 2026-10-11 |  |
 | The NeverEnding Story | 0 | 2026-10-11 |  |

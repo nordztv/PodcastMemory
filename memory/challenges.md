@@ -4,6 +4,7 @@ One fitness challenge per episode (bible section 8). Scott reports Done on the d
 
 | Date | Challenge | Done |
 | --- | --- | --- |
+| 2026-11-11 | Sixty walking lunges (thirty each leg) and a two minute plank in total, broken up however you like, across the day | Not yet |
 | 2026-11-10 | Take the long way through the Royal Botanic Garden on the walk in, and seventy dumbbell shoulder presses (thirty five each arm, 7.5 kg), in as many sets as you like, across the day | Not yet |
 | 2026-11-09 | Forty five push-ups and sixty bodyweight squats, in as many sets as you like, across the day | Yes |
 | 2026-11-06 | Walk five kilometres along the Brisbane River (a loop over the bridges counts) and forty push-ups, in as many sets as you like, across the day | Yes |
