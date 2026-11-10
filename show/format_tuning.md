@@ -4,15 +4,13 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
-- Radish and the game's real state (Scott's 9 Nov note: "Talk about the radish too much just once an episode or a couple times as a quick joke. Remember the new game project isn't even made yet"): the radish monster gets at most one quick mention or joke per episode (not every segment), and the game thread teaches from where Lanternfall actually is (an empty Godot project) rather than assuming scenes or scripts exist. From 10 Nov the week was restarted from an empty folder (project shape, walking farmer, diggable ground, first-morning test). Reason: his 9 Nov note and lore/game tech scored 3 on 9 Nov.
-- Questions that build the game (Scott's 6 Nov note: "Maybe you can ask questions that have answers that can integrate into my game project"): at least two of each day's questions are designed so his answer becomes a concrete piece of Lanternfall (a character, rule, item, recipe, line of dialogue), and the next day's lore or build step uses it. Promised on air in the 8 Nov special. Reason: his 6 Nov note.
+- Game project thread removed (Scott's request, 10 Nov): lore, game tech and workshop are back to their pre-3 Nov formats (bible section 5), the Godot game is back in the Friday project check-in rotation, and the Friday radish build-along is paused. His game can still come up naturally, and the radish at most as one quick joke an episode (his 9 Nov note). Questions about the game are welcome now and then, but not required daily.
 - Australia: now in the bible (c1 approved 6 Nov): three stories told fully, then a one-minute round-up. Soft NSW announcements (a party returning, awards) go in the round-up or are dropped. Reason: c1 yes, and his only 6 Nov dislike (Mardi Gras party / NSW Australian of the Year).
 - Travel: back on his normal Sydney routine from 9 Nov (his 6 Nov comment). When Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
-- Lore and the game thread: keep them at the centre and story-led; Friday lore pulls the week's ideas into one drop-in design. Reason: lore scored 5 on 2 and 5 Nov.
+- Lore: keep it story-led. Reason: lore scored 5 on 2 and 5 Nov.
 - Opening and world: keep the three-biggest-stories format. Reason: scored 5 on 5 Nov after being cut back.
 - World and Australia lighter, games and movies heavier (Scott's 2 Nov monthly check-in answer: "less world news and more games and movies"): opening and world about 650 to 800 words with only the two or three biggest world stories; Australia about 1,400 words (big stories still covered properly); games about 2,000 to 2,200 and movies about 1,500 including the actress segment. Reason: his 2 Nov answer.
-- Workshop: after a 3 (2 Nov, Git), keep it to one job he can finish in ten minutes, with exact clicks or commands. Since 3 Nov the workshop is the daily build step for his Game-Prototype weekly task (bible 5c): keep it to one evening-sized step with exact nodes and lines. Reason: 2 Nov workshop score and his 3 Nov request.
-- Game project thread (3 Nov): lore, game tech and workshop follow his Game-Prototype weekly task every weekday (bible 5c). Reason: his 3 Nov request.
+- Workshop: after a 3 (2 Nov, Git), keep it to one job he can finish in ten minutes, with exact clicks or commands. Reason: 2 Nov workshop score and his 3 Nov request.
 - Segment word budgets: as in bible section 5, except game tech and the world/games/movies shift above.
 - Game tech: about 1,000 words (up from 900), still practical first: the Godot how-to first, then the theory with an everyday analogy, then a short tip list. Reason: rated 4 (21 Oct) then 5 (22 Oct) after going practical-first.
 - Australia: for each big story, add one clear "why it matters" line and one "what happens next" line, and keep minor items to a sentence. Reason: scored 3 (21 Oct) then 4 (22 Oct); the only news section not yet at 5.
@@ -36,6 +34,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-10 | Game project thread removed; lore, game tech and workshop back to their earlier formats; radish build-along paused | Scott's request, 10 Nov |
 | 2026-11-10 (midweek) | Radish limited to one quick mention an episode; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
 | 2026-11-06 | Australia capped at five stories (two or three told fully); travel weeks follow his location; lore and opening kept as they are | 5 Nov scores (Australia 3; world and lore 5) and his 6 Nov Brisbane message |
 | 2026-11-03 (midweek) | Less world news, more games and movies; workshop kept to a ten-minute job | 2 Nov answer (monthly check-in) and workshop score 3 |

@@ -1,5 +1,7 @@
 # Game project thread: progress log
 
+**Ended 10 Nov 2026:** Scott asked to remove the game project section from the show. Kept here as a record; the daily run no longer updates it.
+
 The show's own log of the Game-Prototype weekly task (bible section 5c): one heading per week with the task in a line, then one line per episode (the lesson, the build step, the story and lore ideas, any game question asked). Newest week first. The weekly snapshot from Scott's Mac is in `snapshot/` (see `snapshot_info.md`). Scott can edit anything here.
 
 ## Week of 2026-11-09: The radish wakes up, restarted on Tue 10 Nov as "Lanternfall from an empty folder" (fallback: no task file in the snapshot, last synced 3 Nov; spawn Mon, chase Tue, bite Wed, tiers Thu, review Fri; covers the radish build-along steps 2-4)
