@@ -18,27 +18,27 @@ Last daily update: 2026-11-10
 | Horror films | 100 | 2026-11-09 |  |
 | Korean genre cinema | 100 | 2026-11-09 |  |
 | Major world news | 100 | 2026-11-10 |  |
+| Nikon ZR, lenses and camera gear | 100 | 2026-11-10 |  |
 | NSW politics and Sydney news | 100 | 2026-11-02 |  |
 | Nvidia | 100 | 2026-11-10 |  |
 | Warcraft and Blizzard | 100 | 2026-11-10 |  |
 | Cult actresses and iconic characters | 95 | 2026-11-09 |  |
-| Fujifilm X-M5, lenses and camera gear | 90 | 2026-10-30 |  |
 | Japanese horror | 90 | 2026-11-10 |  |
 | Nintendo (Switch 2, Zelda) | 90 | 2026-11-10 |  |
 | Practical effects and CGI history | 90 | 2026-11-10 |  |
 | Apple | 85 | 2026-11-02 |  |
 | Colour grading and Final Cut Pro | 85 | 2026-11-09 |  |
+| Directors and filming techniques | 85 | 2026-11-10 |  |
 | The Witcher and CD Projekt Red | 85 | 2026-10-30 |  |
 | Japanese yokai | 80 | 2026-10-30 |  |
 | Raspberry Pi projects (music TV channel, multicast streaming) | 80 | 2026-10-30 |  |
 | Retro gaming projects (emulators, reverse engineering, mods) | 75 | 2026-11-09 |  |
-| Running AI models at home (model sizes, quantisation) | 75 | 2026-11-10 |  |
 
 ## Minor topics (up to 100)
 
 | Topic | Score | Last signal | Hot until |
 | --- | --- | --- | --- |
-| Directors and filming techniques | 70 | 2026-11-10 |  |
+| Running AI models at home (model sizes, quantisation) | 75 | 2026-11-10 |  |
 | Tech company earnings | 70 | 2026-11-09 |  |
 | Australian economy and banks | 65 | 2026-11-09 |  |
 | Intel and AMD | 65 | 2026-11-09 |  |

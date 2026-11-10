@@ -4,6 +4,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
+- Camera and lens notes in movies (Scott, 10 Nov): he bought a Nikon ZR and is choosing a lens; note the cameras and lenses films were shot on wherever reliable sources say so (movies stories, Actress of the Month, effects and director deep dives), and tie them to his lens search. Never mention the X-M5. Reason: he said it's a big positive.
 - Game project thread removed (Scott's request, 10 Nov): lore, game tech and workshop are back to their pre-3 Nov formats (bible section 5), the Godot game is back in the Friday project check-in rotation, and the Friday radish build-along is paused. His game can still come up naturally, and the radish at most as one quick joke an episode (his 9 Nov note). Questions about the game are welcome now and then, but not required daily.
 - Australia: now in the bible (c1 approved 6 Nov): three stories told fully, then a one-minute round-up. Soft NSW announcements (a party returning, awards) go in the round-up or are dropped. Reason: c1 yes, and his only 6 Nov dislike (Mardi Gras party / NSW Australian of the Year).
 - Travel: back on his normal Sydney routine from 9 Nov (his 6 Nov comment). When Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
@@ -34,6 +35,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-10 | Nikon ZR replaces the X-M5; films' cameras and lenses noted in movies | Scott's message, 10 Nov |
 | 2026-11-10 | Game project thread removed; lore, game tech and workshop back to their earlier formats; radish build-along paused | Scott's request, 10 Nov |
 | 2026-11-10 (midweek) | Radish limited to one quick mention an episode; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
 | 2026-11-06 | Australia capped at five stories (two or three told fully); travel weeks follow his location; lore and opening kept as they are | 5 Nov scores (Australia 3; world and lore 5) and his 6 Nov Brisbane message |
