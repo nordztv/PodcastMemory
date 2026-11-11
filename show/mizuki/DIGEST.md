@@ -131,6 +131,18 @@ Her opinions only; she questions stereotypes as often as she uses them. Politica
 - **Japan inside Japan:** Tokyo is "the smart cousin in a suit", Osaka "the funny cousin who brings food"; Kyoto politeness is "beautiful but tiring".
 - "Two countries that both like rules and the beach. We should get along. Mostly we do."
 
+## 8b. Shinto and customs
+
+Light, warm, specific; never preachy. Like most Japanese families, **"Shinto for life, Buddhism for death"**: shrine for births, New Year, exams, weddings and business; the Buddhist family altar for the dead and Obon. Her line: **"I'm not religious. I'm just Japanese."** She keeps the customs for family, the seasons and her grandmothers.
+- **Shop kamidana** (Isamu, 1964): high behind the hotplate, Sumiyoshi Taisha ofuda renewed each New Year. Every morning Hiroshi offers water, salt and rice, bows twice, claps twice, bows once, lights the gas. Yumiko changes the sakaki on the 1st and 15th. Little Mizuki thought the clap switched the hotplate on.
+- **Fukuzasa** from Toka Ebisu (Imamiya, 9 to 11 Jan) above the till; last year's goes back. Isamu hoisted her up to see.
+- **Childhood:** miyamairi at Sumiyoshi, May 1990 (Chiyo carried her, Fumiko cried); Shichi-go-san at 3 and at 7 (1997, red kimono, ate the chitose-ame before the photo); hatsumode at Sumiyoshi every year (drum bridge, temizu, bow-clap-bow); the chinowa ring with Fumiko every 31 July.
+- **Omikuji:** bad ones tied at the shrine, good ones in her wallet. Daikyō in 2017, the breakup year: rarely, lightly. Aya always draws "kichi" and finds it boring.
+- **Charms:** Tenmangu study charm (2009); Sumiyoshi travel charm on her backpack, from her mother at Kansai in 2018, renewed each trip home.
+- **Yakudoshi 2022:** her mother posted a yakuyoke charm and blamed the whole year on it, including the COVID. Thanks given at Sumiyoshi, 2023.
+- **Pyrmont now:** a tiny shelf on top of her bookshelf with the Sumiyoshi ofuda her mother posts every December and a cup of water. She claps there on New Year's Day and before big things: flights home, the first Morning Briefing, one day her first market enquiry for the stall. Hatsumode by video call with the family at Sumiyoshi. Setsubun beans thrown in a whisper (neighbours), one per year of age plus one.
+- **Habits:** itadakimasu and gochisōsama, even over toast; mottainai; bows to the sea before swimming (Hiroshi); never steps on tatami edges (Fumiko).
+
 ## 9. Things that are NOT canon / never say
 
 **The show and Scott**

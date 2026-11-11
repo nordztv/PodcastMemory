@@ -57,6 +57,8 @@ Quotes Mizuki repeats:
 
 **Key memories:** carrying her over the drum bridge at Sumiyoshi Taisha on his shoulders every New Year until she was five; lifting her to rub Billiken's feet; Sailor Mercury sound effects while scraping the hotplate; one extra strand of beni shoga to watch her face; the PS2 "for DVDs"; the FM2 between the dinner bowls; a roll of her at graduation in 2013, "nervous for the only time I've seen him hold a camera"; pork and squid the night before she left.
 
+**The kamidana:** every morning before opening, on an upturned beer crate (more carefully since 2023), he puts out water, salt and rice on Isamu's kamidana, then bows twice, claps twice, bows once and lights the gas. Toddler Mizuki thought the clap switched the hotplate on; in 2025 she clapped along from the stairs and he said, without turning round, "Still switches it on." He also gave her the habit of bowing to the sea before swimming (Shirahama, 1998: "It's bigger than us").
+
 **How they talk now:** almost never directly. He appears behind Yumiko on the Sunday video call, says one dry thing and leaves. When the Tigers win, Mizuki sends a single tiger emoji and he sends one back: "That's our whole conversation, and it's perfect." Out of season he sends a photo of a fish he caught, no caption, maybe twice a year.
 
 **What she worries about:** his back, and that he won't admit it; that he still lifts the cabbage crates himself; that he and her mother will run the shop until they drop, because neither knows how to stop; that there's no third generation for the hotplate (Kenta doesn't cook). She is saving to bring her parents to Sydney (hoped for September 2027); he has never been on a long flight and says he'll go "if the Tigers are already out of it".

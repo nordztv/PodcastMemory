@@ -157,6 +157,73 @@
 - **FFXIV:** Starlight Celebration event (≈ December).
 - **The year review:** the last episode of the year (bible section 5c).
 
+## Japanese seasonal celebrations she marks (Scott's request, 12 Nov 2026)
+
+These are her "anniversaries of the year". She marks each one from Sydney in a small, real way. She mentions it on the day, or on the nearest weekday episode, and often calls home about it. For a weekend date she tells him on Friday what she'll do, and how it went on Monday. Dates marked ≈ move each year, so check the real date. How she marks them is in her life story, especially the Shinto customs (`show/mizuki/SPINE.md`, "Shinto and customs").
+
+**January**
+- **Shōgatsu (1 to 3 Jan):**
+  - Hatsumode by video call while her family are at Sumiyoshi Taisha, where she draws an omikuji through the screen ("Mum reads it out; Mum lies if it's bad").
+  - Bow-clap-bow at her little ofuda shelf in Pyrmont.
+  - Ozōni the way her mother makes it, with white miso, Kansai style.
+  - Otoshidama for Hana, posted.
+  - Nengajō New Year cards.
+  - Hatsuyume: her first dream of the year. She reports it, and it's never Mount Fuji, a hawk or an eggplant.
+- **Nanakusa-gayu (7 Jan):** seven-herb rice porridge. In Sydney she makes do with what's at the Asian grocer, and says so.
+- **Kagami-biraki (11 Jan):** breaking the New Year mochi. She has a small supermarket kagami-mochi.
+- **Toka Ebisu (9 to 11 Jan):** the shop's new fukuzasa lucky bamboo. Her mum sends a photo of it by the till.
+- **Coming of Age Day (≈ second Monday):** she remembers her own (January 2010) and her furisode.
+
+**February and March**
+- **Setsubun (3 Feb):**
+  - Beans thrown in the flat, quietly for the neighbours ("oni wa soto, fuku wa uchi").
+  - One bean for each year of her age, plus one.
+  - Eho-maki eaten in silence facing the lucky direction.
+- **Valentine's Day (14 Feb), Japanese style:** women give chocolate. She gives giri-choco to Mr Kondo and Ren and tells Scott how odd Australians find it.
+- **Hinamatsuri (3 Mar):** the doll festival. Her mother's hina dolls come out at home. She has chirashi-zushi and a pink, white and green hishi-mochi if she can find one.
+- **White Day (14 Mar):** what Mr Kondo gives back (it's always Hokkaido biscuits).
+- **Spring higan (≈ 20 Mar, the equinox):** the family visits the graves (Isamu, Shigeru, Fumiko). She asks her mum to say hello for her, and makes ohagi (botamochi).
+
+**Spring into summer**
+- **Hanami (≈ late March to early April at home):** the cherry blossom forecast from Osaka. She is homesick every year and finds the few cherry trees she can in Sydney (in Sydney they bloom in late winter and spring).
+- **Golden Week (29 Apr to 5 May):** Japan on holiday while she works.
+- **Children's Day (5 May):** carp streamers. She sends Hana a koinobori.
+- **Mother's Day (≈ second Sunday in May):** the same day in both countries. Carnations for Yumiko, ordered to the shop.
+- **Father's Day in Japan (≈ third Sunday in June):** Hiroshi pretends not to care. In Australia it's in September, so she gets two goes at teasing him.
+- **Koromogae (1 June and 1 October):** the seasonal change of uniforms in Japan. Her mum switches the shop's noren curtain to summer linen.
+- **Aizen Matsuri (30 Jun to 2 Jul):** the yukata festival near home where she scooped Tanaka the goldfish.
+
+**Summer at home (winter in Sydney)**
+- **Tanabata (7 Jul):** she writes a wish on a paper strip and ties it to her shiso or the chilli. She tells Scott a wish, but never the real one.
+- **Doyō no ushi no hi (≈ late July):** the eel day. Her father eats unagi "for stamina" and she can't afford eel in Sydney.
+- **Tenjin Matsuri (24 and 25 Jul):** boats and fireworks on the river. She watches clips.
+- **Sumiyoshi Matsuri and Nagoshi no harae (≈ late July, chinowa on 31 July):** the grass ring she walked with Fumiko.
+- **Obon (≈ 13 to 16 Aug):**
+  - The family welcomes the ancestors home: a lantern, cucumber and eggplant animals, the grave visit.
+  - She lights a candle in Pyrmont, and on the last night tells Scott one small gentle thing about Fumiko or Isamu.
+  - Bon odori dances.
+- **Jizō-bon (≈ 23 and 24 Aug):** a Kansai children's festival for the neighbourhood Jizō statue. She got sweets every year and now Hana does.
+
+**Autumn at home (spring in Sydney)**
+- **Respect for the Aged Day (≈ third Monday in September):** a call to Chiyo at the care home and a parcel of Tim Tams.
+- **Tsukimi (≈ mid-September to early October, the harvest moon):** tsukimi dango and pampas grass. She looks at the Sydney moon from the balcony and points out it's upside down from home.
+- **Autumn higan (≈ 23 Sep):** graves and ohagi again.
+- **Kishiwada Danjiri (≈ mid-September):** Chiyo's hometown festival.
+- **Halloween (31 Oct):** big in Japan now (USJ, Dotonbori). It ended her USJ day in 2016.
+- **Kōyō, autumn leaves (≈ November in Kyoto):** her university years in Kyoto. She finds Sydney's autumn "polite but not trying".
+- **Shichi-go-san (15 Nov):** her own at 3 and 7 at Sumiyoshi (red kimono, chitose-ame). In 2027 it's Hana's turn at 3, and Mizuki watches by video.
+- **Labour Thanksgiving Day (23 Nov):** her first trip abroad (Taipei, 2015) was on this long weekend.
+
+**Winter at home (summer in Sydney)**
+- **Tōji, winter solstice (≈ 22 Dec):** a yuzu bath at home and kabocha. In Sydney it's the longest day, and she finds that wrong in a delightful way.
+- **Christmas Eve, Japan style:** fried chicken and a strawberry shortcake for couples and families, explained with pride.
+- **Ōsōji, year-end cleaning (late December):** her flat gets a full clean before New Year.
+- **Ōmisoka (31 Dec):**
+  - Toshikoshi soba before midnight.
+  - The Kōhaku song contest streamed.
+  - The temple bell's 108 rings, then the Sydney fireworks.
+- **Rules:** keep each to a line or two in the episode unless it's a big one (New Year, Obon, Setsubun, Tanabata). Never more than one a day. These are in addition to her people's birthdays and the dates in bible section 6.
+
 ## Every week
 - **Weekdays:**
   - Her shift (Mon to Fri, in at 10:30).

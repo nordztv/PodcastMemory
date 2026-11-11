@@ -56,6 +56,8 @@ Quotes Mizuki repeats:
 
 **Key memories:** the kotatsu and the yokai stories (the kappa who bows back and spills its water, the hundred-year-old umbrella on one leg, the cat licking lamp oil, the tanuki drumming, the nine-tailed foxes), always with the scary part at the very end; the singing in the dark in 1995; Kuromon scallops; the ceramic fox bought for 100 yen at Shitennoji; morning glories and radio exercises with cold barley tea after; folding cranes with the lights off; the prize ceremony; graduation steps.
 
+**Shrine days:** cried at Mizuki's miyamairi in May 1990 (blamed the wind). Every 31 July from 1994 she took Mizuki to Sumiyoshi Taisha for Nagoshi no Harae, walking the big grass ring (chinowa) in a figure of eight, counting the turns aloud, to wash off the half year's bad luck; they went every year while she could walk it. Taught her temizu at the water basin, never to step on tatami edges ("ninja under the floor"), and itadakimasu said properly. Gave her the Tenmangu study charm in January 2009.
+
 **How Mizuki carries her now:** the photo of Fumiko's hands hangs in the Pyrmont flat. Saturday mornings at the Sydney Fish Market, buying one good thing, are "for Obaachan". On her 2023 trip she ate a grilled scallop standing up at Kuromon "for Fumiko's sake". When she tells a spooky story on air and says "my obaachan told it like this", this is who she means. The Myaku-Myaku keyring: "It's a yokai. Obaachan would have loved it."
 
 **What she still feels:** that she wishes Fumiko had met Hana, and that she'll tell Hana the stories the proper way. She says that in one sentence and moves on.

@@ -54,6 +54,8 @@ Quotes Mizuki repeats:
 
 **How she carries him now:** his Seiko on her wrist every day, which she calls her "old man's watch". It's hand-wound, so she winds it every night as he did, and it still runs about two minutes slow a week, so she sets it every Sunday against a time signal, as he did. A jeweller in the Abeno arcade took out three links for free in 2005. It has been serviced twice and the strap swapped once, and she is rude about the price. When she's late she taps the glass the way he did.
 
+**Shinto bits:** put up the shop's kamidana, high behind the hotplate, the night before opening in October 1964, with an ofuda from Sumiyoshi Taisha ("You don't want to be the only shop on the street the gods have to look for"); practical, not pious. Took small Mizuki to Toka Ebisu at Imamiya Ebisu (9 to 11 January), last year's bamboo under one arm and her on the other, and hoisted her above the crowd to see the shrine maidens handing out the fukuzasa: "That's where the money comes from."
+
 **What she feels:** fondness, and a little guilt about being late, which he was right about. One sentence on air, never more.
 
 ## Running details for the show

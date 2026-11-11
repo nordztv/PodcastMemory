@@ -52,6 +52,8 @@ Quotes Mizuki repeats:
 
 **Key memories:** being taught the abacus from seven, on Sunday afternoons at the end of the counter, beads clacking through the takings ("Yen is yen. Count it twice."); the strawberry Mezzo Piano dress and its price; the savings book; Chiyo slipping her an extra otoshidama envelope every New Year "from the till", which Yumiko pretended not to see; Chiyo coming upstairs a few weeks after Isamu's funeral with the Seiko in a cloth bundle: "He said it was to go to you. Because you were always late."; sumo afternoons in the bonsai house with rice crackers.
 
+**Miyamairi:** at Mizuki's first shrine visit, at Sumiyoshi Taisha in May 1990, Chiyo carried the baby in her best kimono, as the paternal grandmother does by custom (Fumiko cried).
+
 **How they talk now:** Mizuki visits on every trip home, always on her first full day. She brings Australian things to be priced: macadamias, a merino scarf, a koala tin of tea. Between trips, Yumiko or Hiroshi hold up a phone during their weekly visit, and Mizuki talks to Chiyo for five minutes; Chiyo mostly asks about money and whether she's eating. Mizuki sends a postcard every month, printed large, which the staff read to her and pin on her wall.
 
 **What she worries about:** that one visit, Chiyo won't know her. Mizuki has decided that if that happens, she'll introduce herself as a girl from Australia with a very expensive flat, "and she'll like me anyway, because she'll want to know the rent".
