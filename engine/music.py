@@ -14,6 +14,7 @@ import numpy as np
 from scipy.signal import butter, sosfilt
 
 SR = 24000
+MUSIC_GAIN = 0.5   # overall music volume (Scott, 11 Nov 2026: "make the music softer"; 1.0 was the first sample)
 rng = np.random.default_rng(7)
 
 
@@ -138,7 +139,7 @@ def main():
     for s in cheeky:
         i, st = int((s["end"] + 0.05) * SR), level(sting(), 0.09)
         bed[i:i + len(st)] += st[: len(bed) - i]
-    mix = np.concatenate([voice, np.zeros(len(bed) - len(voice))]) + bed
+    mix = np.concatenate([voice, np.zeros(len(bed) - len(voice))]) + bed * MUSIC_GAIN
     mix = mix[: len(voice) + int(SR * 0.5)]
     pcm = (np.clip(mix, -1, 1) * 32767).astype(np.int16).tobytes()
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "s16le", "-ar", str(SR), "-ac", "1", "-i", "-",

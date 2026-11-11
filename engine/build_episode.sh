@@ -21,7 +21,9 @@ ls "$SRC"/*.txt >/dev/null
 
 # -n1 with the file as $1 (not -I{}): macOS xargs caps -I commands at 255 bytes ("command line cannot be assembled")
 export WORK REPO
-ls "$SRC"/*.txt | xargs -P2 -n1 sh -c 'f="$1"; b=$(basename "$f" .txt); [ -s "$WORK/$b.mp3" ] || python3 "$REPO/engine/tts.py" "$f" "$WORK/$b.mp3"' _
+# Each section: the voice (tts.py, which also logs mood timings), then the mood music under spooky, secret and joke
+# moments (engine/music.py; if that step fails, the plain voice is used).
+ls "$SRC"/*.txt | xargs -P2 -n1 sh -c 'f="$1"; b=$(basename "$f" .txt); [ -s "$WORK/$b.mp3" ] || { [ -s "$WORK/$b.voice.mp3" ] || python3 "$REPO/engine/tts.py" "$f" "$WORK/$b.voice.mp3"; python3 "$REPO/engine/music.py" "$WORK/$b.voice.mp3" "$WORK/$b.mp3" || cp "$WORK/$b.voice.mp3" "$WORK/$b.mp3"; }' _
 
 GAP=1.8
 ffmpeg -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t $GAP -b:a 128k "$WORK/gap.mp3"
