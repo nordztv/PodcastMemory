@@ -44,7 +44,7 @@ def say_capitals(text):
     return re.sub(r"\b([A-Z]{2,6})('?s)?\b", lambda m: spell(m.group(1), m.group(2)), text)
 SR = 24000
 PUNCT = ",.!?;:—…"
-SHOW_VOICE = "af_heart:0.3+af_bella:0.18+af_nicole:0.12+jf_alpha:0.4"  # Mizuki: 40% Japanese (jf_alpha), Scott 11 Nov 2026 (briefly 60%); was "Happy 1" (19 Oct)
+SHOW_VOICE = "af_heart:0.25+af_bella:0.15+af_nicole:0.1+jf_alpha:0.5"  # Mizuki: 50% Japanese (jf_alpha), Scott 11 Nov 2026 (tried 60% and 40%); was "Happy 1" (19 Oct)
 SHOW_SPEED = 0.92
 
 
@@ -97,12 +97,12 @@ def phonemize_text(sentence):
 #   voice blend, speed (tempo), pitch (x1.0 = unchanged), gain, pause after each chunk (s)
 MOODS = {
     "normal":  dict(voice=None, speed=None, pitch=1.00, gain=1.00, gap=0.22),
-    "happy":   dict(voice="af_heart:0.24+af_bella:0.3+af_nicole:0.06+jf_alpha:0.4", speed=0.97, pitch=1.015, gain=1.05, gap=0.18),
-    "cheeky":  dict(voice="af_heart:0.3+af_bella:0.24+af_nicole:0.06+jf_alpha:0.4", speed=0.90, pitch=1.01, gain=1.02, gap=0.30),
-    "serious": dict(voice="af_heart:0.42+af_nicole:0.18+jf_alpha:0.4", speed=0.88, pitch=0.99, gain=0.96, gap=0.28),
-    "dark":    dict(voice="af_heart:0.27+af_nicole:0.33+jf_alpha:0.4", speed=0.83, pitch=1.00, gain=0.88, gap=0.40),
+    "happy":   dict(voice="af_heart:0.2+af_bella:0.25+af_nicole:0.05+jf_alpha:0.5", speed=0.97, pitch=1.015, gain=1.05, gap=0.18),
+    "cheeky":  dict(voice="af_heart:0.25+af_bella:0.2+af_nicole:0.05+jf_alpha:0.5", speed=0.90, pitch=1.01, gain=1.02, gap=0.30),
+    "serious": dict(voice="af_heart:0.35+af_nicole:0.15+jf_alpha:0.5", speed=0.88, pitch=0.99, gain=0.96, gap=0.28),
+    "dark":    dict(voice="af_heart:0.225+af_nicole:0.275+jf_alpha:0.5", speed=0.83, pitch=1.00, gain=0.88, gap=0.40),
     # whispered secrets: af_nicole is Kokoro's breathiest voice; quieter, slower, longer gaps (not a true whisper)
-    "whisper": dict(voice="af_heart:0.18+af_nicole:0.42+jf_alpha:0.4", speed=0.84, pitch=1.00, gain=0.74, gap=0.45),
+    "whisper": dict(voice="af_heart:0.15+af_nicole:0.35+jf_alpha:0.5", speed=0.84, pitch=1.00, gain=0.74, gap=0.45),
 }
 MOOD_NAMES = "|".join(MOODS)
 PAUSES = {"beat": 0.6, "shortbeat": 0.35, "longbeat": 1.2, "pause": 0.4, "shortpause": 0.25,
