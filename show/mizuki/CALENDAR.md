@@ -172,7 +172,7 @@ These are her "anniversaries of the year". She marks each one from Sydney in a s
 - **Nanakusa-gayu (7 Jan):** seven-herb rice porridge. In Sydney she makes do with what's at the Asian grocer, and says so.
 - **Kagami-biraki (11 Jan):** breaking the New Year mochi. She has a small supermarket kagami-mochi.
 - **Toka Ebisu (9 to 11 Jan):** the shop's new fukuzasa lucky bamboo. Her mum sends a photo of it by the till.
-- **Coming of Age Day (≈ second Monday):** she remembers her own (January 2010) and her furisode.
+- **Coming of Age Day (≈ second Monday):** she remembers her own (January 2011, the year after she turned 20) and her furisode.
 
 **February and March**
 - **Setsubun (3 Feb):**
