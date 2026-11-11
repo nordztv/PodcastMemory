@@ -85,6 +85,111 @@ def sting():
     return reverb(out, 0.8, 0.25)
 
 
+# ---- Japanese-style cues (Scott, 11 Nov 2026: "more Japanese style music for suspense, spooky and secret") ----
+# The In scale (miyako-bushi: root, minor 2nd, 4th, 5th, minor 6th) is the classic eerie Japanese mode.
+IN_SCALE = [0, 1, 5, 7, 8]
+
+
+def in_note(base, step):
+    octave, deg = divmod(step, len(IN_SCALE))
+    return base + 12 * octave + IN_SCALE[deg]
+
+
+def koto(f, dur=2.4):
+    """Plucked koto: a bright Karplus-Strong pluck with a slight upward bend at the attack (the player's press)."""
+    n = int(SR * dur)
+    t = np.arange(n) / SR
+    bend = 1 + 0.012 * np.exp(-t / 0.06)
+    phase = 2 * np.pi * np.cumsum(f * bend) / SR
+    tone = np.sin(phase) + 0.45 * np.sin(2 * phase) + 0.25 * np.sin(3 * phase) + 0.12 * np.sin(5 * phase)
+    pl = pluck(f, dur)
+    return reverb((0.6 * tone * env(n, 0.002, 0.7) + 0.4 * pl[:n]), 1.4, 0.3)
+
+
+def shakuhachi(f, dur):
+    """Breathy bamboo flute: slow swell, soft vibrato, lots of air."""
+    n = int(SR * dur)
+    t = np.arange(n) / SR
+    vib = 1 + 0.006 * np.sin(2 * np.pi * 5.2 * t) * np.minimum(t / 1.0, 1)
+    phase = 2 * np.pi * np.cumsum(f * vib) / SR
+    tone = np.sin(phase) + 0.18 * np.sin(2 * phase)
+    air = sosfilt(butter(2, [f * 1.5, f * 4], "band", fs=SR, output="sos"), rng.standard_normal(n)) * 0.35
+    shape = np.sin(np.pi * np.minimum(t / dur, 1)) ** 1.5
+    return (tone + air) * shape
+
+
+def rin(f, dur=4.0):
+    """Temple bowl bell (rin): inharmonic partials, long shimmering decay."""
+    n = int(SR * dur)
+    t = np.arange(n) / SR
+    out = sum(a * np.sin(2 * np.pi * f * r * t) * np.exp(-t / d)
+              for r, a, d in [(1, 1, 3.0), (2.71, 0.45, 1.8), (5.17, 0.2, 0.9), (1.003, 0.6, 3.2)])
+    return out
+
+
+def taiko(dur=0.9):
+    """A soft, distant taiko heartbeat: a low pitched thump with a quick downward sweep."""
+    n = int(SR * dur)
+    t = np.arange(n) / SR
+    f = 55 * (1 + 0.8 * np.exp(-t / 0.04))
+    body = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t / 0.28)
+    skin = sosfilt(butter(2, 400, "low", fs=SR, output="sos"), rng.standard_normal(n)) * np.exp(-t / 0.03) * 0.5
+    return body + skin
+
+
+def furin(length):
+    """Glass wind chime (furin): a few high, random tinkles."""
+    out = np.zeros(length)
+    t0 = int(SR * rng.uniform(0.2, 0.8))
+    while t0 < length:
+        f = note(in_note(88, int(rng.integers(0, 7))))
+        n = min(int(SR * 1.6), length - t0)
+        t = np.arange(n) / SR
+        out[t0:t0 + n] += (np.sin(2 * np.pi * f * t) + 0.3 * np.sin(2 * np.pi * f * 2.9 * t)) * np.exp(-t / 0.5) * rng.uniform(0.5, 1)
+        t0 += int(SR * rng.uniform(0.9, 2.2))
+    return reverb(out, 1.6, 0.45)
+
+
+def spooky_jp(length):
+    """Spooky and suspense: sparse koto in the In scale, a breathing low drone, a distant taiko heartbeat
+    that slowly quickens, a shakuhachi swell over longer moments, and a rin bell to open."""
+    out = np.zeros(length)
+    i, t0 = 0, int(SR * 0.3)
+    phrase = [0, 1, 3, 4, 3, 1, 2, 0, -1, 0]
+    while t0 < length:
+        k = koto(note(in_note(57, phrase[i % len(phrase)] + 5)))[: length - t0]
+        out[t0:t0 + len(k)] += k * (1.0 if i % 3 == 0 else 0.75)
+        t0 += int(SR * (0.9 if i % 4 != 3 else 1.6)); i += 1
+    out = level(out, 1.0)
+    t = np.arange(length) / SR
+    dr = (np.sin(2 * np.pi * note(45) * t) + 0.4 * np.sin(2 * np.pi * note(46) * t)) * (0.6 + 0.4 * np.sin(2 * np.pi * 0.15 * t))
+    out += level(dr, 0.45)
+    beat, t0 = level(taiko(), 0.5), int(SR * 0.8)
+    gap = 1.6
+    while t0 < length:
+        b = beat[: length - t0]
+        out[t0:t0 + len(b)] += b
+        t0 += int(SR * gap); gap = max(0.9, gap * 0.95)
+    if length > SR * 6:
+        sh = shakuhachi(note(in_note(57, 3)), min(5.0, length / SR - 1.5))
+        st = int(SR * 1.5)
+        out[st:st + len(sh)] += level(sh, 0.35)[: length - st]
+    r = rin(note(81))[:length]
+    out[: len(r)] += level(r, 0.4)
+    return out
+
+
+def secret_jp(length):
+    """Whispered secrets: a soft rin bell, wind chimes and a quiet shakuhachi breath."""
+    out = level(furin(length), 0.6)
+    r = rin(note(84), 5.0)[:length]
+    out[: len(r)] += level(r, 0.5)
+    sh = shakuhachi(note(in_note(69, 2)), min(4.0, max(1.0, length / SR - 1)))[:length]
+    st = int(SR * 0.8)
+    out[st:st + len(sh)] += level(sh, 0.3)[: length - st]
+    return out
+
+
 def fade(x, fin, fout):
     n = len(x)
     e = np.ones(n)
@@ -130,11 +235,11 @@ def main():
     bed = np.zeros(len(voice) + SR * 3)
     for a, b in regions(spans, "dark"):
         i, n = int(a * SR), int((b - a) * SR)
-        cue = level(music_box(n), 0.07) + level(drone(n), 0.045)
+        cue = level(spooky_jp(n), 0.11)   # Japanese style (11 Nov 2026); was music_box + drone
         bed[i:i + n] += fade(carve(cue), 1.0, 1.4)
     for a, b in regions(spans, "whisper", tail=1.5):
         i, n = int(a * SR), int((b - a) * SR)
-        bed[i:i + n] += fade(carve(level(shimmer(n), 0.16)), 1.2, 1.6)
+        bed[i:i + n] += fade(carve(level(secret_jp(n), 0.16)), 1.2, 1.6)   # Japanese style; was shimmer
     cheeky = []   # joke stings removed (Scott, 11 Nov 2026); was punch lines in cheeky stretches
     for s in cheeky:
         i, st = int((s["end"] + 0.05) * SR), level(sting(), 0.09)
