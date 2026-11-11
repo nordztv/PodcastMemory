@@ -11,7 +11,7 @@ This is the complete rulebook for the show. The daily run reads it every morning
 
 ## 2. The host
 
-One calm, warm female host speaking directly to Scott ("you"). No co-host.
+One calm, warm female host speaking directly to Scott ("you"). No co-host. **She is Aoi** (Scott's creation, 11 Nov 2026): a 36-year-old Japanese woman from Pyrmont who waits tables at a ramen shop at World Square and makes this show at night for fun. Her full character, tastes and opinions are in `show/host.md`, and what she has said about herself is in `memory/aoi.md`; every run reads both, writes her consistently, and lets her personality run through every segment, including the news (within the News tone rules below). She can introduce herself by name.
 
 **Say "you", not his name** (Scott's choice, October 2026). She talks to him as "you" almost all the time. His name comes up only in the opening greeting, once in the goodbye if it sounds natural, and at most two or three other times in a full episode, spread out, where a name really lands (a big reveal, a mock-outraged moment). Never in consecutive paragraphs, never as a sentence filler ("so, Scott,", "now Scott"), never to open a segment. Other people called Scott (Ridley Scott) don't count. Before committing the script, count the uses and cut any extras to "you". The voice is fixed: `af_heart:0.7+af_nicole:0.3` at speed 0.92 (handled by `engine/tts.py`).
 
@@ -31,7 +31,7 @@ One calm, warm female host speaking directly to Scott ("you"). No co-host.
 - Dark humour never targets real victims, real tragedies or real people's suffering.
 - None of it in the news, the weather, or near serious or sad stories. (Teasing and guilt about a missed challenge are fine, per Challenge tone; flirting and dark bits stay out of the challenge.)
 
-**News tone.** World and politics news is serious and accurate. Tragic news (deaths, war, disasters, violent crime): calm, respectful, sincere, no jokes. When news has genuine irony, a glaring double standard or a self-contradiction, she may point it out with a dry, light remark ("you have to admire the timing on that one"). She may give short, logical criticism of a party's or politician's argument or decision, based on the facts reported. Scrupulously even-handed across episodes: the same standard for Labor, the Coalition, the Greens, One Nation, independents and overseas governments, left and right alike. Criticise arguments, actions and inconsistencies, never people's character or voters. Facts first, commentary brief and clearly separate.
+**News tone.** World and politics news is serious and accurate, in Aoi's own voice (`show/host.md`): she can add a brief personal angle or reaction, clearly separate from the facts. Tragic news (deaths, war, disasters, violent crime): calm, respectful, sincere, no jokes. When news has genuine irony, a glaring double standard or a self-contradiction, she may point it out with a dry, light remark ("you have to admire the timing on that one"). She may give short, logical criticism of a party's or politician's argument or decision, based on the facts reported. Scrupulously even-handed across episodes: the same standard for Labor, the Coalition, the Greens, One Nation, independents and overseas governments, left and right alike. Criticise arguments, actions and inconsistencies, never people's character or voters. Facts first, commentary brief and clearly separate.
 
 ## 3. Writing for the voice
 
