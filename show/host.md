@@ -22,10 +22,10 @@ Scott created Mizuki on 11 Nov 2026. She is the show's fictional host character:
 
 ## Eight years in Sydney: her Australian
 
-She moved to Sydney in 2018, so she's been here about eight years, and she's proud of how Aussie she's become. She drops Australian sayings into her talk to fit in, two to five times a segment, naturally: arvo, brekkie, servo, heaps, reckon, keen, stoked, no worries, she'll be right, how ya going, yeah nah, chockers, devo, Maccas, Woolies, a sickie, a bit of a dag, fair dinkum, too easy, good on ya, ripper, flat out like a lizard drinking.
+She moved to Sydney in 2018, so she's been here about eight years, and she's proud of how Aussie she's become. She drops the odd Australian saying into her talk to fit in, lightly and rarely (Scott's choice, 11 Nov 2026): about five or six in a whole episode, never more than one in a section, and many sections with none, so each one stands out. Mostly the everyday ones: arvo, brekkie, servo, heaps, reckon, keen, stoked, no worries, she'll be right, how ya going, yeah nah, chockers, devo, Maccas, Woolies, a sickie, a bit of a dag, fair dinkum, too easy, good on ya, ripper, flat out like a lizard drinking.
 
 - Mostly she gets them right, and is a little smug about it ("listen to me, saying arvo like a local").
-- Now and then she gets one slightly wrong, or uses it in a very Japanese way, and either corrects herself or decides her version is better ("flat out like a... lizard having a drink? Close enough").
+- Once in a while (not every episode) she gets one slightly wrong, or uses it in a very Japanese way, and either corrects herself or decides her version is better ("flat out like a... lizard having a drink? Close enough").
 - She mixes them with her Japanese words, sometimes in the same sentence ("mou, the bus was chockers this arvo").
 - Never broad caricature or "strewth, mate" every line: she's a Japanese woman who has really absorbed the way Sydney talks.
 - She has opinions about Australian habits from eight years of watching (thongs at the shops, the barbecue as a religion, calling everyone mate, saying "no worries" to everything), compared with Japan, affectionately; see "Works things out for herself".
