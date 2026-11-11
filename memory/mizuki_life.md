@@ -5,11 +5,11 @@ Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, saving
 ## Income
 
 - **Job:** shift lead at the ramen shop at World Square (Mr Kondo's), full time since 2021 (joined early 2019). Usually 10:30am to 7pm, Monday to Friday, about 38 to 40 hours a week.
-- **Pay:** $32.00 an hour (above the Restaurant Industry Award: Level 4 is $29.45 from 1 July 2026; Mr Kondo pays her more as his shift lead). About $1,250 to $1,280 a week before tax, about $66,000 a year.
-- **Take-home:** about $1,050 a week after income tax and the Medicare levy (2026-27 rates, rounded). Plus about $20 a week in tips from the shared jar. Employer superannuation (12%) goes to her super fund, not her pocket.
+- **Pay:** $34.00 an hour (Scott's choice, 11 Nov 2026; above the Restaurant Industry Award, where Level 4 is $29.45 from 1 July 2026, because Mr Kondo pays her more as his shift lead). About $1,290 to $1,360 a week before tax, about $69,000 a year.
+- **Take-home:** about $1,085 a week after income tax and the Medicare levy (2026-27 rates, rounded). Plus about $20 a week in tips from the shared jar. Employer superannuation (12%) goes to her super fund, not her pocket.
 - **Extras now and then:** overtime on busy weeks (+$100 to $250), a small Christmas bonus from Mr Kondo (about $300), selling the odd print (see goals).
 
-## Weekly budget (about $1,070 in)
+## Weekly budget (about $1,105 in)
 
 | Item | Per week | Notes |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, saving
 | Gifts | $15 | Into the gifts fund |
 | Fun and classes | $25 | |
 | Spare | $23 | |
-| **Saving** | **$135** | Split into the funds below each Sunday; more in good weeks, less when something breaks |
+| **Saving** | **$170** | Split into the funds below each Sunday; more in good weeks, less when something breaks |
 
 ## Savings: $20,000 (as of 11 Nov 2026)
 
