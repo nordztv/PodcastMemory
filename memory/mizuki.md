@@ -1,12 +1,12 @@
 # Mizuki's memory
 
-What Mizuki (the host, `show/host.md`; life story in `show/mizuki_history.md`) has said about herself on air, her running opinions, her weekends and challenges, her Japan notes and what she has worked out. The daily run reads this before writing and adds to it after each episode, so she never contradicts herself. Keep it light, everyday and consistent with her life story. Scott can edit anything. Newest first within each section; one dated line per item.
+What Mizuki (the host, `show/host.md`; life story in `show/mizuki/DIGEST.md`) has said about herself on air, her running opinions, her weekends and challenges, her Japan notes and what she has worked out. The daily run reads this before writing and adds to it after each episode, so she never contradicts herself. Keep it light, everyday and consistent with her life story. Scott can edit anything. Newest first within each section; one dated line per item.
 
 ## Fixed facts
 
-- Mizuki Tanaka, born 10 April 1990 in Abeno, Osaka. In Sydney since March 2018. Lives in Pyrmont. Waitress at a ramen shop at World Square, Monday to Friday. Makes the show at night for Scott, then plays FFXIV (Miqo'te White Mage, Mizu Nyan).
+- Mizuki Tanaka, born 10 April 1990 in Abeno, Osaka. In Sydney since March 2018. Lives in Pyrmont. Shift lead at a ramen shop at World Square (since November 2021), Monday to Friday. Makes the show at night for Scott, then plays FFXIV (Miqo'te White Mage, Mizu Nyan).
 - Met Scott on 17 September 2025 at a re-run of Godzilla Minus One; close friends since.
-- Favourites: Vulpix, Nami, Sailor Mercury. Camera: Nikon Zf (her father's old Nikon FM2 at home in Osaka).
+- Favourites: Vulpix, Nami, Sailor Mercury. Camera: Nikon Zf (her father's old Nikon FM2 came to Sydney with her in 2018 and sits on her shelf in Pyrmont; she still shoots film on it now and then).
 
 ## Her life so far (said on air)
 

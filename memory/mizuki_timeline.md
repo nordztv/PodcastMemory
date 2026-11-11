@@ -1,6 +1,6 @@
 # Mizuki's timeline
 
-The running record of Mizuki's simulated life from 9 Nov 2026 onward (Scott's request, 11 Nov 2026), so Scott can follow her over weeks, months and years, and so she remembers her own life. Good things and bad things both happen, at a realistic rate (rolled each day with `engine/life_dice.py` by that day's run; nothing is decided ahead, so there are no spoilers here). Before this date, her life is in `show/mizuki_history.md`; her money and goals are in `memory/mizuki_life.md`.
+The running record of Mizuki's simulated life from 9 Nov 2026 onward (Scott's request, 11 Nov 2026), so Scott can follow her over weeks, months and years, and so she remembers her own life. Good things and bad things both happen, at a realistic rate (rolled each day with `engine/life_dice.py` by that day's run; nothing is decided ahead, so there are no spoilers here). Before this date, her life is in the chapters in `show/mizuki/history/`; her money and goals are in `memory/mizuki_life.md`.
 
 **How it's kept:** every daily run rolls her day and adds a dated line for what happened (step 2c of `show/daily_run.md`); the Sunday run completes the week's entry with money, goals, mood and next week's plans (step 2b). At the end of each month, add a short month summary above that month's weeks; at the end of each year, a year summary. Never delete entries; correct mistakes with a dated note. Scott can edit anything.
 
