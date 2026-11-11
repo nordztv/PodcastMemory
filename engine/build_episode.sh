@@ -2,7 +2,7 @@
 # Builds one episode MP3 from its script sections.
 # Usage: sh engine/build_episode.sh YYYY-MM-DD [headlines]
 # Full episode: reads archive/YYYY/MM/YYYY-MM-DD/script/NN_*.txt in order, renders two sections at a time,
-# joins them with 1.8 s gaps and writes ~/podcast/out/Morning_Briefing_YYYY-MM-DD.mp3 (96 kbps mono, light warm "Happy 1" EQ),
+# joins them with 0.7 s gaps and writes ~/podcast/out/Morning_Briefing_YYYY-MM-DD.mp3 (96 kbps mono, light warm "Happy 1" EQ),
 # with a chapter marker per section (engine/chapters.py).
 # "headlines": the five-minute edition from archive/.../headlines/*.txt -> ~/podcast/out/Morning_Briefing_YYYY-MM-DD_headlines.mp3
 set -e
@@ -25,7 +25,7 @@ export WORK REPO
 # moments (engine/music.py; if that step fails, the plain voice is used).
 ls "$SRC"/*.txt | xargs -P2 -n1 sh -c 'f="$1"; b=$(basename "$f" .txt); [ -s "$WORK/$b.mp3" ] || { [ -s "$WORK/$b.voice.mp3" ] || python3 "$REPO/engine/tts.py" "$f" "$WORK/$b.voice.mp3"; python3 "$REPO/engine/music.py" "$WORK/$b.voice.mp3" "$WORK/$b.mp3" || cp "$WORK/$b.voice.mp3" "$WORK/$b.mp3"; }' _
 
-GAP=1.8
+GAP=0.7   # short, so the episode flows as one phone call (Scott, 11 Nov 2026; was 1.8)
 ffmpeg -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t $GAP -b:a 128k "$WORK/gap.mp3"
 : > "$WORK/list.txt"; : > "$WORK/timings.txt"
 for f in $(ls "$SRC"/*.txt); do
