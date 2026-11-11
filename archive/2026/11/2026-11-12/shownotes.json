@@ -1,0 +1,359 @@
+{
+ "date": "2026-11-12",
+ "weekday": "Thursday",
+ "length": "",
+ "headline": "Thursday: Mizuki's first morning call. Hegseth impeachment shelved, Remembrance Day, a new Dragon Quest, Takako Matsu in Confessions, Osaka's kuidaore, Godzilla Minus One's tiny team and Love Letter",
+ "challenge": "A ten minute walk outside at lunch, anywhere you like (first challenge, no rate yet)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Hegseth impeachment push shelved",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/hegseth-impeachment-push-shelved-by-house-republicans/107374048"
+      }
+     ]
+    },
+    {
+     "title": "Abu Dhabi talks end without a breakthrough",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042"
+      }
+     ]
+    },
+    {
+     "title": "Magnitude 5.7 earthquake in Shizuoka",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392"
+      }
+     ]
+    },
+    {
+     "title": "Weather: 19 to 24, a storm chance Friday",
+     "links": [
+      {
+       "label": "BoM",
+       "url": "https://www.bom.gov.au/places/nsw/haymarket/forecast/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "Remembrance Day: eleven WWI soldiers identified; Albanese at Changi",
+     "links": [
+      {
+       "label": "ABC live blog",
+       "url": "https://www.abc.net.au/news/2026-11-11/federal-politics-live-blog-nov-11/107371364"
+      }
+     ]
+    },
+    {
+     "title": "129 more hospital security staff after the Concord assaults",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/nsw-security-boost-nurses-allegedly-assaulted-concord-hospital/107372882"
+      }
+     ]
+    },
+    {
+     "title": "AI companies could face criminal charges (under consideration)",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676"
+      }
+     ]
+    },
+    {
+     "title": "Round-up: Macquarie's $14m penalty, Marles on Qantas, rip-spotting AI, COP31's 35-by-35",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Apple TV 4K reviews are mixed; on sale Friday",
+     "links": [
+      {
+       "label": "MacDailyNews",
+       "url": "https://macdailynews.com/2026/10/26/apples-299-apple-tv-4k-draws-praise-for-hands-free-siri-and-speed-but-high-profile-reviewers-question-the-value/"
+      }
+     ]
+    },
+    {
+     "title": "Nikkor Z 120-300mm f/2.8 and firmware rumours",
+     "links": [
+      {
+       "label": "Nikon Rumors",
+       "url": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-officially-announced.aspx/amp/"
+      }
+     ]
+    },
+    {
+     "title": "Switch 2 jailbreak claim, patched in 23.5.0; Google and Apple sign-ins ending",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15 awaits its FAA licence",
+     "links": [
+      {
+       "label": "Engadget",
+       "url": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/"
+      }
+     ]
+    },
+    {
+     "title": "Local AI runs faster on home GPUs",
+     "links": [
+      {
+       "label": "Digital Citizen",
+       "url": "https://www.digitalcitizen.life/nvidia-local-ai-gets-up-to-1-9x-faster-with-new-llama-cpp-and-vllm-optimizations/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle (2027, beta in December)",
+     "links": [
+      {
+       "label": "RPG Site",
+       "url": "https://www.rpgsite.net/news/21724-dragon-quest-rpg-the-cursed-tree-chosen-isle-new-dragon-quest-rpg-for-ios-android"
+      }
+     ]
+    },
+    {
+     "title": "Metaphor: ReFantazio on Switch 2: 8/10",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio"
+      }
+     ]
+    },
+    {
+     "title": "Pikmin 4 Switch 2 Edition reviews",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy"
+      }
+     ]
+    },
+    {
+     "title": "Mizuki's Final Fantasy XIV corner",
+     "links": []
+    },
+    {
+     "title": "Ocarina of Time 'off to a great start'",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo"
+      }
+     ]
+    },
+    {
+     "title": "Retro: Morning Star for Mega Drive, MSX on Apple Watch, Rondo of Blood cancelled, Mega Man Legends mystery",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/morning-star-is-a-promising-new-golden-axe-style-beat-em-up-coming-to-the-sega-mega-drive"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/looks-like-limited-runs-english-release-of-castlevania-rondo-of-blood-has-been-cancelled"
+      },
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/unknown-mega-man-legends-project-surfaces-online"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Actress of the Week: Takako Matsu in Confessions",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Takako_Matsu"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Confessions_(2010_film)"
+      }
+     ]
+    },
+    {
+     "title": "Korea passes 100 million admissions early; White Blast and Tristes Tropiques",
+     "links": [
+      {
+       "label": "Korea Times",
+       "url": "https://www.koreatimes.co.kr/entertainment/films/20261108/dune-3-avengers-doomsday-set-to-shake-up-year-end-box-office"
+      }
+     ]
+    },
+    {
+     "title": "Halsey's horror film Replacer adds Carrie-Anne Moss",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/indie/597101/carrie-anne-moss-halsey-replacer-horror-movie/"
+      }
+     ]
+    },
+    {
+     "title": "Expelled from Paradise sequel; Dead of Night",
+     "links": [
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/trailer/594689/dermot-mulroney-hunts-a-killer-in-the-bloody-trailer-for-dead-of-night/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "items": [
+    {
+     "title": "Osaka's kuidaore: eat until you drop",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Walking home",
+   "items": [
+    {
+     "title": "Mizuki's Thursday at the shop, and the cat on a lead",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Godzilla Minus One: 35 artists, 610 shots and a hobby that changed the ending",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Shunji Iwai's Love Letter (1995)",
+     "links": [
+      {
+       "label": "Moveable Fest",
+       "url": "https://moveablefest.com/shunji-iwai-love-letter/"
+      },
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Love_Letter_(1995_film)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "A ten-second moving portrait on your ZR",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Mizuki's goals: a sofa, her parents' visit and an okonomiyaki stall",
+     "links": []
+    },
+    {
+     "title": "The week ahead",
+     "links": []
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Actress of the Week",
+   "title": "Takako Matsu: Confessions (2010)",
+   "note": "Tetsuya Nakashima; check streaming",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Confessions_(2010_film)"
+    }
+   ]
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "Love Letter (1995), Shunji Iwai",
+   "note": "4K remaster released in Japan in April 2025; check availability",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Love_Letter_(1995_film)"
+    }
+   ]
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "Godzilla Minus One (2023)",
+   "note": "Where Mizuki and Scott met",
+   "links": []
+  }
+ ],
+ "questions": [
+  "What's the one food you'd eat until you drop, your own kuidaore, and where in Sydney do you get it?",
+  "When you were ten years old, what did you want to be when you grew up?",
+  "If I came to visit your part of Sydney, what's the one place you'd take me that I've never been?"
+ ]
+}

@@ -67,6 +67,8 @@ Big goals take months or years; modest ones days or weeks. Each has a status and
 
 Newest first. Each Sunday: what she did this week (from the episodes and her own life), what it cost, what went into savings, goal progress, plans for next week, and how she feels about it, in a few lines.
 
+- 2026-11-12: told Scott on air about the sofa ($260 to go), her parents' visit ($2,800 of $7,000) and, for the first time out loud, the okonomiyaki stall dream.
+
 ### Week ending 15 Nov 2026
 
 (To be written by the Sunday run on 15 Nov.)

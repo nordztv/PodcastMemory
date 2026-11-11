@@ -1,0 +1,218 @@
+[
+ {
+  "key": "opening-and-world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "opening-and-world-1",
+    "title": "Hegseth impeachment push shelved",
+    "topic": "Major world news"
+   },
+   {
+    "id": "opening-and-world-2",
+    "title": "Abu Dhabi talks end without a breakthrough",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "opening-and-world-3",
+    "title": "Magnitude 5.7 earthquake in Shizuoka",
+    "topic": "Japanese history and culture"
+   },
+   {
+    "id": "opening-and-world-4",
+    "title": "Weather: 19 to 24, a storm chance Friday",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "Remembrance Day: eleven WWI soldiers identified; Albanese at Changi",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-2",
+    "title": "129 more hospital security staff after the Concord assaults",
+    "topic": "NSW politics and Sydney news"
+   },
+   {
+    "id": "australia-3",
+    "title": "AI companies could face criminal charges (under consideration)",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-4",
+    "title": "Round-up: Macquarie's $14m penalty, Marles on Qantas, rip-spotting AI, COP31's 35-by-35",
+    "topic": "Australian economy and banks"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "Apple TV 4K reviews are mixed; on sale Friday",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-2",
+    "title": "Nikkor Z 120-300mm f/2.8 and firmware rumours",
+    "topic": "Nikon ZR, lenses and camera gear"
+   },
+   {
+    "id": "tech-3",
+    "title": "Switch 2 jailbreak claim, patched in 23.5.0; Google and Apple sign-ins ending",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "tech-4",
+    "title": "Starship Flight 15 awaits its FAA licence",
+    "topic": "SpaceX and Starship"
+   },
+   {
+    "id": "tech-5",
+    "title": "Local AI runs faster on home GPUs",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle (2027, beta in December)",
+    "topic": "Square Enix and Dragon Quest"
+   },
+   {
+    "id": "games-2",
+    "title": "Metaphor: ReFantazio on Switch 2: 8/10",
+    "topic": "Video game releases"
+   },
+   {
+    "id": "games-3",
+    "title": "Pikmin 4 Switch 2 Edition reviews",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-4",
+    "title": "Mizuki's Final Fantasy XIV corner",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-5",
+    "title": "Ocarina of Time 'off to a great start'",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-6",
+    "title": "Retro: Morning Star for Mega Drive, MSX on Apple Watch, Rondo of Blood cancelled, Mega Man Legends mystery",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "Actress of the Week: Takako Matsu in Confessions",
+    "topic": "Cult actresses and iconic characters"
+   },
+   {
+    "id": "movies-2",
+    "title": "Korea passes 100 million admissions early; White Blast and Tristes Tropiques",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-3",
+    "title": "Halsey's horror film Replacer adds Carrie-Anne Moss",
+    "topic": "Horror films"
+   },
+   {
+    "id": "movies-4",
+    "title": "Expelled from Paradise sequel; Dead of Night",
+    "topic": "Sci-fi and action films"
+   }
+  ]
+ },
+ {
+  "key": "japan",
+  "name": "Japan",
+  "items": [
+   {
+    "id": "japan-1",
+    "title": "Osaka's kuidaore: eat until you drop",
+    "topic": "Japanese history and culture"
+   }
+  ]
+ },
+ {
+  "key": "walking-home",
+  "name": "Walking home",
+  "items": [
+   {
+    "id": "walking-home-1",
+    "title": "Mizuki's Thursday at the shop, and the cat on a lead",
+    "topic": "Japanese history and culture"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "Godzilla Minus One: 35 artists, 610 shots and a hobby that changed the ending",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Shunji Iwai's Love Letter (1995)",
+    "topic": "Directors and filming techniques"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "A ten-second moving portrait on your ZR",
+    "topic": "Photography and camera technique"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "Mizuki's goals: a sofa, her parents' visit and an okonomiyaki stall",
+    "topic": "Japanese history and culture"
+   },
+   {
+    "id": "chat-and-goodbye-2",
+    "title": "The week ahead",
+    "topic": "Video game releases"
+   }
+  ]
+ }
+]

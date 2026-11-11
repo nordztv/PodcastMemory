@@ -8,3 +8,4 @@ Mizuki's obsession of the week: each week she watches a film and gets a little o
 
 | Week of | Actress | Film she watched | Why her |
 | --- | --- | --- | --- |
+| 2026-11-09 | Takako Matsu | Confessions (2010), rewatched Monday night | Mizuki's favourite kind of film (cold, clever revenge with a twist); Elsa's Japanese voice; born 10 June like Scott; links to Shunji Iwai (April Story) |
