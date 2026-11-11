@@ -6,6 +6,9 @@ life (if the week has either) lands that day.
 
        python3 engine/life_dice.py arcs SUNDAY_DATE "Arc name" ["Arc name" ...]
 Sunday runs only: rolls each active long story arc in memory/mizuki_arcs.md once for the week ending that Sunday.
+
+       python3 engine/life_dice.py month FIRST_OF_MONTH_DATE
+First run of each month only: rolls that month's opportunity (memory/mizuki_life.md, Improving her life).
 Every daily run rolls its episode's date (and on Mondays also the Saturday and Sunday before), turns the result into
 something realistic that fits her life, money and history, and she tells Scott about it in that episode. Nothing is
 decided ahead, so her timeline never contains spoilers. Seeded by the date, so re-running gives the same result.
@@ -18,6 +21,10 @@ Week roll (d100, once per Monday-to-Sunday week, landing on one random day):
 People roll (d100, once per week, landing on one random day; Scott's feature 10, 12 Nov 2026):
                  1-25 = someone in her life has news this week (the run picks who fits memory/people_timelines.md),
                         with a tone (d6): 1 = bad news   2-4 = everyday news   5-6 = good news
+Month roll (d20, first run of each month; Scott's request 12 Nov 2026):
+                 1-3 = a door closes (a job she wanted goes to someone else, a rent rise, a course is full)
+                 4-13 = nothing new   14-19 = an opportunity appears (a job ad, a paid shoot, a cheaper flat, a course
+                        with a discount, a market with a free stall spot)   20 = a real break
 Arc roll (d20 per active arc, Sundays; Scott's feature 9):
                  1-2 = a setback   3-12 = no real change   13-18 = a step forward   19-20 = a big leap
 """
@@ -27,6 +34,7 @@ DAY = [(1, "a real setback"), (5, "a small bad thing"), (16, "an ordinary day"),
 WEEK = [(4, "a significant bad event"), (92, None), (100, "a significant good event")]
 TONE = [(1, "bad news"), (4, "everyday news"), (6, "good news")]
 ARC = [(2, "a setback"), (12, "no real change"), (18, "a step forward"), (20, "a big leap")]
+MONTH = [(3, "a door closes"), (13, "nothing new"), (19, "an opportunity appears"), (20, "a real break")]
 
 
 def label(table, roll):
@@ -51,6 +59,11 @@ def main():
         for name in sys.argv[3:]:
             a = random.Random(f"mizuki-arc-{d.isoformat()}-{name.lower()}").randint(1, 20)
             print(f"{name}: d20 {a:2d}  {label(ARC, a)}")
+        return
+    if sys.argv[1:2] == ["month"]:
+        d = datetime.date.fromisoformat(sys.argv[2])
+        m = random.Random(f"mizuki-month-{d.strftime('%Y-%m')}").randint(1, 20)
+        print(f"{d.strftime('%B %Y')}: d20 {m:2d}  {label(MONTH, m)}")
         return
     for arg in sys.argv[1:]:
         d = datetime.date.fromisoformat(arg)
