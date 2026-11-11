@@ -226,10 +226,11 @@ def main():
     styles = {m: blend(cfg["voice"] or voice) for m, cfg in MOODS.items()}
     weights = {m: float(m == "normal") for m in MOODS}   # how much of each tone is in her voice right now
     mix = lambda key, default=None: sum(w * (MOODS[m][key] or default) for m, w in weights.items())
-    chunks = []
+    chunks, spans, pos = [], [], 0   # spans: where each spoken chunk sits, with its mood (for engine/music.py)
     for kind, ph, mood, punch in chunks_of(sentences(open(src).read())):
         if kind != "say":
             chunks.append(np.zeros(int(SR * ph), np.float32))
+            pos += len(chunks[-1])
             continue
         weights = {m: w + ((m == mood) - w) * EASE for m, w in weights.items()}
         pitch, gain, gap = mix("pitch"), mix("gain"), mix("gap")
@@ -240,11 +241,16 @@ def main():
                                 "style": style.astype(np.float32),
                                 "speed": np.array([tempo / pitch], np.float32)})[0].ravel()
         audio = shift_pitch(audio, pitch) * gain * (PUNCH_GAIN if punch else 1)
+        spans.append({"start": round(pos / SR, 3), "end": round((pos + len(audio)) / SR, 3), "mood": mood,
+                      "punch": bool(punch)})
         chunks += [audio, np.zeros(int(SR * (gap + (0.2 if punch else 0))), np.float32)]
+        pos += len(chunks[-2]) + len(chunks[-1])
     wav = np.concatenate(chunks)
     pcm = (np.clip(wav, -1, 1) * 32767).astype(np.int16).tobytes()
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "s16le", "-ar", str(SR), "-ac", "1", "-i", "-",
                     "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-b:a", "128k", out], input=pcm, check=True)
+    with open(os.path.splitext(out)[0] + ".moods.json", "w") as f:
+        json.dump(spans, f)
     print(f"{out}: {len(wav) / SR:.1f}s")
 
 
