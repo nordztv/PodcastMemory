@@ -7,7 +7,7 @@ Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chat
 - Lives in Sydney. Weekdays: walks to Green Square, train to St James, walks through Hyde Park and the Royal Botanic Garden to work.
 - Listens to the first 50 to 60 minutes of the show in the morning, and the rest on the way home around 4pm (Hyde Park back to Green Square). (11 Nov 2026)
 - Has a wife and a young son (turned one in September 2026); Friday weekend ideas are toddler-friendly.
-- Birthday: not known yet (Mizuki can ask).
+- Birthday: 10 June 1986 (told the show 11 Nov 2026).
 
 ## Projects and kit
 
