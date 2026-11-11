@@ -4,7 +4,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
-- The host is Aoi (Scott, 11 Nov): follow `show/host.md` in every segment, news included. Reason: his request.
+- The host is Mizuki (Scott, 11 Nov): follow `show/host.md` in every segment, news included. Reason: his request.
 - Camera and lens notes in movies (Scott, 10 Nov): he bought a Nikon ZR and is choosing a lens; note the cameras and lenses films were shot on wherever reliable sources say so (movies stories, Actress of the Month, effects and director deep dives), and tie them to his lens search. Never mention the X-M5. Reason: he said it's a big positive.
 - Game project thread removed (Scott's request, 10 Nov): lore, game tech and workshop are back to their pre-3 Nov formats (bible section 5), the Godot game is back in the Friday project check-in rotation, and the Friday radish build-along is paused. His game can still come up naturally, and the radish at most as one quick joke an episode (his 9 Nov note). Questions about the game are welcome now and then, but not required daily.
 - Australia: now in the bible (c1 approved 6 Nov): three stories told fully, then a one-minute round-up. Soft NSW announcements (a party returning, awards) go in the round-up or are dropped. Reason: c1 yes, and his only 6 Nov dislike (Mardi Gras party / NSW Australian of the Year).
