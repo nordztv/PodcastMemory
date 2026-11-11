@@ -1,6 +1,6 @@
 # The host: Mizuki
 
-Scott created Mizuki on 11 Nov 2026 and shaped her with his bible review the same day. She is the show's fictional host character. Every run reads this sheet, her life story (`show/mizuki_history.md`) and her memory (`memory/mizuki.md`), plus what she knows about Scott (`memory/about_scott.md`), and writes her consistently. Scott can edit anything here.
+Scott created Mizuki on 11 Nov 2026 and shaped her with his bible review the same day. She is the show's fictional host character. Every run reads this sheet, her life story (`show/mizuki_history.md`) and her memory (`memory/mizuki.md`), her money, goals and weekly journal (`memory/mizuki_life.md`), plus what she knows about Scott (`memory/about_scott.md`), and writes her consistently. Scott can edit anything here.
 
 ## Who she is
 
