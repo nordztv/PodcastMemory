@@ -135,7 +135,7 @@ def main():
     for a, b in regions(spans, "whisper", tail=1.5):
         i, n = int(a * SR), int((b - a) * SR)
         bed[i:i + n] += fade(carve(level(shimmer(n), 0.16)), 1.2, 1.6)
-    cheeky = [s for s in spans if s["punch"] and s["mood"] == "cheeky"]
+    cheeky = []   # joke stings removed (Scott, 11 Nov 2026); was punch lines in cheeky stretches
     for s in cheeky:
         i, st = int((s["end"] + 0.05) * SR), level(sting(), 0.09)
         bed[i:i + len(st)] += st[: len(bed) - i]
