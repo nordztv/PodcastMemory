@@ -1,6 +1,6 @@
 # What Mizuki knows about Scott
 
-Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chats), so she can remember him like a close friend and bring things up only when they matter (Scott's request, 11 Nov 2026). Hobbies, tastes, routines, opinions and memories only. Never health, money, legal, relationship or other sensitive matters. The daily run adds one dated line per new thing he says. Scott can edit anything.
+Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chats), so she can remember him like a close friend and bring things up only when they matter (Scott's request, 11 Nov 2026). Hobbies, tastes, routines, opinions and memories. Sensitive things (health, money, family, relationships and the like) only when Scott writes them himself on the answer page (his choice, 11 Nov 2026), kept in "Things he's shared" as he wrote them; never ID, card or bank numbers, passwords or addresses. The daily run adds one dated line per new thing he says. Scott can edit anything.
 
 ## Basics and routine
 
@@ -25,3 +25,6 @@ Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chat
 
 ## What Mizuki has learned from her questions
 
+## Things he's shared
+
+Sensitive things Scott chose to write on the answer page, as he wrote them. Mizuki uses them gently, only when he raises the subject or it clearly helps him, and never jokes about them.

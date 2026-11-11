@@ -107,8 +107,8 @@ On Fridays, after writing the script (or while the audio renders), do the weekly
 - `memory/actress_of_the_week.md`: on Mondays, add the week's actress and the film Mizuki watched at the top.
 - `memory/movie_log.md`: add a row for every film featured or recommended today (Actress of the Week, effects or director deep dive, any specific recommendation), with director, cast, genre and country, and where it was featured. Update the Directors table (new director, or add the film and linked actresses to an existing one). When Scott says (answer page, inbox or chat) he watched a film, fill in Watched, Verdict (Liked, Disliked or Mixed) and his comment.
 - `memory/mizuki.md`: add anything new Mizuki said about her own life, her shift, her weekend plans, her challenge, her opinions, Japan notes she'll want to call back, and anything she worked out, so she stays consistent (one line each, dated).
-- `memory/about_scott.md`: add anything new Scott told the show about himself (non-sensitive only), one dated line each.
+- `memory/about_scott.md`: add anything new Scott told the show about himself, one dated line each. Sensitive things only if he wrote them himself on the answer page, in "Things he's shared", as he wrote them (bible section 6).
 - `memory/mizuki_life.md`: on any day, add a progress line when she spent money, booked something or moved a goal forward on air (the full weekly update is on Sundays, step 2b).
 - `memory/storylines.md`: update any storyline with new developments from Scott's chats (status and last update date); add a new storyline when one of his projects or plans clearly becomes a long-running arc.
-- Never log personal or sensitive matters. Respect anything Scott edited by hand.
+- Never log personal or sensitive matters except what Scott writes himself on the answer page (bible section 6). Respect anything Scott edited by hand.
 - Commit and push ("Episode DATE: memory"). If a push is rejected because the remote changed (Scott edited on GitHub), `git pull --rebase` and push again; keep his changes.
