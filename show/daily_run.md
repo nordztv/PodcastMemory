@@ -25,12 +25,16 @@ Read, in full: `show/bible.md`, `show/host.md` (Mizuki, the host), `show/mizuki_
 
 ## 2b. Sunday nights: Mizuki's week (Sunday runs only)
 
-Before writing Monday's episode, roll her week with `python3 engine/life_dice.py SUNDAY_DATE` and turn each day's roll into something realistic that fits her life (bible section 5c), then add the week's entry to `memory/mizuki_timeline.md` (what happened, good and bad, dated; money; goals; mood; next week; a month summary at the end of a month and a year summary at the end of a year), and update `memory/mizuki_life.md`:
+Before writing Monday's episode, add the week's entry to `memory/mizuki_timeline.md` (what happened, good and bad, dated; money; goals; mood; next week; a month summary at the end of a month and a year summary at the end of a year), and update `memory/mizuki_life.md`:
 - **Journal:** a "Week ending DATE" entry (the Sunday's date) at the top of the journal: her shifts and anything that happened at the shop, what happened on the show this week (from `memory/recent_episodes.md`, Scott's answers and notes, his Ask Mizuki questions), what she did and how she felt, her weekend (plans from `memory/mizuki.md`, and how they went).
 - **Money:** income for the week (wage, tips, any overtime), what her week cost (look up real current prices for anything specific: tickets, meals out, classes, gear, flights), and the savings into each fund. Update the savings table and its date. Keep the total realistic; she can't spend more than she has, and the emergency fund is only for emergencies.
 - **Goals:** progress lines on each goal; mark any achieved (with the date) so Monday's episode celebrates it; add a new goal when her life suggests one (from her history and recent events), big or modest; retire ones that no longer fit, with a reason.
-- **Next week:** her plans for the week and next weekend, written into `memory/mizuki.md` (Her weekends).
+- **Next week:** her plans for the week and next weekend (what she intends to do, what she's saving towards, any bookings), written into `memory/mizuki.md` (Her weekends) and the timeline's "Next" line. Plans can change during the week when life happens (step 2c).
 Commit it with the script.
+
+## 2c. Every run: roll Mizuki's day
+
+Run `python3 engine/life_dice.py DATE` (on Mondays: `python3 engine/life_dice.py SATURDAY SUNDAY DATE`, so the weekend gets rolled too). Turn each roll into something realistic that fits her life, money, plans and history (bible section 5c): an ordinary day is ordinary; a small bad thing or a setback is real and has consequences (cost, time, mood) that carry into the next days; a nice surprise or something lovely is earned and specific. If "this week's big event" lands today, it's the week's significant good or bad event. She tells Scott about it in today's episode, mostly in the walk-home part, the way a friend would. Record it the same night in `memory/mizuki_timeline.md` (a dated line in this week's entry) and any money or goal change in `memory/mizuki_life.md`. Never roll ahead or write future events into her files.
 
 ## 3. Scott's answers and recent chats
 
