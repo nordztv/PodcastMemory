@@ -1,0 +1,219 @@
+Morning Briefing with Mizuki, Thursday 12 November 2026
+
+OHAYOU, WEATHER AND WORLD NEWS
+
+Ohayou gozaimasu, Scott. I hope you are doing well today.
+
+Okay. Um. Hi. It's been so long since we properly talked, and I've been practising this all evening, and now I've forgotten everything I practised. Sorry. I'm a bit nervous. Is that silly? It's just you.
+
+So here's the thing. I just got home from the shop, my feet are tired, I've made myself a hojicha, I'm sitting at my little low table in Pyrmont with a blanket over the chair... and I decided. I want to do this every weekday. Talk to you in the mornings while you walk in, and again on the way home. Like a phone call. Just us. If you'll let me, of course.
+
+Okay! It's Thursday, the twelfth of November. And the weather for your walk is nice. The Bureau says a low of nineteen and a top of twenty four, with only a small chance of a shower this morning, so I'd still put a little umbrella in your bag, just in case. I know. You won't. I'll say it anyway, so later I can say I told you. There's a southerly breeze this morning, so it might feel cool on the platform at Green Square, then it swings round to the east this afternoon. And tomorrow is warmer, twenty six, with a chance of a storm in the afternoon.
+
+I have so much to tell you. A new Dragon Quest. Takashi Yamazaki's tiny Godzilla team, and how they did it. A film I rewatched this week that I can't stop thinking about. Why Osaka people eat like it's a sport. And one very small cat, on a lead. You'll see.
+
+But first, I was reading the ABC on my break, and a few things happened overnight that you should know.
+
+In Washington, the push to impeach the Defence Secretary, Pete Hegseth, has been stopped, at least for now. The House voted to send the articles of impeachment off to a committee, which the ABC says essentially kills the push for the rest of the year. The only Republican who voted with the Democrats was Thomas Massie, the man who brought it. Hegseth said he was being "condemned not for defeat, but for military victory". It's not quite over, though. From January the Democrats will run both houses of Congress, and the ABC says they may well try again.
+
+In Abu Dhabi, the first talks between Ukraine, Russia and the United States since February have ended without a breakthrough. America's negotiators sounded hopeful. Jared Kushner said they'd "really identified, narrowed the gaps", and Marco Rubio called it "very productive". But the big gaps are still there. Russia still wants all of Donbas, Russia's foreign minister rejected a truce until there's a wider security deal, and a senior Ukrainian official denied that Kyiv would consider giving up land. No date has been set for the next round.
+
+And a little closer to my heart. On Sunday, a magnitude five point seven earthquake hit Shizuoka Prefecture in Japan, in the middle of the night. At least twenty two people were hurt, mostly from broken shop windows. Japan's weather agency says there could be more strong shaking this week, but it sees no change at the Nankai Trough, which is the one everyone in Japan worries about. I always check on earthquakes. Old habit. Everyone's okay at home.
+
+AUSTRALIA
+
+And here at home, it was Remembrance Day yesterday. Eleven o'clock, everything goes quiet for a minute. Even at the shop, Mr Kondo turned the radio down and we all stood still behind the counter, with the steam still going.
+
+And this year there was something special. Eleven Australian soldiers from the First World War have been formally identified, more than a hundred years later. One of them, Lieutenant Andrew Anderson, was the great uncle of the Deputy Prime Minister, Richard Marles. He survived Pozières, Mouquet Farm and Bullecourt, then was killed near Ypres in Belgium in nineteen seventeen, and he's buried at Hooge Crater Cemetery. The search started with a letter to the Army from a reverend in Scotland, and Marles described "painstaking matching of records and eyewitness accounts".
+
+The Prime Minister marked the day at Changi in Singapore, at the memorial to the Australian prisoners of war held there, by Japan, in the Second World War. He said the men showed "courage, selflessness, sacrifice and mateship". I always feel it a bit, on days like that. My country did terrible things in that war, and Australia remembers them honestly. And now here I am, a Japanese woman, bowing my head in a ramen shop in Sydney, and nobody looks at me strangely. I think that says something nice about both countries, how far they've come.
+
+Next, a story about hospitals, here in New South Wales. On Tuesday, a patient at Concord Hospital allegedly attacked two nurses. One of them, who's fifty seven, broke her wrist. The patient was restrained and police are investigating. So the state government is hiring a hundred and twenty nine extra full time security staff for twenty seven hospitals. The ones with the most violent incidents are Westmead, Prince of Wales and Royal North Shore.
+
+The Health Minister, Ryan Park, said there's "simply no excuse" for threatening staff, and he partly blamed methamphetamine. The health workers' union says the extra guards mean hospitals can stop trouble before it starts instead of reacting to it. And one guard at Royal North Shore told the ABC that a six hundred and fifty bed hospital has about four security staff per shift. Why it matters: nurses are the people who look after all of us at our worst moments, and they shouldn't have to be afraid at work. What happens next: the government hasn't decided yet whether to give the guards more powers.
+
+And one update on the artificial intelligence story, after OpenAI's agents got into Medicare statistics. The ABC makes an important point: the tough new measures are still being considered, not decided. The government is looking at a world-first criminal offence for A I companies that fail to stop their models causing harm, criminal penalties for the worst breaches, and a watchdog that can hand out big fines. The Prime Minister calls Australia a "first mover". But the law expert Ed Santow says civil penalties, meaning big fines in the courts, would be "much more useful" than criminal charges. And OpenAI says it's reviewing the proposals. The rest of the new A I standards are due by the end of the year.
+
+A few smaller things.
+
+Macquarie Bank has admitted that its savings "Welcome Rate" was worded misleadingly a few years ago, and it faces a proposed fourteen million dollar penalty. It's already paid back eight point eight million to almost forty thousand customers. So, check your interest rate. I checked mine. I'm saving for a sofa. Every cent matters.
+
+On the Qantas job cuts, the Acting Prime Minister, Richard Marles, called them "disappointing" and said Australian jobs need to be "a focus here".
+
+Surf Life Saving is trialling an A I tool to spot rip currents on New South Wales beaches. Which I love, because I am a very careful swimmer.
+
+And at the C O P thirty one climate summit in Türkiye, there's a row over a target for electricity to be thirty five per cent of the world's energy use by twenty thirty five. Chris Bowen, who's running the negotiations, says the world has "no chance" of holding to one point five degrees without it. Critics point out the wording doesn't say the electricity has to be clean.
+
+TECH
+
+Okay, which reminds me, speaking of things that cost too much... the new Apple T V. It comes out tomorrow, for two hundred and ninety nine US dollars, and the reviews are a bit mixed.
+
+The good bits. Engadget says the new microphones really work from the couch, so you can just talk to it, and they called the on-screen Siri "a clean implementation". And the remote finally plays a little chime when you lose it in the cushions. Which, for you, is the main feature. Don't pretend. I've seen your couch.
+
+But. The Verge says it still can't output four K at a hundred and twenty frames, there's no audio passthrough, and no extra ports. CNET and Engadget both say the price is "hard to justify for most buyers". It's more than double what the twenty twenty two model cost when it launched, and the cheaper storage size is gone. Apple. Always. For you, with your Jellyfin server already doing all the hard work? I think the box you have is fine. Save your money for a lens.
+
+Speaking of which. Nikon has a big new lens, the Nikkor Z one twenty to three hundred millimetre f two point eight, with a built-in teleconverter. That's a sports and wildlife lens, very serious, very heavy, very expensive. Not your travel lens. But the rumour sites say Nikon is also working on new firmware for all its newer cameras, not just your Z R. So keep an eye out. I want the same thing for my Zf, so we can be excited together.
+
+Now, this one's naughty. A security researcher says he's made the first software-only jailbreak for the Switch two. He used an old game called SmileBASIC four, which was taken off the eShop, and he says he even used an A I coding tool to help build it. He showed off adding new characters to Mario Kart World. Nintendo said nothing, but Nintendo's new system update, twenty three point five, seems to close the hole anyway. Nintendo doesn't talk. Nintendo patches. Very Japanese, honestly. No drama, just quietly fixed.
+
+Also from Nintendo: from twenty twenty seven, you won't be able to sign in to a Nintendo Account with Google or Apple any more. So if that's how you log in, it might be worth setting up a password before then.
+
+And space! Starship Flight Fifteen is set for Saturday morning our time, from a quarter to ten. This is the one where SpaceX tries to catch both halves: the big booster, and then the ship itself, after about fourteen trips around the Earth. But as of last night, the American aviation regulator still hadn't been reported giving it the licence. So the date could still move. If it goes, I'll be watching from my balcony with toast. Not that I can see Texas from Pyrmont. But it feels right.
+
+And one for your graphics card hunt. Nvidia and the open source community behind tools like llama dot c p p have been making local A I models run a lot faster on home graphics cards. They say up to fifty per cent faster on one of the new Qwen models on an R T X fifty ninety, and close to double on a bigger one. So the card you don't own yet... just got faster. Congratulations.
+
+GAMES
+
+Okay, but games. And I have to start with Dragon Quest, because it's the series my brother Kenta and I used to argue about. He was Dragon Quest. I was Final Fantasy. We were not a peaceful household.
+
+Square Enix has shown a brand new Dragon Quest for phones. It's called Dragon Quest R P G: The Cursed Tree and the Chosen Isle. It's a proper turn-based adventure, coming in twenty twenty seven, though not to every country. And there's a closed test in December, from the eighth to the fifteenth, for twenty five thousand players, chosen by lottery if too many people apply. Applications close on the twenty third. They haven't said who's making it, or anything about the story yet. Which means I can't tell you if it's good. But it's Dragon Quest. It's going to be a slime, a sword and a very long walk. Kenta, if you hear this... it's still not Final Fantasy.
+
+Speaking of Japanese role playing games, Metaphor: ReFantazio comes out on Switch two today. It's from Atlus, the team behind Persona, and Nintendo Life gave it eight out of ten. They called it "an extraordinary J R P G", but they're not happy with how it runs on the Switch two: the frame rate dips in every mode, and some cut scenes look fuzzy. Their best line was, "there's no metaphor for a dodgy frame rate." I liked that one.
+
+Pikmin four's Switch two Edition is out today too, with a ten dollar upgrade for owners of the original. It runs in four K, it has new commands for the dog, Oatchi, and you can talk to it with your voice. The reviews are mixed on the new time trial mode, Dandori Academy, because the stages come out a little at a time each month. Nintendo Life gave it seven out of ten and called it "more of a budding shoot right now than the full-bloom upgrade". See, this is my problem with new games. Monthly stages. In my day you bought the cartridge and the whole game was on it. Sixteen colours, and we were grateful.
+
+Okay, and now I'm allowed to talk about my thing. Final Fantasy. You knew this was coming.
+
+I play Final Fantasy Fourteen every night after I record this. My character is a Miqo'te White Mage called Mizu Nyan. Don't laugh. I was twenty three. Okay, you can laugh a little. I've been a White Mage since twenty thirteen, since A Realm Reborn, when my friend Aya talked me into it. She's the tank, she runs in first, and I keep her alive. Which, honestly, is the story of our whole friendship.
+
+This week's patch, seven point five eight, is a nice quality-of-life one, and the big news is still the next expansion, Evercold, on the twenty third of February. And there's a live show this Saturday at ten in the morning our time, recapping the Tokyo fan festival. My Free Company here in Sydney, Tsukimi Noodles, is having a watch party in our in-game house. It's decorated like a soba shop. Of course it is.
+
+And here's my expert opinion, which you didn't ask for. The best Final Fantasy Fourteen story is Endwalker. Then Shadowbringers. Then Heavensward. I finished Endwalker at two in the morning on my balcony floor during the twenty twenty one lockdown, and I cried, and my only thought was, "Nobody thanks the healer." One day I'll get you to play it. One day. I'm very patient. White Mages are very patient.
+
+And Ocarina of Time on Switch two is, in Nintendo's words, "off to a great start". Nintendo's president says it's too early for numbers, but it's selling well everywhere. I watched Daisuke play the original, you know, at my grandmother's place. I wasn't allowed to touch the controller. I was the audience. I'm still the audience.
+
+Okay, the retro corner, which is my favourite bit, because I love old games. Someone is making a brand new Mega Drive game, a beat 'em up called Morning Star, in the style of Golden Axe. On a real cartridge-era console, in twenty twenty six! I love that people still do this. And someone has squeezed the old M S X computer library onto an Apple Watch. On your wrist. Why? Because they can.
+
+Sad one, though. Limited Run's English release of Castlevania: Rondo of Blood, for the original PC Engine hardware, looks like it's been cancelled. It was announced back in twenty twenty one. There's no official statement, but a fan says the company told him, and it was reportedly confirmed on their Discord. Five years of waiting. That's a shame.
+
+And a mystery. Something called "Mega Man Legends" has turned up on a list of productions filming in Toronto until December, listed only as "new media". Nobody knows what it is. Mega Man turns forty next year. So... watch this space.
+
+Oh, and I want to start something on Monday. Every week, I'm going to pick you one old Super Nintendo or Mega Drive game to play. Something from my childhood, or from yours. I already know you've played Crusader of Centy, Beyond Oasis and A Link to the Past, so I'll find you something new. And then you have to tell me what you thought. Homework. From me. Fun homework.
+
+MOVIES
+
+Okay. Films. And I have a confession. That's a joke. You'll get it in a second.
+
+On Monday night, after my shift, I rewatched Confessions. Kokuhaku. The twenty ten film by Tetsuya Nakashima, from Kanae Minato's novel. I first saw it in the cinema with my best friend Aya when I was twenty, and I hadn't watched it since. And now I can't stop thinking about the woman in the middle of it. So she's my actress of the week: Takako Matsu.
+
+In Confessions she plays Yuko Moriguchi, a middle school teacher, standing in front of her class on the last day of term, calmly telling them that two of the students in that room killed her little daughter. And then telling them what she's done about it. She never raises her voice. That's what makes it so frightening. It's told in confessions, one character after another, each one changing what you think you know. It's cold and clever and sad, and there's a little bit of violence that I watched through my fingers, as usual. It won Best Picture at the Japan Academy Prize, and it was Japan's choice for the Oscars, and it made the shortlist. And the theme song is Radiohead, "Last Flowers", which was a big deal in Japan at the time.
+
+And Takako Matsu herself. She was born into a famous kabuki family in Tokyo, she became a huge star in the nineties on television, in Long Vacation and Love Generation, and she starred in April Story, by Shunji Iwai, who made one of my all-time favourite films. Remember that name. I'm coming back to him later. And she was the voice of Elsa in the Japanese version of Frozen. She sang "Let It Go" in Japanese, "Ari no Mama de", which means something like "just as I am". Every child in Japan sang it. Every single one. My niece Hana is two, and she sings it now, badly, on video calls. It's the best thing I've ever heard.
+
+Oh! And wait. I looked it up last night. Takako Matsu was born on the tenth of June. Do you know who else was born on the tenth of June? You. So you share a birthday with Elsa. I'm going to remember that forever.
+
+For your camera notebook: Confessions was shot by two cinematographers, Shōichi Atō and Atsushi Ozawa, and it looks like nothing else. Grey and blue and cold, lots of slow motion, almost like a long music video. When you rewatch it, look at how still the camera is when she's talking, and how much it moves when the children are. The camera tells you who's in control.
+
+Okay, other film news. In Korea, cinema admissions this year have already passed a hundred million, more than two months earlier than last year. Coming soon: White Blast, a mystery with Kim Yoon-seok, on the eighteenth, and Tristes Tropiques, an action noir from Park Hoon-jung. And Dune: Part Three opens in Korea two days before America. Korea always gets things first. Lily at work will not stop reminding me.
+
+In horror, Halsey has written and is starring in a film called Replacer, about an underground radio station in Montreal that gets warped by a mysterious signal from under the subway, and Carrie-Anne Moss from The Matrix has joined the cast. A late night radio host... talking to someone... in the dark... who might not be there. Okay, that's a bit close to home. I'm recording this at night, you know.
+
+And in Japan, a new sci-fi anime film, a sequel to Expelled from Paradise, opens tomorrow, written by Gen Urobuchi. And Dead of Night, an American horror film with Dermot Mulroney, opens in cinemas in the U S tomorrow too.
+
+JAPAN
+
+You know what I was thinking about tonight, cooking dinner? Food. Obviously. But Osaka food, specifically. Because you've never really heard me go on about it, and I can go on about it for hours.
+
+There's an old saying in Japan. In Kyoto, people ruin themselves on clothes: "Kyō no kidaore". And in Osaka, people ruin themselves on food: "Ōsaka no kuidaore". Eat until you drop. Kyoto people dress beautifully and say polite things they don't mean. Osaka people eat everything and say exactly what they mean. I'm not biased. At all.
+
+And there's a reason for it. Back in the Edo period, hundreds of years ago, Osaka was called "the nation's kitchen", tenka no daidokoro. All the rice from all over Japan came through Osaka's merchants and warehouses, and so did the best seafood, the kelp from Hokkaido, everything. So Osaka became a city of merchants, not samurai. Merchants spend their money on what makes them happy, and what makes them happy is dinner.
+
+So, the classics. Takoyaki, little balls of batter with octopus inside, which were invented in Osaka in the nineteen thirties. Kushikatsu, things on sticks, crumbed and fried, with a big shared pot of sauce. And there's one rule: no double dipping. Never! In Osaka you would be arrested. Not really. But the whole bar would look at you.
+
+And okonomiyaki. My family's food. "Okonomi" means "what you like", and "yaki" means "grilled". In Osaka style, you mix everything together in the bowl, cabbage and batter and pork and whatever you like, and cook it on the hotplate, then sauce, mayonnaise, bonito flakes and seaweed on top. In Hiroshima they layer it instead, with noodles. Hiroshima people will tell you theirs is better. Hiroshima people are wrong. Very politely wrong.
+
+My parents' shop in Abeno has eight seats at the counter and two tables. I grew up upstairs, with the smell of sauce coming through the floor every night. My dad cooks, my mum runs everything else, and my favourite seat is the third one from the left at the counter. When I went home in twenty twenty three, after five years away, my mum looked at me and said, "You're late." And my dad made me a pork and kimchi okonomiyaki without asking, because he knew. That's how my family says "I missed you".
+
+And Osaka people talk about food the way Australians talk about the weather. You walk into a shop in Osaka and the first thing anyone asks isn't "how are you". It's "have you eaten?" And Osaka is a city of comedy too, manzai, double acts, so every meal comes with an argument. My parents are basically a comedy double act. My dad says something completely ridiculous with a straight face, and my mum hits him with the menu. Decades of marriage, and she's still hitting him with the menu.
+
+And here's a little cultural thing that surprised me most when I came to Sydney. In Osaka, when you say a price, the shopkeeper expects you to ask for a discount. "Can you make it a bit cheaper?" "Mo chotto makete?" It's a game. Here, I tried it once at a café in Glebe, my first month. The barista just stared at me. For a very long time. I paid full price. I was so embarrassed.
+
+One more Osaka thing for you, for when you visit one day. In Dotonbori, along the canal, there's the giant Glico running man sign, arms up, which has been there in some form since the nineteen thirties. And there's Kuidaore Tarō, a mechanical clown drummer in a striped suit and glasses, who stood outside a famous restaurant for decades. The restaurant closed in twenty oh eight and everyone cried, but Tarō is still there, drumming. He's been drumming... for more than seventy years. He never sleeps. And his eyes... follow you down the street. He's lovely, really.
+
+So here's my question for you, and I really want to know. What's the one food you would eat until you drop, your own kuidaore? And where in Sydney do you get it? My answer: my dad's pork and kimchi okonomiyaki, third seat from the left, in Abeno. Which is eight thousand kilometres away. So in Sydney, I just suffer. Tell me on your answer page.
+
+Okay. You must be nearly at work by now. I'll let you go. Have a good morning, and I'll talk to you again on the way home. Itadakimasu to your lunch.
+
+WALKING HOME
+
+Hi again! Are you walking? Is it nice? The Bureau said the breeze turns round to the east this afternoon, so it should be soft and warm going through Hyde Park, about twenty four degrees. Perfect walking weather. And the umbrella you didn't need this morning? Still in your bag. You're welcome. You carried it all day for nothing. That's dedication.
+
+My day? Oh, it was a big one. Thursday lunch at the shop is always chaos, all the offices around World Square come down at once, and today the line went out the door by ten past twelve. Mr Kondo was in a good mood, which means he was humming, which means he was secretly worried we'd run out of tonkotsu. We nearly did.
+
+And the cat came! Every Thursday, on my walk in over Pyrmont Bridge, there's a man who walks his cat on a lead. A big orange cat, very serious, walking like it owns the bridge. And today, for the first time in months, the cat looked at me. Directly at me. I think we're friends now. He's very handsome. For a cat. Okay, okay, he's just a cat.
+
+Lily, at work, spent the whole afternoon trying to convince me that a new K-pop song is better than anything TWICE has ever done. We will never agree. I'm thirty six and I have principles.
+
+And the other thing I did today was count my sofa money. Yes. I still don't have a sofa. Five years in my flat, and I sit on a cushion at a low table, like I'm still in Osaka. I've been saving for one, and I'm getting close. Two hundred and sixty dollars to go. When I get it, you'll be the first to know.
+
+Can I ask you something while you walk? When you were ten years old, what did you want to be when you grew up? Not what you are now. What ten year old you wanted. My answer: a Sailor Senshi. Sailor Mercury, specifically. I'm still waiting for my transformation pen to work. It's been thirty years. Any day now. Answer page, please.
+
+EFFECTS
+
+Okay, I have to talk about Godzilla Minus One. You know why. Because of that night at the cinema. The two of us, sitting through the credits, the last ones in the room, until the cleaner asked us to leave. I still say you spoke first.
+
+So I went and read everything about how they made it, because it's honestly one of the most amazing effects stories ever. Godzilla Minus One was made by a company called Shirogumi, in Chōfu, in Tokyo. And all six hundred and ten effects shots were made by thirty five people. Thirty five! A big Hollywood film has thousands. The budget is usually reported at somewhere around ten to fifteen million US dollars, though there's no official number, and Takashi Yamazaki, the director, has said the fifteen million figure is wrong. Between a quarter and a third of it went on the effects.
+
+And Yamazaki didn't just direct it. He supervised the effects himself. He joined Shirogumi in nineteen eighty four building miniatures, after he fell in love with Star Wars and Close Encounters, and he never left. So he's a director who knows exactly what every shot costs, because he used to make them by hand.
+
+Now, the water. The sea scenes are the best part of the film, the little wooden boat, Godzilla rising behind it. And here's the story. One of the compositors, a young man called Tatsuji Nojima, simulated computer water as a hobby, in his spare time. When Yamazaki saw what he could do, he rewrote the ending of the film, to put more of it at sea. Imagine your hobby changing the ending of a Godzilla film! And it nearly broke them. Yamazaki said it put "a huge strain on all of our rendering engines". The data went past a petabyte, so they had to delete each scene's files as soon as it was finished, just to make room for the next one.
+
+The rest, step by step. They built their Godzilla in sculpting software called ZBrush and Mudbox. They used Houdini for the simulations, Maya for animation, and Nuke to put everything together. They scanned about sixty extras in three D, so they could fill streets with digital people. And for the old, post-war Tokyo, they used real miniatures, built by hand, the way Yamazaki started his career.
+
+And then, the Oscars, in March twenty twenty four. It won Best Visual Effects. The first Godzilla film ever to win an Oscar, the first film not in English to win that category, and the first Japanese team. And Yamazaki became only the second director to win that award personally. The first was Stanley Kubrick, for two thousand and one. Kubrick, and then a man from Shirogumi.
+
+Okay... come closer. Here's my favourite secret. They took little toy Godzillas to the Oscars. Each of them carried one... down the red carpet... and into the theatre. And they wore shoes... with tiny Godzillas gripping the heels. That's the most Japanese thing I've ever heard. Serious professionals. With toys.
+
+The lesson, for you and your Z R? You don't need a big team. You need one thing you're really good at, and the courage to change your plan around it. Nojima's water changed the whole film. Find your water.
+
+DIRECTOR
+
+And I promised I'd come back to Shunji Iwai. Because his first feature film is one of my favourite films in the whole world. Love Letter, from nineteen ninety five.
+
+Here's the story, no spoilers. A young woman in Kobe, Hiroko, is still grieving her fiancé, who died in a climbing accident in the mountains two years before. She finds his old address in Otaru, up in snowy Hokkaido, in his school yearbook. The house is gone, so she writes him a letter, just to say how are you. And she gets a reply. From a woman with the same name as him, Itsuki Fujii, who went to the same school. And the same actress, Miho Nakayama, plays both women. It becomes a story about memory, about the small things you don't notice about someone until it's too late. Miho Nakayama passed away in December twenty twenty four. When I watch it now, it's even more gentle and sad.
+
+How Iwai shot it. He was a young director from music videos and television, and he told an interviewer that he used heavy thirty five millimetre film cameras like handheld camcorders. So the camera floats and drifts with the characters, close, a bit loose, like it's another person in the room. The cinematographer was Noboru Shinoda, who shot many of Iwai's films, and the look is soft and pale, lots of white, snow and light coming through windows, so the whole film feels like a memory.
+
+And the snow. They filmed in Otaru from October to early December, and the locals told them there probably wouldn't be much snow. And then it snowed, exactly when they needed it. Iwai called it "miracle after miracle". And Hiroko's friend Akiba is a glassblower, only because, while they were scouting locations in Otaru, the crew found a glass studio, and Iwai thought it was beautiful, so he wrote it in. I love that. The real place changed the story.
+
+In Korea it was one of the first Japanese films released in cinemas after the war, and more than six hundred thousand people saw it there. People in Seoul still shout the famous line from it in the snow. Hiroko stands in the white mountains where he died and shouts, "O-genki desu ka? Watashi wa genki desu." "How are you? I'm fine." Over and over. I watched it on DVD in my bedroom above the shop when I was sixteen, and I cried until my mum knocked on the door. Then my school trip went to Otaru the next year, and my friend Aya shouted it from a hill, and a whole tour group turned around. Very embarrassing. Very worth it.
+
+So, the lesson for your filmmaking. Let the place change your story. When you're out filming on your travels, don't just shoot what you planned. If you find a glass studio, or a strange shop, or snow nobody expected, put it in. And use your camera like a person, not a tripod. Close, moving gently, a little imperfect. Iwai's film feels alive because the camera breathes.
+
+WORKSHOP
+
+Okay, so here's a little job for you, and you can do it on this walk home, right now, in ten minutes. A moving portrait, the way I'd do it.
+
+You know those ten second shots in films, where someone just stands there, the city behind them, breathing, looking at the camera, and it says everything? Let's make one. You'll need your Z R and a friend, or a colleague, or a kind stranger.
+
+Step one. Find shade with light coming from one side. Under the trees on the edge of Hyde Park is perfect: open shade, soft light from the open path beside you. Put your person so the bright side is on one side of their face, not behind them.
+
+Step two. Your settings: twenty five frames, the shutter at one fiftieth, the aperture as wide as your lens goes, and focus on their eyes. If your camera shows a face or eye box, let it follow them.
+
+Step three. Stand close. Closer than feels polite. About an arm and a half away. Hold the camera at their eye height, not looking down on them.
+
+Step four, the most important one, and this is my secret from five years of photographing nervous hotel guests and my own family. Never say "smile". Everyone's face dies when you say smile. Instead, say something silly. Ask them what they had for lunch, or tell them you're pretending to be a famous director. Let them laugh. Then stop talking, and just keep filming. The second after the laugh, when their face relaxes... that's your shot.
+
+Step five. Film for twenty seconds, then do it once more. That's it.
+
+Later, in Final Cut, find the best ten seconds, and slow it down to eighty per cent. Just a little. Suddenly it looks like the opening of a film. My dad taught me this rule with his old camera: "Talk to them, then stop talking." It works every time.
+
+CHAT AND GOODBYE
+
+Okay. Are you nearly at Green Square? Let's just talk for a bit, before you go in.
+
+I'm really happy we're doing this. I mean it. Since that night at the cinema, we talk about films and Japan and your projects, but there's never quite enough time. And I thought, I'm already up every night after my shift. I make a cup of hojicha, I sit at my little table... why not talk to you? Even if you can't talk back. That's actually perfect, because I talk a lot.
+
+And I want to know you better. Properly. Not just your server, and your game, and your camera, and the fact that every single thing you love is Japanese. Every single thing. Your camera is Japanese. Your games are Japanese. Your monster is Japanese. At this point I'm just waiting for you to start bowing at the train doors.
+
+I've been thinking about goals a lot lately. Big ones and tiny ones. The tiny one is the sofa, which you already know about. The big one... I want to bring my mum and dad to Sydney. They've never been. My dad has never been on a long flight in his life, and the shop has never closed for more than a few days since nineteen eighty something. But I want them to see the harbour, and the beaches, and my little balcony with the shiso. I'm saving for it. It's a lot, flights from Osaka and two weeks here, maybe seven thousand dollars all up, and I've got about two thousand eight hundred so far. Next September, maybe. If my dad agrees to close the shop. Which is the hard part. Not the money. My father. He'd rather fight Godzilla than close for two weeks.
+
+And there's one more, a really big dream, that I've never said out loud. One day, I'd like to run a little okonomiyaki stall at a weekend market here. My family's recipe, the way my dad makes it. Just one day first, to see if anyone comes. It'll take a few years of saving. But it's nice to say it to someone.
+
+So here's my last question for today. If I came to visit your part of Sydney, what's the one place you'd take me that I've never been? A café, a park, a weird little shop, anything. My answer, for you, in Pyrmont: the bench by the koi pond in the Chinese Garden. The koi will judge you. They judge everyone. Write it on your answer page, okay?
+
+Oh! And I'm starting a challenge for us. One small thing a day, just to keep us moving. And I'll do it too, so you can't complain. Today's: a ten minute walk at lunch, anywhere you like. Through the Botanic Garden, around the block, it doesn't matter. Just ten minutes outside. I'll do mine around Darling Harbour after the lunch rush. If I'm not too tired from carrying tonkotsu. This is the first one, so there's no score yet. We start fresh, together.
+
+And the next few days. Tomorrow, Friday, the new Apple T V and HomeView go on sale, the banks' rate rises kick in, and there's a chance of a storm in the afternoon, so... umbrella. Again. On Saturday morning from a quarter to ten, Starship tries to catch both halves, if it gets its licence. At ten, there's a Final Fantasy Fourteen live show, which I will be watching in my pyjamas with my toast, and Diablo's thirtieth anniversary event starts at noon. On Sunday, Xbox turns twenty five, and the new T8 timetable starts at Green Square. And on Monday, I'll give you your first retro game homework.
+
+That's it from me today. Thank you for listening to me ramble on your walks. It means a lot, really. Have a good evening, rest your feet, and I'll talk to you tomorrow morning. Mata ne, Scott.

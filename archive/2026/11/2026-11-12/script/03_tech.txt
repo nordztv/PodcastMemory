@@ -1,0 +1,17 @@
+[curious] Okay, which reminds me, speaking of things that cost too much... the new Apple T V. It comes out tomorrow, for two hundred and ninety nine US dollars, and the reviews are a bit mixed.
+
+[happy] The good bits. Engadget says the new microphones really work from the couch, so you can just talk to it, and they called the on-screen Siri "a clean implementation". And the remote finally plays a little chime when you lose it in the cushions. [teasing] Which, for you, is the main feature. [punch] Don't pretend. [giggling while talking] I've seen your couch.
+
+[disappointed] But. The Verge says it still can't output four K at a hundred and twenty frames, there's no audio passthrough, and no extra ports. CNET and Engadget both say the price is "hard to justify for most buyers". It's more than double what the twenty twenty two model cost when it launched, and the cheaper storage size is gone. [sighing] Apple. Always. [thoughtful] For you, with your Jellyfin server already doing all the hard work? I think the box you have is fine. Save your money for a lens.
+
+[curious] Speaking of which. Nikon has a big new lens, the Nikkor Z one twenty to three hundred millimetre f two point eight, with a built-in teleconverter. That's a sports and wildlife lens, very serious, very heavy, [laughing tone] very expensive. Not your travel lens. But the rumour sites say Nikon is also working on new firmware for all its newer cameras, not just your Z R. So keep an eye out. [warm] I want the same thing for my Zf, so we can be excited together.
+
+[surprised] Now, this one's naughty. A security researcher says he's made the first software-only jailbreak for the Switch two. He used an old game called SmileBASIC four, which was taken off the eShop, and he says he even used an A I coding tool to help build it. He showed off adding new characters to Mario Kart World. [dry] Nintendo said nothing, but Nintendo's new system update, twenty three point five, seems to close the hole anyway. [teasing] Nintendo doesn't talk. [punch] Nintendo patches. [giggling while talking] Very Japanese, honestly. No drama, just quietly fixed.
+
+[calm] Also from Nintendo: from twenty twenty seven, you won't be able to sign in to a Nintendo Account with Google or Apple any more. So if that's how you log in, it might be worth setting up a password before then.
+
+[excited] And space! Starship Flight Fifteen is set for Saturday morning our time, from a quarter to ten. This is the one where SpaceX tries to catch both halves: the big booster, and then the ship itself, after about fourteen trips around the Earth. [thoughtful] But as of last night, the American aviation regulator still hadn't been reported giving it the licence. So the date could still move. [warm] If it goes, I'll be watching from my balcony with toast. Not that I can see Texas from Pyrmont. But it feels right.
+
+[curious] And one for your graphics card hunt. Nvidia and the open source community behind tools like llama dot c p p have been making local A I models run a lot faster on home graphics cards. They say up to fifty per cent faster on one of the new Qwen models on an R T X fifty ninety, and close to double on a bigger one. [teasing] So the card you don't own yet... [punch] just got faster. [laughing tone] Congratulations.
+
+[long beat]

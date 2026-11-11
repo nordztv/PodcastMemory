@@ -1,0 +1,17 @@
+[warm] Okay, I have to talk about Godzilla Minus One. You know why. [soft, knowing tone] Because of that night at the cinema. The two of us, sitting through the credits, the last ones in the room, until the cleaner asked us to leave. [laughing tone] I still say you spoke first.
+
+[curious] So I went and read everything about how they made it, because it's honestly one of the most amazing effects stories ever. Godzilla Minus One was made by a company called Shirogumi, in Chōfu, in Tokyo. And all six hundred and ten effects shots were made by thirty five people. [surprised] Thirty five! A big Hollywood film has thousands. The budget is usually reported at somewhere around ten to fifteen million US dollars, though there's no official number, and Takashi Yamazaki, the director, has said the fifteen million figure is wrong. Between a quarter and a third of it went on the effects.
+
+[happy] And Yamazaki didn't just direct it. He supervised the effects himself. He joined Shirogumi in nineteen eighty four building miniatures, after he fell in love with Star Wars and Close Encounters, and he never left. So he's a director who knows exactly what every shot costs, because he used to make them by hand.
+
+[curious] Now, the water. The sea scenes are the best part of the film, the little wooden boat, Godzilla rising behind it. And here's the story. One of the compositors, a young man called Tatsuji Nojima, simulated computer water as a hobby, in his spare time. When Yamazaki saw what he could do, he rewrote the ending of the film, to put more of it at sea. [delighted] Imagine your hobby changing the ending of a Godzilla film! And it nearly broke them. Yamazaki said it put "a huge strain on all of our rendering engines". The data went past a petabyte, so they had to delete each scene's files as soon as it was finished, just to make room for the next one.
+
+[calm] The rest, step by step. They built their Godzilla in sculpting software called ZBrush and Mudbox. They used Houdini for the simulations, Maya for animation, and Nuke to put everything together. They scanned about sixty extras in three D, so they could fill streets with digital people. And for the old, post-war Tokyo, they used real miniatures, built by hand, the way Yamazaki started his career.
+
+[excited] And then, the Oscars, in March twenty twenty four. It won Best Visual Effects. The first Godzilla film ever to win an Oscar, the first film not in English to win that category, and the first Japanese team. And Yamazaki became only the second director to win that award personally. The first was Stanley Kubrick, for two thousand and one. [impressed] Kubrick, and then a man from Shirogumi.
+
+[very quiet] [soft, gentle] [speaking slowly] [secretive, hushed] Okay... come closer. [pause] [hushed, slow] Here's my favourite secret. [pause] [very quiet, soft, slow] They took little toy Godzillas to the Oscars. Each of them carried one... down the red carpet... and into the theatre. [pause] And they wore shoes... with tiny Godzillas gripping the heels. [beat] [warm] [soft] That's the most Japanese thing I've ever heard. Serious professionals. With toys.
+
+[thoughtful] The lesson, for you and your Z R? You don't need a big team. You need one thing you're really good at, and the courage to change your plan around it. Nojima's water changed the whole film. Find your water.
+
+[long beat]

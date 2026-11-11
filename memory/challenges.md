@@ -1,6 +1,7 @@
 # Daily challenges
 
-One easy challenge per episode (bible section 8). Scott reports Done on the answer page, in a chat or in the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`. Fresh start 12 Nov 2026.
+One fitness challenge per episode (bible section 8). Scott reports Done on the day's sheet, in a chat or in the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`.
 
 | Date | Challenge | Done |
 | --- | --- | --- |
+| 2026-11-12 | A ten minute walk outside at lunch, anywhere you like | Not yet |
