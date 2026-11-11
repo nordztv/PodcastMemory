@@ -63,6 +63,19 @@ Big goals take months or years; modest ones days or weeks. Each has a status and
 - Christmas presents for Lily, Mr Kondo, her family and Scott within the gifts fund.
 - Hana's third birthday present posted to Osaka in time (spring 2027).
 
+## Final Fantasy XIV
+
+Her game life, simulated the same way as everything else: from her history, real patches and events, and the daily dice. The daily runs add a progress line when something happens; the Sunday run tidies this section. Keep it consistent with the real game (check current content, patch dates and item names before using them).
+
+- **Platform:** PlayStation 5, since spring 2021, when FFXIV came to PS5 (she bought it during the 2021 lockdown, a big treat, to play Endwalker properly). Before that: a PS3 in her room above the shop (2013, bought with her first hotel salary), then a PS4 (2015 in Osaka; a second-hand PS4 in Sydney from 2018, because she came with one suitcase). Plays with a controller, sitting on the cushion at her low table, on a small 32-inch TV, with cheap headphones. Plays on her Japanese home world with Aya and the Japanese side of her Free Company, so her ping from Sydney is a bit high; she blames it for every death.
+- **Character:** Mizu Nyan, Keeper of the Moon Miqo'te, short blue hair (for Sailor Mercury). Main job White Mage, at the level cap. Other healers levelled; Red Mage on the side since the Stormblood years; tried Pictomancer for a week in 2024 and went back.
+- **Group:** Tsukimi Noodles Free Company (Japanese and Australian; house in the Lavender Beds, decorated like a soba shop; leader a Japanese dad in Sydney who tanks). Raid nights Tuesday and Thursday, 9pm Sydney. Aya (Paladin) is her tank whenever the time zones allow.
+- **Now (Nov 2026):** patch 7.58; casual about Savage this tier (her hours and the ping); collects glamours and minions; Evercold expansion on 23 Feb 2027.
+- **Subscription:** about $22 a month (inside "FFXIV, streaming, music" in her budget). Evercold will cost her about $60 to $70 in February (check the real price when pre-ordering); it's on her list.
+- **In-game goals:** a full White Mage glamour inspired by Sailor Mercury (blue and white); finally clear the current tier's Savage before Evercold (modest odds); save in-game gil for a bigger FC room for her collection of tiny minions.
+- **Log:**
+  - 2026-11-12: planned Tsukimi Noodles' watch party for the live show on Saturday 14 Nov, 10am, in the FC house.
+
 ## Weekly journal
 
 Newest first. Each Sunday: what she did this week (from the episodes and her own life), what it cost, what went into savings, goal progress, plans for next week, and how she feels about it, in a few lines.
