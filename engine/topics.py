@@ -15,11 +15,11 @@ import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = f"{REPO}/memory/topics.md"
-MAIN_SIZE, MINOR_CAP, NEW_SCORE, FADE_AFTER, FADE_BY = 25, 100, 10, 14, 2
+MAIN_SIZE, MINOR_CAP, NEW_SCORE, FADE_AFTER, FADE_BY = 50, 100, 10, 14, 2
 
 HEADER = """# Scott's topics
 
-The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
+The 50 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
 Last daily update: {last}
 """
@@ -52,7 +52,7 @@ def save(rows, last_daily):
         minor.remove(worst)
     minor.sort(key=lambda r: (-r["score"], r["topic"].lower()))
     out = [HEADER.format(last=last_daily),
-           "## Main topics (top 25)\n", TABLE_HEAD] + [ROW.format(**r) for r in main]
+           "## Main topics (top 50)\n", TABLE_HEAD] + [ROW.format(**r) for r in main]
     out += ["", "## Minor topics (up to 100)\n", TABLE_HEAD] + [ROW.format(**r) for r in minor]
     open(PATH, "w").write("\n".join(out) + "\n")
 

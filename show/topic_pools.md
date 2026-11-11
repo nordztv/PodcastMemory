@@ -1,59 +1,34 @@
 # Deep-dive topic pools
 
-The daily run uses the first unused item in each pool (used = listed in `memory/deep_dives_covered.md`). When a pool has fewer than 5 unused items, the run adds 10 or more fresh ideas drawn from Scott's main topics. Scott can add, remove or reorder anything here.
+The daily run uses the first unused item in each pool (used = listed in `memory/deep_dives_covered.md`; a used topic can return only with a clearly different angle). The lore and game tech pools were retired on 11 Nov 2026 (Scott's bible review); the old lists are in `show/old/`. When a pool has fewer than 5 unused items, the run adds 10 or more fresh ideas drawn from Scott's main topics. Scott can add, remove or reorder anything here.
 
-## Lore (game and series history, making-of, character lore)
+## Japan (06_japan: Japanese history, culture and Mizuki's life in Japan)
 
-- Final Fantasy VII (1997): making-of and Midgar
-- Warcraft III and the fall of Arthas
-- The Witcher 3: making-of
-- Final Fantasy IV and Cecil's redemption
-- Illidan Stormrage's story
-- The Witcher lore: the Conjunction of the Spheres and the Elder Blood
-- Final Fantasy IX
-- Metal Gear Solid 3: Snake Eater
-- Final Fantasy X and Spira
-- The original World of Warcraft launch in 2004
-- Resident Evil 4 (2005): making-of
-- Final Fantasy XIV's collapse and rebirth as A Realm Reborn
-- Ciri's story
-- Final Fantasy VIII
-- Dragon Quest's history and Akira Toriyama
-- Final Fantasy XII and Ivalice
-- The Burning Legion and Sargeras
-- Cyberpunk 2077's launch and redemption
-- Final Fantasy XVI
-- Chrono Trigger's dream team
-- Secret of Mana: making-of
-- Stardew Valley: one developer, four years
-- Final Fantasy Tactics and Ivalice politics
-- Resident Evil (1996): the mansion and its camera
-- Silent Hill 2
-
-## Game tech
-
-- Ray tracing explained
-- Y-sorting and draw order in top-down 2D (Godot)
-- Tilemaps and autotiling (Godot terrains)
-- Mode 7 explained
-- A-star pathfinding
-- Procedural generation
-- Rollback netcode
-- Shaders for 2D pixel art (Godot)
-- Nanite and virtual geometry
-- A history of anti-aliasing
-- HDR in games
-- Game feel and screen shake
-- Palette swapping and limited palettes
-- Day-night lighting in 2D (Godot CanvasModulate and lights)
-- How NES and SNES sprite limits shaped design
-- Physics engines
-- Level of detail
-- Save systems and data design for RPGs
-- Dialogue systems and branching conversations
-- Inventory and crafting systems (Stardew-style)
-- How game audio and adaptive music work
-- Upscalers compared: DLSS, FSR and XeSS
+- The Great Hanshin earthquake and how Japan prepares for disasters (gently; her 1995 memory)
+- Osaka's kuidaore food culture: okonomiyaki, takoyaki and her parents' shop
+- Dotonbori and the Glico running man
+- How Shinkansen punctuality works (and the seven-minute cleaning crews)
+- Edo-period yokai and the artist Toriyama Sekien
+- Sailor Moon and the magical-girl boom of the 1990s
+- How Pokémon was born from Satoshi Tajiri's bug collecting
+- The Super Famicom in Japanese homes
+- School life in Japan: clubs, uniforms, cleaning the classroom
+- Japanese convenience stores (konbini) and why they're so good
+- Hanami and the cherry blossom forecast
+- Obon, lanterns and welcoming the ancestors home
+- Japan and Australia: from wartime enemies to close partners (the 1957 trade agreement, working holidays, sister cities)
+- Kyoto's temples and the geisha districts
+- The history of ramen in Japan, and Hakata tonkotsu
+- The Osaka Expo of 1970 and the 2025 Expo
+- Showa-era cinema and Toho's golden age
+- Japanese New Year: osechi, otoshidama and the first shrine visit
+- Kawaii culture and Harajuku fashion
+- Tsukumogami: objects that come alive at a hundred years
+- The history of the Tokyo Game Show and Famicom-era Japan
+- Japanese photography greats (Daido Moriyama, Rinko Kawauchi)
+- Onsen etiquette and bath culture
+- Japanese politeness and keigo, explained with customer stories
+- Hokusai's Great Wave and ukiyo-e
 
 ## Effects (CGI, or achieved without it)
 

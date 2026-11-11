@@ -8,12 +8,14 @@ never pushes the chapters out of line. The MP3 is rewritten in place (audio copi
 import os, subprocess, sys
 
 TITLES = {
-    "01_opening_world": "Good morning, weather and world news",
+    "01_opening_world": "Ohayou, weather and world news",
     "02_australia": "Australia, NSW and Sydney",
     "03_tech": "Tech",
     "04_games": "Games",
     "05_movies": "Movies",
     "06_lore": "Lore deep dive",
+    "06_japan": "Japan",
+    "07_walkhome": "Walking home",
     "07_gametech": "Game tech deep dive",
     "08_effects": "Effects deep dive",
     "09_director": "Director deep dive",

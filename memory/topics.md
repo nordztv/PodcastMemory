@@ -1,10 +1,10 @@
 # Scott's topics
 
-The 25 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
+The 50 highest-scoring topics are main topics: they get most of the airtime and drive the deep dives. Up to 100 more are minor topics: a brief mention at most, unless hot. Scoring rules are in `show/bible.md`. Scott can edit any row here directly; keep the table format and use YYYY-MM-DD dates.
 
 Last daily update: 2026-11-11
 
-## Main topics (top 25)
+## Main topics (top 50)
 
 | Topic | Score | Last signal | Hot until |
 | --- | --- | --- | --- |
@@ -33,11 +33,6 @@ Last daily update: 2026-11-11
 | Japanese yokai | 80 | 2026-10-30 |  |
 | Raspberry Pi projects (music TV channel, multicast streaming) | 80 | 2026-10-30 |  |
 | Retro gaming projects (emulators, reverse engineering, mods) | 75 | 2026-11-09 |  |
-
-## Minor topics (up to 100)
-
-| Topic | Score | Last signal | Hot until |
-| --- | --- | --- | --- |
 | Running AI models at home (model sizes, quantisation) | 75 | 2026-11-10 |  |
 | Tech company earnings | 70 | 2026-11-09 |  |
 | Australian economy and banks | 65 | 2026-11-09 |  |
@@ -63,9 +58,18 @@ Last daily update: 2026-11-11
 | Fantasy films | 31 | 2026-10-26 |  |
 | Europe protests and unrest | 28 | 2026-10-27 |  |
 | Hong Kong and Chinese crime films | 28 | 2026-10-20 |  |
+
+## Minor topics (up to 100)
+
+| Topic | Score | Last signal | Hot until |
+| --- | --- | --- | --- |
 | Secret of Mana | 28 | 2026-11-02 |  |
 | Cybersecurity | 25 | 2026-11-05 |  |
 | Game-to-film adaptations | 25 | 2026-10-30 |  |
+| Japan and Australia relations | 25 | 2026-11-11 |  |
+| Japanese history and culture | 25 | 2026-11-11 |  |
+| Photography and camera technique | 25 | 2026-11-11 |  |
+| Pokémon | 25 | 2026-11-11 |  |
 | Sydney housing and planning | 25 | 2026-10-29 |  |
 | Weekend activities in Sydney | 25 | 2026-11-09 |  |
 | Asian horror | 20 | 2026-10-29 |  |

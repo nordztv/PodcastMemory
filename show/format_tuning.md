@@ -4,39 +4,24 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
-- One phone call, not segments (Scott, 11 Nov): bible section 5's conversational rules come first; no section headers or announcements; Mizuki's day is the thread; no Australian slang; light Japanese: only popular words, three to five an episode, and the Japanese greeting (show/host.md). Reason: his request.
-- The host is Mizuki (Scott, 11 Nov): follow `show/host.md` in every segment, news included. Reason: his request.
-- Camera and lens notes in movies (Scott, 10 Nov): he bought a Nikon ZR and is choosing a lens; note the cameras and lenses films were shot on wherever reliable sources say so (movies stories, Actress of the Month, effects and director deep dives), and tie them to his lens search. Never mention the X-M5. Reason: he said it's a big positive.
-- Game project thread removed (Scott's request, 10 Nov): lore, game tech and workshop are back to their pre-3 Nov formats (bible section 5), the Godot game is back in the Friday project check-in rotation, and the Friday radish build-along is paused. His game can still come up naturally, and the radish at most as one quick joke an episode (his 9 Nov note). Questions about the game are welcome now and then, but not required daily.
-- Australia: now in the bible (c1 approved 6 Nov): three stories told fully, then a one-minute round-up. Soft NSW announcements (a party returning, awards) go in the round-up or are dropped. Reason: c1 yes, and his only 6 Nov dislike (Mardi Gras party / NSW Australian of the Year).
-- Travel: back on his normal Sydney routine from 9 Nov (his 6 Nov comment). When Scott says he's away (6 Nov: South Bank, Brisbane until 8 Nov), the weather, the morning walk and the weekend ideas follow his location instead of the Green Square commute, until he's back; Sydney and NSW news stays. Reason: his 6 Nov message.
-- Lore: keep it story-led. Reason: lore scored 5 on 2 and 5 Nov.
-- Opening and world: keep the three-biggest-stories format. Reason: scored 5 on 5 Nov after being cut back.
-- World and Australia lighter, games and movies heavier (Scott's 2 Nov monthly check-in answer: "less world news and more games and movies"): opening and world about 650 to 800 words with only the two or three biggest world stories; Australia about 1,400 words (big stories still covered properly); games about 2,000 to 2,200 and movies about 1,500 including the actress segment. Reason: his 2 Nov answer.
-- Workshop: after a 3 (2 Nov, Git), keep it to one job he can finish in ten minutes, with exact clicks or commands. Reason: 2 Nov workshop score and his 3 Nov request.
-- Segment word budgets: as in bible section 5, except game tech and the world/games/movies shift above.
-- Game tech: about 1,000 words (up from 900), still practical first: the Godot how-to first, then the theory with an everyday analogy, then a short tip list. Reason: rated 4 (21 Oct) then 5 (22 Oct) after going practical-first.
-- Australia: for each big story, add one clear "why it matters" line and one "what happens next" line, and keep minor items to a sentence. Reason: scored 3 (21 Oct) then 4 (22 Oct); the only news section not yet at 5.
-- Story-led delivery: frame stories as a story (who, what changed, why you should care) rather than a list of facts, with conversational rhythm, varied sentence lengths and fewer long runs of numbers. Reason: 20 Oct note (robotic at times) and 22 Oct note ("much better with story").
-- Story selection: novelty or children's-licence remasters (Shrek 2 Remastered) and broad official "warning" reports without a concrete new development (the youth radicalisation warning) get a line at most, or are dropped. Reason: the only two dislikes on 22 Oct; everything else was liked.
-- Chat and send-off: build the chat and dark bits around his own answers (radish monster, Dark World farm, cannon travel). Reason: chat rose from 3 (21 Oct) to 5 (22 Oct) when it was built on his answers.
-- Striking characters and memorable scenes (Scott's comment, 23 Oct weekly review): in games and movies, when a story has an iconic, glamorous or striking female character, costume or scene (Chun-Li's look, a vampire countess, a great villainess), point it out with a light, classy aside: style, charisma, design and the moment itself. Real actresses: celebrate the performance and the look of the character, never comments on their bodies (bible sections 2 and 5). Reason: his comment on the weekly review.
-- Retro gaming projects (decomps, recomps, emulators, mods, fan translations) get a regular spot in games. Reason: his 23 Oct note.
-- Quick hits at the end of tech and games (now in the bible). Reason: c1 approved.
-- Fewer topics, more depth (Scott's note, 28 Oct): about half the number of stories per segment, each told properly (background, both sides, why it matters, what's next), weighted to his main topics; drop minor stories rather than listing them. Reason: his 28 Oct answer-page note.
-- Yokai of the Week: now a permanent Wednesday feature in the bible (c1 approved, 31 Oct).
-- Effects: after a 3 (27 Oct), go step by step through how each piece of the effect was physically built, and keep a clear practical lesson. Reason: 27 Oct effects score.
-- Lore: keep full length and story-led, tied to the week's news where possible (Fan Fest, WoW Forever). Reason: scored 5, 4, 5 this week (26-28 Oct), the most consistent section.
-- Workshop: keep it short, hands-on and doable that day or weekend (a shot list, a preset, one command). Reason: rose from 3 (26 Oct) to 4 (27 Oct) to 5 (28 Oct) after going practical.
-- Chat: keep building it around his own answers and the Wednesday yokai. Reason: 4, 4, then 5 on 28 Oct with Yokai of the Week and his nurikabe answer.
-- Game tech: connect each topic to something he already said about his game (the radish, the nurikabe's cake, Chen's stall) and end with the smallest buildable step. Reason: steady 4s and 5s, and his answers keep coming back to the game.
-- Australian procedural stories (MP security reviews, bill debates without a vote): one or two lines unless there's a decision. Reason: the week's only dislike (27 Oct) was the MP security/cartoons/duty of care item.
-- Keep as is: world news round-up length, tech depth, games breadth, effects step by step, fewer stories with more depth.
+Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-or-remove review; older tunings that no longer apply (game thread, lore and game tech, quick hits, radish limits, Australian slang) were dropped. The old list is in `show/old/`.
+
+- Story-led and fewer stories, told properly, as conversation (Scott's notes 22 and 28 Oct; bible section 5). Reason: his notes.
+- Australia: for each big story one clear "why it matters" and "what happens next"; procedural items and soft announcements a line at most or dropped. Reason: 21-22 Oct scores and 27 Oct / 6 Nov dislikes.
+- World news short: the two or three biggest stories, Japan-Australia first when there are any. Reason: his 2 Nov answer ("less world news, more games and movies") and his 11 Nov review.
+- Games and movies get the most room. Reason: his 2 Nov answer.
+- Workshop: one job he can finish in ten minutes, with exact clicks or settings. Reason: 2 Nov workshop score and 3 Nov request.
+- Effects: step by step, how each piece was physically made. Reason: 27 Oct score.
+- Chat: built around his answers and her life; Yokai of the Week or a Pokémon moment on Wednesdays. Reason: chat scores rose when built on his answers (22, 28 Oct); his 11 Nov review.
+- Retro gaming projects (decomps, emulators, fan translations) get a regular mention in games. Reason: his 23 Oct note.
+- Cameras and lenses noted in movies where reliable sources say so, tied to his ZR lens search; never mention the X-M5. Reason: his 10 Nov message.
+- Travel: when Scott says he's away, the weather, walk and weekend ideas follow his location until he's back. Reason: his 6 Nov message.
 
 ## Change log
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-11 | Bible rewritten for Mizuki from Scott's review: phone call in two halves (morning and walk home), 06_japan and 07_walkhome replace lore and game tech, no quick hits, no sheet, two-tap story ratings, top 50 topics, Actress of the Week, easy one-task challenge she does too; tuning list reset | Scott's keep-or-remove review and notes, 11 Nov |
 | 2026-11-10 | Nikon ZR replaces the X-M5; films' cameras and lenses noted in movies | Scott's message, 10 Nov |
 | 2026-11-10 | Game project thread removed; lore, game tech and workshop back to their earlier formats; radish build-along paused | Scott's request, 10 Nov |
 | 2026-11-10 (midweek) | Radish limited to one quick mention an episode; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
