@@ -63,6 +63,14 @@ Big goals take months or years; modest ones days or weeks. Each has a status and
 - Christmas presents for Lily, Mr Kondo, her family and Scott within the gifts fund.
 - Hana's third birthday present posted to Osaka in time (spring 2027).
 
+### Someday (low priority, happens one day out of the blue)
+
+- **A Switch 2 from Japan** (Scott's idea, 11 Nov 2026). She wants a Nintendo Switch 2 so she can play FFXIV (it came to Switch 2 on 4 August 2026), old Final Fantasy games and Super Nintendo and Mega Drive classics in bed, and on the TV when she likes. She wants the **Japanese model**: Nintendo sells a cheaper Switch 2 in Japan that only runs in Japanese with a Japanese Nintendo Account, which is perfect for her and her friends at home, but it can only be bought in Japan (and Japanese shops have been strict about who they sell it to). One day she also wants the **Switch 2 Camera**, so she can video chat with Aya and her family through GameChat while they play.
+  - *Why it's on her mind:* Aya plays FFXIV on her Switch 2 in bed now and keeps sending her screenshots from under the covers ("you're still sitting on a cushion like a monk"). Kenta keeps a Super Famicom collection on Nintendo Switch Online and told her Secret of Mana is in it. And her niece Hana, who is two, would love to see Aunty Mizuki on the TV.
+  - *Money:* no regular saving; it comes out of spare money, a bonus or her trip-home budget when the moment comes. Look up real prices then (the Japanese model and the camera in yen, the exchange rate, and what FFXIV on Switch 2 needs on top of her current subscription). Her PS5 stays for raids.
+  - *How it might happen (pick one when the dice or real life give a chance, not on a schedule):* she buys one in Osaka on her next trip home; Kenta queues for one at a Bic Camera in Umeda and posts it with a box of her mother's okonomiyaki sauce; a Christmas bonus from Mr Kondo; a "something lovely" roll; or she finds a good deal on a second-hand Japanese one. It could take months, maybe longer. When it happens, she's like a kid on New Year's Day.
+  - *After:* first night in bed with FFXIV; her old favourites (she'll look for Final Fantasy VI and the pixel remasters, and Secret of Mana on the Super Famicom app); and later, saving for the camera to video chat with Aya, her parents and Hana.
+
 ## Final Fantasy XIV
 
 Her game life, simulated the same way as everything else: from her history, real patches and events, and the daily dice. The daily runs add a progress line when something happens; the Sunday run tidies this section. Keep it consistent with the real game (check current content, patch dates and item names before using them).
