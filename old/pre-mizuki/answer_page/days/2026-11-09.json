@@ -1,0 +1,262 @@
+{
+  "challenge": "Forty five push-ups and sixty bodyweight squats, in as many sets as you like, across the day",
+  "date": "2026-11-09",
+  "picks": [
+    {
+      "key": "retro-2026-11-09",
+      "kind": "Retro Game of the Week",
+      "title": "Crusader of Centy (Mega Drive)",
+      "type": "game"
+    }
+  ],
+  "questions": [
+    "The mandrake had its dog on a rope. What's Lanternfall's version: one rule or trick that lets a careful farmer pull a radish safely?",
+    "When your radish bursts out of the ground, what's the very first thing it does, and what sound does it make?",
+    "If one animal from your farm followed your farmer around as a companion, Crusader of Centy style, what animal is it, and what's its one ability?"
+  ],
+  "rateLine": "9 of 13, 69%",
+  "sections": [
+    {
+      "items": [
+        {
+          "id": "opening-and-world-1",
+          "title": "Cold, showery and windy: Sydney after the cold front",
+          "topic": "Sydney trains and transport"
+        },
+        {
+          "id": "opening-and-world-2",
+          "title": "New Zealand election too close to call; special votes decide",
+          "topic": "Major world news"
+        },
+        {
+          "id": "opening-and-world-3",
+          "title": "Herzog asks Eisenkot, not Netanyahu, to form Israel's government",
+          "topic": "Israel and the Middle East"
+        },
+        {
+          "id": "opening-and-world-4",
+          "title": "Stephen Miller replaces Susie Wiles; Iran, Hormuz mines and a US reward",
+          "topic": "Major world news"
+        },
+        {
+          "id": "opening-and-world-5",
+          "title": "Krakow market square shooting",
+          "topic": "Major world news"
+        }
+      ],
+      "key": "opening-and-world",
+      "name": "Opening and world"
+    },
+    {
+      "items": [
+        {
+          "id": "australia-1",
+          "title": "Victoria Barracks sale scrapped",
+          "topic": "Australian federal politics"
+        },
+        {
+          "id": "australia-2",
+          "title": "Albanese: Iran war and tariffs shaped the midterms; MYEFO savings ahead",
+          "topic": "Australian federal politics"
+        },
+        {
+          "id": "australia-3",
+          "title": "Cooks River AI data centre scrapped after backlash",
+          "topic": "NSW politics and Sydney news"
+        },
+        {
+          "id": "australia-4",
+          "title": "Round-up: Helen Haines stable, Eva Geller, NSW Health cyber incident, Bathla sites, T8 every four minutes",
+          "topic": "NSW politics and Sydney news"
+        }
+      ],
+      "key": "australia",
+      "name": "Australia"
+    },
+    {
+      "items": [
+        {
+          "id": "tech-1",
+          "title": "Kospi's Black Friday: down 6%, Hynix and Samsung slide again",
+          "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+        },
+        {
+          "id": "tech-2",
+          "title": "The data-centre backlash, Nvidia's $450bn day and Friday's rebound",
+          "topic": "Nvidia"
+        },
+        {
+          "id": "tech-3",
+          "title": "Report: TSMC drafting 3D DRAM plans for Nvidia",
+          "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+        },
+        {
+          "id": "tech-4",
+          "title": "Memory is the bottleneck: GPUs still 2 to 4 times MSRP",
+          "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+        },
+        {
+          "id": "tech-5",
+          "title": "First touchscreen Mac on sale; M6 MacBook Pro reviewed",
+          "topic": "Apple"
+        },
+        {
+          "id": "tech-6",
+          "title": "Jensen Huang asked to meet House committee chairs",
+          "topic": "Nvidia"
+        },
+        {
+          "id": "tech-7",
+          "title": "Tesla ends the Cybertruck; Starship Flight 15 targets Friday",
+          "topic": "SpaceX and Starship"
+        },
+        {
+          "id": "tech-8",
+          "title": "Quick hits: Z2RAM memory start-up, Hyundai",
+          "topic": "Running AI models at home (model sizes, quantisation)"
+        }
+      ],
+      "key": "tech",
+      "name": "Tech"
+    },
+    {
+      "items": [
+        {
+          "id": "games-1",
+          "title": "GTA VI pre-load Tuesday, launch 19 Nov; Take-Two reports",
+          "topic": "Video game releases"
+        },
+        {
+          "id": "games-2",
+          "title": "Ocarina: Master Quest datamined, Star Fox remake passes 1M",
+          "topic": "Nintendo (Switch 2, Zelda)"
+        },
+        {
+          "id": "games-3",
+          "title": "Miyamoto unwell, expected back soon",
+          "topic": "Nintendo (Switch 2, Zelda)"
+        },
+        {
+          "id": "games-4",
+          "title": "Switch 2 third-party slate: FFVII Revelation dated 8 April 2027",
+          "topic": "Final Fantasy (series, lore, new releases)"
+        },
+        {
+          "id": "games-5",
+          "title": "SEGA Sammy results; Metaphor on Switch 2 Thursday",
+          "topic": "Like a Dragon / Yakuza series"
+        },
+        {
+          "id": "games-6",
+          "title": "WoW Forever's first level 60",
+          "topic": "Warcraft and Blizzard"
+        },
+        {
+          "id": "games-7",
+          "title": "Quick hits and retro corner: Unity talks, Neil Broadley, FFXIV 7.58, Physint, recomps, VF2 model viewer",
+          "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+        },
+        {
+          "id": "games-8",
+          "title": "Retro Game of the Week: Crusader of Centy (Mega Drive)",
+          "topic": "Retro games (SNES and Mega Drive)"
+        }
+      ],
+      "key": "games",
+      "name": "Games"
+    },
+    {
+      "items": [
+        {
+          "id": "movies-1",
+          "title": "Godzilla Minus Zero: record foreign-language opening in America",
+          "topic": "Japanese horror"
+        },
+        {
+          "id": "movies-2",
+          "title": "Korea: Final Interview ends foreign films' run at No. 1",
+          "topic": "Korean genre cinema"
+        },
+        {
+          "id": "movies-3",
+          "title": "1408 sequel; Paranormal Activity moves; Sleepy Hollow's Ichabod",
+          "topic": "Horror films"
+        }
+      ],
+      "key": "movies",
+      "name": "Movies"
+    },
+    {
+      "items": [
+        {
+          "id": "lore-1",
+          "title": "The mandrake, and why Lanternfall's radishes wake up",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "lore",
+      "name": "Lore"
+    },
+    {
+      "items": [
+        {
+          "id": "game-tech-1",
+          "title": "The week's task (the radish wakes up) and spawning scenes with signals",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "game-tech",
+      "name": "Game tech"
+    },
+    {
+      "items": [
+        {
+          "id": "effects-1",
+          "title": "Tremors: how the Graboids were built",
+          "topic": "Practical effects and CGI history"
+        }
+      ],
+      "key": "effects",
+      "name": "Effects"
+    },
+    {
+      "items": [
+        {
+          "id": "director-1",
+          "title": "Michael Mann's Heat: the downtown shootout",
+          "topic": "Directors and filming techniques"
+        }
+      ],
+      "key": "director",
+      "name": "Director"
+    },
+    {
+      "items": [
+        {
+          "id": "workshop-1",
+          "title": "Build step 1: a radish monster bursts out of the ground",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "workshop",
+      "name": "Workshop"
+    },
+    {
+      "items": [
+        {
+          "id": "chat-and-goodbye-1",
+          "title": "Dogs, mandrakes and John Wick",
+          "topic": "Godot and Scott's 2D game"
+        },
+        {
+          "id": "chat-and-goodbye-2",
+          "title": "Your answers and the goblin compost suggestion",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "chat-and-goodbye",
+      "name": "Chat and goodbye"
+    }
+  ],
+  "weekday": "Monday"
+}

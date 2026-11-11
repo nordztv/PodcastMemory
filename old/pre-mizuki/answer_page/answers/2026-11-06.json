@@ -1,0 +1,72 @@
+{
+  "answers": {
+    "1": "Farmers and they use the bodies for fertiliser.",
+    "2": "The original Matrix movie, neo vs agent smith in the subway",
+    "3": "Such a hard question, probably  the original John wick."
+  },
+  "built": "Nothing I was on holidays",
+  "challenge": "done",
+  "date": "2026-11-06",
+  "note": "Maybe you can ask questions that have answers that can integrate into my game project.",
+  "picks": {
+    "film-2026-11-03": {
+      "done": true,
+      "verdict": "liked"
+    },
+    "retro-2026-11-02": {
+      "done": true,
+      "verdict": "mixed"
+    }
+  },
+  "sectionScores": {
+    "australia": 4,
+    "chat-and-goodbye": 4,
+    "director": 4,
+    "effects": 4,
+    "game-tech": 4,
+    "games": 4,
+    "lore": 5,
+    "movies": 4,
+    "opening-and-world": 4,
+    "tech": 4,
+    "workshop": 4
+  },
+  "updatedAt": "2026-11-06T19:42:59.066Z",
+  "votes": {
+    "australia-1": "like",
+    "australia-2": "like",
+    "australia-3": "like",
+    "australia-4": "like",
+    "australia-5": "like",
+    "australia-6": "like",
+    "australia-7": "like",
+    "australia-8": "dislike",
+    "chat-and-goodbye-1": "like",
+    "chat-and-goodbye-2": "like",
+    "chat-and-goodbye-3": "like",
+    "chat-and-goodbye-4": "like",
+    "effects-1": "like",
+    "game-tech-1": "like",
+    "games-1": "like",
+    "games-2": "like",
+    "games-3": "like",
+    "games-4": "like",
+    "games-6": "like",
+    "games-7": "like",
+    "games-8": "like",
+    "lore-1": "like",
+    "movies-1": "like",
+    "movies-2": "like",
+    "movies-4": "like",
+    "movies-5": "like",
+    "opening-and-world-1": "like",
+    "opening-and-world-2": "like",
+    "opening-and-world-3": "like",
+    "opening-and-world-4": "like",
+    "tech-2": "like",
+    "tech-4": "like",
+    "tech-5": "like",
+    "tech-8": "like",
+    "workshop-1": "like"
+  }
+}

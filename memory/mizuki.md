@@ -18,7 +18,6 @@ What Mizuki (the host, `show/host.md`; life story in `show/mizuki_history.md`) h
 
 ## Her opinions and running bits
 
-- Her ninety-minute 4K film of rain, with no plot (from before she had a name).
 
 ## What she has worked out
 

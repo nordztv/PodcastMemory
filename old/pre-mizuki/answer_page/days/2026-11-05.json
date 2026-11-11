@@ -1,0 +1,273 @@
+{
+  "challenge": "Seventy dumbbell rows (thirty five each arm, 7.5 kg) and a two minute plank in total, broken up however you like, across the day",
+  "date": "2026-11-05",
+  "picks": [
+    {
+      "key": "retro-2026-11-02",
+      "kind": "Retro Game of the Week",
+      "title": "Demon's Crest",
+      "type": "game"
+    },
+    {
+      "key": "film-2026-11-03",
+      "kind": "Actress of the Month film",
+      "title": "Lady Snowblood (1973)",
+      "type": "film"
+    }
+  ],
+  "questions": [
+    "If the Lanternfall village held a trial after the festival, Chrono Trigger style, what's the one small thing the player did that the villagers would bring up as evidence?",
+    "Did you get to watch Lady Snowblood this week, and which moment has stayed with you since?",
+    "If you lit one scene in your travel videos with a single colour, like Deakins' orange Las Vegas, where would you film it, and what colour would it be?"
+  ],
+  "rateLine": "5 of 11, 45%",
+  "sections": [
+    {
+      "items": [
+        {
+          "id": "opening-and-world-1",
+          "title": "Democrats win both houses of Congress in the US midterms",
+          "topic": "Major world news"
+        },
+        {
+          "id": "opening-and-world-2",
+          "title": "Sydney weather: early showers clearing, sunny Friday; bus industrial action",
+          "topic": "NSW politics and Sydney news"
+        }
+      ],
+      "key": "opening-and-world",
+      "name": "Opening and world"
+    },
+    {
+      "items": [
+        {
+          "id": "australia-1",
+          "title": "Big four banks pass on the rate rise from 13 November",
+          "topic": "Australian economy and banks"
+        },
+        {
+          "id": "australia-2",
+          "title": "Albanese v Taylor on spending and rates; Burnham backpacker talks",
+          "topic": "Australian federal politics"
+        },
+        {
+          "id": "australia-3",
+          "title": "AFP charges five over $235 million alleged welfare and NDIS fraud",
+          "topic": "Australian federal politics"
+        },
+        {
+          "id": "australia-4",
+          "title": "David Jones on the brink over unpaid Westfield rent",
+          "topic": "Australian economy and banks"
+        },
+        {
+          "id": "australia-5",
+          "title": "High Court: Uber must pay $81 million in NSW payroll tax",
+          "topic": "NSW politics and Sydney news"
+        },
+        {
+          "id": "australia-6",
+          "title": "NSW Liberals' MP exodus as One Nation surges",
+          "topic": "NSW politics and Sydney news"
+        },
+        {
+          "id": "australia-7",
+          "title": "NSW Health cyber breach declared a major incident",
+          "topic": "Cybersecurity"
+        },
+        {
+          "id": "australia-8",
+          "title": "Call for a 7.5% short-stay rental levy",
+          "topic": "Sydney housing and planning"
+        },
+        {
+          "id": "australia-9",
+          "title": "Western Harbour Tunnel nears halfway; underquoting laws start 17 November",
+          "topic": "NSW politics and Sydney news"
+        }
+      ],
+      "key": "australia",
+      "name": "Australia"
+    },
+    {
+      "items": [
+        {
+          "id": "tech-1",
+          "title": "AMD's record quarter and '80% growth in 2027'; gaming down 40%",
+          "topic": "Intel and AMD"
+        },
+        {
+          "id": "tech-2",
+          "title": "Kospi's 7% swing and Nikkei slide on the US blue wave",
+          "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+        },
+        {
+          "id": "tech-3",
+          "title": "Nvidia's reported 51% non-China rule for cloud partners",
+          "topic": "Nvidia"
+        },
+        {
+          "id": "tech-4",
+          "title": "New Macs in stores Friday; first touchscreen MacBook Pro impressions",
+          "topic": "Apple"
+        },
+        {
+          "id": "tech-5",
+          "title": "Qualcomm and Arm report this morning",
+          "topic": "Tech company earnings"
+        },
+        {
+          "id": "tech-6",
+          "title": "Kimi K3.1 Pro: a 2.8-trillion-parameter open model",
+          "topic": "Running AI models at home (model sizes, quantisation)"
+        },
+        {
+          "id": "tech-7",
+          "title": "Quick hits: Tesla Korea FSD complaint, Grok in cars, HBM smuggling, Arc Pro B70 prices",
+          "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+        }
+      ],
+      "key": "tech",
+      "name": "Tech"
+    },
+    {
+      "items": [
+        {
+          "id": "games-1",
+          "title": "Ocarina of Time on Switch 2: Famitsu 37/40, the NPR leak, day-one update",
+          "topic": "Nintendo (Switch 2, Zelda)"
+        },
+        {
+          "id": "games-2",
+          "title": "WoW Forever launches at 10am",
+          "topic": "Warcraft and Blizzard"
+        },
+        {
+          "id": "games-3",
+          "title": "Like a Dragon: Kenzan! gets an English fan translation",
+          "topic": "Like a Dragon / Yakuza series"
+        },
+        {
+          "id": "games-4",
+          "title": "Cancelled Sega Mega Drive games preserved: Jester, Segapede, Treasure Tails",
+          "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+        },
+        {
+          "id": "games-5",
+          "title": "Snake's Japanese voice wants 'one more Metal Gear'",
+          "topic": "Metal Gear Solid"
+        },
+        {
+          "id": "games-6",
+          "title": "Godot 4.8 beta 2",
+          "topic": "Godot and Scott's 2D game"
+        },
+        {
+          "id": "games-7",
+          "title": "Quick hits: GoldenEye leaves Game Pass, Dragon's Dogma 2 collab, Zero Parades, Witchbrook crossplay",
+          "topic": "Video game industry"
+        }
+      ],
+      "key": "games",
+      "name": "Games"
+    },
+    {
+      "items": [
+        {
+          "id": "movies-1",
+          "title": "Godzilla Minus Zero opens in Australia; record Japan opening, big US projections",
+          "topic": "Japanese horror"
+        },
+        {
+          "id": "movies-2",
+          "title": "Tokyo festival top prize: Sister Brother Manhole Cover",
+          "topic": "Film festivals"
+        },
+        {
+          "id": "movies-3",
+          "title": "Arrow's January 4K slate; Eureka's Scarlet Street 4K",
+          "topic": "4K Blu-ray, physical media and restorations"
+        },
+        {
+          "id": "movies-4",
+          "title": "Actress of the Month: the making of Lady Snowblood",
+          "topic": "Cult actresses and iconic characters"
+        }
+      ],
+      "key": "movies",
+      "name": "Movies"
+    },
+    {
+      "items": [
+        {
+          "id": "lore-1",
+          "title": "Chrono Trigger's Millennial Fair and the trial",
+          "topic": "Square Enix and Dragon Quest"
+        },
+        {
+          "id": "lore-2",
+          "title": "Lanternfall: a festival that remembers what you did",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "lore",
+      "name": "Lore"
+    },
+    {
+      "items": [
+        {
+          "id": "game-tech-1",
+          "title": "Interaction in Godot: Area2D reach zone, groups, signals, tween pop",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "game-tech",
+      "name": "Game tech"
+    },
+    {
+      "items": [
+        {
+          "id": "effects-1",
+          "title": "Shin Godzilla: the first all-CG Toho Godzilla, performed by Mansai Nomura",
+          "topic": "Practical effects and CGI history"
+        }
+      ],
+      "key": "effects",
+      "name": "Effects"
+    },
+    {
+      "items": [
+        {
+          "id": "director-1",
+          "title": "Villeneuve and Deakins on Blade Runner 2049",
+          "topic": "Directors and filming techniques"
+        }
+      ],
+      "key": "director",
+      "name": "Director"
+    },
+    {
+      "items": [
+        {
+          "id": "workshop-1",
+          "title": "Build step: a radish you can pull in Lanternfall",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "workshop",
+      "name": "Workshop"
+    },
+    {
+      "items": [
+        {
+          "id": "chat-and-goodbye-1",
+          "title": "Launch day as a visit to who you used to be",
+          "topic": "Video game releases"
+        }
+      ],
+      "key": "chat-and-goodbye",
+      "name": "Chat and goodbye"
+    }
+  ],
+  "weekday": "Thursday"
+}

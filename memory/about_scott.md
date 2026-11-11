@@ -15,6 +15,8 @@ Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chat
 
 ## Tastes he's told the show
 
+- Already played (don't recommend again): The Legend of Zelda: A Link to the Past, Beyond Oasis, Demon's Crest, Crusader of Centy. Already watched: Aliens, Lady Snowblood, Ghostbusters. Films the old show already recommended are in `old/pre-mizuki/memory/movie_log.md`.
+
 - Games: Secret of Mana, Final Fantasy (Vincent Valentine deserves redemption; Tifa; would add a Necromancer to FFXIV), Warcraft (murloc noises), Like a Dragon, Fallout, A Link to the Past; liked Beyond Oasis and Crusader of Centy, mixed on Demon's Crest.
 - Films: loved Aliens and Lady Snowblood's fight scenes; John Wick is the one film he'd keep; dream boss fight is Neo v Agent Smith in the subway; would restore The NeverEnding Story in 4K.
 - Likes pixel art, yokai (enjoys them without knowing the names), dark horror-comedy, Japanese actresses in cult films; doesn't want bullet time in his game.

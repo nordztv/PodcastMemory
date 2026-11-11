@@ -4,6 +4,7 @@ Weekly adjustments to the show's structure, made by the Friday weekly review (bi
 
 ## Current settings
 
+- **One-off, Thursday 12 Nov 2026: the fresh start.** This is Mizuki's first conversation with Scott in a long time and the first episode of the restarted show. She opens a little shy and very happy ("it's been so long... okay, I'm nervous, is that silly?"), catches him up on her life since they last really talked (from her life story and journal: the shop, Pyrmont, her goals), tells him she wants to do this every weekday now, and asks him a few questions to catch up on his life. No references to earlier episodes. Remove this line after that episode.
 Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-or-remove review; older tunings that no longer apply (game thread, lore and game tech, quick hits, radish limits, Australian slang) were dropped. The old list is in `show/old/`.
 
 - Story-led and fewer stories, told properly, as conversation (Scott's notes 22 and 28 Oct; bible section 5). Reason: his notes.

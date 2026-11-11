@@ -1,0 +1,60 @@
+{
+  "answers": {
+    "1": "Leaving dead goblins everywhere",
+    "2": "I loved the fight scenes",
+    "3": "Don’t know"
+  },
+  "challenge": "done",
+  "date": "2026-11-05",
+  "picks": {
+    "film-2026-11-03": {
+      "done": true,
+      "verdict": "liked"
+    },
+    "retro-2026-11-02": {
+      "done": true,
+      "verdict": "mixed"
+    }
+  },
+  "sectionScores": {
+    "australia": 3,
+    "chat-and-goodbye": 4,
+    "director": 4,
+    "effects": 4,
+    "game-tech": 4,
+    "games": 4,
+    "lore": 5,
+    "movies": 4,
+    "opening-and-world": 5,
+    "tech": 4,
+    "workshop": 4
+  },
+  "updatedAt": "2026-11-05T10:42:49.851Z",
+  "votes": {
+    "australia-1": "like",
+    "australia-3": "like",
+    "australia-7": "like",
+    "chat-and-goodbye-1": "like",
+    "director-1": "like",
+    "effects-1": "like",
+    "game-tech-1": "like",
+    "games-1": "like",
+    "games-2": "like",
+    "games-3": "like",
+    "games-4": "like",
+    "games-6": "like",
+    "lore-1": "like",
+    "lore-2": "like",
+    "movies-1": "like",
+    "movies-2": "like",
+    "movies-3": "like",
+    "movies-4": "like",
+    "opening-and-world-1": "like",
+    "opening-and-world-2": "like",
+    "tech-1": "like",
+    "tech-3": "like",
+    "tech-6": "like",
+    "tech-7": "like",
+    "workshop-1": "like"
+  }
+}

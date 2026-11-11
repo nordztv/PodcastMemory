@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "detail": "A one-minute rapid round-up of smaller stories at the end of the tech and games segments, so the main stories get more depth and the small ones still get a mention.",
+      "id": "c1",
+      "kind": "change",
+      "title": "Quick hits at the end of tech and games"
+    },
+    {
+      "detail": "A page that collects everything you've told the show about your Godot game (the radish monster, the Dark World farm, cannon travel and every answer from now on), updated by the daily run, so you have one place to design from.",
+      "id": "f1",
+      "kind": "feature",
+      "title": "Your game design notebook"
+    },
+    {
+      "detail": "A box on this answer page where you type any name I mispronounced; the next morning's run looks up the right pronunciation and fixes it for good.",
+      "id": "f2",
+      "kind": "feature",
+      "title": "Names I got wrong box"
+    },
+    {
+      "detail": "A box on this answer page for a line on what you did on your projects; the Friday project check-in picks up from exactly where you are instead of guessing.",
+      "id": "f3",
+      "kind": "feature",
+      "title": "What I built this week"
+    }
+  ],
+  "status": "applied",
+  "summary": "Your first week of ratings went from mostly 3s and 4s on Wednesday to mostly 5s on Thursday, with only three stories disliked all week (Alberta, the youth radicalisation warning and Shrek 2 Remastered). I've lengthened game tech again (practical first), added why-it-matters and what's-next lines to Australia, kept the story-led delivery you liked, and built the chat around your own answers."
+}

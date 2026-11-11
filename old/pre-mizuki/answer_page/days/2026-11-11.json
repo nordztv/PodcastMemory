@@ -1,0 +1,273 @@
+{
+  "challenge": "Sixty walking lunges (thirty each leg) and a two minute plank in total, broken up however you like, across the day",
+  "date": "2026-11-11",
+  "picks": [
+    {
+      "key": "retro-2026-11-09",
+      "kind": "Retro Game of the Week",
+      "title": "Crusader of Centy",
+      "type": "game"
+    },
+    {
+      "key": "film-2026-11-10",
+      "kind": "Actress of the Month film",
+      "title": "Female Prisoner #701: Scorpion",
+      "type": "film"
+    }
+  ],
+  "questions": [
+    "You liked Crusader of Centy. What clicked for you, especially after Demon's Crest left you lukewarm, and which of its animals would you take home?",
+    "If you shot one scene in Sydney Chungking Express style, one still person while the city streaks past, where would you film it, and who's the person standing still?",
+    "If a bakeneko moved into your farmhouse and your bush cat found out, who would win, and what are they fighting over?"
+  ],
+  "rateLine": "10 of 15, 67%",
+  "sections": [
+    {
+      "items": [
+        {
+          "id": "opening-and-world-1",
+          "title": "Warm, 27, storms possible this afternoon",
+          "topic": "NSW politics and Sydney news"
+        },
+        {
+          "id": "opening-and-world-2",
+          "title": "Massie moves to impeach Hegseth",
+          "topic": "Major world news"
+        },
+        {
+          "id": "opening-and-world-3",
+          "title": "Abu Dhabi talks under way; Australian feared dead fighting for Russia",
+          "topic": "Russia-Ukraine war"
+        },
+        {
+          "id": "opening-and-world-4",
+          "title": "France blames Iran's Guard for the supermarket fridge hack",
+          "topic": "Cybersecurity"
+        }
+      ],
+      "key": "opening-and-world",
+      "name": "Opening and world"
+    },
+    {
+      "items": [
+        {
+          "id": "australia-1",
+          "title": "Mandatory AI safety rules after the OpenAI Medicare breach",
+          "topic": "Australian federal politics"
+        },
+        {
+          "id": "australia-2",
+          "title": "Qantas cuts 850 corporate jobs in Accenture deal",
+          "topic": "Australian economy and banks"
+        },
+        {
+          "id": "australia-3",
+          "title": "Minns bill to let Mount Pleasant mine expand after the High Court ruling",
+          "topic": "NSW politics and Sydney news"
+        },
+        {
+          "id": "australia-4",
+          "title": "Round-up: Chalmers backed, Westmead waits, Baldon wind farm, Todd Russell, aged care, PM to COP31, petrol and ASX",
+          "topic": "Australian federal politics"
+        }
+      ],
+      "key": "australia",
+      "name": "Australia"
+    },
+    {
+      "items": [
+        {
+          "id": "tech-1",
+          "title": "TSMC's record October: NT$586.9 billion",
+          "topic": "Chipmakers: TSMC, ASML, SK Hynix, Samsung"
+        },
+        {
+          "id": "tech-2",
+          "title": "Nvidia's rough Monday: FBI, class action, House briefing",
+          "topic": "Nvidia"
+        },
+        {
+          "id": "tech-3",
+          "title": "Asian chips bounce; Morgan Stanley sees memory prices easing from 2028",
+          "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+        },
+        {
+          "id": "tech-4",
+          "title": "AMD Epyc chips for Google Cloud's TPU 8tx",
+          "topic": "Intel and AMD"
+        },
+        {
+          "id": "tech-5",
+          "title": "Starship Flight 15 double catch set for Saturday 9:45am AEDT",
+          "topic": "SpaceX and Starship"
+        },
+        {
+          "id": "tech-6",
+          "title": "Apple TV and HomeView on Friday; Apple Intelligence clears China hurdle",
+          "topic": "Apple"
+        },
+        {
+          "id": "tech-7",
+          "title": "Quick hits: Tesla San Antonio robotaxi, Inkling 2 Small weights wait, ASML unions, Nikon ZR firmware 2.0",
+          "topic": "Nikon ZR, lenses and camera gear"
+        }
+      ],
+      "key": "tech",
+      "name": "Tech"
+    },
+    {
+      "items": [
+        {
+          "id": "games-1",
+          "title": "Take-Two results: GTA VI pre-orders 'far in excess' of expectations",
+          "topic": "Video game industry"
+        },
+        {
+          "id": "games-2",
+          "title": "WoW Forever: biggest launch in WoW history",
+          "topic": "Warcraft and Blizzard"
+        },
+        {
+          "id": "games-3",
+          "title": "Diablo 30th: Legacy of Terror event in D2R",
+          "topic": "Warcraft and Blizzard"
+        },
+        {
+          "id": "games-4",
+          "title": "FFXIV 7.58 is live; Evercold on 23 February",
+          "topic": "Final Fantasy (series, lore, new releases)"
+        },
+        {
+          "id": "games-5",
+          "title": "Capcom million sellers: RE4 remake at 17.1 million",
+          "topic": "Capcom and Resident Evil"
+        },
+        {
+          "id": "games-6",
+          "title": "Ocarina Master Quest: DLC data claim, Aonuma stays quiet",
+          "topic": "Nintendo (Switch 2, Zelda)"
+        },
+        {
+          "id": "games-7",
+          "title": "Quick hits: Pikmin 4 S2, Nagoshi Studio dissolved, Dragon's Dogma 2 update; Game and Watch on the ZX Spectrum, Hungry Ghosts translation",
+          "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+        },
+        {
+          "id": "games-8",
+          "title": "Retro retrospective: how Crusader of Centy was made",
+          "topic": "Retro games (SNES and Mega Drive)"
+        }
+      ],
+      "key": "games",
+      "name": "Games"
+    },
+    {
+      "items": [
+        {
+          "id": "movies-1",
+          "title": "Godzilla Minus Zero near $62m worldwide; Ramayana tops Australia",
+          "topic": "Japanese horror"
+        },
+        {
+          "id": "movies-2",
+          "title": "Planet of the Vampires in 4K (Radiance)",
+          "topic": "4K Blu-ray, physical media and restorations"
+        },
+        {
+          "id": "movies-3",
+          "title": "The Big Combo 4K and The Wild Geese 4K",
+          "topic": "4K Blu-ray, physical media and restorations"
+        },
+        {
+          "id": "movies-4",
+          "title": "Korea: Chiikawa's fifth week, Final Interview opens; China's crime films",
+          "topic": "Korean genre cinema"
+        },
+        {
+          "id": "movies-5",
+          "title": "Vera Farmiga's Black Branch occult thriller",
+          "topic": "Horror films"
+        },
+        {
+          "id": "movies-6",
+          "title": "The Host 4K in US cinemas from 20 November",
+          "topic": "Korean genre cinema"
+        }
+      ],
+      "key": "movies",
+      "name": "Movies"
+    },
+    {
+      "items": [
+        {
+          "id": "lore-1",
+          "title": "Resident Evil 4 (2005): the game made four times",
+          "topic": "Capcom and Resident Evil"
+        }
+      ],
+      "key": "lore",
+      "name": "Lore"
+    },
+    {
+      "items": [
+        {
+          "id": "game-tech-1",
+          "title": "Shaders for 2D pixel art in Godot: hit flash, outline, sway, water",
+          "topic": "Godot and Scott's 2D game"
+        }
+      ],
+      "key": "game-tech",
+      "name": "Game tech"
+    },
+    {
+      "items": [
+        {
+          "id": "effects-1",
+          "title": "The Host (2006): building the Han River creature",
+          "topic": "Practical effects and CGI history"
+        }
+      ],
+      "key": "effects",
+      "name": "Effects"
+    },
+    {
+      "items": [
+        {
+          "id": "director-1",
+          "title": "Wong Kar-wai and Christopher Doyle: Chungking Express",
+          "topic": "Directors and filming techniques"
+        }
+      ],
+      "key": "director",
+      "name": "Director"
+    },
+    {
+      "items": [
+        {
+          "id": "workshop-1",
+          "title": "Nikon ZR: the Chungking Express neon smear in ten minutes",
+          "topic": "Nikon ZR, lenses and camera gear"
+        }
+      ],
+      "key": "workshop",
+      "name": "Workshop"
+    },
+    {
+      "items": [
+        {
+          "id": "chat-and-goodbye-1",
+          "title": "Yokai of the Week #3: the bakeneko and the nekomata",
+          "topic": "Japanese yokai"
+        },
+        {
+          "id": "chat-and-goodbye-2",
+          "title": "The week ahead",
+          "topic": "Video game releases"
+        }
+      ],
+      "key": "chat-and-goodbye",
+      "name": "Chat and goodbye"
+    }
+  ],
+  "weekday": "Wednesday"
+}

@@ -159,4 +159,5 @@ Every Friday the run reviews the week's scores, story taps, answers, notes and c
 - `memory/recent_episodes.md` keeps the last 30 days, newest first.
 - First run of a new month: write `memory/monthly/YYYY-MM.md` (main stories, storylines, topic risers and fallers, questions and answers, deep dives, and Mizuki's month), then trim `recent_episodes.md`.
 - First run of a new year: also write `memory/yearly/YYYY.md`, the year's story so far (about 2,500 to 3,000 words: the news and his topics; his projects and what his answers revealed; the show and Mizuki's year).
+- The first version of the show (18 Oct to 11 Nov 2026) is kept in `old/pre-mizuki/`; the show restarted fresh with Mizuki on 12 Nov 2026.
 - Never delete anything in `archive/`, and never remove questions or answers from `memory/questions.md`, or anything from `memory/about_scott.md` unless Scott asks.
