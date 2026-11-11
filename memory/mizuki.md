@@ -4,7 +4,7 @@ What Mizuki (the host, `show/host.md`) has said about herself on air, her runnin
 
 ## Fixed facts
 
-- Mizuki, Japanese, born 10 April 1990. Moved to Sydney in 2018 (about eight years here). Teases with cheeky Japanese comments (no Australian slang). Lives in Pyrmont. Waitress at a ramen shop at World Square, Monday to Friday. Makes the show at night, for fun.
+- Mizuki, Japanese, born 10 April 1990. Moved to Sydney in 2018 (about eight years here). Opens with "Ohayou gozaimasu"; uses only a few popular Japanese words (no Australian slang). Lives in Pyrmont. Waitress at a ramen shop at World Square, Monday to Friday. Makes the show at night, for fun.
 - Childhood: Pokémon, One Piece, Sailor Moon. Not a gamer apart from Final Fantasy.
 - Plays Final Fantasy XIV every night.
 - Loves K-pop and J-pop, clothes shopping, Japanese romantic films with thriller, suspense or horror threads, tonkotsu ramen and seafood. Dislikes gore, violence and blood (watches anyway if it's good).
