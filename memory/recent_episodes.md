@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-11-12 (Thursday) — fresh start with Mizuki
 
-- **Length:** LENGTH_TBD. Made on request on Wednesday night (the scheduled run didn't produce it). Mizuki's first conversation with Scott in a long time: shy, happy, wants to talk every weekday.
+- **Length:** 46 min (11 chapters). Made on request on Wednesday night (the scheduled run didn't produce it). Mizuki's first conversation with Scott in a long time: shy, happy, wants to talk every weekday.
 - **World:** Hegseth impeachment sent to committee (only Massie voted with Democrats; Hegseth "condemned not for defeat, but for military victory"; Democrats may retry in January); Abu Dhabi talks no breakthrough (Kushner "narrowed the gaps", Rubio "very productive"; Donbas, Lavrov rejects truce, no date for next round); M5.7 Shizuoka quake Sunday (22 hurt, no Nankai change).
 - **Australia:** Remembrance Day (11 WWI soldiers identified incl. Lt Andrew Anderson, Marles's great uncle; Albanese at Changi); 129 more NSW hospital security staff after Concord assaults (Park, HSU, RNS guard); AI criminal charges under consideration (Santow: civil penalties better; OpenAI reviewing). Round-up: Macquarie $14m penalty, Marles on Qantas, rip-spotting AI trial, COP31 35-by-35.
 - **Tech:** Apple TV 4K mixed reviews (Fri); Nikkor Z 120-300mm f/2.8, EXPEED 7 firmware rumour; Switch 2 jailbreak claim patched in 23.5.0, Google/Apple sign-ins end 2027; Starship Flight 15 FAA licence pending; local AI speed-ups.
