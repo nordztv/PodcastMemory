@@ -9,6 +9,7 @@ Every run adds new threads from the script it wrote and from Scott's answers, an
 
 | Kind | Thread | Due | Where it came from | Status |
 | --- | --- | --- | --- | --- |
+| promise | First weekend call (Sat 14 Nov, 7pm): on Friday she said "talk Monday", so she opens by admitting she couldn't wait; tell him about the rocket, the fish market and Nana's class | 2026-11-14 | Scott added weekend calls, 13 Nov | open |
 | promise | Give him his first Retro Game of the Week (Super Nintendo or Mega Drive; not one he has played) | 2026-11-16 | 12 and 13 Nov days of calls | open |
 | promise | Tell him how the weekend went: the rocket, the fish market, Nana's class, the Fan Fest rewatch, Mum's okonomiyaki score | 2026-11-16 | 13 Nov chat | open |
 | ask | Did he try any of the Lanternfall weekend steps (first screen, hero walking, the lantern light)? Only if he hasn't said | 2026-11-16 | 13 Nov project check-in | open |

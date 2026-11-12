@@ -56,7 +56,7 @@ def main():
 
     print("TODAY'S SPECIAL RULES")
     if wd == 0:
-        print("- Monday: news since Friday; her weekend (roll Sat and Sun too); Retro Game of the Week pick; new Actress of the Week.")
+        print("- Monday: news since her Sunday call; she already told him about the weekend at 7pm on Saturday and Sunday (don't retell it); Retro Game of the Week pick; new Actress of the Week.")
     if wd == 1:
         print("- Tuesday: a quick nudge on the retro game.")
     if wd == 2:
@@ -71,18 +71,21 @@ def main():
     if wd in (1, 3):
         print("- An ordinary weekday: no fixed feature, so her day and his answers carry it.")
 
-    print("\nTHE TWO CALLS (bible section 5)")
-    print(f"- Morning call (about 8am {d.strftime('%A')}): she's at home in Pyrmont before work (leaves 10:10): breakfast, tea, the balcony.")
-    print(f"  What she can talk about: last night -> {EVENINGS[prev.weekday()]}")
-    if wd == 0:
-        print("  Plus the whole weekend (Saturday and Sunday rhythms above; her plans are in memory/mizuki.md, Her weekends).")
-    print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
-    print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
-    print(f"  Tonight for her -> {EVENINGS[wd]} (she can look forward to it; she reports on it tomorrow)")
-    print("- She only knows news up to when the run happens (the evening before). Never 'this morning's news'.")
+    if wd >= 5:
+        print("- WEEKEND: one call at 7pm (her time), about 3,000 words, begins 'Konbanwa, Scott.', no challenge. Follow show/weekend_run.md.")
+        print(f"  Her day -> {EVENINGS[wd]}")
+        print("  The run happens at about 4pm: she knows the real world only up to then; her own evening is hers to tell.")
+    if wd < 5:
+        print("\nTHE TWO CALLS (bible section 5; weekdays only)")
+        print(f"- Morning call (about 8am {d.strftime('%A')}): she's at home in Pyrmont before work (leaves 10:10): breakfast, tea, the balcony.")
+        print(f"  What she can talk about: last night -> {EVENINGS[prev.weekday()]}")
+        print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
+        print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
+        print(f"  Tonight for her -> {EVENINGS[wd]} (she can look forward to it; she reports on it tomorrow)")
+        print("- She only knows news up to when the run happens (the evening before). Never 'this morning's news'.")
 
     print("\nDICE")
-    dates = [d.isoformat()] if wd else [(d - dt.timedelta(days=2)).isoformat(), prev.isoformat(), d.isoformat()]
+    dates = [d.isoformat()]   # Saturday and Sunday are rolled by their own weekend runs
     print(run("engine/life_dice.py", *dates))
     en = re.search(r"\*\*Now: (\d+) out of 10\*\*", read("mizuki_life.md"))
     print(f"Energy yesterday: {en.group(1) if en else '?'} of 10 (move it a step or two, with a reason).")
@@ -132,6 +135,9 @@ def main():
     if taught:
         print("- Things he taught her she hasn't followed up: " + "; ".join(r[1][:50] for r in taught[:3]))
 
+    if wd >= 5:
+        print("\nWORD BUDGET: about 3,000 words: hello 500, world 600, games and films 800, a story 600, goodbye 500 (check_script.py DATE eve).")
+        return
     print("\nWORD BUDGETS (check_script.py reports the real counts)")
     b = dict(BUDGET)
     if wd == 4:

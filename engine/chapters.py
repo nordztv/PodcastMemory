@@ -20,6 +20,8 @@ TITLES = {
     "08_effects": "Effects deep dive",
     "09_director": "Director deep dive",
     "10_workshop": "Workshop",
+    "01_evening_hello": "Good evening", "02_evening_world": "What she read today", "03_evening_fun": "Games and films",
+    "04_evening_story": "A story", "05_evening_goodbye": "Catching up and goodnight",
     "11_chat_outro": "Catching up and goodbye",
 }
 
