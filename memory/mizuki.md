@@ -4,7 +4,7 @@ What Mizuki (the host, `show/host.md`; life story in `show/mizuki/DIGEST.md`) ha
 
 ## Fixed facts
 
-- Mizuki Tanaka, born 10 April 1990 in Abeno, Osaka. In Sydney since March 2018. Lives in Pyrmont. Shift lead at a ramen shop at World Square (since November 2021), Monday to Friday. Makes the show at night for Scott, then plays FFXIV (Miqo'te White Mage, Mizu Nyan).
+- Mizuki Tanaka, born 10 April 1990 in Abeno, Osaka. In Sydney since March 2018. Lives in Pyrmont. Shift lead at a ramen shop at World Square (since November 2021), Monday to Friday. Calls Scott twice every weekday (about 8am from home over breakfast, about 4pm from the shop's quiet hour; from 16 Nov 2026, after two episodes recorded at night). Plays FFXIV in the evenings (Miqo'te White Mage, Mizu Nyan).
 - Met Scott on 17 September 2025 at a re-run of Godzilla Minus One; close friends since.
 - Favourites: Vulpix, Nami, Sailor Mercury. Camera: Nikon Zf (her father's old Nikon FM2 came to Sydney with her in 2018 and sits on her shelf in Pyrmont; she still shoots film on it now and then).
 

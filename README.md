@@ -1,41 +1,39 @@
 # Morning Briefing
 
-Scott's personal daily podcast. A scheduled Claude run builds a new episode every weekday morning (Monday to Friday, starting 1:45am) at 1:45am Sydney time and delivers it before 6am. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
+Scott's personal daily podcast: two phone calls from Mizuki every weekday, one for the walk to work and one for the walk home. A scheduled Claude run makes each episode the evening before (about 8:30pm Sydney time, Sunday to Thursday) and delivers it that night. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
 
 ## Where things live
 
 | Folder | What's in it | Who edits it |
 | --- | --- | --- |
-| `show/` | The show bible (host personality, segments, news sources, rules), pronunciations, deep-dive topic pools | Scott or Claude, on request |
-| `engine/` | Voice engine setup, text-to-speech, episode builder, topic scoring tool | Claude |
-| `memory/` | What the show remembers: topic scores, storylines, questions, deep dives covered, recent episodes, monthly and yearly summaries | The daily run (Scott can edit anytime) |
-| `archive/` | Every episode's script, answer sheet and notes, by date | The daily run |
-| `voice_backup/` | Backup copy of the voice model files (split into parts), used if the original download links ever disappear | Claude |
+| `show/` | The show bible (the rules), the host sheet, Mizuki's life story (`show/mizuki/`), the nightly procedure (`daily_run.md`), weekly tuning, pronunciations, deep-dive topic pools, and the links to the three pages | Scott, or Claude on request |
+| `engine/` | The voice engine and the run's tools (below) | Claude |
+| `memory/` | Everything the show remembers: Scott (`about_scott.md`, `questions.md`, `open_threads.md`), Mizuki's ongoing life (timeline, money and ledger, arcs, home, people, opinions), the show itself (recent episodes, ratings, callbacks, topics, storylines) | The nightly run (Scott can edit anything) |
+| `archive/` | Every episode's script, notes, show notes and rating items, by date | The nightly run |
+| `voice_backup/` | The voice model files, so the voice never depends on outside downloads | Claude |
+| `old/` | The first version of the show (18 Oct to 11 Nov 2026) | Nobody |
+
+## The run's tools
+
+- `engine/preflight.py DATE`: the day's brief (special rules for the weekday, where Mizuki is for each call, the dice, threads that are due, variety reminders, word budgets).
+- `engine/life_dice.py`: rolls Mizuki's day, week, arcs and month, so her life has real ups and downs.
+- `engine/ledger.py`: moves money between her savings funds and proves the funds add up.
+- `engine/check_script.py DATE`: catches words the voice would say wrongly, and runs the realism check (joke and laugh counts, repeated reactions, timing slips, banned phrases).
+- `engine/topics.py`, `engine/challenges.py`: Scott's topic scores and the daily challenge tally.
+- `engine/build_episode.sh DATE`: records the episode with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build the two pages.
+
+## Scott's three pages (links in `show/`)
+
+- **Answer page** (`answers_url.txt`): how his day is, the challenge, the week's picks, scores and story taps, the day's questions, Ask Mizuki, names she got wrong, what he built, a note, and the weekly review's proposals. The next run reads it all.
+- **Show notes** (`shownotes_url.txt`): links, picks and questions for recent episodes.
+- **Mizuki's life** (`timeline_url.txt`): her energy, savings, long story arcs, photos and timeline.
 
 ## How memory works over years
 
-- **Recent:** `memory/recent_episodes.md` keeps the last 30 days in detail.
-- **Monthly:** on the first run of each month, last month is condensed into `memory/monthly/YYYY-MM.md`.
-- **Yearly:** on the first run of each year, last year becomes a three-page "story so far" in `memory/yearly/YYYY.md`.
-- **Always on:** `memory/storylines.md` (Scott's long-running arcs) and `memory/topics.md` (scored interests) carry across everything.
-- Full detail is never lost: every script stays in `archive/`. MP3s aren't stored here (too big for a repository), but the voice is fixed, so any episode can be re-recorded identically from its script with `sh engine/build_episode.sh YYYY-MM-DD`.
-
-## Each episode
-
-- **Full episode** (about 75 to 85 minutes), with chapter markers so you can jump between segments.
-- **Daily challenge** (like 30 push-ups or a 5 km walk) with your completion rate, tallied in `memory/challenges.md`.
-- **One-tap answer page** in the Claude app (link in `show/answers_url.txt`): Done or Missed for the challenge, stars for the episode, a box for each question and a note for the show. The morning run reads it and files everything.
-- **Answer sheet** (backup) with the challenge's "Done" line, the day's questions and a quick rating.
-- **Show notes page**: links, picks and questions for the last 15 episodes, one page updated each morning (link in `show/shownotes_url.txt`).
+- `memory/recent_episodes.md` keeps the last 30 days; the first run of each month condenses the last one into `memory/monthly/`, and the first run of each year writes `memory/yearly/`.
+- Mizuki's timeline, ledger, questions and what Scott has told the show are kept forever.
+- Every script stays in `archive/`. MP3s aren't stored (too big), but the voice is fixed, so any episode can be re-recorded from its script with `sh engine/build_episode.sh YYYY-MM-DD` (or on Scott's Mac: `engine/mac/README.md`).
 
 ## Changing the show
 
-Edit `show/bible.md` (or ask Claude in any chat to change it). The scheduled task only says "read the bible and follow it", so changes take effect the next morning.
-
-## Telling the show things
-
-`memory/inbox.md` is how the show hears from you between episodes: things you asked about, liked or didn't, answers, project updates, feedback. In any Claude chat, say something like "add that to my podcast" (the podcast note skill files it), or add a line to the inbox yourself on GitHub. The daily run reads it each morning.
-
-## Answering the host's questions
-
-Each day's `archive/YYYY/MM/DATE/sheet.txt` (`workout.txt` before 21 October 2026) has the host's questions and blank "Your answer:" lines. Fill them in right here on GitHub (the GitHub app works on your phone), or mention your answer in any chat with Claude. The next episode reacts and gives you a suggestion based on what you said.
+Edit `show/bible.md`, or ask Claude in any chat. The scheduled task only says "read `show/daily_run.md` and follow it", so changes take effect from the next episode. `memory/inbox.md` takes notes for the show from any chat.

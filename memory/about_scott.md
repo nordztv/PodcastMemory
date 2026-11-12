@@ -9,6 +9,14 @@ Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chat
 - Has a wife and a young son (turned one in September 2026); Friday weekend ideas are toddler-friendly.
 - Birthday: 10 June 1986 (told the show 11 Nov 2026).
 
+## His places
+
+- Home: Rosebery. Walks to Green Square station; train to St James; walks through Hyde Park and the Royal Botanic Garden. A good day for him: a nice coffee shop, then relaxing in the park (12 Nov 2026).
+
+## How he's been
+
+His own taps and words from the answer page's "How's your day" card (mood, one line, which calls he picked up), one dated line each, newest first. Only what he wrote. She uses it the next morning and never makes a fuss (bible section 6).
+
 ## Projects and kit
 
 - Dell T330 home server (TrueNAS, Jellyfin, 8 x 12 TB); Raspberry Pi music-video TV channel; a 2D Godot game, Lanternfall (Secret of Mana meets Stardew Valley); learning Final Cut Pro and colour grading; Nikon ZR (bought Nov 2026, still choosing a lens, mostly for travel video); researching GPUs for local AI; home workouts with fixed 7.5 kg dumbbells.
