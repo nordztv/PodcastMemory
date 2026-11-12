@@ -95,7 +95,7 @@ Commit and push now (message "Episode DATE: script"), so the work is safe even i
 
 ## 6. Build the audio
 
-Build the full episode (there is no headlines edition; Scott removed it on 25 Oct 2026): `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3` (with chapter markers; if the log says "chapters skipped", the episode is still fine, just mention it).
+Check that the Energy table in `memory/mizuki_life.md` has a row for DATE (step 2c): the build reads it to colour her voice (the log prints "Energy for the voice"). Build the full episode (there is no headlines edition; Scott removed it on 25 Oct 2026): `nohup sh REPO/engine/build_episode.sh DATE > ~/podcast/build.log 2>&1 &`, then poll with sleep until it prints a duration. While it renders, do step 8. Output: `~/podcast/out/Morning_Briefing_DATE.mp3` (with chapter markers; if the log says "chapters skipped", the episode is still fine, just mention it).
 
 ## 6b. If the voice engine is blocked
 

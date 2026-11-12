@@ -104,11 +104,12 @@ MOODS = {
     # whispered secrets: af_nicole is Kokoro's breathiest voice; quieter, slower, longer gaps (not a true whisper)
     "whisper": dict(voice="af_heart:0.115+af_nicole:0.36+jf_alpha:0.525", speed=0.84, pitch=1.0075, gain=0.696, gap=0.45),
 }
-# Trial delivery changes (13 Nov 2026), only when MB_VOICE=next is set, so Scott can compare by ear first:
-# a "tender" tone for soft, gentle lines (they used to share the news voice), a smile on the sentence after a laugh
-# cue, small natural variation in pace and pauses, and her daily energy (MB_ENERGY=1..10) nudging pace and volume.
-NEXT = os.environ.get("MB_VOICE") == "next"
-ENERGY = float(os.environ.get("MB_ENERGY", "6")) if NEXT else 6.0
+# Delivery (Scott chose these by ear on 13 Nov 2026, from samples): a "tender" tone for soft, gentle lines (they
+# used to share the news voice), a smile on the sentence after a laugh cue, small natural variation in pace and
+# pauses, and her daily energy (MB_ENERGY=1..10, set by engine/build_episode.sh from memory/mizuki_life.md; 6 is
+# neutral) nudging pace, volume and pauses. MB_VOICE=classic gives the delivery from before that day.
+NEXT = os.environ.get("MB_VOICE") != "classic"
+ENERGY = min(10.0, max(1.0, float(os.environ.get("MB_ENERGY") or 6))) if NEXT else 6.0
 if NEXT:
     MOODS["tender"] = dict(voice="af_heart:0.26+af_bella:0.07+af_nicole:0.145+jf_alpha:0.525", speed=0.89, pitch=1.01, gain=0.87, gap=0.32)
 SMILE = dict(tempo=1.035, pitch=1.006, happy=0.4)   # the sentence after a laugh cue

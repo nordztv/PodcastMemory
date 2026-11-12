@@ -35,7 +35,7 @@ One host, Mizuki, talking to Scott like a close friend on the phone. Who she is 
 
 ## 3. Writing for the voice
 
-The voice is Kokoro, fixed in `engine/tts.py` (Mizuki's blend: halfway between the 11 Nov blend and the "Pyrmont Night" sample, about 47.5% warm, breathy English voices and 52.5% Japanese, a touch warmer and lower; speed 0.92; Scott's choice, 12 Nov 2026). Japanese words are spoken from Japanese phonemes listed in `show/pronunciations.json`.
+The voice is Kokoro, fixed in `engine/tts.py` (Mizuki's blend: halfway between the 11 Nov blend and the "Pyrmont Night" sample, about 47.5% warm, breathy English voices and 52.5% Japanese, a touch warmer and lower; speed 0.92; Scott's choice, 12 Nov 2026). Japanese words are spoken from Japanese phonemes listed in `show/pronunciations.json`. **Delivery (Scott's choice by ear, 13 Nov 2026):** soft, gentle and shy lines get their own tender tone (`[soft]`, `[gentle]`, `[tender]`, `[shy]`, or `[warm] [soft]`); the sentence after a laugh cue is said with a smile; pace and pauses vary a little so it doesn't sound read; and **her energy that day is in her voice** (slower and quieter on a low day, quicker and brighter on a high one), taken by `engine/build_episode.sh` from that date's row in the Energy table of `memory/mizuki_life.md`, so that row must be written before the audio is built.
 
 - Plain spoken text only: no markdown, headings, bullets, URLs or emojis. Australian/British spelling.
 - Numbers and symbols as they're said ("forty six point seven billion dollars", "twenty per cent", "a top of twenty four degrees").

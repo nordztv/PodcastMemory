@@ -20,7 +20,11 @@ mkdir -p "$WORK" "$OUT"
 ls "$SRC"/*.txt >/dev/null
 
 # -n1 with the file as $1 (not -I{}): macOS xargs caps -I commands at 255 bytes ("command line cannot be assembled")
-export WORK REPO
+# Her energy that day (1 to 10) colours the voice: the Energy table in memory/mizuki_life.md has a row per date.
+MB_ENERGY=$(grep -E "^\| $D \| [0-9]+ \|" "$REPO/memory/mizuki_life.md" | head -1 | cut -d'|' -f3 | tr -d ' ')
+[ -n "$MB_ENERGY" ] || MB_ENERGY=6
+echo "Energy for the voice: $MB_ENERGY of 10"
+export WORK REPO MB_ENERGY
 # Each section: the voice (tts.py, which also logs mood timings), then the mood music under spooky, secret and joke
 # moments (engine/music.py; if that step fails, the plain voice is used).
 ls "$SRC"/*.txt | xargs -P2 -n1 sh -c 'f="$1"; b=$(basename "$f" .txt); [ -s "$WORK/$b.mp3" ] || { [ -s "$WORK/$b.voice.mp3" ] || python3 "$REPO/engine/tts.py" "$f" "$WORK/$b.voice.mp3"; python3 "$REPO/engine/music.py" "$WORK/$b.voice.mp3" "$WORK/$b.mp3" || cp "$WORK/$b.voice.mp3" "$WORK/$b.mp3"; }' _
