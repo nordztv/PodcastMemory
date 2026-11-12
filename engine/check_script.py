@@ -1,6 +1,6 @@
 """Pre-recording check of an episode's script: words the voice engine could say the wrong way, and name overuse.
 
-Usage: python3 engine/check_script.py YYYY-MM-DD
+Usage: python3 engine/check_script.py YYYY-MM-DD [am|pm]
 For every word that's spelled the same but said two ways (live, read, close...) and that show/heteronyms.json didn't
 already settle from context, prints the sentence and what the engine will say by default. If that's the wrong one,
 write {word|respelling} in the script (for example {live|lyve}, {read|red}, {close|kloze}). Also counts "Scott".
@@ -31,8 +31,8 @@ WORDS = re.compile(r"\b(" + "|".join(k for k in DEFAULTS if k.isalpha()) + r")\b
 
 
 OPENING = "Ohayou gozaimasu, Scott. I hope you are doing well today."
-BUDGET = {"01": 700, "02": 1200, "03": 1400, "04": 1800, "05": 1400, "06": 1100, "07": 450, "08": 800, "09": 800,
-          "10": 400, "11": 900}
+BUDGET = {"01": 500, "02": 700, "03": 800, "04": 1000, "05": 800, "06": 600, "07": 350, "08": 450, "09": 450,
+          "10": 300, "11": 600}   # about 6,500 words, 45 to 55 minutes (Scott, 13 Nov 2026; was about 10,500)
 NEVER = [(r"\bX-?M5\b", "the X-M5 is never mentioned"), (r"\byour wife\b", "never mention his wife"),
          (r"\b(Ha|Mm+|Hmph|Heh)\.", "Kokoro drops or misreads this sound"),
          (r"\banswer sheet\b", "there is no answer sheet any more"),
@@ -50,7 +50,7 @@ def realism(ep, files, weekday):
     print("\n--- Realism check ---")
     budget = dict(BUDGET)
     if weekday == 4:
-        budget.update({"11": 1800, "08": 650, "09": 650})
+        budget.update({"11": 1100, "08": 350, "09": 350})
     total, jokes, laughs, whispers, spooky, reacts, issues = 0, 0, 0, 0, 0, {}, 0
     for f in files:
         name, raw = os.path.basename(f), open(f).read()
@@ -82,10 +82,10 @@ def realism(ep, files, weekday):
         for m in REACT.finditer(raw):
             key = re.sub(r"[^a-z ]", "", m.group(1).lower()).strip()
             reacts[key] = reacts.get(key, 0) + 1
-    print(f"Words: {total:,} (target 10,000 to 11,000).")
-    print(f"Jokes with a [punch]: {jokes} (bible section 3: about 12 to 18 an episode, never the same shape twice in a row).")
+    print(f"Words: {total:,} (a whole day is 6,000 to 7,000; the morning call alone about 4,400, the afternoon call about 2,150).")
+    print(f"Jokes with a [punch]: {jokes} (bible section 3: about 8 to 12 across the day, never the same shape twice in a row).")
     print(f"Laugh tags: {laughs} (at most about half the jokes; a laugh she doesn't need is the one to cut).")
-    if jokes > 20 or laughs > 14:
+    if jokes > 14 or laughs > 9:
         print("CHECK too many jokes or laughs: it starts to sound like a routine instead of a person.")
     for key, n in sorted(reacts.items(), key=lambda kv: -kv[1]):
         if n > 1:
@@ -96,7 +96,7 @@ def realism(ep, files, weekday):
         print(f"CHECK {apologies} reactions start with 'Sorry' or 'Okay': vary them.")
     print(f"Whispered secrets: {whispers} (one to three, outside the news). Sweet-spooky moments: {spooky}.")
     if whispers == 0:
-        print("CHECK no whispered secret in this episode.")
+        print("CHECK no whispered secret in these parts (one to three across the day).")
     return issues
 
 
@@ -104,6 +104,9 @@ def main():
     d = sys.argv[1]
     ep = f"{tts.REPO}/archive/{d[:4]}/{d[5:7]}/{d}"
     files = sorted(glob.glob(f"{ep}/script/*.txt")) + sorted(glob.glob(f"{ep}/headlines/*.txt"))
+    half = sys.argv[2] if len(sys.argv) > 2 else ""   # "am" = parts 01 to 06 only, "pm" = parts 07 to 11 only
+    if half:
+        files = [f for f in files if (os.path.basename(f)[:2] <= "06") == (half == "am")]
     flagged, scott = 0, 0
     for f in files:
         raw = open(f).read()

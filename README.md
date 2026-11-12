@@ -1,6 +1,6 @@
 # Morning Briefing
 
-Scott's personal daily podcast: two phone calls from Mizuki every weekday, one for the walk to work and one for the walk home. A scheduled Claude run makes each episode the evening before (about 8:30pm Sydney time, Sunday to Thursday) and delivers it that night. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
+Scott's personal daily podcast: two phone calls from Mizuki every weekday, one for the walk to work and one for the walk home. Three scheduled Claude runs make it: the evening run (about 8:30pm Sydney, Sunday to Thursday; `show/daily_run.md`) makes the next morning's call; the afternoon run (about 1:45pm on weekdays; `show/afternoon_run.md`) makes that day's walk-home call with the day's real news, weather and Scott's morning answers; and a safety-net run (about 4:50am; `show/safety_run.md`) makes the morning call if the evening run failed. A whole day is 45 to 55 minutes. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
 
 ## Where things live
 

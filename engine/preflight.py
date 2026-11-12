@@ -25,8 +25,8 @@ FIXED = {(4, 10): "Mizuki's birthday", (6, 10): "Scott's birthday", (9, 17): "th
          (1, 21): "Yumiko's birthday", (4, 14): "Hana's birthday", (1, 17): "Hanshin earthquake memorial (quiet line)",
          (11, 15): "Shichi-go-san", (2, 3): "Setsubun", (3, 3): "Hinamatsuri", (7, 7): "Tanabata", (12, 31): "Omisoka",
          (1, 1): "New Year", (10, 10): "Isamu's watch day ('kanpai, Jiichan')", (9, 18): "Aya's birthday"}
-BUDGET = {"01": 700, "02": 1200, "03": 1400, "04": 1800, "05": 1400, "06": 1100, "07": 450, "08": 800, "09": 800,
-          "10": 400, "11": 900}
+BUDGET = {"01": 500, "02": 700, "03": 800, "04": 1000, "05": 800, "06": 600, "07": 350, "08": 450, "09": 450,
+          "10": 300, "11": 600}   # about 6,500 words, 45 to 55 minutes (Scott, 13 Nov 2026; was about 10,500)
 
 
 def read(name):
@@ -135,8 +135,10 @@ def main():
     print("\nWORD BUDGETS (check_script.py reports the real counts)")
     b = dict(BUDGET)
     if wd == 4:
-        b["11"], b["08"], b["09"] = 1800, 650, 650
-    print("- " + ", ".join(f"{k}: {v}" for k, v in b.items()) + f" = about {sum(b.values()):,} words")
+        b["11"], b["08"], b["09"] = 1100, 350, 350
+    am, pm = sum(v for k, v in b.items() if k <= "06"), sum(v for k, v in b.items() if k > "06")
+    print("- " + ", ".join(f"{k}: {v}" for k, v in b.items()))
+    print(f"- Morning call about {am:,} words, afternoon call about {pm:,}. On a low-energy day (4 or less) about 15% shorter; she says she's tired.")
 
 
 if __name__ == "__main__":

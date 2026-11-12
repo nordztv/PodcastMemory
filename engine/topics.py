@@ -4,7 +4,8 @@ memory/topics.md is the single source of truth (Scott can edit it directly on Gi
 Commands (dates are YYYY-MM-DD, Sydney time):
   python3 engine/topics.py signal "Topic name" POINTS DATE   # add points; creates the topic as minor at 10 first if new
   python3 engine/topics.py hot "Topic name" UNTIL_DATE        # mark a topic hot until a date (creates it if new)
-  python3 engine/topics.py daily DATE                         # once a day: fading, expire hot flags, promote, cap, sort
+  python3 engine/topics.py daily DATE                         # once a day: fading, expire hot flags, headroom scaling, promote, cap, sort
+  python3 engine/topics.py rank                               # print the main topics in order, 1 to 50
   python3 engine/topics.py show                               # print the current tables
 Topic names match case-insensitively; use the exact name from topics.md where possible.
 """
@@ -16,6 +17,7 @@ import sys
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = f"{REPO}/memory/topics.md"
 MAIN_SIZE, MINOR_CAP, NEW_SCORE, FADE_AFTER, FADE_BY = 50, 100, 10, 14, 2
+TOP, CEILING = 90, 120   # daily: if the best topic is above TOP, every score is scaled so it sits at TOP (13 Nov 2026)
 
 HEADER = """# Scott's topics
 
@@ -74,7 +76,7 @@ def main():
             r = {"topic": name, "score": NEW_SCORE, "last": date, "hot": ""}
             rows.append(r)
             print(f"added new topic: {name}")
-        r["score"] = max(0, min(100, r["score"] + pts))
+        r["score"] = max(0, min(CEILING, r["score"] + pts))
         r["last"] = max(r["last"], date) if r["last"] else date
         print(f"{r['topic']}: {r['score']}")
     elif cmd == "hot":
@@ -103,8 +105,20 @@ def main():
                             r["hot"] = ""
                     except ValueError:
                         r["hot"] = ""
+            # Keep headroom: fourteen topics once sat at 100 and the scores stopped ranking anything. Scaling
+            # everything by the same factor keeps the order and leaves room for the next signal to count.
+            best = max((r["score"] for r in rows), default=0)
+            if best > TOP:
+                for r in rows:
+                    r["score"] = round(r["score"] * TOP / best)
+                print(f"scores scaled by {TOP / best:.2f} to keep headroom")
             last_daily = date
             print("daily applied")
+    elif cmd == "rank":
+        rows.sort(key=lambda r: (-r["score"], r["topic"].lower()))
+        for i, r in enumerate(rows[:MAIN_SIZE], 1):
+            print(f"{i:2d}. {r['topic']} ({r['score']}){' HOT' if r['hot'] else ''}")
+        return
     elif cmd != "show":
         print(__doc__)
         return
