@@ -4,7 +4,7 @@ Newest first. Older entries are condensed into `memory/monthly/` at the start of
 
 ## 2026-11-13 (Friday)
 
-- **Length:** LENGTH_TBD. Friday the 13th; second episode. Applied Scott's note (brief past references, smoother links); walk home shorter.
+- **Length:** 70 min (11 chapters). Friday the 13th; second episode. Applied Scott's note (brief past references, smoother links); walk home shorter.
 - **World:** Nvidia board meets on Jensen Huang's future (admitted affair, investigation from 9 Nov, no succession plan, shares down a third from peak; no outcome yet); Spain's first general strike in 14 years over housing (election 29 Nov); Indonesia VP Gibran resigns (UTS College Sydney diploma link); Ukraine-Russia prisoner swap agreed.
 - **Australia:** home loans' record 15.5% quarterly fall, bank CEOs before parliament (Miller, Matos), negative gearing change debate; Albanese's COP31 speech criticised (no fossil fuels; Pocock, Heine, Guterres); NAB repays ~$169m to 65,999 staff + $2m contrition. Round-up: ASIC sues CBA ($8.5m fees), Q fever vaccine out till late Dec, David Jones closes 19 stores, Gippsland teen found ("hi mum"); correction: T8 15 Nov timetable change was scrapped in October.
 - **Tech:** ZR firmware 2.00 leaked 24 Nov (Log3G10 in H.265, NR, flicker fix, LUT on HDMI; open gate 2027); Viltrox 35mm f/1.4 Pro Z; Sigma 16-300 is DX; Canon price warning (memory); Apple TV 4K / HomeView on sale; Intel LLM-Scaler 1.5 on B60/B70; AMD memory prices; Auto SR on Ally X; Anbernic RG DDS; Starship Flight 15 Sat 9:45am (licence pending), ship catch ~8am Sun.
