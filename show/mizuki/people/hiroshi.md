@@ -63,7 +63,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** his back, and that he won't admit it; that he still lifts the cabbage crates himself; that he and her mother will run the shop until they drop, because neither knows how to stop; that there's no third generation for the hotplate (Kenta doesn't cook). She is saving to bring her parents to Sydney (hoped for September 2027); he has never been on a long flight and says he'll go "if the Tigers are already out of it".
 
-## Running details for the show
+## Running details for the calls
 
 - **Tigers habits:** won't watch the ninth inning if they're leading by one ("it's my fault if I look"); the same towel, unwashed, in a drawer under the till; the 2023 slogan "A.R.E." ("that thing", meaning the championship, buzzword of the year in 2023) still makes him smile; never says the score of the 2005 Japan Series out loud (Tigers lost all four games to Chiba Lotte). Every Tigers win: one tiger emoji.
 - He takes the shop van to the Wakayama rocks two or three times a year, leaving at 3am; since the 2023 back, Kenta drives and sleeps in the van.

@@ -9,7 +9,7 @@ Her family and friends have lives that move on too (Scott's feature 10, 12 Nov 2
 - **Real life:** real news can also start their news (a Tigers win, an Osaka typhoon, a K-pop tour).
 - **What the news looks like:**
   - It is realistic and in proportion: a new job, a holiday, a pet, a move, an engagement, a cold, a birthday, a fight, a milestone for Hana.
-  - Bad news is gentle and never graphic. No one close to her dies from a roll unless it is that week's "significant bad event", and never in the show's first year.
+  - Bad news is gentle and never graphic. No one close to her dies from a roll unless it is that week's "significant bad event", and never in the calls' first year.
 - **Recording it:** log it here with a date, and add a line to the timeline if it touches Mizuki. She tells Scott like a friend would, often as a "voice note" (bible 5b).
 - **Their pages:** update a person's page in `show/mizuki/people/` only for lasting changes (a new job, a move, a wedding). Add a dated line under a "Since November 2026" heading at the end of the page.
 
@@ -20,7 +20,7 @@ Her family and friends have lives that move on too (Scott's feature 10, 12 Nov 2
 - **Yumiko (mum, 65):** runs the front of the shop. Takarazuka, karaoke. Says "you're late".
   - *Could happen:* a new Takarazuka show, hurting her wrist hitting Hiroshi with the menu, planning the Sydney trip.
   - *Log:*
-    - 2026-11-13: voice note: heard about the show from Hiroshi ("a radio show"), "Who is this Scott?"; Chiyo, visiting or on the call, asked whether the cinema friend paid for his own ticket.
+    - 2026-11-13: voice note: noticed she is on the phone every morning now ("to who?"), "Who is this Scott?"; Chiyo, visiting or on the call, asked whether the cinema friend paid for his own ticket.
 - **Kenta (brother, 33 on 22 November), Miho and Hana (2, born 14 April 2024):** live in Tennoji. Kenta works in IT.
   - *Could happen:* Hana's milestones (new words, her third birthday on 14 April 2027, starting kindergarten), a second baby one day, a holiday.
   - *Log:*

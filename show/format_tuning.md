@@ -1,10 +1,10 @@
 # Format tuning
 
-Weekly adjustments to the show's structure, made by the Friday weekly review (bible section 9b) from Scott's section scores, story votes and answers. Every daily run reads this and follows it on top of the bible. Changes here stay within the bible's rules; anything bigger goes to Scott as a proposal on the answer page. Scott can edit this file directly. Newest week first; each change has a reason.
+Weekly adjustments to the calls' structure, made by the Friday weekly review (bible section 9b) from Scott's section scores, story votes and answers. Every daily run reads this and follows it on top of the bible. Changes here stay within the bible's rules; anything bigger goes to Scott as a proposal on the answer page. Scott can edit this file directly. Newest week first; each change has a reason.
 
 ## Current settings
 
-Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-or-remove review; older tunings that no longer apply (game thread, lore and game tech, quick hits, radish limits, Australian slang) were dropped. The old list is in `show/old/`.
+Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-or-remove review; older tunings that no longer apply (game thread, lore and game tech, quick hits, radish limits, Australian slang) were dropped. The old list is in the repository's history.
 
 - Story-led and fewer stories, told properly, as conversation (Scott's notes 22 and 28 Oct; bible section 5). Reason: his notes.
 - Australia: for each big story one clear "why it matters" and "what happens next"; procedural items and soft announcements a line at most or dropped. Reason: 21-22 Oct scores and 27 Oct / 6 Nov dislikes.
@@ -20,10 +20,10 @@ Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-o
 - Walk home: about 350 to 450 words, her shift in a few lively lines plus the afternoon weather. Reason: walk-home score 3 on 12 Nov.
 - Stories he cares about but disliked hearing (US politics drama, assault stories): told briefly and gently. Reason: 12 Nov feel/care taps.
 - Two runs: the morning call is written the evening before, the walk-home call at about 1:45pm the same day, so she reacts to his morning taps and the day's real news and weather. Reason: Scott's choice, 13 Nov.
-- Length: 45 to 55 minutes a day (about 4,400 words in the morning, 2,150 in the afternoon), shorter on her low-energy days; 8 to 12 jokes a day. Reason: Scott's choice, 13 Nov; the 46-minute first episode scored 4s and 5s.
+- Length: 45 to 55 minutes a day (about 4,400 words in the morning, 2,150 in the afternoon), shorter on her low-energy days; 8 to 12 jokes a day. Reason: Scott's choice, 13 Nov; the 46-minute first call scored 4s and 5s.
 - The challenge is set at the end of the morning call and checked on in the afternoon call. Reason: so he has the day to do it.
 - Two live calls: morning from her flat before work, 4pm from the shop's quiet hour; her day's events told in the call they belong to. Reason: Scott's choice, 13 Nov (the old set-up contradicted itself).
-- Humour: 12 to 18 jokes an episode, varied shapes, a laugh after at most half, each little reaction once. Reason: the 13 Nov episode had 42 punch lines and 69 laugh tags and sounded like a routine.
+- Humour: 12 to 18 jokes a day, varied shapes, a laugh after at most half, each little reaction once. Reason: 13 Nov had 42 punch lines and 69 laugh tags and sounded like a routine.
 - Texture: a few honest "I'm not sure" moments, a lost thread, one to three interruptions from where she is, small true details. Reason: Scott's 13 Nov request for realism.
 - Personal first: the morning call opens on how he is (his mood tap and line), and due open threads get kept. Reason: Scott's 13 Nov request.
 - Travel: when Scott says he's away, the weather, walk and weekend ideas follow his location until he's back. Reason: his 6 Nov message.
@@ -37,7 +37,7 @@ Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-o
 | 2026-11-11 | Bible rewritten for Mizuki from Scott's review: phone call in two halves (morning and walk home), 06_japan and 07_walkhome replace lore and game tech, no quick hits, no sheet, two-tap story ratings, top 50 topics, Actress of the Week, easy one-task challenge she does too; tuning list reset | Scott's keep-or-remove review and notes, 11 Nov |
 | 2026-11-10 | Nikon ZR replaces the X-M5; films' cameras and lenses noted in movies | Scott's message, 10 Nov |
 | 2026-11-10 | Game project thread removed; lore, game tech and workshop back to their earlier formats; radish build-along paused | Scott's request, 10 Nov |
-| 2026-11-10 (midweek) | Radish limited to one quick mention an episode; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
+| 2026-11-10 (midweek) | Radish limited to one quick mention a day; game thread restarted from an empty folder | 9 Nov note; lore and game tech 3 |
 | 2026-11-06 | Australia capped at five stories (two or three told fully); travel weeks follow his location; lore and opening kept as they are | 5 Nov scores (Australia 3; world and lore 5) and his 6 Nov Brisbane message |
 | 2026-11-03 (midweek) | Less world news, more games and movies; workshop kept to a ten-minute job | 2 Nov answer (monthly check-in) and workshop score 3 |
 | 2026-10-30 | Lore kept full and news-linked; workshop kept practical; chat around his answers and yokai; game tech tied to his own game ideas; Australian procedural items trimmed | 26-28 Oct section scores (lore 5/4/5, workshop 3/4/5, chat 4/4/5) and the 27 Oct dislike |

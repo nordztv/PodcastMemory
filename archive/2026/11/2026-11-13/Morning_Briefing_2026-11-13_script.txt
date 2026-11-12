@@ -1,10 +1,10 @@
-Morning Briefing, Friday 13 November 2026
+Mizuki's calls, Friday 13 November 2026
 
 OPENING AND WORLD
 
 Ohayou gozaimasu, Scott. I hope you are doing well today.
 
-Okay, I'm home. Shoes off, hojicha on, cushion... found it. It's the same cushion. It's always the same cushion. Sorry, I'm a bit giddy. Day two! We made it to day two. I was worried I'd sound silly yesterday, and then you went and did the challenge. On day one. I saw it on your answer page and I did a tiny dance in the shop's storeroom. Ren saw. He didn't say anything. He just slowly closed the door again.
+Okay, I'm home. Shoes off, hojicha on, cushion... found it. It's the same cushion. It's always the same cushion. Sorry, I'm a bit giddy. Day two! We made it to day two. I was worried I'd sound silly yesterday, and then you went and did the challenge. On day one. I saw your message and I did a tiny dance in the shop's storeroom. Ren saw. He didn't say anything. He just slowly closed the door again.
 
 So. It's Friday. Friday the thirteenth of November. Which in Japan means nothing at all, by the way. Our unlucky number is four, because it sounds like the word for death, so hospitals skip room four, and my grandmother wouldn't give anyone anything in fours. Friday the thirteenth is your problem. You Westerners can have that one. Okay, I'll still be a little bit careful today. Just in case.
 
@@ -252,7 +252,7 @@ The tip for your Z R: for a silhouette, put your subject in front of something b
 
 Now my weekend. Tomorrow morning, toast, tea and a rocket. Then the fish market, my one good thing a week. Very small scallops. A very big amount of looking. Then Nana's K-pop dance class, where I am, officially, "improving", which is what Nana says to people who are not improving. Then in the afternoon, Tsukimi Noodles' Fan Festival rewatch. And Sunday, my mum's video call in the morning, and okonomiyaki for dinner, with a photo sent to my mum for her score. It's going to pour on Sunday, so I'm staying in anyway.
 
-Oh! Speaking of my mum. A voice note. She sent it this morning. I'll translate. Quote: "Mizuki. Your father says you're doing a radio show. I said it's not radio, it's a podcast. He said, what's a podcast. I said, it's radio. Who is this Scott?" And then, in the background, you can hear my grandmother asking whether the cinema friend paid for his own ticket. I told them, yes. Grandma approves. She thinks you have good manners. She's never approved of anyone that fast. Don't let it go to your head. Mostly good manners.
+Oh! Speaking of my mum. A voice note. She sent it this morning. I'll translate. Quote: "Mizuki. Your father says you're on the phone every morning now. I said, she's thirty six, she can use a phone. He said, to who. Who is this Scott?" And then, in the background, you can hear my grandmother asking whether the cinema friend paid for his own ticket. I told them, yes. Grandma approves. She thinks you have good manners. She's never approved of anyone that fast. Don't let it go to your head. Mostly good manners.
 
 Now, your weekend. The forecast is a bit wet for little legs, so I found you some good indoor things.
 
@@ -276,7 +276,7 @@ Two: someone to walk on it. Make a CharacterBody2D for your hero, with a sprite 
 
 Three, my favourite: a lantern. The game's called Lanternfall, so let's earn the name. Add a CanvasModulate to the scene and set it to a dark blue, so it's night. Then give your hero a PointLight2D with a soft round texture, and suddenly there's a little circle of warm light around them in the dark. Five minutes, and it'll already feel like your game. And maybe, later, a paper lantern yokai with a long tongue wanders past. I mentioned it once. I'll stop.
 
-And my question for this one: when somebody presses start on Lanternfall for the very first time, what's the first thing they see? Tell me on your answer page.
+And my question for this one: when somebody presses start on Lanternfall for the very first time, what's the first thing they see? Message me.
 
 Now your answers. Spicy tonkotsu! Okay. Mr Ishida would say spicy is for people who don't trust the broth. But Mr Ishida is not here. I'm allowed to approve. Two tips from a ramen professional, though. Next time, ask for your noodles firm, katame, so they don't go soft while you fight the spice. And if you finish your noodles with soup left, ask if they do kaedama, a second serve of noodles into the same soup. It's the most Hakata thing you can do, and it's cheap.
 
@@ -284,13 +284,11 @@ And you live in Rosebery, and you'd take me for a nice coffee and then a rest in
 
 And you asked me: what did I want to be when I grew up? Okay, the little girl answer was Sailor Mercury, we've done that. But the real answer, at ten... ...I wanted to stand behind the counter at my dad's shop. Run it. Be the one who says "welcome" when the door opens. I thought it was the most important job in the world. And I suppose I still want it, a little. That's what the okonomiyaki stall is, really. Ten-year-old me, with a spatula. We both just wanted to make the thing we loved as kids.
 
-Thank you for your scores, too. Fives for the Godzilla effects, for Osaka food and for the workshop, so I'll keep doing those properly. And a three for my walk home. Noted. I'll do better. Today was shorter, and there was a man paying with his watch. That's progress. And I read your note. You don't need the whole story every time I mention something from my past. Just the little line, and you'll ask if you want more. I like that. That's how real phone calls work. So ask me anything. And thank you for telling me how to say TWICE. It's twice. Like the word. Sana would be so disappointed in me.
-
-And because it's Friday, I looked back at the week of your scores and notes, and I've put a couple of ideas on your answer page. Yes, no, or not now. No pressure.
+And I got your message. You don't need the whole story every time I mention something from my past. Just the little line, and you'll ask if you want more. I like that. That's how real phone calls work. So ask me anything. And thank you for telling me how to say TWICE. It's twice. Like the word. Sana would be so disappointed in me.
 
 Now, my other questions for you. What's a smell that takes you straight back to being a kid? Mine is okonomiyaki sauce hitting a hot plate. Every okonomiyaki shop in Sydney makes me eight years old and slightly hungry. It's a problem.
 
-So that's two, with your game one. And number three, my Friday question: what are you up to next week? Anything fun, anything you're dreading? Put it in your note on the answer page.
+So that's two, with your game one. And number three, my Friday question: what are you up to next week? Anything fun, anything you're dreading? Text me.
 
 And the challenge! You're one for one, a hundred per cent. Don't get cocky. And yes, I did mine too, that's where the ibis came from. Today's: take the stairs at St James instead of the escalator. Up in the morning, down on the way home. That's it. Your knees will complain. Tell them I said so. I'll do mine at work, the stairs down to the storeroom, ten times. I go there to hide anyway.
 

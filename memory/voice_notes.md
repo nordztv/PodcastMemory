@@ -6,7 +6,7 @@
 - Mr Kondo's single line with a fish emoji.
 - Lily's voice memo that is four minutes long.
 
-**How often:** about two a week, never the same person in two episodes running.
+**How often:** about two a week, never the same person in two days of calls running.
 
 **Where the messages come from:**
 - the people dice ("news from someone in her life"),
@@ -21,4 +21,4 @@
 
 | Date | From | What they said (short) | Why |
 | --- | --- | --- | --- |
-| 2026-11-13 | Yumiko (Mum), with Chiyo in the background | "Your father says you're doing a radio show... it's a podcast... what's a podcast... it's radio. Who is this Scott?"; Chiyo asks whether the cinema friend paid for his own ticket (yes; she approves of his manners) | Everyday life: her family hearing about the show |
+| 2026-11-13 | Yumiko (Mum), with Chiyo in the background | "Your father says you're on the phone every morning now. I said, she's thirty six, she can use a phone. He said, to who. Who is this Scott?"; Chiyo asks whether the cinema friend paid for his own ticket (yes; she approves of his manners) | Everyday life: her family noticing the calls |

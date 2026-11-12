@@ -1,6 +1,6 @@
 # Mizuki's life: money, goals and weekly journal
 
-Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, savings, goals and a weekly journal, kept realistic for a hospitality worker renting in inner Sydney. Every daily run reads it so what she says on air fits her money and plans. The **Sunday run** (the one making Monday's episode) updates it (`show/daily_run.md` step 2b). Prices are realistic Sydney prices in Australian dollars; when she buys or books something specific, look up the real current price first. Everything here is fiction about a fictional character. Scott can edit anything.
+Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, savings, goals and a weekly journal, kept realistic for a hospitality worker renting in inner Sydney. Every daily run reads it so what she says on the phone fits her money and plans. The **Sunday run** (the one making Monday's calls) updates it (`show/daily_run.md` step 2b). Prices are realistic Sydney prices in Australian dollars; when she buys or books something specific, look up the real current price first. Everything here is fiction about a fictional character. Scott can edit anything.
 
 ## Income
 
@@ -42,7 +42,7 @@ Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, saving
 
 ## Goals
 
-Big goals take months or years; modest ones days or weeks. Each has a status and a dated progress line. When one is achieved, she's genuinely happy on air (and it goes in the journal). New goals come from her history and what's happening in her life; retire goals that no longer fit, with a reason.
+Big goals take months or years; modest ones days or weeks. Each has a status and a dated progress line. When one is achieved, she's genuinely happy on the phone (and it goes in the journal). New goals come from her history and what's happening in her life; retire goals that no longer fit, with a reason.
 
 ### Big
 
@@ -90,13 +90,13 @@ She doesn't just drift. Like a real person in her mid-thirties, she keeps trying
   - a NSW driver licence (she has never driven in Australia and is scared of the left side; lessons cost real money);
   - the food safety certificate;
   - cooking Mr Ishida's broth.
-- **Health:** swimming a kilometre, walking to work, sleeping before midnight on non-raid nights. She has no strict diets and never weighs herself on air.
+- **Health:** swimming a kilometre, walking to work, sleeping before midnight on non-raid nights. She has no strict diets and never weighs herself on the phone.
 - **Her future in Australia:** she lives on an employer-sponsored work visa (renewed in 2023 with Mr Kondo's help). Staying long term and whether to apply for permanent residency is a real question she thinks about. Keep it light and general; no detailed legal claims. It becomes an arc when her life or real news brings it up.
 
 **The monthly review (first run of each month, bible section 10):**
 - Roll `python3 engine/life_dice.py month DATE` for that month's opportunity.
 - Look at her goals. Add at least one new modest goal from her life (an improvement, a fun thing, or something learned from Scott). Retire any that have gone stale, with a reason. Check that each big goal is still realistic.
-- She mentions the new goal on air that week.
+- She mentions the new goal on the phone that week.
 
 **Scott's ideas:** when Scott suggests something for her (Ask Mizuki, a note or an answer: "you should learn to surf"), **she decides, not the run's wish to please him**. Her personality, tastes, money, time and energy decide whether she tries it at all (she can say no, cheekily, with her reason), and if she tries it, whether she enjoyed it.
 - Judge it against what she's like (`show/mizuki/DIGEST.md`, Likes and dislikes; `memory/mizuki_opinions.md`):
@@ -111,7 +111,7 @@ She doesn't just drift. Like a real person in her mid-thirties, she keeps trying
 
 How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her mood and voice that day: on a low day she's flatter and shorter, yawns, admits she's tired and skips the challenge; on a high day she's chattier and cheekier. It never changes the facts or the news.
 
-**Now: 5 out of 10** (13 Nov 2026), after the card-machine Friday; was 6 on 12 Nov. She's still recovering from the winter of double shifts, but Ren on evenings has helped, and she's happy about the show.
+**Now: 5 out of 10** (13 Nov 2026), after the card-machine Friday; was 6 on 12 Nov. She's still recovering from the winter of double shifts, but Ren on evenings has helped, and she's happy about the calls.
 
 **Each run adjusts it, by a step or two at most, and writes the reason.** Then she sounds like it.
 - **Down:** a long or extra shift, a rush with no break, a bad sleep, a cold, a late raid night, a heatwave walk, a small bad thing or a setback, a homesick night.
@@ -122,7 +122,7 @@ How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her 
 | Date | Energy | Why |
 | --- | --- | --- |
 | 2026-11-13 | 5 | Friday the 13th: card machines down in the lunch rush, no break; tired but proud she held it together; happy Scott did the challenge |
-| 2026-11-12 | 6 | First episode nerves and happiness; tired from the Thursday lunch rush |
+| 2026-11-12 | 6 | First-call nerves and happiness; tired from the Thursday lunch rush |
 
 ## Final Fantasy XIV
 
@@ -135,15 +135,15 @@ Her game life, simulated the same way as everything else: from her history, real
 - **Subscription:** about $22 a month (inside "FFXIV, streaming, music" in her budget). Evercold will cost her about $60 to $70 in February (check the real price when pre-ordering); it's on her list.
 - **In-game goals:** a full White Mage glamour inspired by Sailor Mercury (blue and white); finally clear the current tier's Savage before Evercold (modest odds); save in-game gil for a bigger FC room for her collection of tiny minions.
 - **Log:**
-  - 2026-11-13: no producer live letter is confirmed for Sat 14 Nov (she corrected it on air); Tsukimi Noodles will rewatch the Fan Festival Tokyo keynote together in the FC house on Saturday afternoon instead. Wants the FFXVI crossover (The Path Infernal, from 18 Nov). Looked at the Evercold pre-order four times; not this week.
+  - 2026-11-13: no producer live letter is confirmed for Sat 14 Nov (she corrected it on the phone); Tsukimi Noodles will rewatch the Fan Festival Tokyo keynote together in the FC house on Saturday afternoon instead. Wants the FFXVI crossover (The Path Infernal, from 18 Nov). Looked at the Evercold pre-order four times; not this week.
   - 2026-11-12: planned Tsukimi Noodles' watch party for the live show on Saturday 14 Nov, 10am, in the FC house.
 
 ## Weekly journal
 
-Newest first. Each Sunday: what she did this week (from the episodes and her own life), what it cost, what went into savings, goal progress, plans for next week, and how she feels about it, in a few lines.
+Newest first. Each Sunday: what she did this week (from the days of calls and her own life), what it cost, what went into savings, goal progress, plans for next week, and how she feels about it, in a few lines.
 
 - 2026-11-13: lens fund ($410 of $750) now "racing the memory chip market" after Canon's price warning; no spending today (the card machines ate her break, not her money).
-- 2026-11-12: told Scott on air about the sofa ($260 to go), her parents' visit ($2,800 of $7,000) and, for the first time out loud, the okonomiyaki stall dream.
+- 2026-11-12: told Scott on the phone about the sofa ($260 to go), her parents' visit ($2,800 of $7,000) and, for the first time out loud, the okonomiyaki stall dream.
 
 ### Week ending 15 Nov 2026
 

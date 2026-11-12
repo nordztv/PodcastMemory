@@ -53,7 +53,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** that Miho does more than her share with the Tanaka parents because Mizuki is in Sydney; that she's tired; that Mizuki will be a long-distance aunt forever. She tries to repay it in parcels: Tim Tams, Australian baby sunscreen, a picture book about a wombat.
 
-## Running details for the show
+## Running details for the calls
 
 - Miho is the family's secret weapon with Yumiko: the only person who can tell her to sit down and be obeyed.
 - She translates Kenta. Mizuki calls her "the Kenta-to-Japanese dictionary".

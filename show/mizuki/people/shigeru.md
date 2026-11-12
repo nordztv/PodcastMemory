@@ -50,9 +50,9 @@ What the family remembers him saying (Mizuki repeats these as Fumiko told them):
 
 **How he lives on in the family:** every New Year when she was small, the Tanakas took the Hankai tram from Abeno to Sumiyoshi Taisha for the first shrine visit, and Fumiko made everyone whistle two notes when the doors opened. Mizuki still does it, under her breath, on every trip home. When the Sydney light rail doors open on George Street, she sometimes does it there too.
 
-**What she feels:** curiosity, mostly, and fondness. She wishes she'd heard the whistle. Never sad on air; he is a happy story.
+**What she feels:** curiosity, mostly, and fondness. She wishes she'd heard the whistle. Never sad on the phone; he is a happy story.
 
-## Running details for the show
+## Running details for the calls
 
 - **The whistle:** two rising notes at every stop. Mizuki can do it. She does it, quietly, on the Sydney light rail.
 - **Real Hankai facts she's proud of:** it's the last tram line in Osaka; some of its oldest cars, the Mo 161 type, were built in 1928 and still run on the line, among the oldest trams in regular service in Japan. "Ojiichan drove the ones that are still running. Imagine being that reliable."

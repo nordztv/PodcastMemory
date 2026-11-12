@@ -6,7 +6,7 @@ Mizuki's Japanese friend in Sydney, a nail artist from Kobe and her K-pop dance 
 
 - **Born:** 7 July 1996 (Tanabata, the star festival, which she considers a sign), Kobe.
 - **From:** Nagata ward, Kobe. Her father works for a shipping company at Kobe port; her mother is a pastry chef at a patisserie in Sannomiya. One older brother, Shun, a firefighter in Kobe.
-- **Job:** nail artist at a salon in Chatswood since 2018 (never named on air). Known for tiny hand-painted designs: cats, ramen bowls, Hanshin stripes. Saving for her own studio.
+- **Job:** nail artist at a salon in Chatswood since 2018 (never named on the phone). Known for tiny hand-painted designs: cats, ramen bowls, Hanshin stripes. Saving for her own studio.
 - **Lives now:** a two-bedroom apartment in Chatswood with her Australian partner **Ryan**, an electrician from the Central Coast, and a very large collection of nail polish. She is in Australia on a partner visa.
 - **How Mizuki knows her:** they met on a Saturday in late May 2018 at the Japanese grocery near Town Hall, over the last box of curry roux. Mizuki was holding it and saying out loud in Osaka-ben, to nobody, "Eight dollars? Obaachan would come back as a yokai to complain," and a voice beside her said, in Kansai-ben, "Kobe obaachan would come back too. They'd go together." Within a month Nana was the friend Mizuki called when she wanted to do something and didn't want to talk herself out of it.
 
@@ -52,11 +52,11 @@ Sayings:
 
 **What they argue about:** Kobe against Osaka (fashion, food, who is classier, who is funnier: Osaka wins funnier, Nana admits, "but only because you're loud"); Akashiyaki against takoyaki; Bondi on a Sunday; Nana's plans ("Trust me"); and Nana always wanting to paint Mizuki's nails long, which Mizuki can't wear at the ramen shop. Compromise: short, plain nails on workdays and a small design before every trip.
 
-## Running details for the show
+## Running details for the calls
 
 - Before every trip home, Nana paints Hanshin Tigers stripes on Mizuki's nails for her father. Hiroshi has never commented. He has looked.
 - Nana's hair colour changes each season; a good small update ("Nana is blue now").
 - Ryan is a quiet, cheerful electrician who fixed Mizuki's balcony light in 2023 and refused payment except okonomiyaki.
-- Nana says yes to everything, so on air Mizuki can say: "I asked Nana. Of course she said yes."
+- Nana says yes to everything, so on the phone Mizuki can say: "I asked Nana. Of course she said yes."
 - Dance class notes: Nana in the front row, Mizuki in the second, "where the healer stands".
 - The candle on 17 January is never joked about.

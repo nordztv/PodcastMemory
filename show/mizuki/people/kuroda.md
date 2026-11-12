@@ -55,7 +55,7 @@ Sayings:
 
 **What they argue about:** colour. Mizuki loves Sydney's light and shoots colour with the Zf; Ms Kuroda thinks the black-and-white switch is the only honest button on the camera. Mizuki secretly agrees on rainy days.
 
-## Running details for the show
+## Running details for the calls
 
 - The Zf's black-and-white switch is, to Mizuki, "the Kuroda button".
 - When she gives Scott a photography tip about portraits, she often credits "my teacher, Kuroda-sensei" and her father together.

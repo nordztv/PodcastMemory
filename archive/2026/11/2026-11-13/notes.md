@@ -1,4 +1,4 @@
-# Morning Briefing, 2026-11-13 (Friday)
+# Mizuki's calls, 2026-11-13 (Friday)
 
 ## Running order
 

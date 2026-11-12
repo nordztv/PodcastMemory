@@ -1,4 +1,4 @@
-# Morning Briefing, 2026-11-12 (Thursday): fresh start with Mizuki
+# Mizuki's calls, 2026-11-12 (Thursday): fresh start with Mizuki
 
 ## Running order
 

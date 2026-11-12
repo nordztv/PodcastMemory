@@ -6,7 +6,7 @@ The gruff Hakata ramen master near Namba who was Mizuki's boss through universit
 
 - **Born:** 1950, Hakata, Fukuoka. Turns 76 in 2026.
 - **From:** the Hakata side of Fukuoka; grew up near the harbour and the ramen stalls of Nagahama.
-- **Job:** owner and cook of a small Hakata-style tonkotsu ramen shop a few streets from Namba, open since 1988. About a dozen counter stools, a back room of stockpots, a hand-written menu that hasn't changed in years. Never named on air.
+- **Job:** owner and cook of a small Hakata-style tonkotsu ramen shop a few streets from Namba, open since 1988. About a dozen counter stools, a back room of stockpots, a hand-written menu that hasn't changed in years. Never named on the phone.
 - **Lives now:** in a flat above a dry cleaner's, a five-minute walk from the shop, with his wife **Setsuko**, an Osaka woman who does the shop's books, the ordering and the ticket-machine change from a stool in the back corner, wears reading glasses on a chain and has a laugh like a startled crow.
 - **How Mizuki knows him:** she worked evenings at his shop, four or five nights a week, six until about eleven, from May 2009 (she found the sign in his window sheltering from the rain with Aya) to March 2013, to pay for her train pass, textbooks and film.
 
@@ -65,7 +65,7 @@ Sayings:
 
 **What they argue about:** they don't argue; she just loses. Her secret rebellion was liking Sapporo miso ramen a little, years later. She has never told him. She also thinks he should let someone learn the broth before he retires, and has never dared say it.
 
-## Running details for the show
+## Running details for the calls
 
 - Her Sydney ramen notebook has a line under every review headed "Ishida-san would say:". Most scores are fives; nothing is above eight.
 - She judges any ramen with one sip, then presses her lips together: if they don't stick a little, she shakes her head.

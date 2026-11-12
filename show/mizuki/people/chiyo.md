@@ -58,7 +58,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** that one visit, Chiyo won't know her. Mizuki has decided that if that happens, she'll introduce herself as a girl from Australia with a very expensive flat, "and she'll like me anyway, because she'll want to know the rent".
 
-## Running details for the show
+## Running details for the calls
 
 - **Sumo:** six tournaments a year (January, March, May, July, September, November); the March one, the Haru Basho, is in Osaka. Chiyo watches every afternoon of every tournament and phones Hiroshi to complain about the referees. The November tournament (Kyushu) is on now, in November 2026.
 - She asks the price of everything. Mizuki prepares her answers before calls, and rounds down.

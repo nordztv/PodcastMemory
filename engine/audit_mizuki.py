@@ -3,7 +3,7 @@
 Usage: python3 engine/audit_mizuki.py SUNDAY_DATE
 More than fifteen files about her change every night, so small contradictions creep in. This checks the things a
 machine can check, over her memory files and the last seven days of scripts, and prints CHECK lines. The Sunday run
-then reads each one, fixes what's really wrong (in the memory file, or with an on-air correction on Monday if she
+then reads each one, fixes what's really wrong (in the memory file, or with an on-the-phone correction on Monday if she
 said it to Scott), and logs the result in memory/audit_log.md. Canon order: show/mizuki/SPINE.md, RESOLUTIONS.md,
 the chapters, then people pages.
 """
@@ -51,7 +51,7 @@ def main():
     if r.returncode:
         check("her savings funds don't add up to the stated total:\n" + r.stdout.strip())
 
-    # 2. energy moves a step or two a day, and every episode day has a row
+    # 2. energy moves a step or two a day, and every call day has a row
     life = open(f"{REPO}/memory/mizuki_life.md").read()
     energy = sorted((m.group(1), int(m.group(2))) for m in re.finditer(r"^\| (\d{4}-\d\d-\d\d) \| (\d+) \|", life, re.M))
     for (d1, e1), (d2, e2) in zip(energy, energy[1:]):
@@ -60,7 +60,7 @@ def main():
             check(f"energy jumps from {e1} ({d1}) to {e2} ({d2}): a step or two a day at most")
     edates = {d for d, _ in energy}
 
-    # 3. every episode of the week left a trace in her timeline, and what she said on air is canon
+    # 3. every day of the week left a trace in her timeline, and what she said on the phone is canon
     timeline = open(f"{REPO}/memory/mizuki_timeline.md").read()
     age = end.year - 1990 - ((end.month, end.day) < (4, 10))
     years = end.year - 2018 - (end.month < 3)
@@ -72,7 +72,7 @@ def main():
         if not files:
             continue
         if f"{d:%a} {d.day} {d:%b}" not in timeline:
-            check(f"no line for {d:%a} {d.day} {d:%b} in memory/mizuki_timeline.md, but there was an episode")
+            check(f"no line for {d:%a} {d.day} {d:%b} in memory/mizuki_timeline.md, but there was a day")
         if d.isoformat() not in edates:
             check(f"no energy row for {d.isoformat()} (the voice reads it)")
         for f in files:

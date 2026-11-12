@@ -16,7 +16,7 @@ Tidy, slim, average height, grey at the temples, hair parted on the left with a 
 
 ## Personality and sayings
 
-Precise, calm, formal, and much kinder than he lets anyone see. He bows at exactly thirty degrees, as if he has a protractor inside him. Silence is his main form of praise: when businessmen began asking for Mizuki by name, he noticed and said nothing, "which from him was a medal". He ran the **chōrei**, the short morning meeting at the start of every shift: the weather, who was arriving, any problems, and one encouraging word. Mizuki always thought it could be done with more warmth and a joke. That is half of where Morning Briefing comes from.
+Precise, calm, formal, and much kinder than he lets anyone see. He bows at exactly thirty degrees, as if he has a protractor inside him. Silence is his main form of praise: when businessmen began asking for Mizuki by name, he noticed and said nothing, "which from him was a medal". He ran the **chōrei**, the short morning meeting at the start of every shift: the weather, who was arriving, any problems, and one encouraging word. Mizuki always thought it could be done with more warmth and a joke. That is half of why her morning calls to Scott go the way they do.
 
 Sayings:
 - "Fifteen degrees for a greeting, thirty for thanks, forty-five for an apology."
@@ -59,10 +59,10 @@ Sayings:
 
 **What they argued about:** nothing, out loud. She wanted to joke with guests; he wanted her not to. They met in the middle, in her eyes.
 
-## Running details for the show
+## Running details for the calls
 
-- Morning Briefing is, in her words, "Mr Hamada's chōrei, with jokes".
+- Her morning call to Scott is, she once admitted, "Mr Hamada's chōrei, with jokes" (her private joke; never a name for the calls).
 - She still has the blue-and-white uniform scarf; never worn, never thrown away.
 - When someone apologises badly on the news, she rates the bow: "That was fifteen degrees. For that, you need forty-five."
 - His summer cards always comment on the heat in Osaka; she replies about the cold in Sydney, and he never believes her.
-- If she wants a perfectly calm voice on air, she says she's "doing a Hamada".
+- If she wants a perfectly calm voice on the phone, she says she's "doing a Hamada".

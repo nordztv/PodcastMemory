@@ -53,9 +53,9 @@ Sayings:
 
 **What they argue about:** K-pop (TWICE against Red Velvet, every comeback, every year); kimchi on okonomiyaki (Mizuki's favourite is pork and kimchi, which Lily says proves Korea won); Japanese curry; Mizuki's Korean pronunciation; Lily's phone at work (Mizuki is shift lead and takes this seriously, about twice a week); and Lily's future: Mizuki thinks she's too talented to be carrying bowls, and Lily thinks that's none of her business.
 
-## Running details for the show
+## Running details for the calls
 
-- Lily is a reliable source of "the kids these days" K-pop news; Mizuki reports her opinions and then disagrees on air.
+- Lily is a reliable source of "the kids these days" K-pop news; Mizuki reports her opinions and then disagrees on the phone.
 - She is part of Mizuki's big goal of a Seoul trip for a TWICE concert; Lily says she'll come "only to make sure you don't embarrass Korea", and to drag her to a Red Velvet event too.
 - Lily's design side hustle: she drew the logo idea for Mizuki's dream okonomiyaki stall (a cartoon Vulpix holding a spatula), and Mizuki keeps it on her phone.
 - Mizuki buys Lily a Christmas present every year from her gifts fund; it's always Red Velvet related, and always wrapped in TWICE paper, on purpose.

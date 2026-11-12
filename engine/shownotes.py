@@ -1,7 +1,7 @@
-"""Builds the Morning Briefing show-notes page (one HTML page, newest episode first) from each episode's shownotes.json.
+"""Builds the page of links Mizuki mentioned on her calls (one HTML page, newest day's calls first) from each day's shownotes.json.
 
 Usage: python3 engine/shownotes.py [OUT.html]   (default: ~/podcast/out/shownotes.html)
-Reads archive/*/*/*/shownotes.json (the newest 15 episodes). The daily run writes shownotes.json and publishes the
+Reads archive/*/*/*/shownotes.json (the newest 15 days of calls). The daily run writes shownotes.json and publishes the
 page to Scott's show-notes artifact (URL in show/shownotes_url.txt). The page has no doctype/head/body of its own:
 the Artifact tool adds that skeleton when it publishes.
 
@@ -49,7 +49,7 @@ def item(it):
     return f'<li><h4>{esc(it.get("title"))}</h4>{note}{links(it.get("links"))}</li>'
 
 
-def episode(ep, latest):
+def day_block(ep, latest):
     d = ep["date"]
     eid = "e" + d.replace("-", "")
     meta = " · ".join(esc(x) for x in (ep.get("length"), ep.get("challenge") and f'Challenge: {ep["challenge"]}') if x)
@@ -67,14 +67,14 @@ def episode(ep, latest):
     qs = "".join(f"<li>{esc(q)}</li>" for q in ep.get("questions", []))
     body = (f'{f"<div class=picks>{picks}</div>" if picks else ""}'
             f'<div class="segs">{"".join(segs)}</div>'
-            f'{f"<section class=qs><h3>Today&#39;s questions for you</h3><ol>{qs}</ol></section>" if qs else ""}')
+            f'{f"<section class=qs><h3>What she asked you</h3><ol>{qs}</ol></section>" if qs else ""}')
     head = (f'<span class="date">{esc(ep.get("weekday", ""))} {esc(d)}</span>'
             f'<span class="headline">{esc(ep.get("headline", ""))}</span><span class="meta">{meta}</span>')
     return f'<details class="ep" id="{eid}"{" open" if latest else ""}><summary>{head}</summary><div class="body">{body}</div></details>'
 
 
 CSS = """
-/* Layout: one reading column, newest episode first and open, older episodes as collapsed disclosures */
+/* Layout: one reading column, newest day's calls first and open, older days of calls as collapsed disclosures */
 :root{
   --bg:#eef2f4; --surface:#ffffff; --ink:#17232b; --muted:#5a6a74; --line:#d4dde2; --accent:#c96a1e; --accent-soft:#fbe9da;
   --display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
@@ -128,16 +128,16 @@ def main():
         except Exception as e:
             print(f"skipped {f}: {e}")
     eps.sort(key=lambda e: e.get("date", ""), reverse=True)
-    page = ('<title>Morning Briefing Show Notes</title>\n<meta name="claude:viewport-fit-sides" content="cover">\n'
+    page = ('<title>Links from Mizuki</title>\n<meta name="claude:viewport-fit-sides" content="cover">\n'
             '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
             '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=JetBrains+Mono:wght@400;500&display=swap">\n'
-            f'<style>{CSS}</style>\n<div class="wrap"><header><h1>Morning Briefing</h1>'
-            '<p>Links and picks from each episode, newest first. Tap an episode to open it.</p></header>\n'
-            + "\n".join(episode(e, i == 0) for i, e in enumerate(eps))
-            + '\n<footer>Updated each weekday morning with the new episode.</footer></div>\n')
+            f'<style>{CSS}</style>\n<div class="wrap"><header><h1>Links from Mizuki</h1>'
+            '<p>The things she mentioned on the phone, newest day first. Tap a day to open it.</p></header>\n'
+            + "\n".join(day_block(e, i == 0) for i, e in enumerate(eps))
+            + '\n<footer>She sends these along after each call.</footer></div>\n')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, "w").write(page)
-    print(f"Show notes: {len(eps)} episodes -> {out}")
+    print(f"Links page: {len(eps)} days of calls -> {out}")
 
 
 if __name__ == "__main__":

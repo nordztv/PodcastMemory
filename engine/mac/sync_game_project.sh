@@ -11,7 +11,7 @@ set -e
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 BASE="$HOME/MorningBriefing"; REPO="$BASE/podcastmemory"; CONF="$BASE/game_sync.conf"
 OUTDIR="$REPO/memory/game_project"; SNAP="$OUTDIR/snapshot"
-notify() { osascript -e "display notification \"$1\" with title \"Morning Briefing\"" >/dev/null 2>&1 || true; }
+notify() { osascript -e "display notification \"$1\" with title \"Mizuki\"" >/dev/null 2>&1 || true; }
 [ -f "$CONF" ] && . "$CONF"
 
 # Find the project if it isn't configured yet.

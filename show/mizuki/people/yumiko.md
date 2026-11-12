@@ -8,7 +8,7 @@ Mizuki's mother, née Morita. Keep consistent with `show/mizuki/SPINE.md` (which
 - **From:** Abeno, Osaka. Only child of Shigeru and Fumiko Morita, who grew up in Fumiko's old wooden house around the corner from the shop.
 - **Job:** runs the front of the family okonomiyaki shop: the till, the beer, the bookings, the bills, the gossip, the regulars, and the family. Everyone, Hiroshi included, knows she's the real boss.
 - **Lives:** in the two rooms above the shop with Hiroshi.
-- **Married:** Hiroshi Tanaka, Sunday 8 November 1987 (39th anniversary three days before the first episode).
+- **Married:** Hiroshi Tanaka, Sunday 8 November 1987 (39th anniversary three days before the first call).
 - **Relationship to Mizuki:** her mother. Blood type A, like Mizuki ("which explains everything", she says, about both of them).
 
 ## Looks and style
@@ -57,7 +57,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** that her mother works too hard and never says when she's tired; that she's never had a proper holiday that wasn't Shirahama; that Mizuki is the one who isn't there when things go wrong (May 2023 still stings). Mizuki is saving to fly her parents to Sydney, hoped for September 2027. Yumiko has already told the regulars.
 
-## Running details for the show
+## Running details for the calls
 
 - **Takarazuka favourites:** the Revue has five troupes (Flower, Moon, Snow, Star, Cosmos) and the men's roles are played by women, the otokoyaku. Her all-time favourite otokoyaku is **Yuki Amami** (Moon Troupe top star 1993 to 1995, famous for reaching the top faster than anyone, later a big TV actress); "she was too good for one stage". Her favourite show is **The Rose of Versailles** (first staged in 1974), and her favourite character Oscar. She also loves **Elisabeth**, first staged in Japan by Takarazuka in 1996. She cries at "Sumire no Hana Saku Koro" ("When the Violets Bloom"), the Revue's signature song, every single time.
 - She takes the Hankyu line from Umeda to Takarazuka with a thermos and onigiri, "because theatre sandwiches are a robbery".

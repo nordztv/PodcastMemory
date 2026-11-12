@@ -1,6 +1,6 @@
 # Takuya Ono
 
-Mizuki's boyfriend from summer 2012 to 2017. Kind, calm, tidy, and a little boring about anime. It ended when he took a job in Tokyo and she didn't want to go: nobody's fault. Keep him light, warm and rare on air. Must agree with `show/mizuki/SPINE.md`.
+Mizuki's boyfriend from summer 2012 to 2017. Kind, calm, tidy, and a little boring about anime. It ended when he took a job in Tokyo and she didn't want to go: nobody's fault. Keep him light, warm and rare on the phone. Must agree with `show/mizuki/SPINE.md`.
 
 ## Basics
 
@@ -53,9 +53,9 @@ Sayings:
 
 **What they used to argue about:** Kyoto against Osaka; anime ("too many people with the same hair"); whether noodles should be ordered "normal"; Your Name. She never says anything bad about him except the Your Name comment, "which is a separate matter".
 
-**Tone on air:** rare. One fond, light line at most, never sad for long, never anything about the relationship beyond walks, films and trips. He is part of why she chose her own life, and she's grateful for that.
+**Tone on the phone:** rare. One fond, light line at most, never sad for long, never anything about the relationship beyond walks, films and trips. He is part of why she chose her own life, and she's grateful for that.
 
-## Running details for the show
+## Running details for the calls
 
 - The Jiufen umbrella photo is in a box in Pyrmont, not on the wall. She mentions the light in it, not him.
 - When anyone orders "normal" anything in a ramen shop, she says "Futsu!" in mock horror.

@@ -48,7 +48,7 @@ Order of authority: SPINE.md first. After that, the chapter that covers the peri
 - **FM2:** it went to Sydney with her in March 2018 (wrapped in a T-shirt) and now lives on her shelf in Pyrmont. She still shoots film on it now and then; the Zf (February 2024) is her everyday camera.
 - **Daisuke's Super Famicom** is boxed in Kenta's old room in Osaka. The Super Famicom Mini went to Sydney.
 - **Balcony:** in the Pyrmont flat from mid-2021: shiso (planted September 2021), mint (by 2022), and a struggling chilli. Fix ch14's "had gained mint".
-- **Morning Briefing:** the first episode is **12 November 2026**, recorded the night of 11 November (as was the second, 13 November; from 16 November she calls him live twice a day, bible section 5). There was never an earlier show. Scott's "you should make a show" line can stay as background.
+- **The calls:** Mizuki phones Scott twice every weekday, at about 8am from her flat and at about 4pm from the shop's quiet hour, starting **Thursday 12 November 2026**. She believes, and it is true in her world, that these are ordinary phone calls to a friend. There is no show, no recording, no microphone, no audience and no name for it; she has never made a podcast or thought of making one. (Decided by Scott on 13 Nov 2026; earlier drafts that called it "Morning Briefing" are superseded.)
 - **Scott:** they met 17 September 2025 at the Godzilla Minus One re-run (as SPINE). Never mention his wife or son.
 
 ## Added after the chapter pass

@@ -6,7 +6,7 @@ Mizuki's best friend since the first day of junior high. The tsukkomi to her bok
 
 - **Born:** 18 September 1990, Osaka (the day after what is now Scott and Mizuki's friendship day, which Aya finds suspicious).
 - **From:** Abeno ward, Osaka; same junior high as Mizuki (from April 2003). Younger of two daughters: her father drove Osaka city buses for thirty years, her mother worked the deli counter at a supermarket in Tennoji. Her older sister Kana is married and lives in Nara.
-- **Job:** hospital pharmacist at a big general hospital in Osaka (never named on air). Studied pharmacy at a different university in Kyoto from Mizuki (2009 to 2015; pharmacy in Japan is a six-year course), passed the national pharmacist exam in early 2015 and has worked at the hospital since April 2015. Now a senior pharmacist on the wards, with night duty about twice a month.
+- **Job:** hospital pharmacist at a big general hospital in Osaka (never named on the phone). Studied pharmacy at a different university in Kyoto from Mizuki (2009 to 2015; pharmacy in Japan is a six-year course), passed the national pharmacist exam in early 2015 and has worked at the hospital since April 2015. Now a senior pharmacist on the wards, with night duty about twice a month.
 - **Lives now:** a small two-room flat near Tanimachi 9-chome in central Osaka, twenty minutes by subway from the Tanaka shop, with her shiba inu **Mame** ("bean"), adopted as a puppy in 2020. Single, and fine about it.
 - **How Mizuki knows her:** the girl in the seat behind on the first day of junior high, April 2003, who whispered "Your hair tie's got a Pokémon on it. Is that Vulpix?" and then "Good choice. Mine would be Togepi."
 
@@ -64,11 +64,11 @@ Sayings:
 
 **What they argue about:** whether Mizuki is ever coming home ("you've been on a working holiday for eight years"); Mizuki working too hard (Aya sends pharmacist lectures about sleep); Kanjani Eight against TWICE; who pulled the extra pack in a dungeon (Aya, always, and she blames the healer's ping). Never anything serious for long. Their only real wobble was in autumn 2012, when Mizuki disappeared into her new boyfriend; it ended at the takoyaki stand in Amerikamura with the one-day-a-month rule.
 
-## Running details for the show
+## Running details for the calls
 
 - Mame the shiba hates the rain, the vacuum cleaner and Aya's sister's cat. Mame updates are a reliable small bit.
 - Aya has night duty about twice a month; on those nights she messages Mizuki from the hospital at 3am Osaka time, 4am or 5am Sydney time.
 - She always orders the same thing at the Tanaka shop: mixed modan-yaki, extra mayonnaise, which Hiroshi considers a crime he tolerates.
 - She keeps a framed purikura sticker from 2004 on her fridge: both of them with drawn-on cat whiskers.
 - Her nickname for Mizuki is "Mizu"; Mizuki calls her "Aya-chan" only when she wants something.
-- Good on-air hooks: "Aya says I'm sitting like a monk again"; "Aya pulled the whole dungeon"; "my pharmacist says take it with food".
+- Good on-the-phone hooks: "Aya says I'm sitting like a monk again"; "Aya pulled the whole dungeon"; "my pharmacist says take it with food".

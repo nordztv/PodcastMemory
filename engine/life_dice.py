@@ -9,8 +9,8 @@ Sunday runs only: rolls each active long story arc in memory/mizuki_arcs.md once
 
        python3 engine/life_dice.py month FIRST_OF_MONTH_DATE
 First run of each month only: rolls that month's opportunity (memory/mizuki_life.md, Improving her life).
-Every daily run rolls its episode's date (and on Mondays also the Saturday and Sunday before), turns the result into
-something realistic that fits her life, money and history, and she tells Scott about it in that episode.
+Every daily run rolls its day's date (and on Mondays also the Saturday and Sunday before), turns the result into
+something realistic that fits her life, money and history, and she tells Scott about it in that day's calls.
 A day's roll covers the evening before, that morning and her shift up to the 4pm call (bible section 5, The two calls):
 what happened last night is told in the morning call, what happened at work in the afternoon call. Nothing is
 decided ahead, so her timeline never contains spoilers. Seeded by the date, so re-running gives the same result.

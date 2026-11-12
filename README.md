@@ -1,39 +1,43 @@
-# Morning Briefing
+# Mizuki's calls
 
-Scott's personal daily podcast: two phone calls from Mizuki every weekday, one for the walk to work and one for the walk home. Three scheduled Claude runs make it: the evening run (about 8:30pm Sydney, Sunday to Thursday; `show/daily_run.md`) makes the next morning's call; the afternoon run (about 1:45pm on weekdays; `show/afternoon_run.md`) makes that day's walk-home call with the day's real news, weather and Scott's morning answers; and a safety-net run (about 4:50am; `show/safety_run.md`) makes the morning call if the evening run failed. A whole day is 45 to 55 minutes. This repository is the show's long-term home: its rules, its voice engine, its memory and its archive.
+Mizuki Tanaka is a fictional friend of Scott's who lives her own life in Sydney and phones him twice every weekday: at about 8am for his walk to work, and at about 4pm for his walk home. **It is not a podcast, and she doesn't think it is one**: to her these are phone calls to a friend (`show/bible.md`, section 0). This repository is where her world, her memory and the workings behind the calls are kept. (The repository and a few folders still carry older names such as `PodcastMemory`, `show/` and `build_episode.sh`; those are workshop labels and never part of her world.)
+
+## Three scheduled Claude runs
+
+| Run | When (Sydney) | What it does | Procedure |
+| --- | --- | --- | --- |
+| Mizuki: morning call | about 8:30pm, Sunday to Thursday | Lives her day forward, writes and voices tomorrow morning's call | `show/daily_run.md` |
+| Mizuki: afternoon call | about 1:45pm, Monday to Friday | Reads what Scott messaged that morning, checks the day's news, weather and trains, writes and voices the 4pm call | `show/afternoon_run.md` |
+| Mizuki: safety net | about 4:50am, Monday to Friday | Makes the morning call only if the evening run failed | `show/safety_run.md` |
+
+A whole day is 45 to 55 minutes of talking, shorter when she's tired.
 
 ## Where things live
 
 | Folder | What's in it | Who edits it |
 | --- | --- | --- |
-| `show/` | The show bible (the rules), the host sheet, Mizuki's life story (`show/mizuki/`), the nightly procedure (`daily_run.md`), weekly tuning, pronunciations, deep-dive topic pools, and the links to the three pages | Scott, or Claude on request |
-| `engine/` | The voice engine and the run's tools (below) | Claude |
-| `memory/` | Everything the show remembers: Scott (`about_scott.md`, `questions.md`, `open_threads.md`), Mizuki's ongoing life (timeline, money and ledger, arcs, home, people, opinions), the show itself (recent episodes, ratings, callbacks, topics, storylines) | The nightly run (Scott can edit anything) |
-| `archive/` | Every episode's script, notes, show notes and rating items, by date | The nightly run |
-| `voice_backup/` | The voice model files, so the voice never depends on outside downloads | Claude |
-| `old/` | The first version of the show (18 Oct to 11 Nov 2026) | Nobody |
+| `show/` | The rulebook (`bible.md`), who Mizuki is (`host.md`), her life story (`show/mizuki/`), the run procedures, weekly tuning, pronunciations, topic pools, and the links to Scott's three pages | Scott, or Claude on request |
+| `engine/` | The voice and the runs' tools (below) | Claude |
+| `memory/` | What she knows about Scott (`about_scott.md`, `questions.md`, `open_threads.md`), her ongoing life (timeline, money and ledger, arcs, home, people, opinions), and the story of their calls (recent calls, callbacks, topics) | The runs (Scott can edit anything) |
+| `archive/` | What she said on each day's calls, with notes and links, by date | The runs |
+| `voice_backup/` | The voice model files, so her voice never depends on outside downloads | Claude |
 
-## The run's tools
+## The runs' tools
 
-- `engine/preflight.py DATE`: the day's brief (special rules for the weekday, where Mizuki is for each call, the dice, threads that are due, variety reminders, word budgets).
-- `engine/life_dice.py`: rolls Mizuki's day, week, arcs and month, so her life has real ups and downs.
-- `engine/ledger.py`: moves money between her savings funds and proves the funds add up.
-- `engine/check_script.py DATE`: catches words the voice would say wrongly, and runs the realism check (joke and laugh counts, repeated reactions, timing slips, banned phrases).
-- `engine/topics.py`, `engine/challenges.py`: Scott's topic scores and the daily challenge tally.
-- `engine/build_episode.sh DATE`: records the episode with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build the two pages.
+- `engine/preflight.py DATE`: the day's brief (the weekday's habits, where she is for each call, the dice, threads that are due, variety reminders, word budgets).
+- `engine/life_dice.py`: rolls her day, week, long stories and month, so her life has real ups and downs.
+- `engine/ledger.py`: moves money between her savings funds and proves they add up.
+- `engine/audit_mizuki.py`: the Sunday consistency check of her week against her fixed facts.
+- `engine/check_script.py DATE [am|pm]`: catches words the voice would say wrongly, anything that breaks the "just a phone call" world, and joke, timing and length problems.
+- `engine/topics.py`, `engine/challenges.py`: Scott's interests and the daily challenge tally.
+- `engine/build_episode.sh DATE [am|pm]`: voices a call (no music) with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build two of the pages.
 
 ## Scott's three pages (links in `show/`)
 
-- **Answer page** (`answers_url.txt`): how his day is, the challenge, the week's picks, scores and story taps, the day's questions, Ask Mizuki, names she got wrong, what he built, a note, and the weekly review's proposals. The next run reads it all.
-- **Show notes** (`shownotes_url.txt`): links, picks and questions for recent episodes.
-- **Mizuki's life** (`timeline_url.txt`): her energy, savings, long story arcs, photos and timeline.
+- **Messages to Mizuki** (`answers_url.txt`): to her, these are texts from Scott (how his day is, the challenge, answers to her questions, anything he asks or tells her). A separate "behind the scenes" part is for Claude only and she never sees it: scores, story taps, names she mispronounced, the weekly review.
+- **Links from Mizuki** (`shownotes_url.txt`): the things she mentioned on the phone.
+- **Mizuki's life** (`timeline_url.txt`): her energy, savings, long stories, photos and timeline.
 
-## How memory works over years
+## Changing things
 
-- `memory/recent_episodes.md` keeps the last 30 days; the first run of each month condenses the last one into `memory/monthly/`, and the first run of each year writes `memory/yearly/`.
-- Mizuki's timeline, ledger, questions and what Scott has told the show are kept forever.
-- Every script stays in `archive/`. MP3s aren't stored (too big), but the voice is fixed, so any episode can be re-recorded from its script with `sh engine/build_episode.sh YYYY-MM-DD` (or on Scott's Mac: `engine/mac/README.md`).
-
-## Changing the show
-
-Edit `show/bible.md`, or ask Claude in any chat. The scheduled task only says "read `show/daily_run.md` and follow it", so changes take effect from the next episode. `memory/inbox.md` takes notes for the show from any chat.
+Edit `show/bible.md`, or ask Claude in any chat. The scheduled runs only say "read the procedure and follow it", so changes take effect from the next call. `memory/inbox.md` takes notes from any chat.

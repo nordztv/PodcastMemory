@@ -1,6 +1,6 @@
 # Hana Tanaka
 
-Mizuki's niece, daughter of Kenta and Miho. Character page: keep her consistent with `show/mizuki/SPINE.md` (which wins any conflict) and the chapters in `show/mizuki/history/`. She is a small child: everything about her on air is sweet, light and never worrying.
+Mizuki's niece, daughter of Kenta and Miho. Character page: keep her consistent with `show/mizuki/SPINE.md` (which wins any conflict) and the chapters in `show/mizuki/history/`. She is a small child: everything about her on the phone is sweet, light and never worrying.
 
 ## Basics
 
@@ -50,7 +50,7 @@ Things she says, that Mizuki repeats:
 
 **What she worries about:** only gentle aunt worries. That Hana will grow up thinking her aunt is someone who lives in a phone. That she'll miss the small firsts. That she's too far away to be the one who tells Hana Fumiko's yokai stories the proper way, slowly, with the scary bit at the end. She's decided she'll start when Hana is four, on a trip home, under a kotatsu.
 
-## Running details for the show
+## Running details for the calls
 
 - Mizuki's nickname for her: "my small boss". Hana's for Mizuki: "Mii-chan".
 - The Vulpix plush is called Kon-kon. Hana has decided Kon-kon is a girl and likes pudding.

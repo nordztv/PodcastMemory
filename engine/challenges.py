@@ -16,7 +16,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = f"{REPO}/memory/challenges.md"
 HEADER = """# Daily challenges
 
-One fitness challenge per episode (bible section 8). Scott reports Done on the day's sheet, in a chat or in the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`.
+One fitness challenge per day (bible section 8). Scott reports Done on the day's sheet, in a chat or in the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`.
 
 | Date | Challenge | Done |
 | --- | --- | --- |

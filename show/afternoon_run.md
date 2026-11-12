@@ -18,7 +18,7 @@ Let `DATE` = **today's** Sydney date, `REPO` = the clone, `EP` = `REPO/archive/Y
 
 ## 2. Read
 
-In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the evening run planned it: follow it, add to it, never contradict it), **this morning's scripts** `EP/script/01` to `06` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/recent_episodes.md`, and the afternoon parts (07 to 11) of the last 5 episodes. Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
+In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the evening run planned it: follow it, add to it, never contradict it), **this morning's scripts** `EP/script/01` to `06` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/recent_calls.md`, and the afternoon parts (07 to 11) of the last 5 days of calls. Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
 
 ## 3. What Scott sent today
 
@@ -39,24 +39,24 @@ Nothing there means nothing assumed. Never invent what he said.
 
 ## 5. Write the call
 
-Write `07_walkhome.txt`, `08_effects.txt`, `09_director.txt`, `10_workshop.txt`, `11_chat_outro.txt` in `EP/script/` (about 2,150 words; Fridays about 2,450; about 15 per cent shorter when her energy is 4 or less), following bible sections 2, 3, 5 and 6. It's a second call, not a continuation: she rings, says where she is, and has maybe twenty minutes before the evening crowd. Today's lunch rush comes from `EP/day_plan.md`. She asks how the challenge went and owns up about hers, asks one or two questions (never repeating `memory/questions.md`), reacts to his answers, and says goodbye for his evening (Friday: the weekend send-off with her photo of the week, weekend ideas, defending the picks, the project check-in, "what are you up to next week?", and one light line about the weekly review).
+Write `07_walkhome.txt`, `08_effects.txt`, `09_director.txt`, `10_workshop.txt`, `11_chat_outro.txt` in `EP/script/` (about 2,150 words; Fridays about 2,450; about 15 per cent shorter when her energy is 4 or less), following bible sections 2, 3, 5 and 6. It's a second call, not a continuation: she rings, says where she is, and has maybe twenty minutes before the evening crowd. Today's lunch rush comes from `EP/day_plan.md`. She asks how the challenge went and owns up about hers, asks one or two questions (never repeating `memory/questions.md`), reacts to his answers, and says goodbye for his evening (Friday: the weekend send-off with her photo of the week, weekend ideas, defending the picks, the project check-in, and "what are you up to next week?"; the weekly review is behind the scenes and she never mentions it).
 
 Then:
 - `python3 engine/check_script.py DATE pm`: fix every FIX line, look at every CHECK line.
 - Add this call's parts to `EP/shownotes.json`, `EP/rating_items.json` and `EP/notes.md` (keep the morning's entries), and add its sources.
 - Answer page: `get` `days/DATE`, then `update` it (pinned with `if_version`) with the full `sections` list (morning parts plus these five) and the full `questions` list (the morning's question first, so its number doesn't change).
 - `memory/open_threads.md`: new promises and dated facts from this call; close the ones dealt with.
-- Commit and push ("Episode DATE: afternoon script").
+- Commit and push ("Calls DATE: afternoon script").
 
 ## 6. Build and deliver
 
-`nohup sh REPO/engine/build_episode.sh DATE pm > ~/podcast/build_pm.log 2>&1 &`, poll until it prints a duration. Output: `~/podcast/out/Morning_Briefing_DATE_walkhome.mp3`. SendUserFile (status "proactive", display "attach"), caption: length and what's in it in one line. Create `EP/delivered_pm.txt` with the time. Fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` and publish it to the URL in `show/shownotes_url.txt` (Artifact tool: `read`, then `publish` with that `url`).
+`nohup sh REPO/engine/build_episode.sh DATE pm > ~/podcast/build_pm.log 2>&1 &`, poll until it prints a duration. Output: `~/podcast/out/Mizuki_DATE_walk_home_call.mp3`. SendUserFile (status "proactive", display "attach"), caption: length and what's in it in one line. Create `EP/delivered_pm.txt` with the time. Fill in the length in `EP/shownotes.json`, run `python3 engine/shownotes.py` and publish it to the URL in `show/shownotes_url.txt` (Artifact tool: `read`, then `publish` with that `url`).
 
 One short SendUserMessage: what's in the call in two or three lines, the questions written out, anything that failed, and the sources. On Fridays add the "Weekly review" section.
 
 ## 6b. If the voice engine is blocked, or it's 3:50pm
 
-Try setup once more, then stop trying. Join the five parts into `EP/Morning_Briefing_DATE_walkhome_script.txt` (tags removed), commit it, send it with SendUserFile, and say plainly at the top of the message that the walk-home call couldn't be recorded today (his Mac can record it: `engine/mac/README.md`). If rendering is only partly done at 3:50pm, join and send the parts that are finished.
+Try setup once more, then stop trying. Join the five parts into `EP/Mizuki_DATE_walk_home_call_script.txt` (tags removed), commit it, send it with SendUserFile, and say plainly at the top of the message that the walk-home call couldn't be recorded today (his Mac can record it: `engine/mac/README.md`). If rendering is only partly done at 3:50pm, join and send the parts that are finished.
 
 ## 7. Friday: weekly review
 
@@ -64,4 +64,4 @@ Do `show/daily_run.md` step 7b here, after the script is pushed or while the aud
 
 ## 8. Update memory, then commit
 
-Everything in `show/daily_run.md` step 8 that this call touched: add the afternoon's stories, deep dives, questions and follow-ups to today's entry in `memory/recent_episodes.md` (and the day's total length); `memory/deep_dives_covered.md`, `memory/questions.md`, `memory/movie_log.md`, `memory/mizuki.md` (her shift, her challenge, anything new she said), `memory/mizuki_timeline.md`, `memory/about_scott.md` (How he's been, and anything he told her today), `memory/callbacks.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/scott_taught_me.md`, `memory/show_memory.md` (the episode count goes up once a day, here), on Fridays `memory/photo_log.md` and `memory/weekly_reviews.md`. Run `python3 engine/ledger.py check`. If her timeline, savings, arcs, photos or energy changed, rebuild and publish the timeline page. Commit and push ("Episode DATE: afternoon memory"); on a rejected push, `git pull --rebase` and push again.
+Everything in `show/daily_run.md` step 8 that this call touched: add the afternoon's stories, deep dives, questions and follow-ups to today's entry in `memory/recent_calls.md` (and the day's total length); `memory/deep_dives_covered.md`, `memory/questions.md`, `memory/movie_log.md`, `memory/mizuki.md` (her shift, her challenge, anything new she said), `memory/mizuki_timeline.md`, `memory/about_scott.md` (How he's been, and anything he told her today), `memory/callbacks.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/scott_taught_me.md`, `memory/calls_memory.md` (the count of days goes up once a day, here), on Fridays `memory/photo_log.md` and `memory/weekly_reviews.md`. Run `python3 engine/ledger.py check`. If her timeline, savings, arcs, photos or energy changed, rebuild and publish the timeline page. Commit and push ("Calls DATE: afternoon memory"); on a rejected push, `git pull --rebase` and push again.

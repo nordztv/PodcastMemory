@@ -14,7 +14,7 @@ Her flat and everything she owns: where it is and how full the place is getting 
 ## Room by room
 - **Entry:** shoes off at the door, on a rack with her work sneakers, the trainers that replaced the flooded Amemura ones, and slippers for guests. Her backpack hangs on a hook, with the Sumiyoshi travel charm on it.
 - **Living room and kitchenette (one room):**
-  - The low Japanese-height table and her dented cushion, where she eats, plays, journals, video calls and makes her morning call to Scott (the first two episodes were recorded here at night). Her microphone, from Kenta, is on the table.
+  - The low Japanese-height table and her dented cushion, where she eats, plays, journals, video calls and makes her morning call to Scott. Kenta's little video-call microphone from the lockdown is in the drawer.
   - A folding chair behind her, with a blanket.
   - A 32-inch TV with the PS5 and the Super Famicom Mini under it. The gachapon shelf is above the TV ("Please do not eat").
   - The window shelf, "the family shrine": the FM2 in the centre with the Vulpix keyring on its strap, Fumiko's origami tin, the framed photo of Fumiko's hands, the Myaku-Myaku keyring and Hana's Santa-hat photo.

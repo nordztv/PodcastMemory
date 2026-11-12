@@ -3,13 +3,13 @@
 What's hanging between Mizuki and Scott, so she follows up like a friend (bible section 6, Open threads; started 13 Nov 2026). Three kinds:
 - **promise**: something she said she'd do or tell him;
 - **ask**: something in his life to ask about later (his plans, a project step, a film he meant to watch, how something went);
-- **fact**: a dated thing she told him is coming, which must be checked again against a source before its day, and corrected on air if it changed.
+- **fact**: a dated thing she told him is coming, which must be checked again against a source before its day, and corrected on the phone if it changed.
 
 Every run adds new threads from the script it wrote and from Scott's answers, and deals with the ones that are due (`python3 engine/preflight.py DATE` lists them). When a thread is dealt with, set Status to `closed DATE: what happened` and leave the row. Never invent a thread about anything sensitive. Scott can add a row himself. Newest first.
 
 | Kind | Thread | Due | Where it came from | Status |
 | --- | --- | --- | --- | --- |
-| promise | Give him his first Retro Game of the Week (Super Nintendo or Mega Drive; not one he has played) | 2026-11-16 | 12 and 13 Nov episodes | open |
+| promise | Give him his first Retro Game of the Week (Super Nintendo or Mega Drive; not one he has played) | 2026-11-16 | 12 and 13 Nov days of calls | open |
 | promise | Tell him how the weekend went: the rocket, the fish market, Nana's class, the Fan Fest rewatch, Mum's okonomiyaki score | 2026-11-16 | 13 Nov chat | open |
 | ask | Did he try any of the Lanternfall weekend steps (first screen, hero walking, the lantern light)? Only if he hasn't said | 2026-11-16 | 13 Nov project check-in | open |
 | ask | How did the weekend go, and did the museum or the library happen? (lightly; Friday's ideas) | 2026-11-16 | 13 Nov chat | open |

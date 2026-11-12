@@ -58,7 +58,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** that he works too hard in tax season; that the anniversary every January is heavier for him than he lets on. She never asks. She just sends the word back.
 
-## Running details for the show
+## Running details for the calls
 
 - Calls her "the audience". She calls him "the player".
 - FFVII Remake came out on her birthday, 10 April 2020. "Daisuke still thinks Square Enix did it for him."

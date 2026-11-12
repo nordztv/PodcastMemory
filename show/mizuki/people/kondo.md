@@ -59,7 +59,7 @@ Sayings:
 
 **What they argue about:** miso against tonkotsu (permanent; neither will ever win); how long the broth should boil (she says eighteen hours, like Mr Ishida; he says twelve is plenty and the gas bill agrees); whether the shop should open on Sundays (he wants to; she says the staff need a life); and his habit of working when he's sick, which she reports to Megumi.
 
-## Running details for the show
+## Running details for the calls
 
 - **The hum code:** he hums when worried, and Mizuki can tell what about by the song. Old enka means the broth (or someone's father); Matsuyama Chiharu's "Ōzora to Daichi no Naka de" means money; a long wandering tune with no end means sums in his head; a low tuneless hum by the stockpot means a late pork order, and a higher one means his mother hasn't answered her phone; a Hokkaido folk song means he's moved and won't say so.
 - He calls Mizuki's Final Fantasy days off "the moon holidays".

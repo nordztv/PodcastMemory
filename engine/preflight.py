@@ -1,6 +1,6 @@
 """The day's brief for the daily run: everything that's easy to forget, on one screen.
 
-Usage: python3 engine/preflight.py DATE      (DATE = the episode's date, YYYY-MM-DD)
+Usage: python3 engine/preflight.py DATE      (DATE = the call day's date, YYYY-MM-DD)
 Prints: the day's special rules, where Mizuki is for each call (bible section 5, The two calls), her usual evening
 last night, the dice, the calendar window, the challenge streak, Scott's unanswered questions, open threads that
 are due, who sent the last voice notes, the least recently used callbacks, and the word budgets.
@@ -65,7 +65,7 @@ def main():
         print("- Friday: weekend send-off chat (about 1,800 words), photo of the week, weekend ideas, defending the picks, project check-in, weekly review.")
         if (d + dt.timedelta(days=7)).month != d.month:
             print("- Last Friday of the month: Photo of the Month.")
-    recent = read("recent_episodes.md")
+    recent = read("recent_calls.md")
     if f"## {d.strftime('%Y-%m')}" not in recent:
         print("- FIRST EPISODE OF THE MONTH: monthly rollover, opportunity roll, a new modest goal, monthly check-in in the chat.")
     if wd in (1, 3):

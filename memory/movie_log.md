@@ -1,6 +1,6 @@
 # Movie log
 
-Every film the show features or recommends (Actress of the Week, effects and director deep dives, any recommendation), so none is covered twice from the same angle. Fresh start 12 Nov 2026; the earlier log is in `old/pre-mizuki/` (check it before recommending, so he isn't sent a film he's already been sent).
+Every film the calls features or recommends (Actress of the Week, effects and director deep dives, any recommendation), so none is covered twice from the same angle. Fresh start 12 Nov 2026; the earlier log is in `memory/before_the_calls.md` (check it before recommending, so he isn't sent a film he's already been sent).
 
 ## Films
 

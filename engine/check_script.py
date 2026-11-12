@@ -1,4 +1,4 @@
-"""Pre-recording check of an episode's script: words the voice engine could say the wrong way, and name overuse.
+"""Pre-recording check of an day's script: words the voice engine could say the wrong way, and name overuse.
 
 Usage: python3 engine/check_script.py YYYY-MM-DD [am|pm]
 For every word that's spelled the same but said two ways (live, read, close...) and that show/heteronyms.json didn't
@@ -33,7 +33,11 @@ WORDS = re.compile(r"\b(" + "|".join(k for k in DEFAULTS if k.isalpha()) + r")\b
 OPENING = "Ohayou gozaimasu, Scott. I hope you are doing well today."
 BUDGET = {"01": 500, "02": 700, "03": 800, "04": 1000, "05": 800, "06": 600, "07": 350, "08": 450, "09": 450,
           "10": 300, "11": 600}   # about 6,500 words, 45 to 55 minutes (Scott, 13 Nov 2026; was about 10,500)
-NEVER = [(r"\bX-?M5\b", "the X-M5 is never mentioned"), (r"\byour wife\b", "never mention his wife"),
+NEVER = [(r"\b((this|my|our|the|a) podcast|(this|today's|yesterday's|tomorrow's|last|next|the|an) episode|the show|my show|our show|"
+          r"this show|(this|next|last) segment|(my|dear) listeners?|on air|tune in|tuning in|Morning Briefing|"
+          r"answer page|show notes|weekly review|your (scores?|ratings?)|microphone|I'm recording|I record(ed)? this|after I record)\b",
+          "she is on the phone with a friend: this is a word from the workshop, not from her world (bible section 0)"),
+         (r"\bX-?M5\b", "the X-M5 is never mentioned"), (r"\byour wife\b", "never mention his wife"),
          (r"\b(Ha|Mm+|Hmph|Heh)\.", "Kokoro drops or misreads this sound"),
          (r"\banswer sheet\b", "there is no answer sheet any more"),
          (r"\b(that's the show|quick hits|lore time|in today's episode|welcome back to)\b", "segment announcement"),
@@ -90,7 +94,7 @@ def realism(ep, files, weekday):
     for key, n in sorted(reacts.items(), key=lambda kv: -kv[1]):
         if n > 1:
             issues += 1
-            print(f"FIX   the reaction \"{key}\" is used {n} times (each little reaction once an episode).")
+            print(f"FIX   the reaction \"{key}\" is used {n} times (each little reaction once a day).")
     apologies = sum(n for k, n in reacts.items() if k.startswith("sorry") or k.startswith("okay"))
     if apologies > 3:
         print(f"CHECK {apologies} reactions start with 'Sorry' or 'Okay': vary them.")
@@ -124,7 +128,7 @@ def main():
     import datetime
     issues = realism(ep, [f for f in files if "/script/" in f], datetime.date.fromisoformat(d).weekday())
     print(f"{issues} thing(s) to FIX." if issues else "Nothing that must be fixed.")
-    print(f"\n{flagged} word(s) to check. \"Scott\" used {scott} times across the episode "
+    print(f"\n{flagged} word(s) to check. \"Scott\" used {scott} times across the day's calls "
           f"(rule: greeting, maybe the goodbye, and at most two or three others).")
 
 

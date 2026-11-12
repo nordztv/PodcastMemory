@@ -20,8 +20,8 @@ One line per person. Pages are in this folder; chapters are `show/mizuki/history
 - **Aya Morimoto**: best friend since April 2003, hospital pharmacist (b. 18 Sep 1990). Flat near Tanimachi 9-chome, Osaka, with shiba Mame. Her tsukkomi and FFXIV Paladin since 2013; "Let's just go." `aya.md`
 - **Mr Ishida** (Ishida Gorō): her ramen boss 2009 to 2013, Hakata tonkotsu master near Namba (b. 1950). Above a dry cleaner's near his shop, with Setsuko. "They came here tired. Don't make them work"; Hawks fan; his bowl is her only ten. `ishida.md`
 - **Ms Kuroda** (Kuroda Michiko): high school photography club adviser and art teacher (b. 1966). Old house in Nara; teaches in Sakai. "Talk to them, then stop talking"; Olympus OM-1. `kuroda.md`
-- **Mr Hamada** (Hamada Toshio): her shift manager at the Umeda hotel 2013 to 2018, retired 2025 (b. 1960). Flat in Suita with his wife Kazuko. Thirty-degree bows; his chōrei is the root of Morning Briefing. `hamada.md`
-- **Takuya Ono**: ex-boyfriend 2012 to 2017 (b. Nov 1989, Kyoto). Tokyo, married 2022. Calm, tidy, "a bit complicated"; ordered "futsu". Light and rare on air. `takuya.md`
+- **Mr Hamada** (Hamada Toshio): her shift manager at the Umeda hotel 2013 to 2018, retired 2025 (b. 1960). Flat in Suita with his wife Kazuko. Thirty-degree bows; his chōrei is why her morning calls go the way they do. `hamada.md`
+- **Takuya Ono**: ex-boyfriend 2012 to 2017 (b. Nov 1989, Kyoto). Tokyo, married 2022. Calm, tidy, "a bit complicated"; ordered "futsu". Light and rare on the phone. `takuya.md`
 
 **Sydney**
 - **Fiona MacLeod**: Glebe housemate 2018 to 2021, ICU nurse from Glasgow (b. 1987). Flat in Camperdown with old ginger cat Haggis. Closest non-Japanese friend; monthly Sunday brunch; "You've got your tired face on." `fiona.md`

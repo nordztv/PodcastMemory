@@ -1,4 +1,4 @@
-"""Adds chapter markers and tags to a finished Morning Briefing MP3, so podcast apps can jump between segments.
+"""Adds chapter markers and tags to a finished call's MP3, so Scott's player can jump between parts.
 
 Usage: python3 engine/chapters.py EPISODE.mp3 TIMINGS.txt DATE [headlines]
 TIMINGS.txt has one line per section, in order: "<section file name><TAB><seconds incl. the gap after it>".
@@ -8,7 +8,7 @@ never pushes the chapters out of line. The MP3 is rewritten in place (audio copi
 import os, subprocess, sys
 
 TITLES = {
-    "01_opening_world": "Ohayou, weather and world news",
+    "01_opening_world": "Good morning, weather and the world",
     "02_australia": "Australia, NSW and Sydney",
     "03_tech": "Tech",
     "04_games": "Games",
@@ -20,7 +20,7 @@ TITLES = {
     "08_effects": "Effects deep dive",
     "09_director": "Director deep dive",
     "10_workshop": "Workshop",
-    "11_chat_outro": "Chat and goodbye",
+    "11_chat_outro": "Catching up and goodbye",
 }
 
 
@@ -44,9 +44,9 @@ def main():
             rows.append((name, float(secs)))
     total = duration(mp3)
     scale = total / sum(s for _, s in rows) if rows else 1.0
-    title = f"Morning Briefing - {date}" + (" (headlines)" if headlines else "")
-    meta = [";FFMETADATA1", f"title={esc(title)}", "artist=Morning Briefing", "album_artist=Morning Briefing",
-            f"album={esc('Morning Briefing Headlines' if headlines else 'Morning Briefing')}", f"date={date}", "genre=Podcast"]
+    title = f"Mizuki - {date}" + (" (headlines)" if headlines else "")
+    meta = [";FFMETADATA1", f"title={esc(title)}", "artist=Mizuki", "album_artist=Mizuki",
+            f"album={esc('Mizuki')}", f"date={date}", "genre=Speech"]
     t = 0.0
     if not headlines:
         for i, (name, secs) in enumerate(rows):

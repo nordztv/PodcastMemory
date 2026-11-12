@@ -4,7 +4,7 @@ Her views aren't fixed (Scott's feature 7, 12 Nov 2026). Each opinion has what s
 
 **Rules:**
 - Opinions change rarely and for a reason, roughly one shift a month across all of them. A small softening counts.
-- When she voices a new opinion on air, add it here. When one changes, add a dated history line and update "Now".
+- When she voices a new opinion on the phone, add it here. When one changes, add a dated history line and update "Now".
 - Keep them to everyday things: food, games, films, Sydney, Japan, music, her shop. Party politics stays even-handed (bible section 2).
 
 | Topic | Now | Since | History |

@@ -37,4 +37,4 @@ ESPEAK_NG="$(command -v espeak-ng)" PATH="$BASE/venv/bin:$PATH" python3 "$REPO/e
 open "$BASE/voice_test.mp3"
 
 echo "Done. To record an episode, double-click \"Record Morning Briefing\" on your Desktop."
-echo "   Episodes appear in iCloud Drive > Morning Briefing."
+echo "   Episodes appear in iCloud Drive > Mizuki."

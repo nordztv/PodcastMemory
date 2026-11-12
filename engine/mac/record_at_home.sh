@@ -4,7 +4,7 @@
 # Records the episode in the show's Kokoro voice (Scott's choice, 27 Oct 2026: Kokoro only, Fish removed), the same voice
 # the cloud uses, with chapter markers. Waits for the cloud run (about 9:30pm the evening before) to save the script to GitHub.
 # No date: tomorrow's episode in the evening, today's before noon. "quick": the opening section only, for a fast listen.
-# Saves the MP3 and the answer sheet to iCloud Drive > Morning Briefing, with a notification. Sets up anything missing on its first run.
+# Saves the MP3 and the answer sheet to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
 set -e
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 BASE="$HOME/MorningBriefing"; REPO="$BASE/podcastmemory"
@@ -13,9 +13,9 @@ if [ -n "$1" ] && [ "$1" != "quick" ]; then DATE="$1"; MODE="$2"; else MODE="$1"
 fi
 STARTED=$(date +%s); Y="${DATE:0:4}"; M="${DATE:5:2}"
 EP="$REPO/archive/$Y/$M/$DATE"
-DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Morning Briefing"
+DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Mizuki"
 OUT="$HOME/podcast/out"
-notify() { osascript -e "display notification \"$1\" with title \"Morning Briefing\"" >/dev/null 2>&1 || true; }
+notify() { osascript -e "display notification \"$1\" with title \"Mizuki\"" >/dev/null 2>&1 || true; }
 # One recording at a time (the 9:40pm automatic one and a double-click could overlap); a lock older than 6 hours is stale.
 LOCK="$BASE/.recording.lock"
 if ! mkdir "$LOCK" 2>/dev/null; then
@@ -61,15 +61,15 @@ mkdir -p "$DEST" "$OUT"
 cp "$EP/sheet.txt" "$DEST/Sheet_$DATE.txt" 2>/dev/null || true
 
 if [ "$MODE" = "quick" ]; then
-  MP3="$OUT/Morning_Briefing_${DATE}_sample.mp3"
+  MP3="$OUT/Mizuki_${DATE}_sample.mp3"
   echo "== $(date) recording the opening section only"
   python3 "$REPO/engine/tts.py" "$EP/script/01_opening_world.txt" "$MP3" || { notify "Recording failed"; exit 1; }
 else
-  MP3="$OUT/Morning_Briefing_$DATE.mp3"
+  MP3="$OUT/Mizuki_$DATE.mp3"
   rm -rf "$HOME/podcast/render/$DATE" "$MP3"   # fresh render of the current script
   echo "== $(date) recording the full episode"
   sh "$REPO/engine/build_episode.sh" "$DATE" || { echo "recording failed"; notify "Recording failed this morning; the script is in the Claude app"; exit 1; }
 fi
 cp "$MP3" "$DEST/"
-notify "Today's episode is in iCloud Drive > Morning Briefing"
+notify "Today's calls from Mizuki are in iCloud Drive > Mizuki"
 echo "== $(date) saved to $DEST"

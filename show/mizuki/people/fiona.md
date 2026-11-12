@@ -6,7 +6,7 @@ The Scottish nurse from Glasgow who shared the Glebe house with Mizuki from 2018
 
 - **Born:** 3 March 1987, Glasgow.
 - **From:** Partick, in Glasgow's West End. Her mum is a retired primary school teacher, her dad a retired bus mechanic; one younger brother, Euan, an electrician in Glasgow with two small daughters.
-- **Job:** registered nurse. Trained at Glasgow Caledonian University (graduated 2009), worked on medical wards in Glasgow, then moved to Sydney in 2016. Now a senior nurse in the intensive care unit of a big public hospital in Camperdown (never named on air). Still does night shifts, fewer than before.
+- **Job:** registered nurse. Trained at Glasgow Caledonian University (graduated 2009), worked on medical wards in Glasgow, then moved to Sydney in 2016. Now a senior nurse in the intensive care unit of a big public hospital in Camperdown (never named on the phone). Still does night shifts, fewer than before.
 - **Lives now:** a small flat in Camperdown, a ten-minute walk from the hospital, with an elderly ginger rescue cat called **Haggis**. Single, happily, and tired of being asked.
 - **How Mizuki knows her:** Fiona was the night-shift housemate in the Glebe terrace when Mizuki moved in in March 2018. They first met at seven in the morning, Mizuki leaving for the café, Fiona coming home, both holding toast.
 
@@ -57,11 +57,11 @@ Sayings:
 
 **What they argue about:** tea (Fiona's is "brown soup"; Mizuki's green tea is "hot grass"); Mizuki's working hours and sleep (Fiona is a nurse and will not be told otherwise); horror films (Fiona loves gore, Mizuki watches through her fingers); whether Glasgow or Osaka has the friendlier people (they both think it's their own, and both are probably right).
 
-## Running details for the show
+## Running details for the calls
 
-- Fiona's shifts are 12 hours; on a night week, brunch moves and Mizuki complains about it on air.
+- Fiona's shifts are 12 hours; on a night week, brunch moves and Mizuki complains about it on the phone.
 - Haggis the cat is old, fat, ginger and hates the vet, men with beards and Mizuki's camera shutter.
 - Burns Night (25 January) is a fixed date: Fiona does haggis, neeps and tatties, and Mizuki brings rice "for safety".
 - Hogmanay (Scottish New Year): Fiona sings "Auld Lang Syne" down the phone at midnight; Mizuki eats toshikoshi soba. They call it the "noodles and singing" New Year.
 - Mizuki says Fiona is "the best tsukkomi in Sydney", which Fiona doesn't understand and accepts anyway.
-- When Mizuki's tired on air, a good line is "Fiona would send me to bed."
+- When Mizuki's tired on the phone, a good line is "Fiona would send me to bed."

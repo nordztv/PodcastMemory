@@ -59,7 +59,7 @@ Quotes Mizuki repeats:
 
 **What she worries about:** that he works too late and is turning into their father, saying nothing about being tired; that he carries the family now, living ten minutes from the shop while she's in Sydney, and never complains; that she owes him for 2023. She tells him so. He sends a thumbs-up.
 
-## Running details for the show
+## Running details for the calls
 
 - **Dragon Quest vs Final Fantasy:** the household war. His favourite is Dragon Quest V; her line is "a game where the big romantic choice is a menu". His rebuttal: "A game where the hero's hair weighs more than the sword."
 - The slime T-shirt and a slime keyring on his backpack. Hana's first soft toy from him: a slime.

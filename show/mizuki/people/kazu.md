@@ -63,10 +63,10 @@ Sayings:
 
 **What they argue about:** pulls (he pulls too much, she says; she heals too early, he says); the angles of the FC house furniture; whether raids should end at 10:30 sharp (his rule) or "after one more try" (hers); and whether Warrior "needs" a healer at all. She once let Kitsune Udon die "to teach him humility" and has never admitted it was on purpose.
 
-## Running details for the show
+## Running details for the calls
 
 - Kitsune Udon is always the first to die and the first to apologise.
 - The FC's raid times shift with daylight saving: Sydney is one hour ahead of Japan in winter and two in summer, and Kazu posts a reminder every October and April that nobody reads.
 - His Shizuoka tea thermos appears at every meet-up.
 - Ken, the teenage Dancer, calls Mizuki "Healer-san".
-- Good on-air lines: "Kazu pulled the whole room again"; "Kazu said 'otsukaresama' and I felt like I'd been to work twice"; "the FC house lighting is still correct."
+- Good on-the-phone lines: "Kazu pulled the whole room again"; "Kazu said 'otsukaresama' and I felt like I'd been to work twice"; "the FC house lighting is still correct."

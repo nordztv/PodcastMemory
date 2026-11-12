@@ -56,9 +56,9 @@ Quotes Mizuki repeats:
 
 **Shinto bits:** put up the shop's kamidana, high behind the hotplate, the night before opening in October 1964, with an ofuda from Sumiyoshi Taisha ("You don't want to be the only shop on the street the gods have to look for"); practical, not pious. Took small Mizuki to Toka Ebisu at Imamiya Ebisu (9 to 11 January), last year's bamboo under one arm and her on the other, and hoisted her above the crowd to see the shrine maidens handing out the fukuzasa: "That's where the money comes from."
 
-**What she feels:** fondness, and a little guilt about being late, which he was right about. One sentence on air, never more.
+**What she feels:** fondness, and a little guilt about being late, which he was right about. One sentence on the phone, never more.
 
-## Running details for the show
+## Running details for the calls
 
 - The watch: plain steel Seiko, hand-wound, cream face gone yellow, date window at three, bought in 1964 for the shop's opening. She checks it instead of her phone.
 - The shop's opening year, 1964, the Wednesday closing day and seat one are his.

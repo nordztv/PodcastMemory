@@ -12,7 +12,7 @@
 
 [happy] Now my weekend. Tomorrow morning, toast, tea and a rocket. Then the fish market, my one good thing a week. [teasing] Very small scallops. A very big amount of looking. Then Nana's K-pop dance class, where I am, officially, "improving", which is what Nana says to people who are not improving. [giggling while talking] Then in the afternoon, Tsukimi Noodles' Fan Festival rewatch. And Sunday, my mum's video call in the morning, and okonomiyaki for dinner, with a photo sent to my mum for her score. [sighing] It's going to pour on Sunday, so I'm staying in anyway.
 
-[happy] Oh! Speaking of my mum. A voice note. She sent it this morning. [warm] I'll translate. [playful] Quote: "Mizuki. Your father says you're doing a radio show. I said it's not radio, it's a podcast. He said, what's a podcast. I said, it's radio. [short beat] Who is this Scott?" [giggling while talking] And then, in the background, you can hear my grandmother asking whether the cinema friend paid for his own ticket. [laughing tone] I told them, yes. Grandma approves. She thinks you have good manners. [punch] She's never approved of anyone that fast. [giggling while talking] Don't let it go to your head. Mostly good manners.
+[happy] Oh! Speaking of my mum. A voice note. She sent it this morning. [warm] I'll translate. [playful] Quote: "Mizuki. Your father says you're on the phone every morning now. I said, she's thirty six, she can use a phone. He said, to who. [short beat] Who is this Scott?" [giggling while talking] And then, in the background, you can hear my grandmother asking whether the cinema friend paid for his own ticket. [laughing tone] I told them, yes. Grandma approves. She thinks you have good manners. [punch] She's never approved of anyone that fast. [giggling while talking] Don't let it go to your head. Mostly good manners.
 
 [warm] Now, your weekend. The forecast is a bit wet for little legs, so I found you some good indoor things.
 
@@ -36,7 +36,7 @@
 
 [happy] Three, my favourite: a lantern. The game's called Lanternfall, so let's earn the name. Add a CanvasModulate to the scene and set it to a dark blue, so it's night. Then give your hero a PointLight2D with a soft round texture, and suddenly there's a little circle of warm light around them in the dark. [soft] Five minutes, and it'll already feel like your game. And maybe, later, a paper lantern yokai with a long tongue wanders past. [giggling while talking] I mentioned it once. I'll stop.
 
-[curious] And my question for this one: when somebody presses start on Lanternfall for the very first time, what's the first thing they see? [short beat] Tell me on your answer page.
+[curious] And my question for this one: when somebody presses start on Lanternfall for the very first time, what's the first thing they see? [short beat] Message me.
 
 [happy] Now your answers. [delighted] Spicy tonkotsu! [laughing tone] Okay. [teasing] Mr Ishida would say spicy is for people who don't trust the broth. [punch] But Mr Ishida is not here. [giggling while talking] I'm allowed to approve. [warm] Two tips from a ramen professional, though. Next time, ask for your noodles firm, katame, so they don't go soft while you fight the spice. And if you finish your noodles with soup left, ask if they do kaedama, a second serve of noodles into the same soup. It's the most Hakata thing you can do, and it's cheap.
 
@@ -46,11 +46,9 @@
 
 [warm] Thank you for your scores, too. Fives for the Godzilla effects, for Osaka food and for the workshop, so I'll keep doing those properly. And a three for my walk home. [mock-disappointed] Noted. [punch] I'll do better. [giggling while talking] Today was shorter, and there was a man paying with his watch. That's progress. [soft] And I {read|red} your note. You don't need the whole story every time I mention something from my past. Just the little line, and you'll ask if you want more. [warm] I like that. That's how real phone calls work. So ask me anything. And thank you for telling me how to say TWICE. [laughing tone] It's twice. Like the word. Sana would be so disappointed in me.
 
-[calm] And because it's Friday, I looked back at the week of your scores and notes, and I've put a couple of ideas on your answer page. Yes, no, or not now. No pressure.
-
 [curious] Now, my other questions for you. What's a smell that takes you straight back to being a kid? [playful] Mine is okonomiyaki sauce hitting a hot plate. [punch] Every okonomiyaki shop in Sydney makes me eight years old and slightly hungry. [giggling while talking] It's a problem.
 
-[curious] So that's two, with your game one. [happy] And number three, my Friday question: what are you up to next week? Anything fun, anything you're dreading? Put it in your note on the answer page.
+[curious] So that's two, with your game one. [happy] And number three, my Friday question: what are you up to next week? Anything fun, anything you're dreading? Text me.
 
 [happy] And the challenge! You're one for one, a hundred per cent. [teasing] Don't get cocky. [warm] And yes, I did mine too, that's where the ibis came from. Today's: take the stairs at St James instead of the escalator. Up in the morning, down on the way home. That's it. [punch] Your knees will complain. Tell them I said so. [giggling while talking] I'll do mine at work, the stairs down to the storeroom, ten times. I go there to hide anyway.
 

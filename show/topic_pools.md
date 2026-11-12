@@ -1,6 +1,6 @@
 # Deep-dive topic pools
 
-The daily run uses the first unused item in each pool (used = listed in `memory/deep_dives_covered.md`; a used topic can return only with a clearly different angle). The lore and game tech pools were retired on 11 Nov 2026 (Scott's bible review); the old lists are in `show/old/`. When a pool has fewer than 5 unused items, the run adds 10 or more fresh ideas drawn from Scott's main topics. Scott can add, remove or reorder anything here.
+The daily run uses the first unused item in each pool (used = listed in `memory/deep_dives_covered.md`; a used topic can return only with a clearly different angle). The lore and game tech pools were retired on 11 Nov 2026 (Scott's bible review); the old lists are in the repository's history. When a pool has fewer than 5 unused items, the run adds 10 or more fresh ideas drawn from Scott's main topics. Scott can add, remove or reorder anything here.
 
 ## Japan (06_japan: Japanese history, culture and Mizuki's life in Japan)
 

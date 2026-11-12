@@ -55,7 +55,7 @@ Sayings:
 
 **What they argue about:** barbecue (Mizuki thinks yakiniku is the correct way to eat meat; Rafa thinks yakiniku is a snack); raisins; whether she's ever coming to Brazil (she says yes, one day, "when I have fourteen hours of courage for the flight").
 
-## Running details for the show
+## Running details for the calls
 
 - She can't hear "no worries" without thinking of Rafa saying it with a São Paulo accent.
 - The Glebe shoe rack was her idea and Bia's pride.

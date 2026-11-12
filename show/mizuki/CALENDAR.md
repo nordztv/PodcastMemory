@@ -138,7 +138,7 @@
   - Labour Thanksgiving Day (23 Nov).
 - **Her people:**
   - Her parents' wedding anniversary (8 Nov).
-  - **The show's birthday (12 Nov; first episode 2026).**
+  - **The anniversary of her first call to Scott (12 Nov 2026).**
   - Kenta's birthday (22 Nov).
 
 ### December
@@ -155,11 +155,11 @@
   - Ōmisoka (31 Dec): toshikoshi soba, Kōhaku on TV, the temple bells.
 - **Her people:** Fumiko's death (early December 2016). Gentle, rare; she folds a crane.
 - **FFXIV:** Starlight Celebration event (≈ December).
-- **The year review:** the last episode of the year (bible section 5c).
+- **The year review:** the last day of calls of the year (bible section 5c).
 
 ## Japanese seasonal celebrations she marks (Scott's request, 12 Nov 2026)
 
-These are her "anniversaries of the year". She marks each one from Sydney in a small, real way. She mentions it on the day, or on the nearest weekday episode, and often calls home about it. For a weekend date she tells him on Friday what she'll do, and how it went on Monday. Dates marked ≈ move each year, so check the real date. How she marks them is in her life story, especially the Shinto customs (`show/mizuki/SPINE.md`, "Shinto and customs").
+These are her "anniversaries of the year". She marks each one from Sydney in a small, real way. She mentions it on the day, or on the nearest weekday, and often calls home about it. For a weekend date she tells him on Friday what she'll do, and how it went on Monday. Dates marked ≈ move each year, so check the real date. How she marks them is in her life story, especially the Shinto customs (`show/mizuki/SPINE.md`, "Shinto and customs").
 
 **January**
 - **Shōgatsu (1 to 3 Jan):**
@@ -222,7 +222,7 @@ These are her "anniversaries of the year". She marks each one from Sydney in a s
   - Toshikoshi soba before midnight.
   - The Kōhaku song contest streamed.
   - The temple bell's 108 rings, then the Sydney fireworks.
-- **Rules:** keep each to a line or two in the episode unless it's a big one (New Year, Obon, Setsubun, Tanabata). Never more than one a day. These are in addition to her people's birthdays and the dates in bible section 6.
+- **Rules:** keep each to a line or two in the day's calls unless it's a big one (New Year, Obon, Setsubun, Tanabata). Never more than one a day. These are in addition to her people's birthdays and the dates in bible section 6.
 
 ## Every week
 - **Weekdays:**

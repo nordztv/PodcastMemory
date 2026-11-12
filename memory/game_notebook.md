@@ -1,13 +1,13 @@
 # Game design notebook: Scott's Godot game
 
-Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (Secret of Mana meets Stardew Valley), in his words where possible, so he has one place to design from. Started 26 Oct 2026 (weekly review f1, approved). Updated by the daily run from his answers, notes, the "What I built this week" box and chats. Scott can edit anything here. Never delete his ideas.
+Everything Scott has said about his 2D top-down action RPG in Godot 4 (Secret of Mana meets Stardew Valley), in his words where possible, so he has one place to design from. Started 26 Oct 2026 (weekly review f1, approved). Updated by the daily run from his answers, notes, the "What I built this week" box and chats. Scott can edit anything here. Never delete his ideas.
 
 ## Status
 - 12 Nov 2026 (answer page): when he was ten, he "wanted to make video games". 13 Nov check-in suggested a first TileMapLayer screen, a CharacterBody2D hero (Input.get_vector, move_and_slide) and a CanvasModulate night with a PointLight2D lantern; asked what a player first sees when Lanternfall starts.
-- 9 Nov 2026 (answer page note): "Talk about the radish too much just once an episode or a couple times as a quick joke. Remember the new game project isn't even made yet" (Lanternfall is still an empty project).
+- 9 Nov 2026 (answer page note): "Talk about the radish too much just once a day or a couple times as a quick joke. Remember the new game project isn't even made yet" (Lanternfall is still an empty project).
 - 2 Nov 2026: Scott scrapped his game_prototype project to start again, but wants everything about it remembered (this whole notebook is kept). He wants the radish monster and the yokai ideas carried into the new game: keep recommending them.
 
-- 3 Nov 2026: the current project is Game-Prototype, which has a weekly task. The show now follows it daily (bible 5c); weekly snapshots land in memory/game_project/.
+- 3 Nov 2026: the current project is Game-Prototype, which has a weekly task. The calls now follow it daily (bible 5c); weekly snapshots land in memory/game_project/.
 - 3 Nov 2026 (sync): the new project is called Lanternfall (Godot 4.7), just created.
 
 ## The pitch
@@ -43,7 +43,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 ## Mechanics and decisions
 - Look (26 Oct, decomp answer): would rebuild Secret of Mana with the "HD-2D" look.
 - Progress (27 Oct, built box): "Nothing yes".
-- Progress (26 Oct, built box): "I didnt really work on any project but the podcast. i really want to add the raddish to my game though, i just need to find the time to do it."
+- Progress (26 Oct, built box): "I didnt really work on any project. i really want to add the raddish to my game though, i just need to find the time to do it."
 - Bullet time (23 Oct): he wouldn't add it.
 
 ## Radish build-along (f1 approved 31 Oct; one step each Friday)
@@ -57,7 +57,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - 6 Nov (built box): "Nothing I was on holidays".
 - 5 Nov (answer page): what the village would bring up as evidence at a trial after the festival: "Leaving dead goblins everywhere".
 
-## Open questions from the show (not answered yet)
+## Open questions from Mizuki (not answered yet)
 - The first villager the farmer meets and their first line (10 Nov).
 - The mayor's badge of office and its strange rule (10 Nov).
 - The bush cat's name and its lovable habit (10 Nov).
@@ -68,7 +68,7 @@ Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (
 - A weapon hidden in an everyday farm object, and who carries it (3 Nov).
 - The goblin leader's name and what he wants (3 Nov).
 
-## Suggestions the show has given
+## Suggestions Mizuki has given
 - 10 Nov: week restarted from an empty folder (project shape, pixel settings, Main scene, first commit); Lanternfall's first morning designed like Dragon Quest's throne room (lantern, bush cat in the doorway, hoe and seeds, festival notice on the gate); suggestion: bush cat follower (CharacterBody2D that follows when more than ~40 px away, slightly slower than the farmer, sits when close, flips its sprite).
 - 9 Nov: fallback week "The radish wakes up" (spawn, chase, bite, tiers); spawning via preload/instantiate and a GameState radish_awakened(where) signal; burst tween; story: goblin compost is why radishes wake (mandrake), Radish Rules, compost item; suggestion: a fertilised flag so compost-grown radishes count double in register_pull.
 - 5 Nov: interaction (a Reach Area2D on the farmer masking an interactable layer, interact action with is_action_just_pressed, get_overlapping_areas + an "interactable" group, interact() on each object, signal pulled, tween pop + queue_free); a pullable Radish scene ready for Friday's pull counter; a Lanternfall Festival where the village remembers what you did (lost lantern, radish contest, the nurikabe at the edge), Chrono Trigger style, stored as GameState flags.
