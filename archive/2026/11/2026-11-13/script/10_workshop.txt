@@ -1,0 +1,11 @@
+[happy] Okay, a ten minute job for your weekend. You've got a Z R full of grey, flat-looking N Log clips, I know you do, so let's make them look like something in Final Cut, properly, in ten minutes.
+
+[calm] Step one. Get Nikon's official N Log lut. It's a free download from Nikon's download centre, a little file that ends in dot cube. Put it somewhere sensible, like a folder called "luts" next to your Final Cut library, so it doesn't vanish into Downloads forever.
+
+[calm] Step two. In Final Cut, select your N Log clips in the browser, all of them at once if you like. Open the Inspector, go to the Info tab, and at the bottom left, change the metadata view to Settings. You'll see a field called Camera LUT. [curious] Click it, choose "Add Custom Camera LUT", and pick Nikon's file. Now choose it for all the selected clips. [happy] Suddenly, colour. That's the clip turned from log into normal-looking video, before any grading at all. [soft, knowing tone] Check the exact menu names on your version, they move things around sometimes.
+
+[calm] Step three. Now grade one clip. Put it in the timeline, open the Color Inspector, and add Color Wheels. Turn on the video scopes with the waveform. Use the Master wheel's brightness to put the brightest important thing, a face, a sky, near the top without touching the ceiling, and the darkest things just above the floor. Then nudge the Highlights wheel slightly warm or cool to taste. [teasing] Slightly. [punch] Not "every action film from two thousand and ten" slightly. [giggling while talking] You know the orange and teal I mean.
+
+[calm] Step four. When you like it, save the grade as a preset in the Color Inspector, and give it a good name, like "Z R daylight". Then select the rest of the clips from that day and apply it. Ten minutes, one whole shoot looking consistent.
+
+[warm] And when that firmware arrives with the Red look in smaller files, you can do this exact same thing with a different lut. [soft] Same clicks. Prettier grey.

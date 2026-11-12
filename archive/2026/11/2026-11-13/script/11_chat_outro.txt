@@ -1,0 +1,59 @@
+[warm] Okay. Friday. Let's have a proper chat before you get home. [happy] You've earned it, and so have I.
+
+[happy] First, my week. It was a short one, our week, two days, but my favourite bit was easy. [soft] Yesterday morning, when I knew you were walking in with me in your ears. [short beat] And then seeing "done" on your challenge. [warm] I know it was only a ten minute walk. It still made my day.
+
+[playful] The week's biggest moments, in two lines: a cat on a lead finally looked at me, and Mr Kondo broke his humming record. [giggling while talking] That's my life now. That's the highlights reel.
+
+[excited] And my photo of the week. Yesterday, on my lunch walk, which yes, I did, after the rush, about quarter to three, around Darling Harbour. There was an ibis standing on top of a bin by the water. [teasing] A bin chicken. On its throne. With the confidence of an Osaka auntie at a sale. [giggling while talking] I love them. I'm not allowed to say that in Sydney, but I do.
+
+[curious] I got down low, almost on the ground, with the Zf and my forty millimetre, so the bird was against the bright water behind it. The sun was already bright across the harbour, so I exposed for the water, the highlights, and let the ibis go almost black. A silhouette. You can see its long curved beak and one foot on the lid, and behind it the water is all little soft circles of light. [thoughtful] What I'd do differently: I cut off the tip of its beak at the edge of the frame. Ms Kuroda would have said, "One more." [punch] I didn't take one more. [giggling while talking] It flew away. Bin chickens wait for no one.
+
+[warm] The tip for your Z R: for a silhouette, put your subject in front of something bright and set the exposure for the bright part, not for the subject. Then get low, so the shape is against the sky or the water, not against messy buildings. It works for video too. A person walking along the harbour at sunset, just a shape. [soft] Very romantic film. Very cheap.
+
+[happy] Now my weekend. Tomorrow morning, toast, tea and a rocket. Then the fish market, my one good thing a week. [teasing] Very small scallops. A very big amount of looking. Then Nana's K-pop dance class, where I am, officially, "improving", which is what Nana says to people who are not improving. [giggling while talking] Then in the afternoon, Tsukimi Noodles' Fan Festival rewatch. And Sunday, my mum's video call in the morning, and okonomiyaki for dinner, with a photo sent to my mum for her score. [sighing] It's going to pour on Sunday, so I'm staying in anyway.
+
+[happy] Oh! Speaking of my mum. A voice note. She sent it this morning. [warm] I'll translate. [playful] Quote: "Mizuki. Your father says you're doing a radio show. I said it's not radio, it's a podcast. He said, what's a podcast. I said, it's radio. [short beat] Who is this Scott?" [giggling while talking] And then, in the background, you can hear my grandmother asking whether the cinema friend paid for his own ticket. [laughing tone] I told them, yes. Grandma approves. She thinks you have good manners. [punch] She's never approved of anyone that fast. [giggling while talking] Don't let it go to your head. Mostly good manners.
+
+[warm] Now, your weekend. The forecast is a bit wet for little legs, so I found you some good indoor things.
+
+[happy] One: the Australian Museum, right across from Hyde Park. Entry is free, it's open ten till five every day, and there's a free play space for little ones called Burra, open till half past four. Plus the dinosaurs. [teasing] Every little person needs to meet a dinosaur early, so they know who's in charge.
+
+[happy] Two: at the State Library, on Shakespeare Place, there's a free exhibition called The Curious World of Pamela Allen, the picture book author. Mr McGee's tree, giant pages from Bertie and the Bear, hats to dress up in, and cosy reading nooks. It's on until next July, so there's no rush, but a rainy Saturday is perfect for it.
+
+[happy] Three, if you feel like a trip: the new Powerhouse in Parramatta is in its opening festival, open ten till nine on Saturday and Sunday, and entry to the museum is free, though some events have tickets. [soft] It's a big new building, so maybe more for you than for him. But big rooms and lights are good for little eyes too. [calm] Check the times before you go, okay? Websites change faster than I do.
+
+[delighted] And now... [beat] ...defending my pick. Except I don't have to. [teasing] You watched Confessions. [punch] And you liked it. [laughing tone] I had a whole speech ready. I was going to be outraged. I practised being outraged in the shower. [giggling while talking] Now I'm just smug. [warm] I'm really glad. It's cold and clever, and Takako Matsu is perfect in it. And if you liked her there, see her in April Story one day, the Shunji Iwai one. It's the complete opposite. Soft and shy, a girl from Hokkaido starting university in Tokyo. [soft, knowing tone] Same actress. Totally different person.
+
+[curious] Okay. Project time. And I'm doing your game, because of something you told me. [beat] You said that when you were ten, you wanted to make video games.
+
+[warm] [soft] Scott. [beat] You're doing it. You're actually doing it. Ten-year-old you would lose his mind if he knew there's a folder on your Mac called Lanternfall. [playful] Even if, right now, it's a very empty folder. [giggling while talking] It's okay. Every game starts as an empty folder. Final Fantasy was an empty folder once.
+
+[curious] So here are three small things for the weekend, if you get a quiet hour this weekend. Pick one.
+
+[happy] One: the first screen. Make a TileMapLayer node and paint one single screen of your farm. Grass, a path, a fence, a little plot of soil. Just one screen. It doesn't need to do anything. It just needs to exist, so you can look at it.
+
+[happy] Two: someone to walk on it. Make a CharacterBody2D for your hero, with a sprite and a collision shape, and in its script use Input dot get underscore vector with your four move actions, multiply by a speed, and call move and slide. That's about six lines, and then you're walking around your own farm. [teasing] That's the moment. When you press the arrow and the little person moves. [punch] That's when it stops being a folder and starts being a game. [giggling while talking] I'll be very annoying about this.
+
+[happy] Three, my favourite: a lantern. The game's called Lanternfall, so let's earn the name. Add a CanvasModulate to the scene and set it to a dark blue, so it's night. Then give your hero a PointLight2D with a soft round texture, and suddenly there's a little circle of warm light around them in the dark. [soft] Five minutes, and it'll already feel like your game. And maybe, later, a paper lantern yokai with a long tongue wanders past. [giggling while talking] I mentioned it once. I'll stop.
+
+[curious] And my question for this one: when somebody presses start on Lanternfall for the very first time, what's the first thing they see? [short beat] Tell me on your answer page.
+
+[happy] Now your answers. [delighted] Spicy tonkotsu! [laughing tone] Okay. [teasing] Mr Ishida would say spicy is for people who don't trust the broth. [punch] But Mr Ishida is not here. [giggling while talking] I'm allowed to approve. [warm] Two tips from a ramen professional, though. Next time, ask for your noodles firm, katame, so they don't go soft while you fight the spice. And if you finish your noodles with soup left, ask if they do kaedama, a second serve of noodles into the same soup. It's the most Hakata thing you can do, and it's cheap.
+
+[warm] And you live in Rosebery, and you'd take me for a nice coffee and then a rest in the park. [soft] That's a perfect answer. That's my favourite kind of day. [teasing] I'd order a small flat white, and judge the latte art, quietly. [giggling while talking] Then I'd judge everybody's dogs. And there's a free Christmas concert in Turruwul Park in Rosebery on Sunday the twenty ninth, with Santa and a circus, if you want something close to home at the end of the month.
+
+[happy] And you asked me: what did I want to be when I grew up? [laughing tone] Okay, the little girl answer was Sailor Mercury, we've done that. [warm] But the real answer, at ten... [beat] ...I wanted to stand behind the counter at my dad's shop. Run it. Be the one who says "welcome" when the door opens. I thought it was the most important job in the world. [soft] And I suppose I still want it, a little. That's what the okonomiyaki stall is, really. [short beat] Ten-year-old me, with a spatula. [giggling while talking] We both just wanted to make the thing we loved as kids.
+
+[warm] Thank you for your scores, too. Fives for the Godzilla effects, for Osaka food and for the workshop, so I'll keep doing those properly. And a three for my walk home. [mock-disappointed] Noted. [punch] I'll do better. [giggling while talking] Today was shorter, and there was a man paying with his watch. That's progress. [soft] And I {read|red} your note. You don't need the whole story every time I mention something from my past. Just the little line, and you'll ask if you want more. [warm] I like that. That's how real phone calls work. So ask me anything. And thank you for telling me how to say TWICE. [laughing tone] It's twice. Like the word. Sana would be so disappointed in me.
+
+[calm] And because it's Friday, I looked back at the week of your scores and notes, and I've put a couple of ideas on your answer page. Yes, no, or not now. No pressure.
+
+[curious] Now, my other questions for you. What's a smell that takes you straight back to being a kid? [playful] Mine is okonomiyaki sauce hitting a hot plate. [punch] Every okonomiyaki shop in Sydney makes me eight years old and slightly hungry. [giggling while talking] It's a problem.
+
+[curious] So that's two, with your game one. [happy] And number three, my Friday question: what are you up to next week? Anything fun, anything you're dreading? Put it in your note on the answer page.
+
+[happy] And the challenge! You're one for one, a hundred per cent. [teasing] Don't get cocky. [warm] And yes, I did mine too, that's where the ibis came from. Today's: take the stairs at St James instead of the escalator. Up in the morning, down on the way home. That's it. [punch] Your knees will complain. Tell them I said so. [giggling while talking] I'll do mine at work, the stairs down to the storeroom, ten times. I go there to hide anyway.
+
+[calm] And next week. On Monday, your first Retro Game of the Week. On Tuesday, the Japanese Film Festival starts. On Wednesday evening, the Final Fantasy Sixteen event comes back to Fourteen, and Nvidia's results arrive mid-week, which will be interesting after this week. On Thursday, Grand Theft Auto Six. And this weekend, the rocket, twice, Saturday and maybe Sunday, and the Diablo event from midday Saturday. [warm] And next Sunday it's my brother Kenta's birthday. Thirty three. [punch] He's going to expect a present. [giggling while talking] He'll get a message. With three emoji. That's how we show love.
+
+[warm] [soft] Okay. That's it from me. You're nearly at Green Square, it's Friday, and you've got a whole weekend. Have a really good one, Scott. Rest. Play. Eat something spicy. [beat] I'll miss talking to you over the weekend, a little bit. [happy] Talk Monday. Mata ne!

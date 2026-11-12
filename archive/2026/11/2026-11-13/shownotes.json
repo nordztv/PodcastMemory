@@ -1,0 +1,518 @@
+{
+ "date": "2026-11-13",
+ "weekday": "Friday",
+ "length": "",
+ "headline": "Friday the 13th: Nvidia's board meets on Jensen Huang, home loans' record fall, the ZR firmware's leaked date, Romancing SaGa 3 moves up, Godzilla Minus Zero's cats, Toriyama Sekien's yokai, Ringu's backwards walk and The Shining's Big Wheel",
+ "challenge": "Take the stairs at St James instead of the escalator, up in the morning and down on the way home (1 of 1, 100% so far)",
+ "segments": [
+  {
+   "name": "Opening and world",
+   "items": [
+    {
+     "title": "Nvidia's board meets on Jensen Huang's future",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+      }
+     ]
+    },
+    {
+     "title": "Spain's first general strike in 14 years, over housing",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816"
+      }
+     ]
+    },
+    {
+     "title": "Indonesia's Vice-President resigns; a Sydney college link",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine and Russia agree a prisoner swap",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+      }
+     ]
+    },
+    {
+     "title": "Weather: 18 to 26, showers and a possible storm this afternoon",
+     "links": [
+      {
+       "label": "BoM",
+       "url": "https://www.bom.gov.au/places/nsw/ultimo/forecast/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "items": [
+    {
+     "title": "New home loans have their biggest fall on record; bank chiefs before parliament",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+      },
+      {
+       "label": "SBS",
+       "url": "https://www.sbs.com.au/news/podcast-episode/optimism-despite-home-loan-falls-evening-news-bulletin-12-november-2026/jwg1otafg"
+      }
+     ]
+    },
+    {
+     "title": "Albanese's COP31 speech criticised for leaving out fossil fuels",
+     "links": [
+      {
+       "label": "SBS",
+       "url": "https://sbs.com.au/news/article/albanese-cop31-speech-fossil-fuel-pacific/9mg5ca3s5"
+      }
+     ]
+    },
+    {
+     "title": "NAB to repay about $169 million to 65,999 underpaid staff",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+      }
+     ]
+    },
+    {
+     "title": "Round-up: ASIC sues CBA, Q fever vaccine runs out, David Jones closures, Gippsland hiker found; T8 timetable change scrapped",
+     "links": [
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-11-12/q-fever-vaccine-shortage-in-australia/107374986"
+      },
+      {
+       "label": "ABC",
+       "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "items": [
+    {
+     "title": "Nikon ZR firmware 2.00: a leaked 24 November date, and what's in it",
+     "links": [
+      {
+       "label": "Nikon Rumors",
+       "url": "https://nikonrumors.com/2026/11/10/youtuber-leaks-the-release-date-for-the-nikon-zr-firmware-update-2-0-november-24th.aspx/"
+      },
+      {
+       "label": "Newsshooter",
+       "url": "https://www.newsshooter.com/2026/11/03/nikon-zr-firmware-version-2-00/"
+      }
+     ]
+    },
+    {
+     "title": "Viltrox AF 35mm f/1.4 Pro for Z mount; camera prices may rise",
+     "links": [
+      {
+       "label": "PRONEWS",
+       "url": "https://en.pronews.com/news/20261102131416525.html"
+      },
+      {
+       "label": "PetaPixel",
+       "url": "https://petapixel.com/2026/10/30/canon-may-raise-camera-prices-due-to-increased-memory-costs/"
+      }
+     ]
+    },
+    {
+     "title": "Apple TV 4K and HomeView on sale today",
+     "links": [
+      {
+       "label": "MacRumors",
+       "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/"
+      }
+     ]
+    },
+    {
+     "title": "Intel's local AI toolkit for Arc Pro B60 and B70; GPU memory prices up",
+     "links": [
+      {
+       "label": "iTechGuides",
+       "url": "https://www.itechguides.com/intel-arc-gpus-for-llm-scaler-vllm-pv-1-5-b60-or-b70/"
+      },
+      {
+       "label": "BigGo Finance",
+       "url": "https://finance.biggo.com/news/aa4ea3ec-72c6-471f-996a-da6e6861d5fa"
+      }
+     ]
+    },
+    {
+     "title": "Auto SR on ROG Xbox Ally X; Anbernic's describe-a-game handheld",
+     "links": [
+      {
+       "label": "Engadget",
+       "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/start-by-describing-the-game-you-want-to-create-anbernics-3ds-style-rg-dds-lets-you-vibe-code-games-using-ai"
+      }
+     ]
+    },
+    {
+     "title": "Starship Flight 15: catching both stages, pending the FAA",
+     "links": [
+      {
+       "label": "Engadget",
+       "url": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/"
+      },
+      {
+       "label": "The Week",
+       "url": "https://www.theweek.in/news/sci-tech/2026/11/11/spacex-starship-flight-15-launch.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Games",
+   "items": [
+    {
+     "title": "Romancing SaGa 3: Destinies United moves up to 4 February",
+     "links": [
+      {
+       "label": "Gematsu",
+       "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-release-date-moved-up-to-february-4-2027"
+      }
+     ]
+    },
+    {
+     "title": "Square Enix's results, and FF7 Revelation on 8 April",
+     "links": [
+      {
+       "label": "Nintendo Life",
+       "url": "https://www.nintendolife.com/news/2026/11/square-enixs-big-reset-is-working-as-it-increases-its-full-year-forecast"
+      }
+     ]
+    },
+    {
+     "title": "Mizuki's FFXIV corner: Evercold, The Path Infernal returns, the live show correction",
+     "links": [
+      {
+       "label": "KeenGamer",
+       "url": "https://www.keengamer.com/articles/news/square-enix-delays-final-fantasy-xiv-evercold-to-february-23-2027/"
+      },
+      {
+       "label": "Lodestone",
+       "url": "https://na.finalfantasyxiv.com/lodestone/"
+      }
+     ]
+    },
+    {
+     "title": "Ocarina of Time remake sells 5.2 million in four days",
+     "links": [
+      {
+       "label": "Nintendo Everything",
+       "url": "https://nintendoeverything.com/?p=929231"
+      }
+     ]
+    },
+    {
+     "title": "Diablo's 30th: Diablo II Resurrected's Legacy of Terror event",
+     "links": [
+      {
+       "label": "Blizzard",
+       "url": "https://news.blizzard.com/en-gb/article/24315743/celebrate-diablos-30th-anniversary-with-legacy-of-terror"
+      }
+     ]
+    },
+    {
+     "title": "Xbox at 25: Banjo, Perfect Dark and Viva Piñata on Game Pass",
+     "links": [
+      {
+       "label": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week"
+      }
+     ]
+    },
+    {
+     "title": "GTA VI is a week away; Resident Evil Requiem wins at the Golden Joysticks",
+     "links": [
+      {
+       "label": "Rockstar",
+       "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+      },
+      {
+       "label": "GamesRadar",
+       "url": "https://gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026"
+      }
+     ]
+    },
+    {
+     "title": "Retro: 8 Eyes for SNES and Mega Drive, Game & Watch on the ZX Spectrum, One Fenix Down",
+     "links": [
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/castlevania-style-nes-platformer-8-eyes-could-be-getting-an-enhanced-release-for-snes-sega-genesis-and-gba"
+      },
+      {
+       "label": "Time Extension",
+       "url": "https://www.timeextension.com/news/2026/11/18-nintendo-game-and-watch-classics-inc-mario-bros-and-donkey-kong-come-to-zx-spectrum-via-sm510-emulator"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Movies",
+   "items": [
+    {
+     "title": "Godzilla Minus Zero tops the US box office, with a little help from two cats",
+     "links": [
+      {
+       "label": "Seat42F",
+       "url": "https://seat42f.com/godzilla-minus-zero-weekend-box-office-november-8-2026/"
+      },
+      {
+       "label": "Dread Central",
+       "url": "https://www.dreadcentral.com/news/586680/godzilla-minus-zero-is-the-first-japanese-production-filmed-for-imax-watch-bts-footage/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/godzilla-minus-zero-godzilla-x-kong-cat-influence/"
+      }
+     ]
+    },
+    {
+     "title": "Actress of the Week: Takako Matsu's kabuki family, Nagi Diary and 1st Kiss at the Japanese Film Festival",
+     "links": [
+      {
+       "label": "Wikipedia (mirror)",
+       "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Matsu_Takako"
+      },
+      {
+       "label": "Tokyo Art Beat",
+       "url": "https://www.tokyoartbeat.com/articles/-/takako-matsu-nagidiary-interview-202609"
+      },
+      {
+       "label": "Cinema Today",
+       "url": "https://www.cinematoday.jp/news/N0156331"
+      },
+      {
+       "label": "Sydney.com",
+       "url": "https://www.sydney.com/node/221081"
+      }
+     ]
+    },
+    {
+     "title": "The Fin: Korean sci-fi horror trailer",
+     "links": [
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/the-fin-trailer-exclusive-south-korean-horror/"
+      }
+     ]
+    },
+    {
+     "title": "Dead-End Job on Netflix",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/tv/3975390/netflixs-new-korean-horror-series-dead-end-job-is-a-supernatural-nightmare-worth-clocking-into/"
+      }
+     ]
+    },
+    {
+     "title": "The Devils comes to 4K",
+     "links": [
+      {
+       "label": "Blu-ray.com",
+       "url": "https://www.blu-ray.com/news/?id=39307"
+      }
+     ]
+    },
+    {
+     "title": "Stacy Keach dies at 85; Jason Lives turns 40",
+     "links": [
+      {
+       "label": "Bloody Disgusting",
+       "url": "https://bloody-disgusting.com/news/3975426/road-games-and-body-bags-actor-stacy-keach-has-passed-away-at-85/"
+      },
+      {
+       "label": "Fangoria",
+       "url": "https://www.fangoria.com/40-years-of-friday-the-13th-part-vi-jason-lives/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "items": [
+    {
+     "title": "Toriyama Sekien: the man who gave yokai their faces",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Toriyama_Sekien"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Walking home",
+   "items": [
+    {
+     "title": "Friday the 13th: the card machines go down in the lunch rush",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Effects",
+   "items": [
+    {
+     "title": "Ringu: how Sadako walked out of the TV",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/Ring_(film)"
+      },
+      {
+       "label": "Den of Geek",
+       "url": "https://www.denofgeek.com/movies/ringu-the-ring-best-moment/"
+      },
+      {
+       "label": "Wikipedia (mirror)",
+       "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Rie_In%C5%8D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "items": [
+    {
+     "title": "Kubrick's The Shining: the Steadicam and the Big Wheel",
+     "links": [
+      {
+       "label": "Wikipedia",
+       "url": "https://en.wikipedia.org/wiki/The_Shining_(film)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Workshop",
+   "items": [
+    {
+     "title": "Nikon's N-Log LUT in Final Cut, and one saved grade",
+     "links": []
+    }
+   ]
+  },
+  {
+   "name": "Chat and goodbye",
+   "items": [
+    {
+     "title": "Photo of the week: a bin chicken in silhouette",
+     "links": []
+    },
+    {
+     "title": "Weekend with your son: Australian Museum, Pamela Allen at the State Library, Powerhouse Parramatta",
+     "links": [
+      {
+       "label": "Australian Museum",
+       "url": "https://australian.museum/visit/whats-on/free-family-day-out-in-sydney/"
+      },
+      {
+       "label": "State Library NSW",
+       "url": "https://www.sl.nsw.gov.au/exhibitions/curious-world-pamela-allen"
+      },
+      {
+       "label": "Time Out",
+       "url": "https://www.timeout.com/sydney/things-to-do/powerhouse-parramatta-opening-festival"
+      }
+     ]
+    },
+    {
+     "title": "Project check-in: Lanternfall's first screen, first steps and first lantern",
+     "links": []
+    },
+    {
+     "title": "Your answers: spicy tonkotsu, making games, a Rosebery coffee",
+     "links": [
+      {
+       "label": "City of Sydney",
+       "url": "https://whatson.cityofsydney.nsw.gov.au/events/rosebery-christmas-concert"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "kind": "Actress of the Week",
+   "title": "Takako Matsu: April Story (1998)",
+   "note": "Shunji Iwai; Mizuki's next suggestion after Confessions. Also 1st Kiss at the Japanese Film Festival, Sydney, 17 to 29 Nov",
+   "links": [
+    {
+     "label": "Wikipedia (mirror)",
+     "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Matsu_Takako"
+    },
+    {
+     "label": "Sydney.com",
+     "url": "https://www.sydney.com/node/221081"
+    }
+   ]
+  },
+  {
+   "kind": "Effects deep dive",
+   "title": "Ringu (1998), Hideo Nakata",
+   "note": "Sadako's reversed walk",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ring_(film)"
+    }
+   ]
+  },
+  {
+   "kind": "Director deep dive",
+   "title": "The Shining (1980), Stanley Kubrick",
+   "note": "Garrett Brown's Steadicam",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/The_Shining_(film)"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "When somebody presses start on Lanternfall for the very first time, what's the first thing they see?",
+  "What's a smell that takes you straight back to being a kid?",
+  "What are you up to next week? Anything fun, anything you're dreading?"
+ ]
+}

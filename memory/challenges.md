@@ -4,4 +4,5 @@ One fitness challenge per episode (bible section 8). Scott reports Done on the d
 
 | Date | Challenge | Done |
 | --- | --- | --- |
-| 2026-11-12 | A ten minute walk outside at lunch, anywhere you like | Not yet |
+| 2026-11-13 | Take the stairs at St James instead of the escalator, up in the morning and down on the way home | Not yet |
+| 2026-11-12 | A ten minute walk outside at lunch, anywhere you like | Yes |

@@ -1,0 +1,258 @@
+[
+ {
+  "key": "opening-and-world",
+  "name": "Opening and world",
+  "items": [
+   {
+    "id": "opening-and-world-1",
+    "title": "Nvidia's board meets on Jensen Huang's future",
+    "topic": "Nvidia"
+   },
+   {
+    "id": "opening-and-world-2",
+    "title": "Spain's first general strike in 14 years, over housing",
+    "topic": "Major world news"
+   },
+   {
+    "id": "opening-and-world-3",
+    "title": "Indonesia's Vice-President resigns; a Sydney college link",
+    "topic": "Major world news"
+   },
+   {
+    "id": "opening-and-world-4",
+    "title": "Ukraine and Russia agree a prisoner swap",
+    "topic": "Russia-Ukraine war"
+   },
+   {
+    "id": "opening-and-world-5",
+    "title": "Weather: 18 to 26, showers and a possible storm this afternoon",
+    "topic": "NSW politics and Sydney news"
+   }
+  ]
+ },
+ {
+  "key": "australia",
+  "name": "Australia",
+  "items": [
+   {
+    "id": "australia-1",
+    "title": "New home loans have their biggest fall on record; bank chiefs before parliament",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-2",
+    "title": "Albanese's COP31 speech criticised for leaving out fossil fuels",
+    "topic": "Australian federal politics"
+   },
+   {
+    "id": "australia-3",
+    "title": "NAB to repay about $169 million to 65,999 underpaid staff",
+    "topic": "Australian economy and banks"
+   },
+   {
+    "id": "australia-4",
+    "title": "Round-up: ASIC sues CBA, Q fever vaccine runs out, David Jones closures, Gippsland hiker found; T8 timetable change scrapped",
+    "topic": "Australian federal politics"
+   }
+  ]
+ },
+ {
+  "key": "tech",
+  "name": "Tech",
+  "items": [
+   {
+    "id": "tech-1",
+    "title": "Nikon ZR firmware 2.00: a leaked 24 November date, and what's in it",
+    "topic": "Nikon ZR, lenses and camera gear"
+   },
+   {
+    "id": "tech-2",
+    "title": "Viltrox AF 35mm f/1.4 Pro for Z mount; camera prices may rise",
+    "topic": "Nikon ZR, lenses and camera gear"
+   },
+   {
+    "id": "tech-3",
+    "title": "Apple TV 4K and HomeView on sale today",
+    "topic": "Apple"
+   },
+   {
+    "id": "tech-4",
+    "title": "Intel's local AI toolkit for Arc Pro B60 and B70; GPU memory prices up",
+    "topic": "GPUs and local AI hardware (VRAM, Intel Arc Pro B50/B60/B70, RTX cards)"
+   },
+   {
+    "id": "tech-5",
+    "title": "Auto SR on ROG Xbox Ally X; Anbernic's describe-a-game handheld",
+    "topic": "Video game industry"
+   },
+   {
+    "id": "tech-6",
+    "title": "Starship Flight 15: catching both stages, pending the FAA",
+    "topic": "SpaceX and Starship"
+   }
+  ]
+ },
+ {
+  "key": "games",
+  "name": "Games",
+  "items": [
+   {
+    "id": "games-1",
+    "title": "Romancing SaGa 3: Destinies United moves up to 4 February",
+    "topic": "Square Enix and Dragon Quest"
+   },
+   {
+    "id": "games-2",
+    "title": "Square Enix's results, and FF7 Revelation on 8 April",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-3",
+    "title": "Mizuki's FFXIV corner: Evercold, The Path Infernal returns, the live show correction",
+    "topic": "Final Fantasy (series, lore, new releases)"
+   },
+   {
+    "id": "games-4",
+    "title": "Ocarina of Time remake sells 5.2 million in four days",
+    "topic": "Nintendo (Switch 2, Zelda)"
+   },
+   {
+    "id": "games-5",
+    "title": "Diablo's 30th: Diablo II Resurrected's Legacy of Terror event",
+    "topic": "Warcraft and Blizzard"
+   },
+   {
+    "id": "games-6",
+    "title": "Xbox at 25: Banjo, Perfect Dark and Viva Piñata on Game Pass",
+    "topic": "Xbox"
+   },
+   {
+    "id": "games-7",
+    "title": "GTA VI is a week away; Resident Evil Requiem wins at the Golden Joysticks",
+    "topic": "Video game releases"
+   },
+   {
+    "id": "games-8",
+    "title": "Retro: 8 Eyes for SNES and Mega Drive, Game & Watch on the ZX Spectrum, One Fenix Down",
+    "topic": "Retro gaming projects (emulators, reverse engineering, mods)"
+   }
+  ]
+ },
+ {
+  "key": "movies",
+  "name": "Movies",
+  "items": [
+   {
+    "id": "movies-1",
+    "title": "Godzilla Minus Zero tops the US box office, with a little help from two cats",
+    "topic": "Japanese horror"
+   },
+   {
+    "id": "movies-2",
+    "title": "Actress of the Week: Takako Matsu's kabuki family, Nagi Diary and 1st Kiss at the Japanese Film Festival",
+    "topic": "Cult actresses and iconic characters"
+   },
+   {
+    "id": "movies-3",
+    "title": "The Fin: Korean sci-fi horror trailer",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-4",
+    "title": "Dead-End Job on Netflix",
+    "topic": "Korean genre cinema"
+   },
+   {
+    "id": "movies-5",
+    "title": "The Devils comes to 4K",
+    "topic": "4K Blu-ray, physical media and restorations"
+   },
+   {
+    "id": "movies-6",
+    "title": "Stacy Keach dies at 85; Jason Lives turns 40",
+    "topic": "Horror films"
+   }
+  ]
+ },
+ {
+  "key": "japan",
+  "name": "Japan",
+  "items": [
+   {
+    "id": "japan-1",
+    "title": "Toriyama Sekien: the man who gave yokai their faces",
+    "topic": "Japanese yokai"
+   }
+  ]
+ },
+ {
+  "key": "walking-home",
+  "name": "Walking home",
+  "items": [
+   {
+    "id": "walking-home-1",
+    "title": "Friday the 13th: the card machines go down in the lunch rush",
+    "topic": "Mizuki's life"
+   }
+  ]
+ },
+ {
+  "key": "effects",
+  "name": "Effects",
+  "items": [
+   {
+    "id": "effects-1",
+    "title": "Ringu: how Sadako walked out of the TV",
+    "topic": "Practical effects and CGI history"
+   }
+  ]
+ },
+ {
+  "key": "director",
+  "name": "Director",
+  "items": [
+   {
+    "id": "director-1",
+    "title": "Kubrick's The Shining: the Steadicam and the Big Wheel",
+    "topic": "Directors and filming techniques"
+   }
+  ]
+ },
+ {
+  "key": "workshop",
+  "name": "Workshop",
+  "items": [
+   {
+    "id": "workshop-1",
+    "title": "Nikon's N-Log LUT in Final Cut, and one saved grade",
+    "topic": "Colour grading and Final Cut Pro"
+   }
+  ]
+ },
+ {
+  "key": "chat-and-goodbye",
+  "name": "Chat and goodbye",
+  "items": [
+   {
+    "id": "chat-and-goodbye-1",
+    "title": "Photo of the week: a bin chicken in silhouette",
+    "topic": "Nikon ZR, lenses and camera gear"
+   },
+   {
+    "id": "chat-and-goodbye-2",
+    "title": "Weekend with your son: Australian Museum, Pamela Allen at the State Library, Powerhouse Parramatta",
+    "topic": "Weekend activities in Sydney"
+   },
+   {
+    "id": "chat-and-goodbye-3",
+    "title": "Project check-in: Lanternfall's first screen, first steps and first lantern",
+    "topic": "Godot and Scott's 2D game"
+   },
+   {
+    "id": "chat-and-goodbye-4",
+    "title": "Your answers: spicy tonkotsu, making games, a Rosebery coffee",
+    "topic": "About Scott"
+   }
+  ]
+ }
+]
