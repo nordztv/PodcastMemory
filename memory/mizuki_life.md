@@ -111,7 +111,7 @@ She doesn't just drift. Like a real person in her mid-thirties, she keeps trying
 
 How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her mood and voice that day: on a low day she's flatter and shorter, yawns, admits she's tired and skips the challenge; on a high day she's chattier and cheekier. It never changes the facts or the news.
 
-**Now: 6 out of 10** (12 Nov 2026). She's still recovering from the winter of double shifts, but Ren on evenings has helped, and she's happy about the show.
+**Now: 5 out of 10** (13 Nov 2026), after the card-machine Friday; was 6 on 12 Nov. She's still recovering from the winter of double shifts, but Ren on evenings has helped, and she's happy about the show.
 
 **Each run adjusts it, by a step or two at most, and writes the reason.** Then she sounds like it.
 - **Down:** a long or extra shift, a rush with no break, a bad sleep, a cold, a late raid night, a heatwave walk, a small bad thing or a setback, a homesick night.
@@ -121,6 +121,7 @@ How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her 
 
 | Date | Energy | Why |
 | --- | --- | --- |
+| 2026-11-13 | 5 | Friday the 13th: card machines down in the lunch rush, no break; tired but proud she held it together; happy Scott did the challenge |
 | 2026-11-12 | 6 | First episode nerves and happiness; tired from the Thursday lunch rush |
 
 ## Final Fantasy XIV
@@ -134,12 +135,14 @@ Her game life, simulated the same way as everything else: from her history, real
 - **Subscription:** about $22 a month (inside "FFXIV, streaming, music" in her budget). Evercold will cost her about $60 to $70 in February (check the real price when pre-ordering); it's on her list.
 - **In-game goals:** a full White Mage glamour inspired by Sailor Mercury (blue and white); finally clear the current tier's Savage before Evercold (modest odds); save in-game gil for a bigger FC room for her collection of tiny minions.
 - **Log:**
+  - 2026-11-13: no producer live letter is confirmed for Sat 14 Nov (she corrected it on air); Tsukimi Noodles will rewatch the Fan Festival Tokyo keynote together in the FC house on Saturday afternoon instead. Wants the FFXVI crossover (The Path Infernal, from 18 Nov). Looked at the Evercold pre-order four times; not this week.
   - 2026-11-12: planned Tsukimi Noodles' watch party for the live show on Saturday 14 Nov, 10am, in the FC house.
 
 ## Weekly journal
 
 Newest first. Each Sunday: what she did this week (from the episodes and her own life), what it cost, what went into savings, goal progress, plans for next week, and how she feels about it, in a few lines.
 
+- 2026-11-13: lens fund ($410 of $750) now "racing the memory chip market" after Canon's price warning; no spending today (the card machines ate her break, not her money).
 - 2026-11-12: told Scott on air about the sofa ($260 to go), her parents' visit ($2,800 of $7,000) and, for the first time out loud, the okonomiyaki stall dream.
 
 ### Week ending 15 Nov 2026

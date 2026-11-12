@@ -3,6 +3,7 @@
 Everything Scott has told the show about his 2D top-down action RPG in Godot 4 (Secret of Mana meets Stardew Valley), in his words where possible, so he has one place to design from. Started 26 Oct 2026 (weekly review f1, approved). Updated by the daily run from his answers, notes, the "What I built this week" box and chats. Scott can edit anything here. Never delete his ideas.
 
 ## Status
+- 12 Nov 2026 (answer page): when he was ten, he "wanted to make video games". 13 Nov check-in suggested a first TileMapLayer screen, a CharacterBody2D hero (Input.get_vector, move_and_slide) and a CanvasModulate night with a PointLight2D lantern; asked what a player first sees when Lanternfall starts.
 - 9 Nov 2026 (answer page note): "Talk about the radish too much just once an episode or a couple times as a quick joke. Remember the new game project isn't even made yet" (Lanternfall is still an empty project).
 - 2 Nov 2026: Scott scrapped his game_prototype project to start again, but wants everything about it remembered (this whole notebook is kept). He wants the radish monster and the yokai ideas carried into the new game: keep recommending them.
 

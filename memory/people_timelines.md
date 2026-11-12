@@ -20,6 +20,7 @@ Her family and friends have lives that move on too (Scott's feature 10, 12 Nov 2
 - **Yumiko (mum, 65):** runs the front of the shop. Takarazuka, karaoke. Says "you're late".
   - *Could happen:* a new Takarazuka show, hurting her wrist hitting Hiroshi with the menu, planning the Sydney trip.
   - *Log:*
+    - 2026-11-13: voice note: heard about the show from Hiroshi ("a radio show"), "Who is this Scott?"; Chiyo, visiting or on the call, asked whether the cinema friend paid for his own ticket.
 - **Kenta (brother, 33 on 22 November), Miho and Hana (2, born 14 April 2024):** live in Tennoji. Kenta works in IT.
   - *Could happen:* Hana's milestones (new words, her third birthday on 14 April 2027, starting kindergarten), a second baby one day, a holiday.
   - *Log:*

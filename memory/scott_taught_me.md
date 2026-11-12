@@ -10,3 +10,5 @@ Things Mizuki has picked up from Scott (Scott's feature 8, 12 Nov 2026): Austral
 
 | Date | What he taught her | Where it came from | Followed up |
 | --- | --- | --- | --- |
+| 2026-11-12 | His perfect Rosebery day: a nice coffee shop, then relaxing in the park | Answer page | |
+| 2026-11-12 | He wanted to make video games when he was ten | Answer page | 2026-11-13: she linked it to Lanternfall and her own counter dream |

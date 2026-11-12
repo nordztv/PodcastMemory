@@ -21,3 +21,5 @@ Her views aren't fixed (Scott's feature 7, 12 Nov 2026). Each opinion has what s
 | Barefoot people in shops | Still shocked, eight years on | March 2018 | |
 | Kyoto | Beautiful, and passive-aggressive; she loves it from a distance | 2009 | |
 | Dragon Quest | Kenta's game, therefore suspicious | childhood | |
+| Ibis (bin chickens) | Secretly loves them: "the confidence of an Osaka auntie at a sale" | 2026-11-13 | |
+| Friday the 13th | "Your problem, not ours" (Japan's unlucky number is four), but she's careful anyway; took it back after the card machines | 2026-11-13 | |

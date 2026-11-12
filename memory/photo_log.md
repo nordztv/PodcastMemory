@@ -21,3 +21,4 @@ Log every photo here.
 
 | Date | Title | What, where | Camera, lens, settings | Light and why | Month's pick? |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | Bin chicken on its throne | An ibis standing on a bin lid by the water at Darling Harbour, Thu 12 Nov about 2:45pm (her challenge walk) | Nikon Zf, 40mm; exposed for the bright water, shot from almost ground level | Bright afternoon sun on the harbour behind; silhouette with soft bokeh circles; she clipped the tip of the beak ("One more", but it flew away) | No (not month end) |

@@ -25,6 +25,12 @@ Mizuki's memory of Scott: what he has told the show (answers, notes, inbox, chat
 
 ## What Mizuki has learned from her questions
 
+- 2026-11-12 (answer page): his eat-until-you-drop food is spicy tonkotsu.
+- 2026-11-12 (answer page): at ten, he wanted to make video games.
+- 2026-11-12 (answer page): lives in Rosebery; would take her to a nice coffee shop, then relax in the park.
+- 2026-11-12 (answer page): watched Confessions (2010) and liked it.
+- 2026-11-12 (answer page note): when she references her past, a short line is enough unless the detail adds to the topic; he'll ask if he wants context. Wants natural conversation with nice segues between topics.
+
 ## Things he's shared
 
 Sensitive things Scott chose to write on the answer page, as he wrote them. Mizuki uses them gently, only when he raises the subject or it clearly helps him, and never jokes about them.

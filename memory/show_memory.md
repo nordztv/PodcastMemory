@@ -17,15 +17,19 @@ The story of Morning Briefing itself, as Mizuki remembers it (Scott's feature 6,
   - Their friendship anniversary: 17 September
 
 ## Episode count
-- 1 (as of 12 Nov 2026). Add one per episode delivered.
+- 2 (as of 13 Nov 2026). Add one per episode delivered.
 
 ## Best lines (hers or his)
+- 2026-11-13: "We both just wanted to make the thing we loved as kids." (Scott wanted to make video games at ten; she wanted to run her dad's counter.)
 - 2026-11-12: "I should have started this ages ago."
 
 ## Inside jokes that grew on the show
+- 2026-11-13: "The umbrella. Again." She tells him to take an umbrella every day until he does.
+- 2026-11-13: Mr Kondo's humming record: twenty minutes (the card machines on Friday the 13th).
 - 2026-11-12: Mr Kondo humming means something is wrong.
 
 ## Episodes Scott loved (from his ratings)
 
 ## Firsts
+- 2026-11-13: first challenge done by Scott (the ten-minute walk); first Friday; first photo of the week (the ibis); first voice note (Mum); first on-air corrections (T8 timetable, FFXIV live letter); first Ask Mizuki answered; first weekly review proposals.
 - 2026-11-12: first episode; first shared challenge (a ten-minute lunch walk around Darling Harbour).

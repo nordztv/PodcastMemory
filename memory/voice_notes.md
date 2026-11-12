@@ -21,3 +21,4 @@
 
 | Date | From | What they said (short) | Why |
 | --- | --- | --- | --- |
+| 2026-11-13 | Yumiko (Mum), with Chiyo in the background | "Your father says you're doing a radio show... it's a podcast... what's a podcast... it's radio. Who is this Scott?"; Chiyo asks whether the cinema friend paid for his own ticket (yes; she approves of his manners) | Everyday life: her family hearing about the show |

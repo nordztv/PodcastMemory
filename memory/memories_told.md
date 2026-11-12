@@ -8,4 +8,6 @@
 
 | Date | Memory | Source (chapter or page, section) | Linked to |
 | --- | --- | --- | --- |
+| 2026-11-13 | Fumiko's yokai under the kotatsu (mothballs "like a ghost's wardrobe", her hand drawn down her face before the scary part), kept brief | 02_1994-1996, "Under the kotatsu: Fumiko's yokai" | Japan (Toriyama Sekien) |
+| 2026-11-13 | (brief mention) Ringu at Saki's sleepover at twelve, cushion to her nose, didn't scream; TV faces away from her bed | 05_2002-2005, "Ringu at Saki's" | Effects (Ringu) |
 | 2026-11-12 | Watching Daisuke play Ocarina of Time at Fumiko's, not allowed to touch the controller | 03_1996-1999, "The audience, again" | Games |

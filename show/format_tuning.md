@@ -15,12 +15,17 @@ Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-o
 - Chat: built around his answers and her life; Yokai of the Week or a Pokémon moment on Wednesdays. Reason: chat scores rose when built on his answers (22, 28 Oct); his 11 Nov review.
 - Retro gaming projects (decomps, emulators, fan translations) get a regular mention in games. Reason: his 23 Oct note.
 - Cameras and lenses noted in movies where reliable sources say so, tied to his ZR lens search; never mention the X-M5. Reason: his 10 Nov message.
+- Her past in passing: a short line ("my brother and I used to fight about it"), not the full story, unless the detail adds to the topic; leave room for him to ask. Reason: his 12 Nov note.
+- Segues: every part drifts from the last on a link (a word, an idea, her day). Reason: his 12 Nov note.
+- Walk home: about 350 to 450 words, her shift in a few lively lines plus the afternoon weather. Reason: walk-home score 3 on 12 Nov.
+- Stories he cares about but disliked hearing (US politics drama, assault stories): told briefly and gently. Reason: 12 Nov feel/care taps.
 - Travel: when Scott says he's away, the weather, walk and weekend ideas follow his location until he's back. Reason: his 6 Nov message.
 
 ## Change log
 
 | Week ending | Change | Reason |
 | --- | --- | --- |
+| 2026-11-13 | Past references short; smoother segues; walk home shorter; disliked-but-cared stories brief and gentle | His 12 Nov note; walk home 3; feel taps on Hegseth and Concord |
 | 2026-11-11 | Bible rewritten for Mizuki from Scott's review: phone call in two halves (morning and walk home), 06_japan and 07_walkhome replace lore and game tech, no quick hits, no sheet, two-tap story ratings, top 50 topics, Actress of the Week, easy one-task challenge she does too; tuning list reset | Scott's keep-or-remove review and notes, 11 Nov |
 | 2026-11-10 | Nikon ZR replaces the X-M5; films' cameras and lenses noted in movies | Scott's message, 10 Nov |
 | 2026-11-10 | Game project thread removed; lore, game tech and workshop back to their earlier formats; radish build-along paused | Scott's request, 10 Nov |
