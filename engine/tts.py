@@ -104,9 +104,17 @@ MOODS = {
     # whispered secrets: af_nicole is Kokoro's breathiest voice; quieter, slower, longer gaps (not a true whisper)
     "whisper": dict(voice="af_heart:0.115+af_nicole:0.36+jf_alpha:0.525", speed=0.84, pitch=1.0075, gain=0.696, gap=0.45),
 }
+# Trial delivery changes (13 Nov 2026), only when MB_VOICE=next is set, so Scott can compare by ear first:
+# a "tender" tone for soft, gentle lines (they used to share the news voice), a smile on the sentence after a laugh
+# cue, small natural variation in pace and pauses, and her daily energy (MB_ENERGY=1..10) nudging pace and volume.
+NEXT = os.environ.get("MB_VOICE") == "next"
+ENERGY = float(os.environ.get("MB_ENERGY", "6")) if NEXT else 6.0
+if NEXT:
+    MOODS["tender"] = dict(voice="af_heart:0.26+af_bella:0.07+af_nicole:0.145+jf_alpha:0.525", speed=0.89, pitch=1.01, gain=0.87, gap=0.32)
+SMILE = dict(tempo=1.035, pitch=1.006, happy=0.4)   # the sentence after a laugh cue
 MOOD_NAMES = "|".join(MOODS)
 PAUSES = {"beat": 0.6, "shortbeat": 0.35, "longbeat": 1.2, "pause": 0.4, "shortpause": 0.25,
-          "laughgap": 0.25, "sighgap": 0.35}   # the last two stand in for sounds Kokoro can't make
+          "laughgap": 0.25, "sighgap": 0.35, "smile": 0.25}   # the last two stand in for sounds Kokoro can't make
 PUNCH_SLOW, PUNCH_GAIN, PARA_GAP = 0.92, 1.12, 0.55
 MAX_PH = 400        # phonemes per Kokoro call (the model's hard limit is 510)
 # Transitions: each chunk moves this far from the current tone towards the new one (1.0 = instant).
@@ -118,7 +126,8 @@ FILLER = re.compile(r"^(ha+|ha ha|mm+|hmm*|hmph|heh)[.!,]*$", re.I)
 
 # Scripts use free-form delivery tags ([excited], [teasing tone], [giggling while talking]...). Kokoro only knows the
 # moods above, so each tag maps to the nearest one (first match wins); laughs and sighs become short pauses.
-KOKORO_MAP = [
+KOKORO_MAP = ([(r"^(soft|gentle|tender)( tone)?$|^soft, gentle$|empath|sympath|compassion|moved|shy", "[tender]"),
+               (r"laugh|chuckl|giggl|snicker", "[smile]")] if NEXT else []) + [
     (r"short beat", "[shortbeat]"), (r"long beat", "[longbeat]"), (r"short pause", "[shortpause]"),
     (r"^pause$|^break$", "[pause]"), (r"beat", "[beat]"),
     (r"punch", "[punch]"),
@@ -147,7 +156,10 @@ def kokoro_tags(text):
         return ""
     text = re.sub(r"\[([^\[\]{}]{1,60})\]", one, text)
     moods = r"\[(?:" + MOOD_NAMES + r")\]"
-    return re.sub(r"(" + moods + r")(\s*" + moods + r")+", r"\1", text)   # stacked moods: the first one wins
+    def stack(m):   # stacked moods: the first one wins, except that a warm tag followed by a soft one is tender
+        tags = re.findall(moods, m.group(0))
+        return "[tender]" if NEXT and tags[0].lower() == "[happy]" and "[tender]" in [t.lower() for t in tags] else tags[0]
+    return re.sub(r"(" + moods + r")(\s*" + moods + r")+", stack, text)
 
 
 def sentences(text):
@@ -160,13 +172,14 @@ def sentences(text):
     for pat, say in PRONOUNCE.items():
         text = re.sub(pat, say, text, flags=re.I)
     for para in [p.strip() for p in text.split("\n") if p.strip()]:
-        mood, punch = "normal", False
+        mood, punch, smile = "normal", False, False
         for part in TAG.split(para):
             low = part.lower()
             if low in MOODS:
                 mood = low
             elif low in PAUSES:
                 yield "pause", PAUSES[low], mood, False
+                smile = low == "smile"
             elif low == "punch":
                 punch = True
             else:
@@ -174,8 +187,8 @@ def sentences(text):
                     if s.strip() and not FILLER.match(s.strip()):
                         if punch:
                             yield "pause", PAUSES["beat"], mood, False
-                        yield "say", s, mood, punch
-                        punch = False
+                        yield "say", s, mood + ("+smile" if smile else ""), punch
+                        punch, smile = False, False
         yield "para", PARA_GAP, "normal", False
 
 
@@ -227,7 +240,11 @@ def main():
     weights = {m: float(m == "normal") for m in MOODS}   # how much of each tone is in her voice right now
     mix = lambda key, default=None: sum(w * (MOODS[m][key] or default) for m, w in weights.items())
     chunks, spans, pos = [], [], 0   # spans: where each spoken chunk sits, with its mood (for engine/music.py)
-    for kind, ph, mood, punch in chunks_of(sentences(open(src).read())):
+    import random, zlib
+    text = open(src).read()
+    rng = random.Random(zlib.crc32(text.encode()))   # the same script always renders the same way
+    for kind, ph, mood, punch in chunks_of(sentences(text)):
+        mood, _, smiling = mood.partition("+")
         if kind != "say":
             chunks.append(np.zeros(int(SR * ph), np.float32))
             pos += len(chunks[-1])
@@ -235,8 +252,16 @@ def main():
         weights = {m: w + ((m == mood) - w) * EASE for m, w in weights.items()}
         pitch, gain, gap = mix("pitch"), mix("gain"), mix("gap")
         tempo = mix("speed", speed) * (PUNCH_SLOW if punch else 1)
+        w_style = dict(weights)
+        if NEXT:
+            tempo *= rng.uniform(0.975, 1.03) * (1 + (ENERGY - 6) * 0.009)
+            gain *= 1 + (ENERGY - 6) * 0.012
+            gap *= rng.uniform(0.8, 1.35) * (1 - (ENERGY - 6) * 0.03)
+            if smiling:
+                tempo, pitch = tempo * SMILE["tempo"], pitch * SMILE["pitch"]
+                w_style = {m: w * (1 - SMILE["happy"]) + (m == "happy") * SMILE["happy"] for m, w in weights.items()}
         ids = [VOCAB[c] for c in ph][:510]
-        style = sum(w * styles[m][len(ids) - 1] for m, w in weights.items() if w > 1e-3)
+        style = sum(w * styles[m][len(ids) - 1] for m, w in w_style.items() if w > 1e-3)
         audio = sess.run(None, {tok_name: np.array([[0, *ids, 0]], np.int64),
                                 "style": style.astype(np.float32),
                                 "speed": np.array([tempo / pitch], np.float32)})[0].ravel()
