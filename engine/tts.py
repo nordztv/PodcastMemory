@@ -44,7 +44,7 @@ def say_capitals(text):
     return re.sub(r"\b([A-Z]{2,6})('?s)?\b", lambda m: spell(m.group(1), m.group(2)), text)
 SR = 24000
 PUNCT = ",.!?;:—…"
-SHOW_VOICE = "af_bella:0.161+af_heart:0.129+af_nicole:0.11+jf_alpha:0.6"  # Mizuki: option C (brighter, pitch +1.5%), 60% Japanese (jf_alpha), softer with more af_nicole; Scott 11 Nov 2026
+SHOW_VOICE = "jf_alpha:0.525+af_heart:0.24+af_nicole:0.155+af_bella:0.08"  # Mizuki: halfway between option C and "Pyrmont Night" (warmer, a little lower, pitch +0.75%), 52.5% Japanese; Scott 12 Nov 2026
 SHOW_SPEED = 0.92
 
 
@@ -96,13 +96,13 @@ def phonemize_text(sentence):
 # within 2% (it's done by resampling, which changes the character of the voice if pushed further).
 #   voice blend, speed (tempo), pitch (x1.0 = unchanged), gain, pause after each chunk (s)
 MOODS = {
-    "normal":  dict(voice=None, speed=None, pitch=1.015, gain=0.912, gap=0.22),
-    "happy":   dict(voice="af_heart:0.129+af_bella:0.161+af_nicole:0.11+jf_alpha:0.6", speed=0.97, pitch=1.02, gain=0.959, gap=0.18),
-    "cheeky":  dict(voice="af_heart:0.161+af_bella:0.129+af_nicole:0.11+jf_alpha:0.6", speed=0.90, pitch=1.02, gain=0.94, gap=0.30),
-    "serious": dict(voice="af_heart:0.226+af_nicole:0.174+jf_alpha:0.6", speed=0.88, pitch=1.005, gain=0.893, gap=0.28),
-    "dark":    dict(voice="af_heart:0.145+af_nicole:0.255+jf_alpha:0.6", speed=0.83, pitch=1.015, gain=0.827, gap=0.40),
+    "normal":  dict(voice=None, speed=None, pitch=1.0075, gain=0.912, gap=0.22),
+    "happy":   dict(voice="af_heart:0.153+af_bella:0.191+af_nicole:0.131+jf_alpha:0.525", speed=0.97, pitch=1.0125, gain=0.959, gap=0.18),
+    "cheeky":  dict(voice="af_heart:0.191+af_bella:0.153+af_nicole:0.131+jf_alpha:0.525", speed=0.90, pitch=1.0125, gain=0.94, gap=0.30),
+    "serious": dict(voice="af_heart:0.268+af_nicole:0.207+jf_alpha:0.525", speed=0.88, pitch=0.9975, gain=0.893, gap=0.28),
+    "dark":    dict(voice="af_heart:0.172+af_nicole:0.303+jf_alpha:0.525", speed=0.83, pitch=1.0075, gain=0.827, gap=0.40),
     # whispered secrets: af_nicole is Kokoro's breathiest voice; quieter, slower, longer gaps (not a true whisper)
-    "whisper": dict(voice="af_heart:0.097+af_nicole:0.303+jf_alpha:0.6", speed=0.84, pitch=1.015, gain=0.696, gap=0.45),
+    "whisper": dict(voice="af_heart:0.115+af_nicole:0.36+jf_alpha:0.525", speed=0.84, pitch=1.0075, gain=0.696, gap=0.45),
 }
 MOOD_NAMES = "|".join(MOODS)
 PAUSES = {"beat": 0.6, "shortbeat": 0.35, "longbeat": 1.2, "pause": 0.4, "shortpause": 0.25,

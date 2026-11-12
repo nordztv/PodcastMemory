@@ -35,7 +35,7 @@ One host, Mizuki, talking to Scott like a close friend on the phone. Who she is 
 
 ## 3. Writing for the voice
 
-The voice is Kokoro, fixed in `engine/tts.py` (Mizuki's blend: 40% bright, breathy English voices and 60% Japanese, slightly higher and softer; speed 0.92). Japanese words are spoken from Japanese phonemes listed in `show/pronunciations.json`.
+The voice is Kokoro, fixed in `engine/tts.py` (Mizuki's blend: halfway between the 11 Nov blend and the "Pyrmont Night" sample, about 47.5% warm, breathy English voices and 52.5% Japanese, a touch warmer and lower; speed 0.92; Scott's choice, 12 Nov 2026). Japanese words are spoken from Japanese phonemes listed in `show/pronunciations.json`.
 
 - Plain spoken text only: no markdown, headings, bullets, URLs or emojis. Australian/British spelling.
 - Numbers and symbols as they're said ("forty six point seven billion dollars", "twenty per cent", "a top of twenty four degrees").
