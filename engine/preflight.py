@@ -65,7 +65,8 @@ def main():
         print("- FIRST WEEKDAY OF THE MONTH: morning run: monthly rollover, opportunity roll, a new modest goal. She might check in on him in a bigger way this week.")
     print("- What's on her mind is up to her day: her life, him, the things they both love, the news only if it's worth talking about.")
     things = []
-    for f, label in (("retro_games.md", "the retro game she wants him to play"), ("actress_of_the_week.md", "the actress she's into")):
+    print("- Her games: " + run("engine/games.py", "roll", d.isoformat()).replace("\n", "\n  "))
+    for f, label in (("actress_of_the_week.md", "the actress she's into"),):
         r = [x for x in rows(read(f)) if re.match(r"\d{4}-", x[0])]
         if r:
             things.append(f"{label}: {r[0][1]}" + (f" ({r[0][2]})" if len(r[0]) > 2 and f.startswith("actress") else ""))

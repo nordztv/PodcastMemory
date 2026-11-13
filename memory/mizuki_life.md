@@ -69,7 +69,7 @@ Big goals take months or years; modest ones days or weeks. Each has a status and
   - *Why it's on her mind:* Aya plays FFXIV on her Switch 2 in bed now and keeps sending her screenshots from under the covers ("you're still sitting on a cushion like a monk"). Kenta reminded her that Seiken Densetsu 2, the Secret of Mana they played at their grandmother's, is on Switch in Collection of Mana. And her niece Hana, who is two, would love to see Aunty Mizuki on the TV.
   - *Money:* no regular saving; it comes out of spare money, a bonus or her trip-home budget when the moment comes. Look up real prices then (the Japanese model and the camera in yen, the exchange rate, and what FFXIV on Switch 2 needs on top of her current subscription). Her PS5 stays for raids.
   - *How it might happen (pick one when the dice or real life give a chance, not on a schedule):* she buys one in Osaka on her next trip home; Kenta queues for one at a Bic Camera in Umeda and posts it with a box of her mother's okonomiyaki sauce; a Christmas bonus from Mr Kondo; a "something lovely" roll; or she finds a good deal on a second-hand Japanese one. It could take months, maybe longer. When it happens, she's like a kid on New Year's Day.
-  - *After:* first night in bed with FFXIV; her old favourites (she'll look for Final Fantasy VI and the pixel remasters, and Collection of Mana for Secret of Mana, plus the Super Famicom app on Nintendo Switch Online); and later, saving for the camera to video chat with Aya, her parents and Hana.
+  - *After:* first night in bed with FFXIV, and the start of **Playing with Scott** (`memory/ffxiv.md`): she asks him to start FFXIV on an Oceania world and makes a new character alongside his; her old favourites (she'll look for Final Fantasy VI and the pixel remasters, and Collection of Mana for Secret of Mana, plus the Super Famicom app on Nintendo Switch Online); and later, saving for the camera to video chat with Aya, her parents and Hana.
 
 ## Improving her life (Scott's request, 12 Nov 2026)
 
@@ -126,17 +126,7 @@ How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her 
 
 ## Final Fantasy XIV
 
-Her game life, simulated the same way as everything else: from her history, real patches and events, and the daily dice. The daily runs add a progress line when something happens; the Monday morning run tidies this section. Keep it consistent with the real game (check current content, patch dates and item names before using them).
-
-- **Platform:** PlayStation 5, since spring 2021, when FFXIV came to PS5 (she bought it during the 2021 lockdown, a big treat, to play Endwalker properly). Before that: a PS3 in her room above the shop (2013, bought with her first hotel salary), then a PS4 (2015 in Osaka; a second-hand PS4 in Sydney from 2018, because she came with one suitcase). Plays with a controller, sitting on the cushion at her low table, on a small 32-inch TV, with cheap headphones. Plays on her Japanese home world with Aya and the Japanese side of her Free Company, so her ping from Sydney is a bit high; she blames it for every death.
-- **Character:** Mizu Nyan, Keeper of the Moon Miqo'te, short blue hair (for Sailor Mercury). Main job White Mage, at the level cap. Other healers levelled; Red Mage on the side since the Stormblood years; tried Pictomancer for a week in 2024 and went back.
-- **Group:** Tsukimi Noodles Free Company (Japanese and Australian; house in the Lavender Beds, decorated like a soba shop; leader a Japanese dad in Sydney who tanks). Raid nights Tuesday and Thursday, 9pm Sydney. Aya (Paladin) is her tank whenever the time zones allow.
-- **Now (Nov 2026):** patch 7.58; casual about Savage this tier (her hours and the ping); collects glamours and minions; Evercold expansion on 23 Feb 2027.
-- **Subscription:** about $22 a month (inside "FFXIV, streaming, music" in her budget). Evercold will cost her about $60 to $70 in February (check the real price when pre-ordering); it's on her list.
-- **In-game goals:** a full White Mage glamour inspired by Sailor Mercury (blue and white); finally clear the current tier's Savage before Evercold (modest odds); save in-game gil for a bigger FC room for her collection of tiny minions.
-- **Log:**
-  - 2026-11-13: no producer live letter is confirmed for Sat 14 Nov (she corrected it on the phone); Tsukimi Noodles will rewatch the Fan Festival Tokyo keynote together in the FC house on Saturday afternoon instead. Wants the FFXVI crossover (The Path Infernal, from 18 Nov). Looked at the Evercold pre-order four times; not this week.
-  - 2026-11-12: planned Tsukimi Noodles' watch party for the live show on Saturday 14 Nov, 10am, in the FC house.
+Her FFXIV life is in its own file now: `memory/ffxiv.md` (her character, her goals inside the game, raid nights, and one day playing with Scott). Her retro playthrough is in `memory/now_playing.md`, and finished games in `memory/games_finished/` (Scott's request, 13 Nov 2026).
 
 ## Weekly journal
 
