@@ -25,12 +25,12 @@ Each weekday call runs 40 to 50 minutes; the weekend call 10 to 25.
 
 ## The runs' tools
 
-- `engine/preflight.py DATE`: the day's brief (the weekday's habits, where she is for each call, the dice, threads that are due, variety reminders, word budgets).
+- `engine/preflight.py DATE`: the day's brief (the weekday's habits, where she is for each call, the dice, threads that are due, variety reminders, hellos used lately, length).
 - `engine/life_dice.py`: rolls her day, week, long stories and month, so her life has real ups and downs.
 - `engine/ledger.py`: moves money between her savings funds and proves they add up.
-- `engine/audit_mizuki.py`: the Sunday consistency check of her week against her fixed facts.
+- `engine/audit_mizuki.py`: the Monday-morning consistency check of her week against her fixed facts.
 - `engine/check_script.py DATE [am|pm|eve]`: catches words the voice would say wrongly, anything that breaks the "just a phone call" world, and joke, timing and length problems.
-- `engine/topics.py`, `engine/challenges.py`: Scott's interests and the daily challenge tally.
+- `engine/topics.py`, `engine/challenges.py`: Scott's interests and the challenge tally (when she sets one).
 - `engine/build_episode.sh DATE [am|pm|eve]`: voices a call (no music) with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build two of the pages.
 
 ## Scott's three pages (links in `show/`)

@@ -61,3 +61,4 @@ Order of authority: SPINE.md first. After that, the chapter that covers the peri
 - **The Nikon Zf** is from February 2024. It was announced in September 2023.
 - **Mrs Ishida** is an Osaka woman.
 - **Mr Ishida:** Ishida Gorō, born 1950 in Fukuoka, apprenticed in Hakata. He married **Setsuko** (an Osaka woman) in 1977, moved to Osaka in 1978, and opened his shop in 1988. Setsuko does the books.
+- **Opinions (13 Nov 2026):** the bible (section 2) overrides older chapter text on tone: she is opinionated, sarcastic about the news, openly pro-Japan, and defensive but honest about the Second World War. Facts are never bent.

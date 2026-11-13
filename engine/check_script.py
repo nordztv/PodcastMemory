@@ -1,4 +1,4 @@
-"""Pre-recording check of an day's script: words the voice engine could say the wrong way, and name overuse.
+"""Pre-recording check of a day's script: words the voice engine could say the wrong way, and name overuse.
 
 Usage: python3 engine/check_script.py YYYY-MM-DD am|pm|eve   (the call to check: the files am_*, pm_* or eve_* in
        the day's script folder; with no call it checks every file)
@@ -30,8 +30,8 @@ DEFAULTS = {  # what the engine says when nothing settles it
 WORDS = re.compile(r"\b(" + "|".join(k for k in DEFAULTS if k.isalpha()) + r")\b", re.I)
 
 
-# Most words she can say before the call outlasts his walk (about 135 words a minute; bible section 5, Length).
-LENGTH = {"am": (5000, 7000), "pm": (5000, 7000), "eve": (1200, 3600)}   # words: 40 to 50 minutes a weekday call (Scott, 13 Nov 2026)
+# At about 135 words a minute (bible section 5, Length).
+LENGTH = {"am": (5200, 6900), "pm": (5200, 6900), "eve": (1300, 3500)}   # words: a weekday call is 40 to 50 minutes, a weekend call 10 to 25 (Scott, 13 Nov 2026)
 NEVER = [(r"\b((this|my|our|the|a) podcast|(this|today's|yesterday's|tomorrow's|last|next|the|an) episode|the show|my show|our show|"
           r"this show|(this|next|last) segment|(my|dear) listeners?|on air|tune in|tuning in|Morning Briefing|"
           r"answer page|show notes|weekly review|your (scores?|ratings?)|microphone|I'm recording|I record(ed)? this|after I record)\b",
@@ -146,7 +146,7 @@ def main():
                 print(f"{os.path.basename(f)}: \"{w}\" -> {DEFAULTS[w]}\n    {sent.strip()[:200]}")
     issues = realism(ep, [f for f in files if "/script/" in f], d)
     print(f"{issues} thing(s) to FIX." if issues else "Nothing that must be fixed.")
-    print(f"\n{flagged} word(s) to check. \"Scott\" used {scott} times across the day's calls "
+    print(f"\n{flagged} word(s) to check. \"Scott\" used {scott} times in this call "
           f"(where it really lands; a handful a day at most).")
 
 

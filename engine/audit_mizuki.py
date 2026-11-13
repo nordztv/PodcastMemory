@@ -1,4 +1,4 @@
-"""Weekly consistency audit of Mizuki's life (Sunday runs; Scott's choice, 13 Nov 2026).
+"""Weekly consistency audit of Mizuki's life (Monday morning runs, for the week ending SUNDAY_DATE = yesterday; Scott's choice, 13 Nov 2026).
 
 Usage: python3 engine/audit_mizuki.py SUNDAY_DATE
 More than fifteen files about her change every night, so small contradictions creep in. This checks the things a

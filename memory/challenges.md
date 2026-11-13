@@ -1,6 +1,6 @@
 # Daily challenges
 
-One fitness challenge per day (bible section 8). Scott taps Done on his page (to her, he texted "done"), or says so in a chat or the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`.
+Fitness challenges, only when one comes up (bible section 8). Scott taps Done on his page (to her, he texted "done"), or says so in a chat or the inbox; he can also edit Done here (Yes or No). Completion rate = done / challenges set before today, with "Not yet" counted as not done. Use `engine/challenges.py`.
 
 | Date | Challenge | Done |
 | --- | --- | --- |

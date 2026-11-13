@@ -147,4 +147,4 @@ Newest first. Each Sunday: what she did this week (from the days of calls and he
 
 ### Week ending 15 Nov 2026
 
-(To be written by the Monday morning run on 15 Nov.)
+(To be written by the Monday morning run on Mon 16 Nov.)

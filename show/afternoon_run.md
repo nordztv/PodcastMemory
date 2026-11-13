@@ -10,7 +10,7 @@ Let `DATE` = **today's** Sydney date, `REPO` = the clone, `EP` = `REPO/archive/Y
 
 - If `EP/delivered_pm.txt` or `EP/delivered.txt` exists: stop, silently.
 - If it's Saturday or Sunday: stop, silently (weekends have their own run).
-- If there are no `EP/script/am_*` files (no morning call was made today): still make the afternoon call. Roll her day yourself (`show/daily_run.md` step 2c), and have her say in a line that this morning got away from her.
+- If there are no `EP/script/am_*` files (no morning call was made today): still make the afternoon call. On a Monday, if `memory/mizuki_life.md` has no "Week ending" entry for yesterday, do `show/daily_run.md` step 2b first. Roll her day yourself (`show/daily_run.md` step 2c), and have her say in a line that this morning got away from her.
 
 ## 1. Set up
 
@@ -18,7 +18,7 @@ Let `DATE` = **today's** Sydney date, `REPO` = the clone, `EP` = `REPO/archive/Y
 
 ## 2. Read
 
-In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the morning run planned it: follow it, add to it, never contradict it), **this morning's call** `EP/script/am_*` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/calls_memory.md`, `memory/recent_calls.md`, and the afternoon calls (`pm_*`, or `07` to `11` before 16 Nov) of the last 5 days, plus any weekend calls among them (the calls of 12 and 13 Nov 2026 were made under older rules: avoid repeating their stories, never copy their framing). Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
+In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the morning run planned it: follow it, add to it, never contradict it), **this morning's call** `EP/script/am_*` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/scott_private.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/calls_memory.md`, `memory/recent_calls.md`, and the afternoon calls (`pm_*`, or `07` to `11` before 16 Nov) of the last 5 days, plus any weekend calls among them (the calls of 12 and 13 Nov 2026 were made under older rules: avoid repeating their stories, never copy their framing). Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
 
 ## 3. What Scott sent today
 

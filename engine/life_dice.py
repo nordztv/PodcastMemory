@@ -27,7 +27,7 @@ Month roll (d20, first run of each month; Scott's request 12 Nov 2026):
                  1-3 = a door closes (a job she wanted goes to someone else, a rent rise, a course is full)
                  4-13 = nothing new   14-19 = an opportunity appears (a job ad, a paid shoot, a cheaper flat, a course
                         with a discount, a market with a free stall spot)   20 = a real break
-Arc roll (d20 per active arc, Sundays; Scott's feature 9):
+Arc roll (d20 per active arc, Monday mornings for the week ending Sunday; Scott's feature 9):
                  1-2 = a setback   3-12 = no real change   13-18 = a step forward   19-20 = a big leap
 """
 import datetime, random, sys

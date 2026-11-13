@@ -71,7 +71,7 @@ def main():
             things.append(f"{label}: {r[0][1]}" + (f" ({r[0][2]})" if len(r[0]) > 2 and f.startswith("actress") else ""))
     if things:
         print("- Things she's into this week (bring up when she feels like it): " + "; ".join(things))
-    if wd < 5:
+    if True:
         greet = []
         for back in range(1, 6):
             p_ = d - dt.timedelta(days=back)
@@ -90,7 +90,8 @@ def main():
     if wd < 5:
         print("\nTHE TWO CALLS (bible section 5; weekdays only)")
         print(f"- Morning call (about 8am {d.strftime('%A')}): she's at home in Pyrmont before work (leaves 10:10): breakfast, tea, the balcony.")
-        print(f"  What she can talk about: last night -> {EVENINGS[prev.weekday()]}")
+        last = "Sunday night, after their 7pm call (she already told him about her Sunday); her week ahead." if wd == 0 else EVENINGS[prev.weekday()]
+        print(f"  What she can talk about: last night -> {last}")
         print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
         print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
         print(f"  Tonight for her -> {EVENINGS[wd]} (she can look forward to it; she reports on it tomorrow)")

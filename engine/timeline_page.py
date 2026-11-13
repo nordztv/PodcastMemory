@@ -3,7 +3,7 @@
 Usage: python3 engine/timeline_page.py [OUT.html]   (default: ~/podcast/out/timeline.html)
 Reads memory/mizuki_timeline.md, memory/mizuki_life.md (savings and energy), memory/mizuki_arcs.md,
 memory/photo_log.md and memory/people_timelines.md. The daily run publishes it to the URL in show/timeline_url.txt
-(Sunday runs always; other runs when something changed). Like shownotes.py, the page has no doctype/head/body of its
+(Monday morning runs always; other runs when something changed). Like shownotes.py, the page has no doctype/head/body of its
 own: the Artifact tool adds that skeleton when it publishes.
 """
 import html, os, re, sys

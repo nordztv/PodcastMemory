@@ -3,7 +3,7 @@
 # or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD] [am|pm|eve|quick]
 # Voices one of Mizuki's calls in her Kokoro voice (the same engine the cloud uses), with chapter markers, from the
 # script the cloud run saved to GitHub:  am = the morning call (written at about 3am),
-# pm = the walk-home call (written about 2pm that day), eve = the weekend's 7pm call.
+# pm = the walk-home call (written about 12:45pm that day), eve = the weekend's 7pm call.
 # No arguments: it picks the call that is due next by Sydney time (see below). "quick": the first part only.
 # Saves the MP3 to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
 set -e
