@@ -2,7 +2,7 @@
 # Mac recorder, started by hand: double-click the Record shortcut on the Desktop,
 # or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD] [am|pm|eve|quick]
 # Voices one of Mizuki's calls in her Kokoro voice (the same engine the cloud uses), with chapter markers, from the
-# script the cloud run saved to GitHub:  am = the morning call (written the evening before),
+# script the cloud run saved to GitHub:  am = the morning call (written at about 3am),
 # pm = the walk-home call (written about 2pm that day), eve = the weekend's 7pm call.
 # No arguments: it picks the call that is due next by Sydney time (see below). "quick": the first part only.
 # Saves the MP3 to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
@@ -17,10 +17,10 @@ if [ -z "$DATE" ]; then
   PICK=""
   if [ "$DOW" = 6 ]; then DATE="$TODAY"; PICK=eve                      # Saturday: tonight's 7pm call
   elif [ "$DOW" = 7 ] && [ "$H" -lt 20 ]; then DATE="$TODAY"; PICK=eve  # Sunday before 8pm: tonight's call
-  elif [ "$DOW" = 7 ]; then DATE="$TOMORROW"; PICK=am                   # Sunday night: Monday morning's call
+  elif [ "$DOW" = 7 ]; then DATE="$TOMORROW"; PICK=am                   # Sunday night: Monday morning's call (written about 3am)
   elif [ "$H" -lt 12 ]; then DATE="$TODAY"; PICK=am                     # weekday morning: this morning's call
-  elif [ "$H" -lt 19 ] || [ "$DOW" = 5 ]; then DATE="$TODAY"; PICK=pm   # weekday afternoon (and Friday night): the 4pm call
-  else DATE="$TOMORROW"; PICK=am; fi                                    # weekday evening: tomorrow morning's call
+  elif [ "$H" -lt 21 ] || [ "$DOW" = 5 ]; then DATE="$TODAY"; PICK=pm   # weekday afternoon and evening: today's 4pm call
+  else DATE="$TOMORROW"; PICK=am; fi                                    # late weekday night: tomorrow's morning call (written about 3am)
   CALL="${CALL:-$PICK}"
 fi
 if [ -z "$CALL" ]; then   # a date was given without am/pm/eve: weekend dates have one call, weekdays default to the morning
@@ -70,7 +70,7 @@ echo "== $(date) waiting for the $DATE $CALL script ${MODE:+($MODE)}"
 while :; do
   git -C "$REPO" pull -q --rebase --autostash || true
   have_script && break
-  if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script for that call arrived"; exit 0; fi
+  if [ $(( $(date +%s) - STARTED )) -ge 36000 ]; then echo "no script after 10 hours, giving up"; notify "No script for that call arrived"; exit 0; fi
   sleep 120
 done
 sleep 30; git -C "$REPO" pull -q --rebase --autostash || true

@@ -6,12 +6,12 @@ Mizuki Tanaka is a fictional friend of Scott's who lives her own life in Sydney 
 
 | Run | When (Sydney) | What it does | Procedure |
 | --- | --- | --- | --- |
-| Mizuki: morning call | about 8:30pm, Sunday to Thursday | Lives her day forward, writes and voices tomorrow morning's call | `show/daily_run.md` |
-| Mizuki: afternoon call | about 1:45pm, Monday to Friday | Reads what Scott messaged that morning, checks the day's news, weather and trains, writes and voices the 4pm call | `show/afternoon_run.md` |
-| Mizuki: weekend call | about 3:45pm, Saturday and Sunday | Lives her day and prepares the one weekend call, which for her happens at 7pm and is about half a weekday's length | `show/weekend_run.md` |
-| Mizuki: safety net | about 4:50am, Monday to Friday | Makes the morning call only if the evening run failed | `show/safety_run.md` |
+| Mizuki: morning call | about 3am, Monday to Friday | Lives her night and morning, writes and voices that morning's call (and on Mondays, her week in review) | `show/daily_run.md` |
+| Mizuki: afternoon call | about 12:45pm, Monday to Friday | Reads what Scott messaged that morning, checks the day's news, weather and trains, writes and voices the 4pm call | `show/afternoon_run.md` |
+| Mizuki: weekend call | about 3:45pm, Saturday and Sunday | Lives her day and prepares the one weekend call, which for her happens at 7pm | `show/weekend_run.md` |
+| Mizuki: safety net | about 5:50am, Monday to Friday | Makes the morning call only if the 3am run failed | `show/safety_run.md` |
 
-How long she talks varies like real calls: typically 30 to 50 minutes across a weekday's two calls and 10 to 25 on a weekend evening, shorter when she's tired.
+Each weekday call runs 40 to 50 minutes; the weekend call 10 to 25.
 
 ## Where things live
 

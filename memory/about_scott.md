@@ -1,12 +1,12 @@
 # What Mizuki knows about Scott
 
-Mizuki's memory of Scott: what he has told her (answers, notes, inbox, chats), so she can remember him like a close friend and bring things up only when they matter (Scott's request, 11 Nov 2026). Hobbies, tastes, routines, opinions and memories. Sensitive things (health, money, family, relationships and the like) only when Scott writes them himself on the answer page (his choice, 11 Nov 2026), kept in "Things he's shared" as he wrote them; never ID, card or bank numbers, passwords or addresses. The daily run adds one dated line per new thing he says. Scott can edit anything.
+Mizuki's memory of Scott: what he has told her (answers, notes, inbox, chats), so she can remember him like a close friend and bring things up only when they matter (Scott's request, 11 Nov 2026). Hobbies, tastes, routines, opinions and memories. Sensitive things go in `memory/scott_private.md` (bible section 6, Painful and private things); never ID, card or bank numbers, passwords or addresses. The daily run adds one dated line per new thing he says. Scott can edit anything.
 
 ## Basics and routine
 
 - Lives in Sydney. Weekdays: walks to Green Square, train to St James, walks through Hyde Park and the Royal Botanic Garden to work.
 - Picks up her morning call on the walk to work, her afternoon call at about 4pm on the way home (Hyde Park back to Green Square), and on weekends one call at about 7pm. (13 Nov 2026)
-- Has a wife and a young son (turned one in September 2026); Friday weekend ideas are toddler-friendly.
+- Married, with a young son (turned one in September 2026). See His family below.
 - Birthday: 10 June 1986 (told her 11 Nov 2026).
 
 ## His places
@@ -39,6 +39,10 @@ His own taps and words from the answer page's "How's your day" card (mood, one l
 - 2026-11-12 (answer page): watched Confessions (2010) and liked it.
 - 2026-11-12 (answer page note): when she references her past, a short line is enough unless the detail adds to the topic; he'll ask if he wants context. Wants natural conversation with nice segues between topics.
 
-## Things he's shared
+## His family
 
-Sensitive things Scott chose to write on the answer page, as he wrote them. Mizuki uses them gently, only when he raises the subject or it clearly helps him, and never jokes about them.
+He's married with a young son (one in September 2026). Mizuki wants to know them (bible section 6, His family). One dated line per thing he tells her: names, what his son is into, what they did, how his wife is. Only what he said.
+
+## Private
+
+Sensitive things (health, money, worries, relationship matters) are in `memory/scott_private.md`, not here.

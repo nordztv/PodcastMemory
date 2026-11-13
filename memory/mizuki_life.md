@@ -1,6 +1,6 @@
 # Mizuki's life: money, goals and weekly journal
 
-Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, savings, goals and a weekly journal, kept realistic for a hospitality worker renting in inner Sydney. Every daily run reads it so what she says on the phone fits her money and plans. The **Sunday evening run** (the one making Monday's calls) updates it (`show/daily_run.md` step 2b). Prices are realistic Sydney prices in Australian dollars; when she buys or books something specific, look up the real current price first. Everything here is fiction about a fictional character. Scott can edit anything.
+Mizuki's simulated life (Scott's request, 11 Nov 2026): her wage, budget, savings, goals and a weekly journal, kept realistic for a hospitality worker renting in inner Sydney. Every daily run reads it so what she says on the phone fits her money and plans. The **Monday morning run** (the one making Monday's calls) updates it (`show/daily_run.md` step 2b). Prices are realistic Sydney prices in Australian dollars; when she buys or books something specific, look up the real current price first. Everything here is fiction about a fictional character. Scott can edit anything.
 
 ## Income
 
@@ -126,7 +126,7 @@ How tired or bright she is, from 1 (wiped out) to 10 (bouncing). It colours her 
 
 ## Final Fantasy XIV
 
-Her game life, simulated the same way as everything else: from her history, real patches and events, and the daily dice. The daily runs add a progress line when something happens; the Sunday evening run tidies this section. Keep it consistent with the real game (check current content, patch dates and item names before using them).
+Her game life, simulated the same way as everything else: from her history, real patches and events, and the daily dice. The daily runs add a progress line when something happens; the Monday morning run tidies this section. Keep it consistent with the real game (check current content, patch dates and item names before using them).
 
 - **Platform:** PlayStation 5, since spring 2021, when FFXIV came to PS5 (she bought it during the 2021 lockdown, a big treat, to play Endwalker properly). Before that: a PS3 in her room above the shop (2013, bought with her first hotel salary), then a PS4 (2015 in Osaka; a second-hand PS4 in Sydney from 2018, because she came with one suitcase). Plays with a controller, sitting on the cushion at her low table, on a small 32-inch TV, with cheap headphones. Plays on her Japanese home world with Aya and the Japanese side of her Free Company, so her ping from Sydney is a bit high; she blames it for every death.
 - **Character:** Mizu Nyan, Keeper of the Moon Miqo'te, short blue hair (for Sailor Mercury). Main job White Mage, at the level cap. Other healers levelled; Red Mage on the side since the Stormblood years; tried Pictomancer for a week in 2024 and went back.
@@ -147,4 +147,4 @@ Newest first. Each Sunday: what she did this week (from the days of calls and he
 
 ### Week ending 15 Nov 2026
 
-(To be written by the Sunday evening run on 15 Nov.)
+(To be written by the Monday morning run on 15 Nov.)

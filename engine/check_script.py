@@ -31,20 +31,18 @@ WORDS = re.compile(r"\b(" + "|".join(k for k in DEFAULTS if k.isalpha()) + r")\b
 
 
 # Most words she can say before the call outlasts his walk (about 135 words a minute; bible section 5, Length).
-MAX_WORDS = {"am": 5400, "pm": 3400, "eve": 3400}
+LENGTH = {"am": (5000, 7000), "pm": (5000, 7000), "eve": (1200, 3600)}   # words: 40 to 50 minutes a weekday call (Scott, 13 Nov 2026)
 NEVER = [(r"\b((this|my|our|the|a) podcast|(this|today's|yesterday's|tomorrow's|last|next|the|an) episode|the show|my show|our show|"
           r"this show|(this|next|last) segment|(my|dear) listeners?|on air|tune in|tuning in|Morning Briefing|"
           r"answer page|show notes|weekly review|your (scores?|ratings?)|microphone|I'm recording|I record(ed)? this|after I record)\b",
           "she is on the phone with a friend: this is a word from the workshop, not from her world (bible section 0)"),
-         (r"\bX-?M5\b", "the X-M5 is never mentioned"), (r"\byour wife\b", "never mention his wife"),
          (r"\b(Ha|Mm+|Hmph|Heh)\.", "Kokoro drops or misreads this sound"),
          (r"\banswer sheet\b", "there is no answer sheet any more"),
          (r"\b(that's the show|quick hits|lore time|in today's episode|welcome back to)\b", "segment announcement"),
-         (r"\[(ominous|eerie|low voice|screaming|shouting|singing|moaning)", "banned delivery tag"),
-         (r"\bI love you\b|\bour date\b", "sounds like a romance")]
+         (r"\b(our date|when we (finally )?meet|meet up (one day|soon|this weekend)|leave (her|your wife)|run away together)\b",
+          "she respects his marriage: no plans to meet, nothing that pulls him from his family (bible section 2)")]
 MORNING_ONLY = [(r"\bjust (got|came) home from (the shop|work)\b", "morning call: she hasn't been to work yet"),
-                (r"\bmy shift today (was|went)\b|\bthe lunch rush today\b", "morning call: today's shift hasn't happened"),
-                (r"\bthis morning's news\b|\boverni?ght,? (the|a|an) \w+ (said|announced)", "she only knows news up to the evening before")]
+                (r"\bmy shift today (was|went)\b|\bthe lunch rush today\b", "morning call: today's shift hasn't happened")]
 AFTERNOON_ONLY = [(r"\b(last night's|tonight's) raid (was|went)\b.*\btonight\b", "afternoon call: tonight hasn't happened yet")]
 REACT = re.compile(r"\[[^\]]*(?:giggl|laugh|chuckl)[^\]]*\]\s*([^.!?\[]{1,60}[.!?])", re.I)
 
@@ -83,10 +81,6 @@ def realism(ep, files, d):
             for m in re.finditer(pat, raw, re.I):
                 issues += 1
                 print(f"FIX   {name}: \"{m.group(0)}\" ({why})")
-        if not (call == "pm" and datetime.date.fromisoformat(d).weekday() == 4):
-            for m in re.finditer(r"\byour (son|little one|boy)\b", raw, re.I):
-                issues += 1
-                print(f"FIX   {name}: \"{m.group(0)}\" (his son is only mentioned in Friday's weekend talk)")
         jokes[call] = jokes.get(call, 0) + len(re.findall(r"\[punch\]", raw, re.I))
         laughs[call] = laughs.get(call, 0) + len(re.findall(r"\[[^\]]*(?:giggl|laugh|chuckl)[^\]]*\]", raw, re.I))
         tags[call] = tags.get(call, 0) + len(re.findall(r"\[[^\]]+\]", raw))
@@ -97,8 +91,9 @@ def realism(ep, files, d):
         mins = n / 135
         print(f"{call}: {n:,} words, about {mins:.0f} minutes. Jokes with a [punch]: {jokes[call]}. Laugh cues: {laughs[call]}. "
               f"Voice cues: {tags[call]} (one every {n // max(1, tags[call])} words).")
-        if n > MAX_WORDS[call]:
-            print(f"CHECK {call}: longer than his walk allows (about {MAX_WORDS[call]:,} words at most). Cut, unless she really got carried away for a reason.")
+        lo, hi = LENGTH[call]
+        if not lo <= n <= hi:
+            print(f"CHECK {call}: {n:,} words is outside the usual {lo:,} to {hi:,} (bible section 5, Length).")
         if tags[call] and n / tags[call] < 35:
             print(f"CHECK {call}: a voice cue every {n // tags[call]} words is heavy. Write the speech first and tag only real mood changes (bible section 3).")
         if jokes[call] > 10 or laughs[call] > 8:

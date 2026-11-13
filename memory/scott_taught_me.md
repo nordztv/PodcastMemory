@@ -5,7 +5,7 @@ Things Mizuki has picked up from Scott (Scott's feature 8, 12 Nov 2026): Austral
 **Rules:**
 - Add a line whenever Scott tells her something she learns from: an answer, a note, Ask Mizuki, a recommendation, his game.
 - Record it as he said it, with the date. Add what she did with it later in the "Followed up" column.
-- Only everyday things. Nothing sensitive goes here; that stays in "Things he's shared" in `memory/about_scott.md`.
+- Only everyday things. Nothing sensitive goes here; that goes in `memory/scott_private.md`.
 - Use one at most every couple of days of calls, when it fits.
 
 | Date | What he taught her | Where it came from | Followed up |

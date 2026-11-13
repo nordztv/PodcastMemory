@@ -57,12 +57,12 @@ def main():
         print("- Monday: she spoke to him on Sunday evening, so there's no weekend to retell; news since then if any.")
     if wd == 4:
         print("- Friday: the 4pm call usually drifts into weekend talk (her plans, his, maybe an idea or two for him); the weekly review is behind the scenes.")
-    # The first WEEKDAY of a month (weekend calls don't count): the evening run does the rollover.
+    # The first WEEKDAY of a month (weekend calls don't count): the 3am morning run does the rollover.
     first = d.replace(day=1)
     while first.weekday() >= 5:
         first += dt.timedelta(days=1)
     if d == first:
-        print("- FIRST WEEKDAY OF THE MONTH: evening run: monthly rollover, opportunity roll, a new modest goal. She might check in on him in a bigger way this week.")
+        print("- FIRST WEEKDAY OF THE MONTH: morning run: monthly rollover, opportunity roll, a new modest goal. She might check in on him in a bigger way this week.")
     print("- What's on her mind is up to her day: her life, him, the things they both love, the news only if it's worth talking about.")
     things = []
     for f, label in (("retro_games.md", "the retro game she wants him to play"), ("actress_of_the_week.md", "the actress she's into")):
@@ -94,7 +94,7 @@ def main():
         print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
         print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
         print(f"  Tonight for her -> {EVENINGS[wd]} (she can look forward to it; she reports on it tomorrow)")
-        print("- Morning call: she only knows news up to the evening before ('last night', 'before bed'). Afternoon call: up to lunchtime ('on my break').")
+        print("- Morning call: written at about 3am, so she knows the news up to then ('last night', 'when I woke up'). Afternoon call: up to lunchtime ('on my break').")
 
     print("\nDICE")
     dates = [d.isoformat()]   # Saturday and Sunday are rolled by their own weekend runs
@@ -157,9 +157,9 @@ def main():
         print("\nLENGTH: usually 10 to 25 minutes (about 1,400 to 3,400 words), shorter when she's tired.")
         return
     en_now = int(today_row[0][1]) if today_row else int(before[-1][1]) if before else 6
-    print("\nLENGTH (no budgets: bible section 5, Length)")
-    print(f"- Typical weekday: 30 to 50 minutes across both calls, the morning one usually longer. Morning call at most about 5,400 words (40 min), 4pm call at most about 3,400 (25 min).")
-    print(f"- Her energy is {en_now}: " + ("low, so short calls; she may just want to vent." if en_now <= 4 else "bright, so she may ramble and get carried away." if en_now >= 8 else "an ordinary day."))
+    print("\nLENGTH (bible section 5, Length)")
+    print("- Each weekday call: 40 to 50 minutes (about 5,400 to 6,700 words), the morning call and the 4pm call alike.")
+    print(f"- Her energy is {en_now}: " + ("low, so nearer 40 minutes; she says she's tired." if en_now <= 4 else "bright, so nearer 50; she rambles." if en_now >= 8 else "an ordinary day."))
 
 if __name__ == "__main__":
     main()

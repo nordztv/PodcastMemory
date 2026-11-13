@@ -1,7 +1,7 @@
 #!/bin/bash
 # Weekly game-project sync (Scott's choice, 3 Nov 2026): copies the current state of his Godot project
 # (Game-Prototype) into this repo's memory/game_project/ folder and pushes it, so the cloud run can build the
-# week's calls around his weekly task. Runs automatically every Sunday at 7:30pm (before the 8:30pm cloud run)
+# week's calls around his weekly task. Runs automatically every Sunday at 7:30pm (before Monday's 3am call)
 # once install_game_sync.sh has been run; also safe to run by hand any time:
 #   bash ~/MorningBriefing/podcastmemory/engine/mac/sync_game_project.sh
 # Settings live in ~/MorningBriefing/game_sync.conf (GAME_DIR=..., optional TASK_FILE=...).

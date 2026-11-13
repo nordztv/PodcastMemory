@@ -2,7 +2,7 @@
 
 Usage: python3 engine/audit_mizuki.py SUNDAY_DATE
 More than fifteen files about her change every night, so small contradictions creep in. This checks the things a
-machine can check, over her memory files and the last seven days of scripts, and prints CHECK lines. The Sunday evening run
+machine can check, over her memory files and the last seven days of scripts, and prints CHECK lines. The Monday morning run
 then reads each one, fixes what's really wrong (in the memory file, or with an on-the-phone correction on Monday if she
 said it to Scott), and logs the result in memory/audit_log.md. Canon order: show/mizuki/SPINE.md, RESOLUTIONS.md,
 the chapters, then people pages.

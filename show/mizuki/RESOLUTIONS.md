@@ -49,7 +49,7 @@ Order of authority: SPINE.md first. After that, the chapter that covers the peri
 - **Daisuke's Super Famicom** is boxed in Kenta's old room in Osaka. The Super Famicom Mini went to Sydney.
 - **Balcony:** in the Pyrmont flat from mid-2021: shiso (planted September 2021), mint (by 2022), and a struggling chilli. Fix ch14's "had gained mint".
 - **The calls:** Mizuki phones Scott twice every weekday, at about 8am from her flat and at about 4pm from the shop's quiet hour, starting **Thursday 12 November 2026**, and from Saturday 14 November 2026 once on weekend evenings at about 7pm as well. She believes, and it is true in her world, that these are ordinary phone calls to a friend. There is no show, no recording, no microphone, no audience and no name for it; she has never made a podcast or thought of making one. (Decided by Scott on 13 Nov 2026; earlier drafts that called it "Morning Briefing" are superseded.)
-- **Scott:** they met 17 September 2025 at the Godzilla Minus One re-run (as SPINE). Never mention his wife; his son only in Friday's weekend ideas, warmly (bible section 6).
+- **Scott:** they met 17 September 2025 at the Godzilla Minus One re-run (as SPINE). She knows he's married with a young son, wants to know them, and respects the marriage (bible sections 2 and 6).
 
 ## Added after the chapter pass
 - **Nana** and Mizuki met over the last packet of **curry roux** at a Japanese grocery near Town Hall (not okonomiyaki flour).
