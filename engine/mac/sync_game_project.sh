@@ -1,7 +1,7 @@
 #!/bin/bash
 # Weekly game-project sync (Scott's choice, 3 Nov 2026): copies the current state of his Godot project
 # (Game-Prototype) into this repo's memory/game_project/ folder and pushes it, so the cloud run can build the
-# week's episodes around his weekly task. Runs automatically every Sunday at 7:30pm (before the 8:30pm cloud run)
+# week's calls around his weekly task. Runs automatically every Sunday at 7:30pm (before the 8:30pm cloud run)
 # once install_game_sync.sh has been run; also safe to run by hand any time:
 #   bash ~/MorningBriefing/podcastmemory/engine/mac/sync_game_project.sh
 # Settings live in ~/MorningBriefing/game_sync.conf (GAME_DIR=..., optional TASK_FILE=...).
@@ -95,4 +95,4 @@ if git diff --cached --quiet; then echo "Nothing changed since the last sync."; 
 git commit -qm "Game project snapshot $(TZ=Australia/Sydney date +%F)"
 git push -q || { git pull -q --rebase && git push -q; }
 echo "Synced $(basename "$GAME_DIR") to PodcastMemory."
-notify "Game project synced for this week's episodes"
+notify "Game project synced for this week's calls"

@@ -1,11 +1,11 @@
-# Recording on the MacBook Pro (Kokoro voice)
+# Voicing Mizuki's calls on the MacBook Pro (Kokoro voice)
 
-Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Scott's choice: Fish Audio removed). The cloud run (about 8:30pm Sunday to Thursday, for the next morning's episode) writes the script and saves it to GitHub. The MacBook Pro then records it in the show's Kokoro voice (the same voice the cloud uses), and saves the audio to iCloud Drive > Mizuki.
+The cloud runs write what Mizuki says on each call and save it to GitHub, and normally voice it too. The MacBook Pro can voice any call itself in the same Kokoro voice, and saves the audio to iCloud Drive > Mizuki. Use it when a cloud run says the voice engine was blocked, or whenever you like.
 
-- There is no schedule (Scott's choice, confirmed 27 Oct 2026): run the one command below in Terminal, or double-click **Record Morning Briefing** on the Desktop. In the evening it records the next morning's episode; before noon, that day's. If the script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
-- It records the full episode with chapter markers (`engine/build_episode.sh`, the same build the cloud uses) and copies the MP3 plus the readable script into iCloud Drive > Mizuki, with a notification.
-- The voice and its moods are set in `engine/tts.py` (shared with the cloud). The scripts' delivery tags are mapped to Kokoro's six moods automatically, and same-mood sentences are rendered together in paragraph-sized chunks (2 Nov 2026), so a `git pull` gives the Mac the same improvements.
-- It keeps the Mac awake while it records, but closing the lid on battery will pause it.
+- There is no schedule: run the one command below in Terminal, or double-click **Record Mizuki Call** on the Desktop. With nothing else typed it picks the call that's due by Sydney time: on a weekday morning that morning's call, in the afternoon the 4pm walk-home call, in the evening tomorrow morning's call, and on Saturday and Sunday the 7pm call. If that call's script isn't on GitHub yet, it checks every two minutes for up to 4 hours. Leave the Terminal window open (and the Mac plugged in) until it says it's saved.
+- It voices the call with chapter markers (`engine/build_episode.sh`, the same build the cloud uses) and copies the MP3 into iCloud Drive > Mizuki, with a notification.
+- The voice, its moods and her daily energy are set in `engine/tts.py` (shared with the cloud), so a `git pull` gives the Mac the same improvements.
+- It keeps the Mac awake while it works, but closing the lid on battery will pause it.
 
 ## One-time setup
 
@@ -24,11 +24,11 @@ Set up 25 October 2026 at Scott's request; Kokoro only since 27 October 2026 (Sc
 git -C ~/MorningBriefing/podcastmemory pull -q; caffeinate -dims bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh
 ```
 
-It sets up anything missing, waits for the script if it isn't on GitHub yet, records the episode in Kokoro and saves it with the sheet to iCloud Drive > Mizuki.
+It sets up anything missing, waits for the script if it isn't on GitHub yet, voices the call that's due and saves it to iCloud Drive > Mizuki.
 
 ## Weekly game-project sync (3 Nov 2026)
 
-The show's lore, game tech and workshop follow your Game-Prototype weekly task. One-time setup (after the setup above):
+Mizuki's Friday check-in on your game follows your Game-Prototype weekly task. One-time setup (after the setup above):
 ```
 git -C ~/MorningBriefing/podcastmemory pull -q; bash ~/MorningBriefing/podcastmemory/engine/mac/install_game_sync.sh ~/path/to/Game-Prototype
 ```
@@ -36,8 +36,8 @@ Leave off the path if the folder is in your home, Documents, Developer, Projects
 
 ## Handy commands
 
-- Record a particular day: `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-10-27` (saves to iCloud)
-- Quick sample (opening section only): `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-10-27 quick`
+- A particular call: `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-11-16 am` (or `pm`, or `eve` on a weekend date; saves to iCloud)
+- Quick sample (the first part only): `bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh 2026-11-16 am quick`
 - `record_kokoro.sh` still works and does the same thing.
 - Log: `~/MorningBriefing/record.log` (when started from the Desktop)
 - Stop a recording: close its Terminal window (or press Ctrl-C).

@@ -1,6 +1,7 @@
 """Pre-recording check of an day's script: words the voice engine could say the wrong way, and name overuse.
 
-Usage: python3 engine/check_script.py YYYY-MM-DD [am|pm]
+Usage: python3 engine/check_script.py YYYY-MM-DD am|pm|eve   (always give the call: am = parts 01 to 06,
+       pm = parts 07 to 11, eve = the weekend's 7pm call; with no call it checks every file as a weekday)
 For every word that's spelled the same but said two ways (live, read, close...) and that show/heteronyms.json didn't
 already settle from context, prints the sentence and what the engine will say by default. If that's the wrong one,
 write {word|respelling} in the script (for example {live|lyve}, {read|red}, {close|kloze}). Also counts "Scott".
@@ -95,9 +96,10 @@ def realism(ep, files, weekday, eve=False):
         print(f"Words: {total:,} (the weekend call is about 3,000; 4 to 6 jokes).")
     else:
         print(f"Words: {total:,} (a whole day is 6,000 to 7,000; the morning call alone about 4,400, the afternoon call about 2,150).")
-    print(f"Jokes with a [punch]: {jokes} (bible section 3: about 8 to 12 across the day, never the same shape twice in a row).")
+    lo, hi, what = (4, 6, "the weekend call") if eve else (8, 12, "a whole weekday; each call has its share")
+    print(f"Jokes with a [punch]: {jokes} (bible section 3: about {lo} to {hi} for {what}, never the same shape twice in a row).")
     print(f"Laugh tags: {laughs} (at most about half the jokes; a laugh she doesn't need is the one to cut).")
-    if jokes > 14 or laughs > 9:
+    if jokes > hi + 2 or laughs > hi // 2 + 3:
         print("CHECK too many jokes or laughs: it starts to sound like a routine instead of a person.")
     for key, n in sorted(reacts.items(), key=lambda kv: -kv[1]):
         if n > 1:
@@ -121,6 +123,9 @@ def main():
         files = [f for f in files if "_evening_" in os.path.basename(f)]
     elif half:
         files = [f for f in files if (os.path.basename(f)[:2] <= "06") == (half == "am") and "_evening_" not in f]
+    if not files:
+        print(f"FIX   no script files found for {d} {half or '(whole day)'}: nothing to check.")
+        sys.exit(1)
     flagged, scott = 0, 0
     for f in files:
         raw = open(f).read()

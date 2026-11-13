@@ -2,7 +2,7 @@
 
 Usage: python3 engine/audit_mizuki.py SUNDAY_DATE
 More than fifteen files about her change every night, so small contradictions creep in. This checks the things a
-machine can check, over her memory files and the last seven days of scripts, and prints CHECK lines. The Sunday run
+machine can check, over her memory files and the last seven days of scripts, and prints CHECK lines. The Sunday evening run
 then reads each one, fixes what's really wrong (in the memory file, or with an on-the-phone correction on Monday if she
 said it to Scott), and logs the result in memory/audit_log.md. Canon order: show/mizuki/SPINE.md, RESOLUTIONS.md,
 the chapters, then people pages.
@@ -72,7 +72,7 @@ def main():
         if not files:
             continue
         if f"{d:%a} {d.day} {d:%b}" not in timeline:
-            check(f"no line for {d:%a} {d.day} {d:%b} in memory/mizuki_timeline.md, but there was a day")
+            check(f"no line for {d:%a} {d.day} {d:%b} in memory/mizuki_timeline.md, but she rang him that day")
         if d.isoformat() not in edates:
             check(f"no energy row for {d.isoformat()} (the voice reads it)")
         for f in files:

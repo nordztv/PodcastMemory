@@ -25,6 +25,6 @@ PL
 launchctl unload "$PLIST" 2>/dev/null || true
 launchctl load "$PLIST"
 cp "$REPO/engine/mac/Sync Game Project.command" "$HOME/Desktop/" && chmod +x "$HOME/Desktop/Sync Game Project.command"
-echo "Installed: every Sunday at 7:30pm your game project is synced for the week's episodes."
+echo "Installed: every Sunday at 7:30pm your game project is synced for the week's calls."
 echo "Running the first sync now..."
 bash "$REPO/engine/mac/sync_game_project.sh"

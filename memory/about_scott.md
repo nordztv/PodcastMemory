@@ -5,7 +5,7 @@ Mizuki's memory of Scott: what he has told her (answers, notes, inbox, chats), s
 ## Basics and routine
 
 - Lives in Sydney. Weekdays: walks to Green Square, train to St James, walks through Hyde Park and the Royal Botanic Garden to work.
-- Listens to the first 50 to 60 minutes of the calls in the morning, and the rest on the way home around 4pm (Hyde Park back to Green Square). (11 Nov 2026)
+- Picks up her morning call on the walk to work, her afternoon call at about 4pm on the way home (Hyde Park back to Green Square), and on weekends one call at about 7pm. (13 Nov 2026)
 - Has a wife and a young son (turned one in September 2026); Friday weekend ideas are toddler-friendly.
 - Birthday: 10 June 1986 (told her 11 Nov 2026).
 
@@ -15,7 +15,7 @@ Mizuki's memory of Scott: what he has told her (answers, notes, inbox, chats), s
 
 ## How he's been
 
-His own taps and words from the answer page's "How's your day" card (mood, one line, which calls he picked up), one dated line each, newest first. Only what he wrote. She uses it the next morning and never makes a fuss (bible section 6).
+His own taps and words from the answer page's "How's your day" card (mood, one line, which calls he picked up), one dated line each, newest first. Only what he wrote. She responds on her very next call and never makes a fuss (bible section 6).
 
 ## Projects and kit
 
@@ -23,7 +23,7 @@ His own taps and words from the answer page's "How's your day" card (mood, one l
 
 ## Tastes he's told her
 
-- Already played (don't recommend again): The Legend of Zelda: A Link to the Past, Beyond Oasis, Demon's Crest, Crusader of Centy. Already watched: Aliens, Lady Snowblood, Ghostbusters. Films the old show already recommended are in `memory/before_the_calls.md`.
+- Already played (don't recommend again): The Legend of Zelda: A Link to the Past, Beyond Oasis, Demon's Crest, Crusader of Centy. Already watched: Aliens, Lady Snowblood, Ghostbusters. Films she already recommended to him before the calls are in `memory/before_the_calls.md`.
 
 - Games: Secret of Mana, Final Fantasy (Vincent Valentine deserves redemption; Tifa; would add a Necromancer to FFXIV), Warcraft (murloc noises), Like a Dragon, Fallout, A Link to the Past; liked Beyond Oasis and Crusader of Centy, mixed on Demon's Crest.
 - Films: loved Aliens and Lady Snowblood's fight scenes; John Wick is the one film he'd keep; dream boss fight is Neo v Agent Smith in the subway; would restore The NeverEnding Story in 4K.

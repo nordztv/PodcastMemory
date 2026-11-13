@@ -1,6 +1,6 @@
 #!/bin/sh
 # Builds one day's calls MP3 from its script sections.
-# Usage: sh engine/build_episode.sh YYYY-MM-DD [headlines]
+# Usage: sh engine/build_episode.sh YYYY-MM-DD [am|pm|eve]
 # Full day's calls: reads archive/YYYY/MM/YYYY-MM-DD/script/NN_*.txt in order, renders two sections at a time,
 # joins them with 0.7 s gaps and writes ~/podcast/out/Mizuki_YYYY-MM-DD.mp3 (96 kbps mono, light warm "Happy 1" EQ),
 # with a chapter marker per section (engine/chapters.py).
@@ -9,7 +9,7 @@
 # "pm": only parts 07 to 11 (the walk-home call) -> ~/podcast/out/Mizuki_YYYY-MM-DD_walk_home_call.mp3
 # "headlines": the five-minute edition from archive/.../headlines/*.txt -> ~/podcast/out/Mizuki_YYYY-MM-DD_headlines.mp3
 set -e
-D="$1"; [ -n "$D" ] || { echo "usage: build_episode.sh YYYY-MM-DD [headlines]"; exit 1; }
+D="$1"; [ -n "$D" ] || { echo "usage: build_episode.sh YYYY-MM-DD [am|pm|eve]"; exit 1; }
 MODE="$2"
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 Y=$(echo "$D" | cut -c1-4); M=$(echo "$D" | cut -c6-7)
@@ -24,7 +24,8 @@ if [ "$MODE" = "am" ]; then PARTS='0[1-6]_*'; WORK="$HOME/podcast/render/${D}_am
 if [ "$MODE" = "eve" ]; then PARTS='0[1-5]_evening_*'; WORK="$HOME/podcast/render/${D}_eve"; MP3="$OUT/Mizuki_${D}_evening_call.mp3"; fi
 if [ "$MODE" = "pm" ]; then PARTS='0[7-9]_* 1[0-9]_*'; WORK="$HOME/podcast/render/${D}_pm"; MP3="$OUT/Mizuki_${D}_walk_home_call.mp3"; fi
 mkdir -p "$WORK" "$OUT"
-files() { for g in $PARTS; do ls "$SRC"/$g.txt 2>/dev/null; done; }
+# set -f while $PARTS is split into patterns, so a pattern is matched in $SRC and never in the current directory
+files() { set -f; for g in $PARTS; do set +f; ls "$SRC"/$g.txt 2>/dev/null; set -f; done; set +f; }
 [ -n "$(files)" ] || { echo "no script files for $D $MODE"; exit 1; }
 
 # -n1 with the file as $1 (not -I{}): macOS xargs caps -I commands at 255 bytes ("command line cannot be assembled")

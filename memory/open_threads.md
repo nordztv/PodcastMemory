@@ -11,10 +11,10 @@ Every run adds new threads from the script it wrote and from Scott's answers, an
 | --- | --- | --- | --- | --- |
 | promise | First weekend call (Sat 14 Nov, 7pm): on Friday she said "talk Monday", so she opens by admitting she couldn't wait; tell him about the rocket, the fish market and Nana's class | 2026-11-14 | Scott added weekend calls, 13 Nov | open |
 | promise | Give him his first Retro Game of the Week (Super Nintendo or Mega Drive; not one he has played) | 2026-11-16 | 12 and 13 Nov days of calls | open |
-| promise | Tell him how the weekend went: the rocket, the fish market, Nana's class, the Fan Fest rewatch, Mum's okonomiyaki score | 2026-11-16 | 13 Nov chat | open |
+| promise | Tell him how each weekend day went on that evening's call: Saturday the rocket, the fish market, Nana's class and the Fan Fest rewatch; Sunday Mum's call and the okonomiyaki score (leave open after Saturday; close after Sunday's call) | 2026-11-14 | 13 Nov chat | open |
 | ask | Did he try any of the Lanternfall weekend steps (first screen, hero walking, the lantern light)? Only if he hasn't said | 2026-11-16 | 13 Nov project check-in | open |
-| ask | How did the weekend go, and did the museum or the library happen? (lightly; Friday's ideas) | 2026-11-16 | 13 Nov chat | open |
-| fact | Starship Flight 15: did it launch on Sat 14 Nov, and were the booster and ship caught? | 2026-11-16 | 13 Nov tech | open |
+| ask | How is his weekend going, and did the museum or the library happen? (lightly; Friday's ideas) | 2026-11-14 | 13 Nov chat | open |
+| fact | Starship Flight 15: did it launch on Sat 14 Nov, and were the booster and ship caught? | 2026-11-14 | 13 Nov tech | open |
 | fact | Nvidia: the board's decision on Jensen Huang, and results due the week of 16 Nov | 2026-11-16 | 13 Nov world | open |
 | promise | Tell him which Japanese Film Festival film she can afford (17 to 29 Nov; maybe 1st Kiss), at a real ticket price | 2026-11-17 | 13 Nov movies | open |
 | fact | FFXIV: The Path Infernal returns Wed 18 Nov about 7pm Sydney; re-check the time | 2026-11-18 | 13 Nov games | open |

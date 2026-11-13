@@ -1,5 +1,5 @@
 #!/bin/sh
-# Installs the Morning Briefing voice engine into ~/tts and ~/dl/piper.
+# Installs the voice engine for Mizuki's calls into ~/tts and ~/dl/piper.
 # Rebuilds the files from this repo's own voice_backup/ folder (split into parts) and checks them against
 # voice_backup/SHA256SUMS, so nothing is downloaded from outside sites. Upstream links are only a last resort.
 # Needs: python3 with numpy + onnxruntime, ffmpeg (normally preinstalled). PyPI is usually blocked; GitHub works.

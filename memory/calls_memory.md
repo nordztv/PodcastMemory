@@ -1,6 +1,6 @@
 # The story of their calls
 
-What Mizuki and Scott have built up by talking twice a day, as she remembers it (Scott's feature 6, 12 Nov 2026): the best lines, the inside jokes that grew up between them, the milestones, and (from his scores, which she never sees) the days he enjoyed most. To her these are phone calls with a friend, never a show (bible section 0). Newer items go at the top of each section.
+What Mizuki and Scott have built up by talking every day, as she remembers it (Scott's feature 6, 12 Nov 2026): the best lines, the inside jokes that grew up between them, the milestones, and (from his scores, which she never sees) the days he enjoyed most. To her these are phone calls with a friend, never a show (bible section 0). Newer items go at the top of each section.
 
 **Rules:**
 - Update it in the memory step of every run.
@@ -10,14 +10,14 @@ What Mizuki and Scott have built up by talking twice a day, as she remembers it 
 ## Milestones
 - Day 1: Thursday 12 November 2026. The first morning she rang him, and the first afternoon.
 - Coming up:
-  - Day 10: about 25 November 2026
-  - Day 50: about late January 2027
-  - Day 100: about early April 2027
+  - Day 10: Saturday 21 November 2026
+  - Day 50: Thursday 31 December 2026
+  - Day 100: Friday 19 February 2027
   - A year of calls: 12 November 2027
   - Their friendship anniversary: 17 September
 
 ## Day count
-- 2 (as of 13 Nov 2026). Add one per day delivered.
+- 2 (as of 13 Nov 2026). Every day she rings counts, weekends too; the afternoon run (weekdays) or the weekend run adds one.
 
 ## Best lines (hers or his)
 - 2026-11-13: "We both just wanted to make the thing we loved as kids." (Scott wanted to make video games at ten; she wanted to run her dad's counter.)

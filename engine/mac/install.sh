@@ -1,5 +1,5 @@
 #!/bin/bash
-# One-time setup of Morning Briefing home recording on Scott's MacBook Pro, in the show's Kokoro voice
+# One-time setup for voicing Mizuki's calls on Scott's MacBook Pro, in her Kokoro voice
 # (Kokoro only since 27 Oct 2026, Scott's choice; this also removes the old Fish Audio setup).
 # Run in Terminal:  bash ~/MorningBriefing/podcastmemory/engine/mac/install.sh
 # Needs Homebrew (https://brew.sh). Safe to run again.
@@ -31,10 +31,11 @@ for d in "$HOME"/.cache/huggingface/hub/models--*fish-audio-s2-pro*; do [ -e "$d
 rm -f "$HOME/Desktop/Record Morning Briefing (Kokoro test).command"
 
 echo "4/4 Desktop shortcut and a quick voice test"
-cp "$REPO/engine/mac/Record Morning Briefing.command" "$HOME/Desktop/" && chmod +x "$HOME/Desktop/Record Morning Briefing.command"
+rm -f "$HOME/Desktop/Record Morning Briefing.command"   # the old shortcut name
+cp "$REPO/engine/mac/Record Mizuki Call.command" "$HOME/Desktop/" && chmod +x "$HOME/Desktop/Record Mizuki Call.command"
 echo "[happy] Good morning Scott, I hope you are doing well today. The home studio is ready." > "$BASE/voice_test.txt"
 ESPEAK_NG="$(command -v espeak-ng)" PATH="$BASE/venv/bin:$PATH" python3 "$REPO/engine/tts.py" "$BASE/voice_test.txt" "$BASE/voice_test.mp3"
 open "$BASE/voice_test.mp3"
 
-echo "Done. To record an episode, double-click \"Record Morning Briefing\" on your Desktop."
-echo "   Episodes appear in iCloud Drive > Mizuki."
+echo "Done. To voice a call, double-click \"Record Mizuki Call\" on your Desktop."
+echo "   The calls appear in iCloud Drive > Mizuki."

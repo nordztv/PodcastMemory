@@ -1,4 +1,4 @@
-"""Mood music for Morning Briefing: quiet, original background cues under the emotional moments only.
+"""Mood music (switched off since 13 Nov 2026: a phone call has none; MIZUKI_MUSIC=1 in the build brings it back): quiet, original background cues under the emotional moments only.
 
 Usage: python3 engine/music.py VOICE.mp3 OUT.mp3
 Reads VOICE.moods.json (written by engine/tts.py next to its MP3: each spoken chunk's start, end, mood and punch flag)

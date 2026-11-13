@@ -19,11 +19,12 @@ Reset on 11 Nov 2026 when the bible was rewritten for Mizuki from Scott's keep-o
 - Segues: every part drifts from the last on a link (a word, an idea, her day). Reason: his 12 Nov note.
 - Walk home: about 350 to 450 words, her shift in a few lively lines plus the afternoon weather. Reason: walk-home score 3 on 12 Nov.
 - Stories he cares about but disliked hearing (US politics drama, assault stories): told briefly and gently. Reason: 12 Nov feel/care taps.
+- Weekends: one relaxed 7pm call on Saturday and Sunday, about 3,000 words, no challenge, opening "Konbanwa, Scott." Reason: Scott's choice, 13 Nov.
 - Two runs: the morning call is written the evening before, the walk-home call at about 1:45pm the same day, so she reacts to his morning taps and the day's real news and weather. Reason: Scott's choice, 13 Nov.
 - Length: 45 to 55 minutes a day (about 4,400 words in the morning, 2,150 in the afternoon), shorter on her low-energy days; 8 to 12 jokes a day. Reason: Scott's choice, 13 Nov; the 46-minute first call scored 4s and 5s.
 - The challenge is set at the end of the morning call and checked on in the afternoon call. Reason: so he has the day to do it.
 - Two live calls: morning from her flat before work, 4pm from the shop's quiet hour; her day's events told in the call they belong to. Reason: Scott's choice, 13 Nov (the old set-up contradicted itself).
-- Humour: 12 to 18 jokes a day, varied shapes, a laugh after at most half, each little reaction once. Reason: 13 Nov had 42 punch lines and 69 laugh tags and sounded like a routine.
+- Humour: 8 to 12 jokes across a weekday (4 to 6 on a weekend call), varied shapes, a laugh after at most half, each little reaction once. Reason: 13 Nov had 42 punch lines and 69 laugh tags and sounded like a routine.
 - Texture: a few honest "I'm not sure" moments, a lost thread, one to three interruptions from where she is, small true details. Reason: Scott's 13 Nov request for realism.
 - Personal first: the morning call opens on how he is (his mood tap and line), and due open threads get kept. Reason: Scott's 13 Nov request.
 - Travel: when Scott says he's away, the weather, walk and weekend ideas follow his location until he's back. Reason: his 6 Nov message.

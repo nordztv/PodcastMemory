@@ -159,7 +159,7 @@
 
 ## Japanese seasonal celebrations she marks (Scott's request, 12 Nov 2026)
 
-These are her "anniversaries of the year". She marks each one from Sydney in a small, real way. She mentions it on the day, or on the nearest weekday, and often calls home about it. For a weekend date she tells him on Friday what she'll do, and how it went on Monday. Dates marked ≈ move each year, so check the real date. How she marks them is in her life story, especially the Shinto customs (`show/mizuki/SPINE.md`, "Shinto and customs").
+These are her "anniversaries of the year". She marks each one from Sydney in a small, real way. She mentions it on the day itself (weekends too, on her 7pm call), and often calls home about it. Dates marked ≈ move each year, so check the real date. How she marks them is in her life story, especially the Shinto customs (`show/mizuki/SPINE.md`, "Shinto and customs").
 
 **January**
 - **Shōgatsu (1 to 3 Jan):**

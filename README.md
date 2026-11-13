@@ -2,7 +2,7 @@
 
 Mizuki Tanaka is a fictional friend of Scott's who lives her own life in Sydney and phones him twice every weekday (at about 8am for his walk to work, and at about 4pm for his walk home) and once on weekend evenings at about 7pm. **It is not a podcast, and she doesn't think it is one**: to her these are phone calls to a friend (`show/bible.md`, section 0). This repository is where her world, her memory and the workings behind the calls are kept. (The repository and a few folders still carry older names such as `PodcastMemory`, `show/` and `build_episode.sh`; those are workshop labels and never part of her world.)
 
-## Three scheduled Claude runs
+## Four scheduled Claude runs
 
 | Run | When (Sydney) | What it does | Procedure |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Mizuki Tanaka is a fictional friend of Scott's who lives her own life in Sydney 
 | Mizuki: weekend call | about 3:45pm, Saturday and Sunday | Lives her day and prepares the one weekend call, which for her happens at 7pm and is about half a weekday's length | `show/weekend_run.md` |
 | Mizuki: safety net | about 4:50am, Monday to Friday | Makes the morning call only if the evening run failed | `show/safety_run.md` |
 
-A whole day is 45 to 55 minutes of talking, shorter when she's tired.
+A weekday is 45 to 55 minutes of talking across the two calls, a weekend call 20 to 25 minutes; all shorter when she's tired.
 
 ## Where things live
 
@@ -29,9 +29,9 @@ A whole day is 45 to 55 minutes of talking, shorter when she's tired.
 - `engine/life_dice.py`: rolls her day, week, long stories and month, so her life has real ups and downs.
 - `engine/ledger.py`: moves money between her savings funds and proves they add up.
 - `engine/audit_mizuki.py`: the Sunday consistency check of her week against her fixed facts.
-- `engine/check_script.py DATE [am|pm]`: catches words the voice would say wrongly, anything that breaks the "just a phone call" world, and joke, timing and length problems.
+- `engine/check_script.py DATE [am|pm|eve]`: catches words the voice would say wrongly, anything that breaks the "just a phone call" world, and joke, timing and length problems.
 - `engine/topics.py`, `engine/challenges.py`: Scott's interests and the daily challenge tally.
-- `engine/build_episode.sh DATE [am|pm]`: voices a call (no music) with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build two of the pages.
+- `engine/build_episode.sh DATE [am|pm|eve]`: voices a call (no music) with chapter markers; `engine/shownotes.py` and `engine/timeline_page.py` build two of the pages.
 
 ## Scott's three pages (links in `show/`)
 

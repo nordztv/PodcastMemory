@@ -21,7 +21,7 @@ EVENINGS = [
     "Sunday: parents' video call in the morning; Fiona's brunch monthly; okonomiyaki at night, photo to Mum.",
 ]
 FIXED = {(4, 10): "Mizuki's birthday", (6, 10): "Scott's birthday", (9, 17): "their friendship anniversary",
-         (11, 12): "the show's birthday", (12, 25): "Christmas", (11, 22): "Kenta's birthday",
+         (11, 12): "the anniversary of her first call to Scott", (12, 25): "Christmas", (11, 22): "Kenta's birthday",
          (1, 21): "Yumiko's birthday", (4, 14): "Hana's birthday", (1, 17): "Hanshin earthquake memorial (quiet line)",
          (11, 15): "Shichi-go-san", (2, 3): "Setsubun", (3, 3): "Hinamatsuri", (7, 7): "Tanabata", (12, 31): "Omisoka",
          (1, 1): "New Year", (10, 10): "Isamu's watch day ('kanpai, Jiichan')", (9, 18): "Aya's birthday"}
@@ -62,12 +62,15 @@ def main():
     if wd == 2:
         print("- Wednesday: retro game retrospective; Yokai of the Week or a Pokemon moment in the chat.")
     if wd == 4:
-        print("- Friday: weekend send-off chat (about 1,800 words), photo of the week, weekend ideas, defending the picks, project check-in, weekly review.")
+        print("- Friday: weekend send-off chat (about 1,100 words), photo of the week, weekend ideas, defending the picks, project check-in, weekly review.")
         if (d + dt.timedelta(days=7)).month != d.month:
             print("- Last Friday of the month: Photo of the Month.")
-    recent = read("recent_calls.md")
-    if f"## {d.strftime('%Y-%m')}" not in recent:
-        print("- FIRST EPISODE OF THE MONTH: monthly rollover, opportunity roll, a new modest goal, monthly check-in in the chat.")
+    # The first WEEKDAY of a month (weekend calls don't count): the evening run does the rollover, the afternoon run the check-in.
+    first = d.replace(day=1)
+    while first.weekday() >= 5:
+        first += dt.timedelta(days=1)
+    if d == first:
+        print("- FIRST WEEKDAY OF THE MONTH: evening run: monthly rollover, opportunity roll, a new modest goal. Afternoon run: the monthly check-in.")
     if wd in (1, 3):
         print("- An ordinary weekday: no fixed feature, so her day and his answers carry it.")
 
@@ -82,13 +85,18 @@ def main():
         print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
         print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
         print(f"  Tonight for her -> {EVENINGS[wd]} (she can look forward to it; she reports on it tomorrow)")
-        print("- She only knows news up to when the run happens (the evening before). Never 'this morning's news'.")
+        print("- Morning call: she only knows news up to the evening before ('last night', 'before bed'). Afternoon call: up to lunchtime ('on my break').")
 
     print("\nDICE")
     dates = [d.isoformat()]   # Saturday and Sunday are rolled by their own weekend runs
     print(run("engine/life_dice.py", *dates))
-    en = re.search(r"\*\*Now: (\d+) out of 10\*\*", read("mizuki_life.md"))
-    print(f"Energy yesterday: {en.group(1) if en else '?'} of 10 (move it a step or two, with a reason).")
+    rows_e = sorted(m.groups() for m in re.finditer(r"^\| (\d{4}-\d\d-\d\d) \| (\d+) \|", read("mizuki_life.md"), re.M))
+    before = [r for r in rows_e if r[0] < d.isoformat()]
+    today_row = [r for r in rows_e if r[0] == d.isoformat()]
+    if today_row:
+        print(f"Energy today: {today_row[0][1]} of 10 (already set for {d.isoformat()}).")
+    elif before:
+        print(f"Energy last set: {before[-1][1]} of 10 on {before[-1][0]} (move it a step or two a day, with a reason, and add a row for {d.isoformat()}).")
 
     print("\nCALENDAR, NEXT 7 DAYS")
     hit = False
@@ -100,10 +108,11 @@ def main():
     if not hit:
         print("- No fixed dates. Still read this month's section of show/mizuki/CALENDAR.md (seasons, festivals, FFXIV).")
 
-    print("\nCHALLENGE")
-    print("- Rate: " + run("engine/challenges.py", "rate", d.isoformat()) + " | " + run("engine/challenges.py", "misses", d.isoformat()))
-    last = [r for r in rows(read("challenges.md")) if re.match(r"\d{4}-", r[0])][:5]
-    print("- Recent (don't repeat): " + "; ".join(r[1] for r in last))
+    if wd < 5:
+        print("\nCHALLENGE")
+        print("- Rate: " + run("engine/challenges.py", "rate", d.isoformat()) + " | " + run("engine/challenges.py", "misses", d.isoformat()))
+        last = [r for r in rows(read("challenges.md")) if re.match(r"\d{4}-", r[0])][:5]
+        print("- Recent (don't repeat): " + "; ".join(r[1] for r in last))
 
     print("\nSCOTT")
     q = [r for r in rows(read("questions.md")) if re.match(r"\d{4}-", r[0])]

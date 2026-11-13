@@ -1,4 +1,4 @@
-"""Morning Briefing text-to-speech: one plain-text script file -> one MP3.
+"""Text-to-speech for Mizuki's calls: one plain-text script file -> one MP3.
 
 Usage: python3 engine/tts.py script.txt out.mp3 [voice] [speed]
 Defaults to the show voice "Happy 1" (af_heart:0.5+af_bella:0.3+af_nicole:0.2) at speed 0.92.

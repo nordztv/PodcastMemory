@@ -1,22 +1,40 @@
 #!/bin/bash
-# Mac recorder, started by hand (Scott's choice, 25 Oct 2026): double-click "Record Morning Briefing" on the Desktop,
-# or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD] [quick]
-# Records the episode in the show's Kokoro voice (Scott's choice, 27 Oct 2026: Kokoro only, Fish removed), the same voice
-# the cloud uses, with chapter markers. Waits for the cloud run (about 9:30pm the evening before) to save the script to GitHub.
-# No date: tomorrow's episode in the evening, today's before noon. "quick": the opening section only, for a fast listen.
-# Saves the MP3 and the answer sheet to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
+# Mac recorder, started by hand: double-click the Record shortcut on the Desktop,
+# or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD] [am|pm|eve|quick]
+# Voices one of Mizuki's calls in her Kokoro voice (the same engine the cloud uses), with chapter markers, from the
+# script the cloud run saved to GitHub:  am = the morning call (parts 01 to 06, written the evening before),
+# pm = the walk-home call (parts 07 to 11, written about 2pm that day), eve = the weekend's 7pm call.
+# No arguments: it picks the call that is due next by Sydney time (see below). "quick": the first part only.
+# Saves the MP3 to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
 set -e
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 BASE="$HOME/MorningBriefing"; REPO="$BASE/podcastmemory"
-if [ -n "$1" ] && [ "$1" != "quick" ]; then DATE="$1"; MODE="$2"; else MODE="$1"
-  if [ "$(TZ=Australia/Sydney date +%H)" -ge 12 ]; then DATE="$(TZ=Australia/Sydney date -v+1d +%F)"; else DATE="$(TZ=Australia/Sydney date +%F)"; fi
+DATE=""; MODE=""; CALL=""
+for a in "$@"; do case "$a" in am|pm|eve) CALL="$a";; quick) MODE=quick;; *) DATE="$a";; esac; done
+H=$((10#$(TZ=Australia/Sydney date +%H))); TODAY="$(TZ=Australia/Sydney date +%F)"; TOMORROW="$(TZ=Australia/Sydney date -v+1d +%F)"
+if [ -z "$DATE" ]; then
+  DOW=$(TZ=Australia/Sydney date +%u)   # 1 = Monday ... 6 = Saturday, 7 = Sunday
+  PICK=""
+  if [ "$DOW" = 6 ]; then DATE="$TODAY"; PICK=eve                      # Saturday: tonight's 7pm call
+  elif [ "$DOW" = 7 ] && [ "$H" -lt 20 ]; then DATE="$TODAY"; PICK=eve  # Sunday before 8pm: tonight's call
+  elif [ "$DOW" = 7 ]; then DATE="$TOMORROW"; PICK=am                   # Sunday night: Monday morning's call
+  elif [ "$H" -lt 12 ]; then DATE="$TODAY"; PICK=am                     # weekday morning: this morning's call
+  elif [ "$H" -lt 19 ] || [ "$DOW" = 5 ]; then DATE="$TODAY"; PICK=pm   # weekday afternoon (and Friday night): the 4pm call
+  else DATE="$TOMORROW"; PICK=am; fi                                    # weekday evening: tomorrow morning's call
+  CALL="${CALL:-$PICK}"
 fi
+if [ -z "$CALL" ]; then   # a date was given without am/pm/eve: weekend dates have one call, weekdays default to the morning
+  if [ "$(date -j -f %F "$DATE" +%u)" -ge 6 ]; then CALL=eve; else CALL=am; fi
+fi
+case "$CALL" in am) LAST="06_japan.txt"; FIRST="01_opening_world.txt"; NAME="morning_call";;
+                pm) LAST="11_chat_outro.txt"; FIRST="07_walkhome.txt"; NAME="walk_home_call";;
+                eve) LAST="05_evening_goodbye.txt"; FIRST="01_evening_hello.txt"; NAME="evening_call";; esac
 STARTED=$(date +%s); Y="${DATE:0:4}"; M="${DATE:5:2}"
 EP="$REPO/archive/$Y/$M/$DATE"
 DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Mizuki"
 OUT="$HOME/podcast/out"
 notify() { osascript -e "display notification \"$1\" with title \"Mizuki\"" >/dev/null 2>&1 || true; }
-# One recording at a time (the 9:40pm automatic one and a double-click could overlap); a lock older than 6 hours is stale.
+# One at a time (two double-clicks could overlap); a lock older than 6 hours is stale.
 LOCK="$BASE/.recording.lock"
 if ! mkdir "$LOCK" 2>/dev/null; then
   if [ -n "$(find "$LOCK" -maxdepth 0 -mmin +360 2>/dev/null)" ]; then rm -rf "$LOCK"; mkdir "$LOCK"
@@ -45,11 +63,11 @@ setup() {
     || { echo "Voice files failed their checksum; delete ~/tts and run again."; return 1; }
 }
 
-echo "== $(date) waiting for the $DATE script ${MODE:+($MODE)}"
+echo "== $(date) waiting for the $DATE $CALL script ${MODE:+($MODE)}"
 while :; do
   git -C "$REPO" pull -q --rebase --autostash || true
-  [ -f "$EP/script/11_chat_outro.txt" ] && break
-  if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script arrived tonight"; exit 0; fi
+  [ -f "$EP/script/$LAST" ] && break
+  if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script for that call arrived"; exit 0; fi
   sleep 120
 done
 sleep 30; git -C "$REPO" pull -q --rebase --autostash || true
@@ -58,18 +76,17 @@ setup || { notify "Recording setup failed; see the Terminal window"; exit 1; }
 export ESPEAK_NG="$(command -v espeak-ng)"
 export PATH="$BASE/venv/bin:$PATH"
 mkdir -p "$DEST" "$OUT"
-cp "$EP/sheet.txt" "$DEST/Sheet_$DATE.txt" 2>/dev/null || true
 
 if [ "$MODE" = "quick" ]; then
   MP3="$OUT/Mizuki_${DATE}_sample.mp3"
-  echo "== $(date) recording the opening section only"
-  python3 "$REPO/engine/tts.py" "$EP/script/01_opening_world.txt" "$MP3" || { notify "Recording failed"; exit 1; }
+  echo "== $(date) voicing the first part only"
+  python3 "$REPO/engine/tts.py" "$EP/script/$FIRST" "$MP3" || { notify "Recording failed"; exit 1; }
 else
-  MP3="$OUT/Mizuki_$DATE.mp3"
-  rm -rf "$HOME/podcast/render/$DATE" "$MP3"   # fresh render of the current script
-  echo "== $(date) recording the full episode"
-  sh "$REPO/engine/build_episode.sh" "$DATE" || { echo "recording failed"; notify "Recording failed this morning; the script is in the Claude app"; exit 1; }
+  MP3="$OUT/Mizuki_${DATE}_$NAME.mp3"
+  rm -rf "$HOME/podcast/render/${DATE}_$CALL" "$MP3"   # fresh render of the current script
+  echo "== $(date) voicing the $CALL call"
+  sh "$REPO/engine/build_episode.sh" "$DATE" "$CALL" || { echo "recording failed"; notify "Voicing the call failed; the script is in the Claude app"; exit 1; }
 fi
 cp "$MP3" "$DEST/"
-notify "Today's calls from Mizuki are in iCloud Drive > Mizuki"
+notify "Mizuki's call is in iCloud Drive > Mizuki"
 echo "== $(date) saved to $DEST"
