@@ -5,7 +5,7 @@ TIMINGS.txt has one line per section, in order: "<section file name><TAB><second
 Starts are scaled to the MP3's real length, so encoder padding
 never pushes the chapters out of line. The MP3 is rewritten in place (audio copied, not re-encoded).
 """
-import os, subprocess, sys
+import os, re, subprocess, sys
 
 TITLES = {
     "01_opening_world": "Good morning, weather and the world",
@@ -24,6 +24,15 @@ TITLES = {
     "04_evening_story": "A story", "05_evening_goodbye": "Catching up and goodnight",
     "11_chat_outro": "Catching up and goodbye",
 }
+
+
+def title_for(name):
+    """Fixed titles for the old file names; for am_02_the-card-machines and the like, the subject in words."""
+    if name in TITLES:
+        return TITLES[name]
+    m = re.match(r"^(?:am|pm|eve)_\d+_(.+)$", name)
+    words = (m.group(1) if m else name).replace("-", " ").replace("_", " ").strip()
+    return words[:1].upper() + words[1:] if words else name
 
 
 def duration(path):
@@ -55,7 +64,7 @@ def main():
             start = int(t * 1000)
             t += secs * scale
             end = int(total * 1000) if i == len(rows) - 1 else int(t * 1000)
-            label = TITLES.get(name, name.split("_", 1)[-1].replace("_", " ").capitalize())
+            label = title_for(name)
             meta += ["[CHAPTER]", "TIMEBASE=1/1000", f"START={start}", f"END={end}", f"title={esc(label)}"]
     meta_path = mp3 + ".meta.txt"; tmp = mp3 + ".tmp.mp3"
     open(meta_path, "w").write("\n".join(meta) + "\n")

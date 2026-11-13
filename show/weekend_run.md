@@ -1,6 +1,6 @@
 # Weekend run procedure: the 7pm call
 
-Followed by the scheduled task at about 3:45pm Sydney time every Saturday and Sunday (Scott's choice, 13 Nov 2026). On weekends Mizuki rings Scott **once, at about 7pm**, for about half as long as a weekday (about 3,000 words, 20 to 25 minutes). The run happens at about 4pm so the call is ready in time; **in her world it is 7pm** and she has lived the whole day. `show/daily_run.md` has the full detail for every shared step; this file says what's different. Work unattended: never ask questions, make sensible choices, note assumptions in the delivery message.
+Followed by the scheduled task at about 3:45pm Sydney time every Saturday and Sunday (Scott's choice, 13 Nov 2026). On weekends Mizuki rings Scott **once, at about 7pm**, usually for 10 to 25 minutes. The run happens at about 4pm so the call is ready in time; **in her world it is 7pm** and she has lived the whole day. `show/daily_run.md` has the full detail for every shared step; this file says what's different. Work unattended: never ask questions, make sensible choices, note assumptions in the delivery message.
 
 **Time budget (Sydney):** starts about 3:45pm. Script pushed by about 4:50pm, audio delivered by about 6:15pm. **Hard deadline 6:40pm:** deliver whatever is built (step 6b of `show/afternoon_run.md`, with this run's file names).
 
@@ -27,15 +27,11 @@ The weekend's one or two biggest news stories from the allowed sources (bible se
 
 ## 5. Write the call
 
-One relaxed evening call, about 3,000 words (about 15 per cent shorter when her energy is 4 or less), as five plain text files in `EP/script/`:
-1. `01_evening_hello.txt` (about 500): must begin exactly "Konbanwa, Scott." Where she is at 7pm, how he is (his taps), and the best thing about her day so far.
-2. `02_evening_world.txt` (about 600): what she read today that he'd want to know. Short. No news at all is fine on a quiet day; then this part is more of her day.
-3. `03_evening_fun.txt` (about 800): games and films, the way they come up between friends on a weekend: what she watched or played, what he might, anything he was waiting on.
-4. `04_evening_story.txt` (about 600): one story told properly: a memory (check `memory/memories_told.md`), something from Japan, a yokai, how a film did something, or a long voice note from one of her people. Her choice, by mood.
-5. `05_evening_goodbye.txt` (about 500): her reaction to his answers, one question for him (never one in `memory/questions.md`), what she's doing tonight and tomorrow, and goodnight ("oyasumi"). On Sunday: a line about the week ahead, and that she'll ring in the morning.
-No daily challenge on weekends. Bible sections 0, 2, 3 and 6 all apply: it's a phone call from a friend, with fewer jokes than a weekday (about 4 to 6), a whispered secret if one fits, and the texture of someone at home on a weekend evening (the hotplate, the possums, the rice cooker).
+One relaxed evening call from her flat. Before writing, decide in a few lines of notes what's on her mind tonight: her day, how he is (his taps and texts), anything she'd been saving for him, a film or game, the news only if something big happened. Then write it the way she'd say it (bible sections 0, 2, 3 and 5; `show/host.md`, How she actually talks): her own hello ("Konbanwa" fits, or anything else, never the same as last time), wherever her mind goes, and goodnight ("oyasumi"; on Sunday, that she'll ring in the morning). Usually 10 to 25 minutes (about 1,400 to 3,400 words), shorter when she's tired, longer when something good happened. A story told properly, a message from her people or a photo fit well on a weekend evening, but none is required. No challenge unless one of them brings it up. The texture of someone at home on a weekend evening: the hotplate, the possums, the rice cooker.
 
-Then: `python3 engine/check_script.py DATE eve` (fix every FIX line); write `EP/shownotes.json`, `EP/rating_items.json` and `EP/notes.md`; put the day on his page (`days/DATE`, as in `show/daily_run.md` step 5: `challenge: ""`, `rateLine: ""`, the five sections with keys "evening-hello", "evening-world", "evening-fun", "evening-story", "evening-goodbye", the one question, and the week's picks); add promises and dated facts to `memory/open_threads.md`. Commit and push ("Calls DATE: weekend script").
+**Files.** Write the call as plain text files in `EP/script/`, one per stretch of talk, named `eve_01_<subject>.txt`, `eve_02_<subject>.txt` and so on, where `<subject>` is two to four lowercase words joined by hyphens saying what that stretch is about (`eve_01_rough-night-and-the-possums.txt`, `eve_02_the-housing-numbers.txt`). Start a new file wherever the talk moves to something new; usually three to eight files. The names become the chapter titles in his player and never appear in what she says.
+
+Then: `python3 engine/check_script.py DATE eve` (fix every FIX line); write `EP/shownotes.json`, `EP/rating_items.json` and `EP/notes.md`; put the day on his page (`days/DATE`, `set`, as in `show/daily_run.md` step 5, His page: one section per `eve_` file); add promises and dated facts to `memory/open_threads.md`. Commit and push ("Calls DATE: weekend script").
 
 ## 6. Build and deliver
 

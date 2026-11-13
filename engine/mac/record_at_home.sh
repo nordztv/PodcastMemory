@@ -2,8 +2,8 @@
 # Mac recorder, started by hand: double-click the Record shortcut on the Desktop,
 # or run: bash ~/MorningBriefing/podcastmemory/engine/mac/record_at_home.sh [YYYY-MM-DD] [am|pm|eve|quick]
 # Voices one of Mizuki's calls in her Kokoro voice (the same engine the cloud uses), with chapter markers, from the
-# script the cloud run saved to GitHub:  am = the morning call (parts 01 to 06, written the evening before),
-# pm = the walk-home call (parts 07 to 11, written about 2pm that day), eve = the weekend's 7pm call.
+# script the cloud run saved to GitHub:  am = the morning call (written the evening before),
+# pm = the walk-home call (written about 2pm that day), eve = the weekend's 7pm call.
 # No arguments: it picks the call that is due next by Sydney time (see below). "quick": the first part only.
 # Saves the MP3 to iCloud Drive > Mizuki, with a notification. Sets up anything missing on its first run.
 set -e
@@ -26,9 +26,12 @@ fi
 if [ -z "$CALL" ]; then   # a date was given without am/pm/eve: weekend dates have one call, weekdays default to the morning
   if [ "$(date -j -f %F "$DATE" +%u)" -ge 6 ]; then CALL=eve; else CALL=am; fi
 fi
-case "$CALL" in am) LAST="06_japan.txt"; FIRST="01_opening_world.txt"; NAME="morning_call";;
-                pm) LAST="11_chat_outro.txt"; FIRST="07_walkhome.txt"; NAME="walk_home_call";;
-                eve) LAST="05_evening_goodbye.txt"; FIRST="01_evening_hello.txt"; NAME="evening_call";; esac
+# The call's files are am_*, pm_* or eve_* (any number of parts); days before 16 Nov 2026 used fixed names.
+case "$CALL" in am) OLD="06_japan.txt"; NAME="morning_call";;
+                pm) OLD="11_chat_outro.txt"; NAME="walk_home_call";;
+                eve) OLD="05_evening_goodbye.txt"; NAME="evening_call";; esac
+have_script() { ls "$EP/script/${CALL}_"*.txt >/dev/null 2>&1 || [ -f "$EP/script/$OLD" ]; }
+first_part() { ls "$EP/script/${CALL}_"*.txt 2>/dev/null | sort | head -1; }
 STARTED=$(date +%s); Y="${DATE:0:4}"; M="${DATE:5:2}"
 EP="$REPO/archive/$Y/$M/$DATE"
 DEST="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Mizuki"
@@ -66,7 +69,7 @@ setup() {
 echo "== $(date) waiting for the $DATE $CALL script ${MODE:+($MODE)}"
 while :; do
   git -C "$REPO" pull -q --rebase --autostash || true
-  [ -f "$EP/script/$LAST" ] && break
+  have_script && break
   if [ $(( $(date +%s) - STARTED )) -ge 14400 ]; then echo "no script after 4 hours, giving up"; notify "No script for that call arrived"; exit 0; fi
   sleep 120
 done
@@ -80,7 +83,8 @@ mkdir -p "$DEST" "$OUT"
 if [ "$MODE" = "quick" ]; then
   MP3="$OUT/Mizuki_${DATE}_sample.mp3"
   echo "== $(date) voicing the first part only"
-  python3 "$REPO/engine/tts.py" "$EP/script/$FIRST" "$MP3" || { notify "Recording failed"; exit 1; }
+  FIRST="$(first_part)"; [ -n "$FIRST" ] || FIRST="$(ls "$EP"/script/0*.txt | sort | head -1)"
+  python3 "$REPO/engine/tts.py" "$FIRST" "$MP3" || { notify "Recording failed"; exit 1; }
 else
   MP3="$OUT/Mizuki_${DATE}_$NAME.mp3"
   rm -rf "$HOME/podcast/render/${DATE}_$CALL" "$MP3"   # fresh render of the current script

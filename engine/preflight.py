@@ -1,12 +1,12 @@
 """The day's brief for the daily run: everything that's easy to forget, on one screen.
 
 Usage: python3 engine/preflight.py DATE      (DATE = the call day's date, YYYY-MM-DD)
-Prints: the day's special rules, where Mizuki is for each call (bible section 5, The two calls), her usual evening
+Prints: what's different about the day (guidance only), where Mizuki is for each call (bible section 5, The two calls), her usual evening
 last night, the dice, the calendar window, the challenge streak, Scott's unanswered questions, open threads that
-are due, who sent the last voice notes, the least recently used callbacks, and the word budgets.
+are due, who sent the last voice notes, the least recently used callbacks, hellos used lately, and how long the calls might run.
 It only reads files. Run it at the start of step 2 of show/daily_run.md and again before writing.
 """
-import datetime as dt, os, re, subprocess, sys
+import datetime as dt, glob, os, re, subprocess, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 M = f"{REPO}/memory"
@@ -25,8 +25,6 @@ FIXED = {(4, 10): "Mizuki's birthday", (6, 10): "Scott's birthday", (9, 17): "th
          (1, 21): "Yumiko's birthday", (4, 14): "Hana's birthday", (1, 17): "Hanshin earthquake memorial (quiet line)",
          (11, 15): "Shichi-go-san", (2, 3): "Setsubun", (3, 3): "Hinamatsuri", (7, 7): "Tanabata", (12, 31): "Omisoka",
          (1, 1): "New Year", (10, 10): "Isamu's watch day ('kanpai, Jiichan')", (9, 18): "Aya's birthday"}
-BUDGET = {"01": 500, "02": 700, "03": 800, "04": 1000, "05": 800, "06": 600, "07": 350, "08": 450, "09": 450,
-          "10": 300, "11": 600}   # about 6,500 words, 45 to 55 minutes (Scott, 13 Nov 2026; was about 10,500)
 
 
 def read(name):
@@ -54,28 +52,39 @@ def main():
     prev = d - dt.timedelta(days=1)
     print(f"=== Brief for {d.strftime('%A %d %B %Y')} ===\n")
 
-    print("TODAY'S SPECIAL RULES")
+    print("TODAY (guidance, not a checklist: bible section 0, Loose, not scripted)")
     if wd == 0:
-        print("- Monday: news since her Sunday call; she already told him about the weekend at 7pm on Saturday and Sunday (don't retell it); Retro Game of the Week pick; new Actress of the Week.")
-    if wd == 1:
-        print("- Tuesday: a quick nudge on the retro game.")
-    if wd == 2:
-        print("- Wednesday: retro game retrospective; Yokai of the Week or a Pokemon moment in the chat.")
+        print("- Monday: she spoke to him on Sunday evening, so there's no weekend to retell; news since then if any.")
     if wd == 4:
-        print("- Friday: weekend send-off chat (about 1,100 words), photo of the week, weekend ideas, defending the picks, project check-in, weekly review.")
-        if (d + dt.timedelta(days=7)).month != d.month:
-            print("- Last Friday of the month: Photo of the Month.")
-    # The first WEEKDAY of a month (weekend calls don't count): the evening run does the rollover, the afternoon run the check-in.
+        print("- Friday: the 4pm call usually drifts into weekend talk (her plans, his, maybe an idea or two for him); the weekly review is behind the scenes.")
+    # The first WEEKDAY of a month (weekend calls don't count): the evening run does the rollover.
     first = d.replace(day=1)
     while first.weekday() >= 5:
         first += dt.timedelta(days=1)
     if d == first:
-        print("- FIRST WEEKDAY OF THE MONTH: evening run: monthly rollover, opportunity roll, a new modest goal. Afternoon run: the monthly check-in.")
-    if wd in (1, 3):
-        print("- An ordinary weekday: no fixed feature, so her day and his answers carry it.")
+        print("- FIRST WEEKDAY OF THE MONTH: evening run: monthly rollover, opportunity roll, a new modest goal. She might check in on him in a bigger way this week.")
+    print("- What's on her mind is up to her day: her life, him, the things they both love, the news only if it's worth talking about.")
+    things = []
+    for f, label in (("retro_games.md", "the retro game she wants him to play"), ("actress_of_the_week.md", "the actress she's into")):
+        r = [x for x in rows(read(f)) if re.match(r"\d{4}-", x[0])]
+        if r:
+            things.append(f"{label}: {r[0][1]}" + (f" ({r[0][2]})" if len(r[0]) > 2 and f.startswith("actress") else ""))
+    if things:
+        print("- Things she's into this week (bring up when she feels like it): " + "; ".join(things))
+    if wd < 5:
+        greet = []
+        for back in range(1, 6):
+            p_ = d - dt.timedelta(days=back)
+            for g_ in sorted(glob.glob(f"{REPO}/archive/{p_:%Y/%m}/{p_.isoformat()}/script/*.txt")):
+                n_ = os.path.basename(g_)
+                if re.match(r"^(am|pm|eve)_0*1_", n_) or n_ in ("01_opening_world.txt", "07_walkhome.txt", "01_evening_hello.txt"):
+                    first_line = re.sub(r"\[[^\]]*\]", "", open(g_).read()).strip().split("\n")[0]
+                    greet.append(f"{p_:%a}: \"{' '.join(first_line.split()[:9])}\"")
+        if greet:
+            print("- Hellos she used lately (never the same twice running): " + " | ".join(greet[:6]))
 
     if wd >= 5:
-        print("- WEEKEND: one call at 7pm (her time), about 3,000 words, begins 'Konbanwa, Scott.', no challenge. Follow show/weekend_run.md.")
+        print("- WEEKEND: one call at 7pm (her time), usually 10 to 25 minutes, her own hello, no challenge unless it comes up. Follow show/weekend_run.md.")
         print(f"  Her day -> {EVENINGS[wd]}")
         print("  The run happens at about 4pm: she knows the real world only up to then; her own evening is hers to tell.")
     if wd < 5:
@@ -109,10 +118,10 @@ def main():
         print("- No fixed dates. Still read this month's section of show/mizuki/CALENDAR.md (seasons, festivals, FFXIV).")
 
     if wd < 5:
-        print("\nCHALLENGE")
-        print("- Rate: " + run("engine/challenges.py", "rate", d.isoformat()) + " | " + run("engine/challenges.py", "misses", d.isoformat()))
+        print("\nCHALLENGE (only when it comes up: bible section 8)")
         last = [r for r in rows(read("challenges.md")) if re.match(r"\d{4}-", r[0])][:5]
-        print("- Recent (don't repeat): " + "; ".join(r[1] for r in last))
+        if last:
+            print(f"- Last one: {last[0][1]} ({last[0][0]}, done: {last[0][2]}). Set one only if it fits today; a couple a week at most.")
 
     print("\nSCOTT")
     q = [r for r in rows(read("questions.md")) if re.match(r"\d{4}-", r[0])]
@@ -145,16 +154,12 @@ def main():
         print("- Things he taught her she hasn't followed up: " + "; ".join(r[1][:50] for r in taught[:3]))
 
     if wd >= 5:
-        print("\nWORD BUDGET: about 3,000 words: hello 500, world 600, games and films 800, a story 600, goodbye 500 (check_script.py DATE eve).")
+        print("\nLENGTH: usually 10 to 25 minutes (about 1,400 to 3,400 words), shorter when she's tired.")
         return
-    print("\nWORD BUDGETS (check_script.py reports the real counts)")
-    b = dict(BUDGET)
-    if wd == 4:
-        b["11"], b["08"], b["09"] = 1100, 350, 350
-    am, pm = sum(v for k, v in b.items() if k <= "06"), sum(v for k, v in b.items() if k > "06")
-    print("- " + ", ".join(f"{k}: {v}" for k, v in b.items()))
-    print(f"- Morning call about {am:,} words, afternoon call about {pm:,}. On a low-energy day (4 or less) about 15% shorter; she says she's tired.")
-
+    en_now = int(today_row[0][1]) if today_row else int(before[-1][1]) if before else 6
+    print("\nLENGTH (no budgets: bible section 5, Length)")
+    print(f"- Typical weekday: 30 to 50 minutes across both calls, the morning one usually longer. Morning call at most about 5,400 words (40 min), 4pm call at most about 3,400 (25 min).")
+    print(f"- Her energy is {en_now}: " + ("low, so short calls; she may just want to vent." if en_now <= 4 else "bright, so she may ramble and get carried away." if en_now >= 8 else "an ordinary day."))
 
 if __name__ == "__main__":
     main()

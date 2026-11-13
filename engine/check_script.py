@@ -1,15 +1,14 @@
 """Pre-recording check of an day's script: words the voice engine could say the wrong way, and name overuse.
 
-Usage: python3 engine/check_script.py YYYY-MM-DD am|pm|eve   (always give the call: am = parts 01 to 06,
-       pm = parts 07 to 11, eve = the weekend's 7pm call; with no call it checks every file as a weekday)
+Usage: python3 engine/check_script.py YYYY-MM-DD am|pm|eve   (the call to check: the files am_*, pm_* or eve_* in
+       the day's script folder; with no call it checks every file)
 For every word that's spelled the same but said two ways (live, read, close...) and that show/heteronyms.json didn't
 already settle from context, prints the sentence and what the engine will say by default. If that's the wrong one,
 write {word|respelling} in the script (for example {live|lyve}, {read|red}, {close|kloze}). Also counts "Scott".
 
-Then a realism check (bible sections 2, 3 and 5): the exact opening line, words per part against the budget, tags
-the voice engine would silently drop, how often she jokes and whether her little reactions repeat, whispered
-secrets, phrases that break the two-call time model, and words that must never be said. "CHECK" lines need a look;
-"FIX" lines must be fixed before committing.
+Then a realism check (bible sections 0, 3 and 5): show words that break her world, a hello repeated from a recent
+call, phrases that break the two-call timing, repeated little reactions, tags the voice would drop, and how long,
+how tagged and how jokey each call is. "CHECK" lines need a look; "FIX" lines must be fixed before committing.
 """
 import glob, os, re, sys
 
@@ -31,9 +30,8 @@ DEFAULTS = {  # what the engine says when nothing settles it
 WORDS = re.compile(r"\b(" + "|".join(k for k in DEFAULTS if k.isalpha()) + r")\b", re.I)
 
 
-OPENING = "Ohayou gozaimasu, Scott. I hope you are doing well today."
-BUDGET = {"01": 500, "02": 700, "03": 800, "04": 1000, "05": 800, "06": 600, "07": 350, "08": 450, "09": 450,
-          "10": 300, "11": 600}   # about 6,500 words, 45 to 55 minutes (Scott, 13 Nov 2026; was about 10,500)
+# Most words she can say before the call outlasts his walk (about 135 words a minute; bible section 5, Length).
+MAX_WORDS = {"am": 5400, "pm": 3400, "eve": 3400}
 NEVER = [(r"\b((this|my|our|the|a) podcast|(this|today's|yesterday's|tomorrow's|last|next|the|an) episode|the show|my show|our show|"
           r"this show|(this|next|last) segment|(my|dear) listeners?|on air|tune in|tuning in|Morning Briefing|"
           r"answer page|show notes|weekly review|your (scores?|ratings?)|microphone|I'm recording|I record(ed)? this|after I record)\b",
@@ -51,66 +49,79 @@ AFTERNOON_ONLY = [(r"\b(last night's|tonight's) raid (was|went)\b.*\btonight\b",
 REACT = re.compile(r"\[[^\]]*(?:giggl|laugh|chuckl)[^\]]*\]\s*([^.!?\[]{1,60}[.!?])", re.I)
 
 
-EVE_OPENING = "Konbanwa, Scott."
-EVE_BUDGET = {"01": 500, "02": 600, "03": 800, "04": 600, "05": 500}   # the weekend's one 7pm call, about 3,000 words
+def call_of(name):
+    """am, pm or eve for a script file: am_02_..., pm_01_..., eve_03_..., or the fixed names used before 16 Nov 2026."""
+    m = re.match(r"^(am|pm|eve)_", name)
+    if m:
+        return m.group(1)
+    if "_evening_" in name:
+        return "eve"
+    return "am" if name[:2] <= "06" else "pm"
 
 
-def realism(ep, files, weekday, eve=False):
+def first_words(path):
+    plain = re.sub(r"\[[^\]]*\]", " ", re.sub(r"\{([^|}]*)\|[^}]*\}", r"\1", open(path).read()))
+    return " ".join(plain.split()[:6]).lower().strip(" ,.!?…")
+
+
+def realism(ep, files, d):
+    """Guidance, not quotas (bible section 0, Loose, not scripted): FIX only what breaks her world or sounds broken;
+    CHECK what usually means she's sounding like a format."""
+    import datetime
     print("\n--- Realism check ---")
-    budget = dict(EVE_BUDGET if eve else BUDGET)
-    if weekday == 4 and not eve:
-        budget.update({"11": 1100, "08": 350, "09": 350})
-    total, jokes, laughs, whispers, spooky, reacts, issues = 0, 0, 0, 0, 0, {}, 0
+    words, jokes, laughs, tags, reacts, issues = {}, {}, {}, {}, {}, 0
     for f in files:
         name, raw = os.path.basename(f), open(f).read()
+        call = call_of(name)
         plain = re.sub(r"\[[^\]]*\]", " ", re.sub(r"\{([^|}]*)\|[^}]*\}", r"\1", raw))
-        words = len(plain.split())
-        total += words
-        want = budget.get(name[:2])
-        if want and not 0.7 * want <= words <= 1.35 * want:
-            print(f"CHECK {name}: {words} words (budget about {want})")
-        opening = EVE_OPENING if eve else OPENING
-        if name.startswith("01") and not raw.lstrip().startswith(opening):
-            issues += 1
-            print(f"FIX   {name}: must begin exactly: {opening}")
+        words[call] = words.get(call, 0) + len(plain.split())
         for m in re.finditer(r"\[([^\[\]{}]{1,60})\]", raw):
             if tts.kokoro_tags(m.group(0)) == "" and not re.search(r"emphasis|clear|yawn|hum\b", m.group(1), re.I):
                 print(f"CHECK {name}: the voice ignores the tag [{m.group(1)}]")
-        rules = NEVER + ([] if eve else MORNING_ONLY if name[:2] <= "06" else AFTERNOON_ONLY)
+        rules = NEVER + (MORNING_ONLY if call == "am" else AFTERNOON_ONLY if call == "pm" else [])
         for pat, why in rules:
             for m in re.finditer(pat, raw, re.I):
                 issues += 1
                 print(f"FIX   {name}: \"{m.group(0)}\" ({why})")
-        if name[:2] != "11" or weekday != 4:
+        if not (call == "pm" and datetime.date.fromisoformat(d).weekday() == 4):
             for m in re.finditer(r"\byour (son|little one|boy)\b", raw, re.I):
                 issues += 1
-                print(f"FIX   {name}: \"{m.group(0)}\" (his son is only mentioned in Friday's weekend ideas)")
-        jokes += len(re.findall(r"\[punch\]", raw, re.I))
-        laughs += len(re.findall(r"\[[^\]]*(?:giggl|laugh|chuckl)[^\]]*\]", raw, re.I))
-        whispers += len(re.findall(r"\[[^\]]*(?:secretive|whisper|hushed)[^\]]*\]\s*Okay", raw, re.I))
-        spooky += 1 if re.search(r"\[sweet, innocent\]", raw, re.I) else 0
+                print(f"FIX   {name}: \"{m.group(0)}\" (his son is only mentioned in Friday's weekend talk)")
+        jokes[call] = jokes.get(call, 0) + len(re.findall(r"\[punch\]", raw, re.I))
+        laughs[call] = laughs.get(call, 0) + len(re.findall(r"\[[^\]]*(?:giggl|laugh|chuckl)[^\]]*\]", raw, re.I))
+        tags[call] = tags.get(call, 0) + len(re.findall(r"\[[^\]]+\]", raw))
         for m in REACT.finditer(raw):
             key = re.sub(r"[^a-z ]", "", m.group(1).lower()).strip()
             reacts[key] = reacts.get(key, 0) + 1
-    if eve:
-        print(f"Words: {total:,} (the weekend call is about 3,000; 4 to 6 jokes).")
-    else:
-        print(f"Words: {total:,} (a whole day is 6,000 to 7,000; the morning call alone about 4,400, the afternoon call about 2,150).")
-    lo, hi, what = (4, 6, "the weekend call") if eve else (8, 12, "a whole weekday; each call has its share")
-    print(f"Jokes with a [punch]: {jokes} (bible section 3: about {lo} to {hi} for {what}, never the same shape twice in a row).")
-    print(f"Laugh tags: {laughs} (at most about half the jokes; a laugh she doesn't need is the one to cut).")
-    if jokes > hi + 2 or laughs > hi // 2 + 3:
-        print("CHECK too many jokes or laughs: it starts to sound like a routine instead of a person.")
+    for call, n in words.items():
+        mins = n / 135
+        print(f"{call}: {n:,} words, about {mins:.0f} minutes. Jokes with a [punch]: {jokes[call]}. Laugh cues: {laughs[call]}. "
+              f"Voice cues: {tags[call]} (one every {n // max(1, tags[call])} words).")
+        if n > MAX_WORDS[call]:
+            print(f"CHECK {call}: longer than his walk allows (about {MAX_WORDS[call]:,} words at most). Cut, unless she really got carried away for a reason.")
+        if tags[call] and n / tags[call] < 35:
+            print(f"CHECK {call}: a voice cue every {n // tags[call]} words is heavy. Write the speech first and tag only real mood changes (bible section 3).")
+        if jokes[call] > 10 or laughs[call] > 8:
+            print(f"CHECK {call}: a lot of set-up-and-punch jokes or laugh cues. Does she sound like a person, or a routine?")
     for key, n in sorted(reacts.items(), key=lambda kv: -kv[1]):
         if n > 1:
             issues += 1
             print(f"FIX   the reaction \"{key}\" is used {n} times (each little reaction once a day).")
-    apologies = sum(n for k, n in reacts.items() if k.startswith("sorry") or k.startswith("okay"))
-    if apologies > 3:
-        print(f"CHECK {apologies} reactions start with 'Sorry' or 'Okay': vary them.")
-    print(f"Whispered secrets: {whispers} (one to three, outside the news). Sweet-spooky moments: {spooky}.")
-    if whispers == 0:
-        print("CHECK no whispered secret in these parts (one to three across the day).")
+    # The same hello as a recent call sounds like a show (bible section 5, How a call goes).
+    day = datetime.date.fromisoformat(d)
+    mine = {call_of(os.path.basename(f)): f for f in sorted(files, reverse=True)}
+    firsts = {c: min((f for f in files if call_of(os.path.basename(f)) == c), key=os.path.basename) for c in mine}
+    for back in range(1, 6):
+        prev = day - datetime.timedelta(days=back)
+        for f in glob.glob(f"{tts.REPO}/archive/{prev:%Y/%m}/{prev.isoformat()}/script/*.txt"):
+            n = os.path.basename(f)
+            if not (re.match(r"^(am|pm|eve)_0*1_", n) or n in ("01_opening_world.txt", "07_walkhome.txt", "01_evening_hello.txt")):
+                continue
+            old = first_words(f)
+            for c, mf in firsts.items():
+                if old and first_words(mf) == old:
+                    issues += 1
+                    print(f"FIX   {os.path.basename(mf)}: starts exactly like the call of {prev.isoformat()} (\"{old}\"). Never the same hello twice running.")
     return issues
 
 
@@ -118,11 +129,9 @@ def main():
     d = sys.argv[1]
     ep = f"{tts.REPO}/archive/{d[:4]}/{d[5:7]}/{d}"
     files = sorted(glob.glob(f"{ep}/script/*.txt")) + sorted(glob.glob(f"{ep}/headlines/*.txt"))
-    half = sys.argv[2] if len(sys.argv) > 2 else ""   # "am" = parts 01 to 06, "pm" = parts 07 to 11, "eve" = the weekend call
-    if half == "eve":
-        files = [f for f in files if "_evening_" in os.path.basename(f)]
-    elif half:
-        files = [f for f in files if (os.path.basename(f)[:2] <= "06") == (half == "am") and "_evening_" not in f]
+    half = sys.argv[2] if len(sys.argv) > 2 else ""   # am, pm or eve: which call to check
+    if half:
+        files = [f for f in files if call_of(os.path.basename(f)) == half]
     if not files:
         print(f"FIX   no script files found for {d} {half or '(whole day)'}: nothing to check.")
         sys.exit(1)
@@ -140,11 +149,10 @@ def main():
                     continue
                 flagged += 1
                 print(f"{os.path.basename(f)}: \"{w}\" -> {DEFAULTS[w]}\n    {sent.strip()[:200]}")
-    import datetime
-    issues = realism(ep, [f for f in files if "/script/" in f], datetime.date.fromisoformat(d).weekday(), half == "eve")
+    issues = realism(ep, [f for f in files if "/script/" in f], d)
     print(f"{issues} thing(s) to FIX." if issues else "Nothing that must be fixed.")
     print(f"\n{flagged} word(s) to check. \"Scott\" used {scott} times across the day's calls "
-          f"(rule: greeting, maybe the goodbye, and at most two or three others).")
+          f"(where it really lands; a handful a day at most).")
 
 
 if __name__ == "__main__":

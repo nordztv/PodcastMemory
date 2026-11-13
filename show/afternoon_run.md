@@ -1,6 +1,6 @@
 # Afternoon run procedure: the walk-home call
 
-Followed by the scheduled task at about 1:45pm Sydney time every weekday (Scott's choice, 13 Nov 2026). It makes **today's afternoon call** (parts 07 to 11), the one Mizuki makes at about 4pm from the shop's quiet hour as Scott walks from Hyde Park to Green Square. It exists so that by 4pm she really knows the day: lunchtime's news, the real weather, his train home, and what he tapped or wrote this morning. `show/daily_run.md` (the evening run) made this morning's call and has the full detail for every shared step; this file says what's different. Work unattended: never ask questions, make sensible choices, note assumptions in the delivery message.
+Followed by the scheduled task at about 1:45pm Sydney time every weekday (Scott's choice, 13 Nov 2026). It makes **today's afternoon call**, the one Mizuki makes at about 4pm from the shop's quiet hour as Scott walks from Hyde Park to Green Square. It exists so that by 4pm she really knows the day: lunchtime's news, the real weather, his train home, and what he tapped or wrote this morning. `show/daily_run.md` (the evening run) made this morning's call and has the full detail for every shared step; this file says what's different. Work unattended: never ask questions, make sensible choices, note assumptions in the delivery message.
 
 **Time budget (Sydney):** starts about 1:45pm. Script pushed by about 2:40pm, audio delivered by about 3:30pm. **Hard deadline 3:50pm:** deliver whatever is built (step 6b). Check the time at the start and regularly (`TZ=Australia/Sydney date`).
 
@@ -10,7 +10,7 @@ Let `DATE` = **today's** Sydney date, `REPO` = the clone, `EP` = `REPO/archive/Y
 
 - If `EP/delivered_pm.txt` or `EP/delivered.txt` exists: stop, silently.
 - If it's Saturday or Sunday: stop, silently (weekends have their own run).
-- If `EP/script/01_opening_world.txt` doesn't exist (no morning call was made today): still make the afternoon call. Roll her day yourself (`show/daily_run.md` step 2c), and have her say in a line that this morning got away from her.
+- If there are no `EP/script/am_*` files (no morning call was made today): still make the afternoon call. Roll her day yourself (`show/daily_run.md` step 2c), and have her say in a line that this morning got away from her.
 
 ## 1. Set up
 
@@ -18,7 +18,7 @@ Let `DATE` = **today's** Sydney date, `REPO` = the clone, `EP` = `REPO/archive/Y
 
 ## 2. Read
 
-In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the evening run planned it: follow it, add to it, never contradict it), **this morning's scripts** `EP/script/01` to `06` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/calls_memory.md`, `memory/recent_calls.md`, and the afternoon parts (07 to 11) of the last 5 days of calls, plus any weekend calls among them (the calls of 12 and 13 Nov 2026 were made under older rules: avoid repeating their stories, never copy their framing). Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
+In full: `show/bible.md`, `show/host.md`, `show/format_tuning.md`, **`EP/day_plan.md`** (her day as the evening run planned it: follow it, add to it, never contradict it), **this morning's call** `EP/script/am_*` and `EP/notes.md` (what she already told him today: don't repeat a story, do pick up anything she promised to come back to "at four"), `show/mizuki/DIGEST.md`, `memory/mizuki.md`, `memory/mizuki_life.md`, `memory/mizuki_home.md`, `memory/about_scott.md`, `memory/open_threads.md`, `memory/callbacks.md`, `memory/questions.md`, `memory/challenges.md`, `memory/storylines.md`, `memory/deep_dives_covered.md`, `show/topic_pools.md`, `memory/movie_log.md`, `memory/memories_told.md`, `memory/voice_notes.md`, `memory/calls_memory.md`, `memory/recent_calls.md`, and the afternoon calls (`pm_*`, or `07` to `11` before 16 Nov) of the last 5 days, plus any weekend calls among them (the calls of 12 and 13 Nov 2026 were made under older rules: avoid repeating their stories, never copy their framing). Open anything else `show/daily_run.md` step 2 lists when today's call needs it.
 
 ## 3. What Scott sent today
 
@@ -34,17 +34,22 @@ Nothing there means nothing assumed. Never invent what he said.
 - **Weather now:** the Bureau's current Sydney observations and this afternoon's and evening's forecast (and the radar or warnings if storms are about). She can now say what it's actually doing.
 - **His way home:** Sydney Trains and T8 status now (transportnsw.info); mention only real trouble.
 - **Open threads** due today (preflight lists them): keep promises, re-check facts.
-- **Deep dives:** choose and research the effects and director topics (bible section 7) and the workshop job.
-- **Fridays:** weekend toddler-friendly Sydney activities from real current listings (weather in mind), her own weekend plan at real prices, and the project check-in (`show/daily_run.md` step 4).
+- **Anything she wants to get into:** if something today prompted a story or a how-it-was-made (bible section 5, Stories), research it properly.
+- **Fridays:** what's really on in Sydney this weekend that he might like (toddler-friendly, weather in mind), her own weekend plan at real prices, and anything new on a project of his he's mentioned lately.
 
 ## 5. Write the call
 
-Write `07_walkhome.txt`, `08_effects.txt`, `09_director.txt`, `10_workshop.txt`, `11_chat_outro.txt` in `EP/script/` (about 2,150 words; Fridays about 2,450; about 15 per cent shorter when her energy is 4 or less), following bible sections 2, 3, 5 and 6. It's a second call, not a continuation: she rings, says where she is, and has maybe twenty minutes before the evening crowd. Today's lunch rush comes from `EP/day_plan.md`, which also says which of the day's quotas the morning call used (the memory, a secret, callbacks, Japanese words, little reactions) and which of Scott's answers or questions are waiting for this call. On the first weekday of a month this call also holds the monthly check-in (bible section 5: how his interests shifted last month, and what he'd like more or less of). She asks how the challenge went and owns up about hers, asks one or two questions (never repeating `memory/questions.md`), reacts to his answers, and says goodbye for his evening (Friday: the weekend send-off with her photo of the week, weekend ideas, defending the picks, the project check-in, and "what are you up to next week?"; the weekly review is behind the scenes and she never mentions it).
+It's a second call, not a continuation: she rings from the shop's quiet hour, says where she is, and has maybe twenty minutes before the evening crowd. Before writing, decide in a few lines of notes what's on her mind now: how today's shift went (from `EP/day_plan.md`), how he is (what he tapped or texted today), anything she left for four o'clock this morning (in `EP/day_plan.md`; she picks it up, or doesn't get to it and says so), anything big in the news since last night, and what she's doing tonight. Then write it the way she'd say it (bible sections 0, 2, 3 and 5; `show/host.md`, How she actually talks), with her own hello (different from this morning's) and a goodbye when he's nearly home or someone needs her. Usually 10 to 20 minutes (about 1,400 to 2,700 words); a bad day can be a short vent; never more than about 25 minutes. Don't repeat what she said this morning (`EP/script/am_*`).
+- Things that may come up, none required: the challenge if one was set (how he went, and honestly how she went), a question if she's curious, a story or how-something-was-made if something prompted it, her photo, a message from her people. `EP/day_plan.md` says what the morning call already used.
+- **Friday:** this call usually drifts into weekend talk (her plans at real prices, what he's up to, maybe an idea or two for his weekend from real current Sydney listings, weather in mind, "check before you go"; maybe his game or a project if he's mentioned it lately), and ends with "I'll ring you tomorrow evening". The weekly review is behind the scenes and she never mentions it.
+- **The first weekday of a month:** she might ask how he's going in a bigger way, or notice he's gone quiet on something.
+
+**Files.** Write the call as plain text files in `EP/script/`, one per stretch of talk, named `pm_01_<subject>.txt`, `pm_02_<subject>.txt` and so on, where `<subject>` is two to four lowercase words joined by hyphens saying what that stretch is about (`pm_01_rough-night-and-the-possums.txt`, `pm_02_the-housing-numbers.txt`). Start a new file wherever the talk moves to something new; usually three to eight files. The names become the chapter titles in his player and never appear in what she says.
 
 Then:
 - `python3 engine/check_script.py DATE pm`: fix every FIX line, look at every CHECK line.
 - Add this call's parts to `EP/shownotes.json`, `EP/rating_items.json` and `EP/notes.md` (keep the morning's entries), and add its sources.
-- Answer page: `get` `days/DATE`, then `update` it (pinned with `if_version`) with the full `sections` list (morning parts plus these five) and the full `questions` list (the morning's question first, so its number doesn't change).
+- His page: `get` `days/DATE`, then `update` it (pinned with `if_version`) with the full `sections` list (the morning's sections, then one per `pm_` file, as in `show/daily_run.md` step 5, His page) and the full `questions` list (the morning's first, so their numbers don't change), and `challenge` if she set one now.
 - `memory/open_threads.md`: new promises and dated facts from this call; close the ones dealt with.
 - Commit and push ("Calls DATE: afternoon script").
 
@@ -56,7 +61,7 @@ One short SendUserMessage: what's in the call in two or three lines, the questio
 
 ## 6b. If the voice engine is blocked, or it's 3:50pm
 
-Try setup once more, then stop trying. Join the five parts into `EP/Mizuki_DATE_walk_home_call_script.txt` (tags removed), commit it, send it with SendUserFile, and say plainly at the top of the message that the walk-home call couldn't be recorded today (his Mac can record it: `engine/mac/README.md`). If rendering is only partly done at 3:50pm, join and send the parts that are finished. Either way create `EP/delivered_pm.txt` (the time, and "script only, not voiced" if no audio went out) and commit it, so tomorrow's morning call knows she rang.
+Try setup once more, then stop trying. Join the `pm_` parts into `EP/Mizuki_DATE_walk_home_call_script.txt` (tags removed), commit it, send it with SendUserFile, and say plainly at the top of the message that the walk-home call couldn't be recorded today (his Mac can record it: `engine/mac/README.md`). If rendering is only partly done at 3:50pm, join and send the parts that are finished. Either way create `EP/delivered_pm.txt` (the time, and "script only, not voiced" if no audio went out) and commit it, so tomorrow's morning call knows she rang.
 
 ## 7. Friday: weekly review
 

@@ -4,9 +4,11 @@
 # Full day's calls: reads archive/YYYY/MM/YYYY-MM-DD/script/NN_*.txt in order, renders two sections at a time,
 # joins them with 0.7 s gaps and writes ~/podcast/out/Mizuki_YYYY-MM-DD.mp3 (96 kbps mono, light warm "Happy 1" EQ),
 # with a chapter marker per section (engine/chapters.py).
-# "am": only parts 01 to 06 (the morning call)   -> ~/podcast/out/Mizuki_YYYY-MM-DD_morning_call.mp3
-# "eve": the weekend's single 7pm call (01_evening_* to 05_evening_*) -> ~/podcast/out/Mizuki_YYYY-MM-DD_evening_call.mp3
-# "pm": only parts 07 to 11 (the walk-home call) -> ~/podcast/out/Mizuki_YYYY-MM-DD_walk_home_call.mp3
+# Script files are named by call (13 Nov 2026: free subjects, any number of parts):
+#   am_01_<subject>.txt, am_02_... the morning call   -> ~/podcast/out/Mizuki_YYYY-MM-DD_morning_call.mp3
+#   pm_01_<subject>.txt, ...       the 4pm call       -> ~/podcast/out/Mizuki_YYYY-MM-DD_walk_home_call.mp3
+#   eve_01_<subject>.txt, ...      the weekend's 7pm call -> ~/podcast/out/Mizuki_YYYY-MM-DD_evening_call.mp3
+# Days before 16 Nov 2026 used fixed names (01_opening_world ... 11_chat_outro, 01_evening_*); those still build.
 # "headlines": the five-minute edition from archive/.../headlines/*.txt -> ~/podcast/out/Mizuki_YYYY-MM-DD_headlines.mp3
 set -e
 D="$1"; [ -n "$D" ] || { echo "usage: build_episode.sh YYYY-MM-DD [am|pm|eve]"; exit 1; }
@@ -20,9 +22,9 @@ else
   SRC="$REPO/archive/$Y/$M/$D/script"; WORK="$HOME/podcast/render/$D"; MP3="$OUT/Mizuki_$D.mp3"
 fi
 PARTS='*'
-if [ "$MODE" = "am" ]; then PARTS='0[1-6]_*'; WORK="$HOME/podcast/render/${D}_am"; MP3="$OUT/Mizuki_${D}_morning_call.mp3"; fi
-if [ "$MODE" = "eve" ]; then PARTS='0[1-5]_evening_*'; WORK="$HOME/podcast/render/${D}_eve"; MP3="$OUT/Mizuki_${D}_evening_call.mp3"; fi
-if [ "$MODE" = "pm" ]; then PARTS='0[7-9]_* 1[0-9]_*'; WORK="$HOME/podcast/render/${D}_pm"; MP3="$OUT/Mizuki_${D}_walk_home_call.mp3"; fi
+if [ "$MODE" = "am" ]; then PARTS='am_*'; ls "$SRC"/am_*.txt >/dev/null 2>&1 || PARTS='0[1-6]_*'; WORK="$HOME/podcast/render/${D}_am"; MP3="$OUT/Mizuki_${D}_morning_call.mp3"; fi
+if [ "$MODE" = "eve" ]; then PARTS='eve_*'; ls "$SRC"/eve_*.txt >/dev/null 2>&1 || PARTS='0[1-5]_evening_*'; WORK="$HOME/podcast/render/${D}_eve"; MP3="$OUT/Mizuki_${D}_evening_call.mp3"; fi
+if [ "$MODE" = "pm" ]; then PARTS='pm_*'; ls "$SRC"/pm_*.txt >/dev/null 2>&1 || PARTS='0[7-9]_* 1[0-9]_*'; WORK="$HOME/podcast/render/${D}_pm"; MP3="$OUT/Mizuki_${D}_walk_home_call.mp3"; fi
 mkdir -p "$WORK" "$OUT"
 # set -f while $PARTS is split into patterns, so a pattern is matched in $SRC and never in the current directory
 files() { set -f; for g in $PARTS; do set +f; ls "$SRC"/$g.txt 2>/dev/null; set -f; done; set +f; }

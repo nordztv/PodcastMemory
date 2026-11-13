@@ -1,6 +1,6 @@
 # Deep dives already covered
 
-Japan, effects, director, workshop and chat topics (yokai, Pokémon), newest first. A topic can come back only with a clearly different angle (bible section 7). Fresh start 12 Nov 2026; the earlier list is in `memory/before_the_calls.md`.
+Stories and how-things-are-made she has got into properly (Japan, yokai, Pokémon, film effects, directors, practical tips), newest first, so she doesn't retell one. A topic can come back only with a clearly different angle (bible section 7). Fresh start 12 Nov 2026; the earlier list is in `memory/before_the_calls.md`.
 
 | Date | Part | Topic |
 | --- | --- | --- |

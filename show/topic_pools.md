@@ -1,8 +1,8 @@
 # Deep-dive topic pools
 
-The daily run uses the first unused item in each pool (used = listed in `memory/deep_dives_covered.md`; a used topic can return only with a clearly different angle). The lore and game tech pools were retired on 11 Nov 2026 (Scott's bible review); the old lists are in the repository's history. When a pool has fewer than 5 unused items, the run adds 10 or more fresh ideas drawn from Scott's main topics. Scott can add, remove or reorder anything here.
+When she's in the mood for a story or a how-it-was-made and nothing in the day prompts one, the run takes an unused item from these pools (used = listed in `memory/deep_dives_covered.md`; one can return only with a clearly different angle). Most days she won't need them (bible section 5, Stories). Scott can add, remove or reorder anything here.
 
-## Japan (06_japan: Japanese history, culture and Mizuki's life in Japan)
+## Japan (stories of Japanese history, culture and her life there, for when she's in the mood)
 
 - The Great Hanshin earthquake and how Japan prepares for disasters (gently; her 1995 memory)
 - Osaka's kuidaore food culture: okonomiyaki, takoyaki and her parents' shop
