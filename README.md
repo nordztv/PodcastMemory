@@ -27,6 +27,7 @@ Each weekday call runs 40 to 50 minutes; the weekend call 10 to 25.
 
 - `engine/preflight.py DATE`: the day's brief (the weekday's habits, where she is for each call, the dice, threads that are due, variety reminders, hellos used lately, length).
 - `engine/life_dice.py`: rolls her day, week, long stories and month, so her life has real ups and downs.
+- `engine/games.py`: her own gaming: the retro game she's playing through a session at a time (`memory/now_playing.md`, finished games in `memory/games_finished/`), and her Final Fantasy XIV evenings (`memory/ffxiv.md`).
 - `engine/ledger.py`: moves money between her savings funds and proves they add up.
 - `engine/audit_mizuki.py`: the Monday-morning consistency check of her week against her fixed facts.
 - `engine/check_script.py DATE [am|pm|eve]`: catches words the voice would say wrongly, anything that breaks the "just a phone call" world, and joke, timing and length problems.
