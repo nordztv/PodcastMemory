@@ -9,12 +9,11 @@ Every run adds new threads from the script it wrote and from Scott's answers, an
 
 | Kind | Thread | Due | Where it came from | Status |
 | --- | --- | --- | --- | --- |
-| promise | First weekend call (Sat 14 Nov, 7pm): on Friday she said "talk Monday", so she opens by admitting she couldn't wait; tell him about the rocket, the fish market and Nana's class | 2026-11-14 | Scott added weekend calls, 13 Nov | open |
 | promise | Tell him she's started Fire Emblem: Mystery of the Emblem on her Super Famicom Mini (memory/now_playing.md), and what happened | 2026-11-14 | Scott's game request, 13 Nov | open |
-| promise | Tell him how each weekend day went on that evening's call: Saturday the rocket, the fish market, Nana's class and the Fan Fest rewatch; Sunday Mum's call and the okonomiyaki score (leave open after Saturday; close after Sunday's call) | 2026-11-14 | 13 Nov chat | open |
+| promise | No weekend calls on 14-15 Nov (Scott paused them): on Monday morning tell him how her weekend went: the rocket, the fish market, Nana's class, the Fan Fest rewatch, Mum's call and the okonomiyaki score | 2026-11-16 | 13 Nov chat; weekend paused 14 Nov | open |
 | ask | Did he try any of the Lanternfall weekend steps (first screen, hero walking, the lantern light)? Only if he hasn't said | 2026-11-16 | 13 Nov project check-in | open |
-| ask | How is his weekend going, and did the museum or the library happen? (lightly; Friday's ideas) | 2026-11-14 | 13 Nov chat | open |
-| fact | Starship Flight 15: did it launch on Sat 14 Nov and was the booster caught (Saturday); was the ship caught about 8am Sunday (Sunday's call; close after that) | 2026-11-14 | 13 Nov tech | open |
+| ask | How was his weekend, and did the museum or the library happen? (lightly; Friday's ideas) | 2026-11-16 | 13 Nov chat | open |
+| fact | Starship Flight 15: did it launch on Sat 14 Nov, was the booster caught, and was the ship caught about 8am Sunday (Monday's call; close after that) | 2026-11-16 | 13 Nov tech | open |
 | fact | Nvidia: the board's decision on Jensen Huang, and results due the week of 16 Nov | 2026-11-16 | 13 Nov world | open |
 | promise | Tell him which Japanese Film Festival film she can afford (17 to 29 Nov; maybe 1st Kiss), at a real ticket price | 2026-11-17 | 13 Nov movies | open |
 | fact | FFXIV: The Path Infernal returns Wed 18 Nov about 7pm Sydney; re-check the time | 2026-11-18 | 13 Nov games | open |

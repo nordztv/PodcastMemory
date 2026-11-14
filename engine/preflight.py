@@ -53,8 +53,16 @@ def main():
     print(f"=== Brief for {d.strftime('%A %d %B %Y')} ===\n")
 
     print("TODAY (guidance, not a checklist: bible section 0, Loose, not scripted)")
+    weekend_called = True
     if wd == 0:
-        print("- Monday: she spoke to him on Sunday evening, so there's no weekend to retell; news since then if any.")
+        sat, sun = d - dt.timedelta(days=2), d - dt.timedelta(days=1)
+        weekend_called = any(os.path.exists(f"{REPO}/archive/{x:%Y/%m}/{x.isoformat()}/delivered.txt") for x in (sat, sun))
+        if weekend_called:
+            print("- Monday: she spoke to him on Sunday evening, so there's no weekend to retell; news since then if any.")
+        else:
+            print(f"- Monday, NO WEEKEND CALLS ({sat:%d} and {sun:%d} %s): she last spoke to him on Friday at 4pm. Live her Saturday and Sunday first "
+                  "(life_dice.py and games.py roll for each day, energy rows, timeline lines), then this call catches him up on her weekend "
+                  "and asks about his. News since Friday afternoon." % f"{sun:%b}")
     if wd == 4:
         print("- Friday: the 4pm call usually drifts into weekend talk (her plans, his, maybe an idea or two for him); the weekly review is behind the scenes.")
     # The first WEEKDAY of a month (weekend calls don't count): the 3am morning run does the rollover.
@@ -91,7 +99,10 @@ def main():
     if wd < 5:
         print("\nTHE TWO CALLS (bible section 5; weekdays only)")
         print(f"- Morning call (about 8am {d.strftime('%A')}): she's at home in Pyrmont before work (leaves 10:10): breakfast, tea, the balcony.")
-        last = "Sunday night, after their 7pm call (she already told him about her Sunday); her week ahead." if wd == 0 else EVENINGS[prev.weekday()]
+        if wd == 0 and not weekend_called:
+            last = "her whole weekend (no calls since Friday 4pm), Sunday night, her week ahead."
+        else:
+            last = "Sunday night, after their 7pm call (she already told him about her Sunday); her week ahead." if wd == 0 else EVENINGS[prev.weekday()]
         print(f"  What she can talk about: last night -> {last}")
         print(f"- Afternoon call (about 4pm {d.strftime('%A')}): the shop's quiet hour; she steps out the back or walks to the bank.")
         print("  What she can talk about: this morning's walk over Pyrmont Bridge and today's lunch rush. Tonight hasn't happened yet.")
